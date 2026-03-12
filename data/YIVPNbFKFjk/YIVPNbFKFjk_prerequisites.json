@@ -1,0 +1,112 @@
+{
+  "dependencies": [
+    {
+      "from_concept": "concept_1",
+      "to_concept": "concept_2",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture begins with the invention of the telescope and its magnification power, indicating that understanding the telescope is necessary before discussing its magnification."
+    },
+    {
+      "from_concept": "concept_2",
+      "to_concept": "concept_3",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture transitions from discussing magnification power to its application in observing Saturn's rings, implying that understanding magnification is necessary before discussing Saturn's rings."
+    },
+    {
+      "from_concept": "concept_3",
+      "to_concept": "concept_4",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The debate about Saturn's rings leads to the use of mathematical equations to solve the problem, indicating that understanding the debate is necessary before discussing the equations."
+    },
+    {
+      "from_concept": "concept_4",
+      "to_concept": "concept_5",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture explains that mathematics is used within physics to make predictions, suggesting that understanding mathematical equations is necessary before discussing physics."
+    },
+    {
+      "from_concept": "concept_5",
+      "to_concept": "concept_6",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "Physics is introduced as a broad field, and mechanics is presented as a specific branch, indicating that understanding physics is necessary before discussing mechanics."
+    },
+    {
+      "from_concept": "concept_6",
+      "to_concept": "concept_7",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "Mechanics involves understanding the motion of bodies, which includes acceleration, indicating that understanding mechanics is necessary before discussing acceleration."
+    },
+    {
+      "from_concept": "concept_7",
+      "to_concept": "concept_8",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "Acceleration is described as a measure of how quickly velocity changes, suggesting that understanding acceleration is necessary before discussing velocity."
+    },
+    {
+      "from_concept": "concept_8",
+      "to_concept": "concept_9",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "Velocity is used to predict future positions, indicating that understanding velocity is necessary before discussing prediction."
+    }
+  ],
+  "learning_path": [
+    "concept_1",
+    "concept_2",
+    "concept_3",
+    "concept_4",
+    "concept_5",
+    "concept_6",
+    "concept_7",
+    "concept_8",
+    "concept_9"
+  ],
+  "concept_clusters": [
+    {
+      "cluster_name": "Observational Tools and Techniques",
+      "concept_ids": [
+        "concept_1",
+        "concept_2"
+      ],
+      "description": "These concepts are grouped together as they relate to the tools and techniques used for observing distant objects."
+    },
+    {
+      "cluster_name": "Scientific Inquiry and Problem Solving",
+      "concept_ids": [
+        "concept_3",
+        "concept_4"
+      ],
+      "description": "These concepts are grouped together as they relate to the scientific debate and the use of mathematical equations to solve problems."
+    },
+    {
+      "cluster_name": "Physics and Mechanics",
+      "concept_ids": [
+        "concept_5",
+        "concept_6",
+        "concept_7",
+        "concept_8"
+      ],
+      "description": "These concepts are grouped together as they relate to the study of physics, mechanics, and the motion of bodies."
+    },
+    {
+      "cluster_name": "Prediction and Analysis",
+      "concept_ids": [
+        "concept_9"
+      ],
+      "description": "This concept is grouped separately as it relates to the ability to predict future events based on current knowledge."
+    }
+  ],
+  "root_concepts": [
+    "concept_1"
+  ],
+  "leaf_concepts": [
+    "concept_9"
+  ]
+}

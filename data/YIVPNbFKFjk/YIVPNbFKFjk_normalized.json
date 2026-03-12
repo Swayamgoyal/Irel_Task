@@ -1,0 +1,165 @@
+{
+  "original_language": "pa-IN",
+  "normalized_text": "Hello everyone, today I will tell you a scientific story, and you won't find it boring. Before I start, let me tell you that the first telescope was invented by Galileo in the 16th century. The telescope called the 'obvious' had less magnification power than later models. Generally, telescopes are used for observing distant objects, but when it comes to specialized observations at large distances, magnification power becomes crucial.\n\n[TOPIC_SHIFT]\n\nIn the 18th century, a debate arose among scientists about the rings of Saturn. They wondered whether the rings were made of stone, water, or ice. There were three possibilities: they could be made of stone, water, or ice. If someone claimed the rings were made of stone, they would need to explain how the stone got there and how they knew. No one could provide such evidence. Similarly, if someone claimed the rings were not made of ice, they would need to explain why. If the rings were made of ice, there should be some solid proof. With such evidence, we could explain how the rings were formed. This was a significant problem. Today, we can easily discover such things using Google, but back then, Google didn't exist, and the level of technology was much lower. If I were to imagine myself in that era, I would say we needed to create something that could take us safely to Saturn, collect samples, and determine whether they were made of ice, stone, or water. This would require building rockets, not just telescopes, which was not feasible at the time.\n\n[TOPIC_SHIFT]\n\nThis conundrum was solved within 50-60 years. How did it happen? Consider a planet so far away, with rings whose composition we wanted to understand. How did they think about it? There must have been a method. What happened? An individual stood up, took a bundle of papers, and lit candles for light. He took ink and a pen and went into a room. He spent one or two months there and came out saying that Saturn's rings were not made of ice, stone, water, or any other substance, but of stones. People asked how he knew. He said, 'Look, I have proof.' What was his proof? It was a few pages with mathematical equations written on them. He had written something. What was it? They were mathematical equations. Imagine having the power to determine the composition of rings on a planet thousands of kilometers away using mathematics. What an incredible feat! If you pursue science, you might achieve something similar.\n\n\nYou are learning this magical power. Because learners are curious, I want to tell you about the tool that was used. The person who developed it was James Clerk Maxwell. He was a great scientist and mathematician. So, mathematics is a tool that allows us to make future predictions. Thus, mathematics is a magical tool that, if used correctly, can lead to great discoveries. From here, we begin with physics. In reality, they used mathematics to study nature. This helped us understand what is happening around us and that the surroundings extend for thousands of kilometers. So, if I define it, it is physics. Physics can be defined by the great scientist and professor Richard Feynman. He defined physics in such a way: imagine two very intelligent chess players, both brilliant at chess, playing a game. And there is someone observing them, who is also very intelligent and has a sharp mind. He observes them closely and makes detailed observations for a long time, writing them down. He writes and writes about what he observes. He plays chess without caring about them. After a couple of weeks, if we ask the chess expert what he has learned, he can tell us which moves were made by which pieces, such as the bishop, the rook, the queen, or the king. Physics is somewhat similar; we need to make detailed observations. Based on these observations, we write theories about how nature will behave. It might not happen, but it could. However, it is not accepted until we have experimental evidence. When the experiment confirms it, we accept it as true. Otherwise, we reject the theory. Chess moves are easy to learn, but becoming a good chess player is difficult. Because the combinations used require practice and skills. So, physics is like chess. Understand its laws and rules. They are easy to understand individually, but when applied collectively, they become complex. Therefore, we will divide physics into different streams. From plus one to plus two, over two years, we will study the wide variety of nature around us. For example, one topic will be mechanics. In mechanics, we understand the motion of bodies around us, how bodies move. Specifically, mechanics also gives us power.\n\n[TOPIC_SHIFT] From the general concept of physics to the specific topic of mechanics.\n\nPredicting the future involves understanding the motion of particles. If I know the acceleration of a particle at a particular time, and I know its velocity, I can predict its future position. This is the essence of physics, which allows us to make predictions about the future or understand what is happening around us. Physics is the science of nature, explaining how nature operates. Therefore, I will regularly bring physics videos to help you understand these concepts. If you are interested in Plus One, please subscribe to my channel. Share it with others who might need it to understand physics. Thank you, and look forward to more videos. Stay tuned. Thank you.\n\n[TOPIC_SHIFT] The transition here is from explaining the concept of predicting future motion to discussing the role of physics in understanding nature and making predictions.\n\n[Technical terms and concepts are discussed in the context of physics, focusing on motion, acceleration, velocity, and prediction.]",
+  "technical_terms_mapped": {
+    "ਟੈਲੀਸਕੋਪ": "telescope",
+    "ਮੈਗਨੀਫਿਕੇਸ਼ਨ ਪਾਵਰ": "magnification power",
+    "ਸਪੈਸ਼ਲ ਪੇਸ": "specialized observations",
+    "ਲਾਰਜ ਡਿਸਟੈਂਸਸ": "large distances",
+    "ਸਟੋਨ": "stone",
+    "ਵਾਟਰ": "water",
+    "ਆਈਸ": "ice",
+    "ਪ੍ਰੋਬਲਮ": "problem",
+    "ਗੂਗਲ": "Google",
+    "ਟੈਕਨੋਲੋਜੀ": "technology",
+    "ਰੋਕੇਟ": "rocket",
+    "ਪਲੈਨੇਟ": "planet",
+    "ਰਿੰਗਸ": "rings",
+    "ਮੈਥਡ": "method",
+    "ਪੇਪਰਸ": "papers",
+    "ਕੈਂਡਲਸ": "candles",
+    "ਇੰਕ": "ink",
+    "ਪੈਨ": "pen",
+    "ਮੈਥੇਮੈਟਿਕਸ": "mathematics",
+    "ਇਕੁਏਸ਼ਨ": "equations",
+    "ਫਿਜ਼ਿਕਸ": "physics",
+    "ਮੈਕੈਨਿਕਸ": "mechanics",
+    "ਪਲੇਅਰ": "player",
+    "ਚੈੱਸ": "chess",
+    "ਓਬਜ਼ਰਵੇਸ਼ਨ": "observation",
+    "ਥਿਊਰੀਜ਼": "theories",
+    "ਨੇਚਰ": "nature",
+    "ਐਕਸਪੈਰੀਮੈਂਟਲੀ": "experimentally",
+    "ਐਵੀਡੈਂਸ": "evidence",
+    "ਕਲੈਕਟਿਵਲੀ": "collectively",
+    "ਵਾਈਡ ਵਰਾਇਟੀ ਆਫ ਨੇਚਰ": "wide variety of nature",
+    "ਫਿਊਚਰ ਪ੍ਰਡਿਕਟ ਕਰਨ ਦੀ": "predicting the future",
+    "ਪਰਟੀਕੁਲਰ ਟਾਈਮ": "particular time",
+    "ਐਕਸਲਰੇਸ਼ਨ": "acceleration",
+    "ਪਾਰਟੀਕਲ": "particle",
+    "ਵਿਲੋਸਿਟੀ": "velocity",
+    "ਫੋਰਸ": "force",
+    "ਅਪਲਾਈਡ": "applied",
+    "ਪ੍ਰਡਿਕਸ਼ਨਸ": "predictions",
+    "ਸਮਰਾਈਜ਼": "summarize",
+    "ਪਾਵਰ": "power",
+    "ਸਾਇੰਸ": "science",
+    "ਵੀਡੀਓ": "videos",
+    "ਪਲੱਸ ਵਨ": "Plus One"
+  },
+  "topic_shifts": [
+    "Introduction to the history of telescopes and their magnification power.",
+    "Discussion of the 18th-century debate on the composition of Saturn's rings.",
+    "Explanation of how the problem was solved using mathematical equations.",
+    "From the general concept of physics to the specific topic of mechanics.",
+    "Explaining the concept of predicting future motion using physics principles.",
+    "Transitioning to the role of physics in understanding nature and making predictions."
+  ],
+  "chunks": [
+    {
+      "normalized_text": "Hello everyone, today I will tell you a scientific story, and you won't find it boring. Before I start, let me tell you that the first telescope was invented by Galileo in the 16th century. The telescope called the 'obvious' had less magnification power than later models. Generally, telescopes are used for observing distant objects, but when it comes to specialized observations at large distances, magnification power becomes crucial.\n\n[TOPIC_SHIFT]\n\nIn the 18th century, a debate arose among scientists about the rings of Saturn. They wondered whether the rings were made of stone, water, or ice. There were three possibilities: they could be made of stone, water, or ice. If someone claimed the rings were made of stone, they would need to explain how the stone got there and how they knew. No one could provide such evidence. Similarly, if someone claimed the rings were not made of ice, they would need to explain why. If the rings were made of ice, there should be some solid proof. With such evidence, we could explain how the rings were formed. This was a significant problem. Today, we can easily discover such things using Google, but back then, Google didn't exist, and the level of technology was much lower. If I were to imagine myself in that era, I would say we needed to create something that could take us safely to Saturn, collect samples, and determine whether they were made of ice, stone, or water. This would require building rockets, not just telescopes, which was not feasible at the time.\n\n[TOPIC_SHIFT]\n\nThis conundrum was solved within 50-60 years. How did it happen? Consider a planet so far away, with rings whose composition we wanted to understand. How did they think about it? There must have been a method. What happened? An individual stood up, took a bundle of papers, and lit candles for light. He took ink and a pen and went into a room. He spent one or two months there and came out saying that Saturn's rings were not made of ice, stone, water, or any other substance, but of stones. People asked how he knew. He said, 'Look, I have proof.' What was his proof? It was a few pages with mathematical equations written on them. He had written something. What was it? They were mathematical equations. Imagine having the power to determine the composition of rings on a planet thousands of kilometers away using mathematics. What an incredible feat! If you pursue science, you might achieve something similar.\n",
+      "topic_shifts": [
+        "Introduction to the history of telescopes and their magnification power.",
+        "Discussion of the 18th-century debate on the composition of Saturn's rings.",
+        "Explanation of how the problem was solved using mathematical equations."
+      ],
+      "technical_terms_mapped": {
+        "ਟੈਲੀਸਕੋਪ": "telescope",
+        "ਮੈਗਨੀਫਿਕੇਸ਼ਨ ਪਾਵਰ": "magnification power",
+        "ਸਪੈਸ਼ਲ ਪੇਸ": "specialized observations",
+        "ਲਾਰਜ ਡਿਸਟੈਂਸਸ": "large distances",
+        "ਸਟੋਨ": "stone",
+        "ਵਾਟਰ": "water",
+        "ਆਈਸ": "ice",
+        "ਪ੍ਰੋਬਲਮ": "problem",
+        "ਗੂਗਲ": "Google",
+        "ਟੈਕਨੋਲੋਜੀ": "technology",
+        "ਰੋਕੇਟ": "rocket",
+        "ਪਲੈਨੇਟ": "planet",
+        "ਰਿੰਗਸ": "rings",
+        "ਮੈਥਡ": "method",
+        "ਪੇਪਰਸ": "papers",
+        "ਕੈਂਡਲਸ": "candles",
+        "ਇੰਕ": "ink",
+        "ਪੈਨ": "pen",
+        "ਮੈਥੇਮੈਟਿਕਸ": "mathematics",
+        "ਇਕੁਏਸ਼ਨ": "equations"
+      },
+      "chunk_index": 0,
+      "time_range": "0.0s - 232.0s",
+      "original_segments": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "normalized_text": "You are learning this magical power. Because learners are curious, I want to tell you about the tool that was used. The person who developed it was James Clerk Maxwell. He was a great scientist and mathematician. So, mathematics is a tool that allows us to make future predictions. Thus, mathematics is a magical tool that, if used correctly, can lead to great discoveries. From here, we begin with physics. In reality, they used mathematics to study nature. This helped us understand what is happening around us and that the surroundings extend for thousands of kilometers. So, if I define it, it is physics. Physics can be defined by the great scientist and professor Richard Feynman. He defined physics in such a way: imagine two very intelligent chess players, both brilliant at chess, playing a game. And there is someone observing them, who is also very intelligent and has a sharp mind. He observes them closely and makes detailed observations for a long time, writing them down. He writes and writes about what he observes. He plays chess without caring about them. After a couple of weeks, if we ask the chess expert what he has learned, he can tell us which moves were made by which pieces, such as the bishop, the rook, the queen, or the king. Physics is somewhat similar; we need to make detailed observations. Based on these observations, we write theories about how nature will behave. It might not happen, but it could. However, it is not accepted until we have experimental evidence. When the experiment confirms it, we accept it as true. Otherwise, we reject the theory. Chess moves are easy to learn, but becoming a good chess player is difficult. Because the combinations used require practice and skills. So, physics is like chess. Understand its laws and rules. They are easy to understand individually, but when applied collectively, they become complex. Therefore, we will divide physics into different streams. From plus one to plus two, over two years, we will study the wide variety of nature around us. For example, one topic will be mechanics. In mechanics, we understand the motion of bodies around us, how bodies move. Specifically, mechanics also gives us power.\n\n[TOPIC_SHIFT] From the general concept of physics to the specific topic of mechanics.",
+      "topic_shifts": [
+        "From the general concept of physics to the specific topic of mechanics."
+      ],
+      "technical_terms_mapped": {
+        "ਮੈਥੇਮੈਟਿਕਸ": "mathematics",
+        "ਫਿਜ਼ਿਕਸ": "physics",
+        "ਮੈਕੈਨਿਕਸ": "mechanics",
+        "ਪਲੇਅਰ": "player",
+        "ਚੈੱਸ": "chess",
+        "ਓਬਜ਼ਰਵੇਸ਼ਨ": "observation",
+        "ਥਿਊਰੀਜ਼": "theories",
+        "ਨੇਚਰ": "nature",
+        "ਐਕਸਪੈਰੀਮੈਂਟਲੀ": "experimentally",
+        "ਐਵੀਡੈਂਸ": "evidence",
+        "ਕਲੈਕਟਿਵਲੀ": "collectively",
+        "ਵਾਈਡ ਵਰਾਇਟੀ ਆਫ ਨੇਚਰ": "wide variety of nature"
+      },
+      "chunk_index": 1,
+      "time_range": "232.0s - 435.0s",
+      "original_segments": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "normalized_text": "Predicting the future involves understanding the motion of particles. If I know the acceleration of a particle at a particular time, and I know its velocity, I can predict its future position. This is the essence of physics, which allows us to make predictions about the future or understand what is happening around us. Physics is the science of nature, explaining how nature operates. Therefore, I will regularly bring physics videos to help you understand these concepts. If you are interested in Plus One, please subscribe to my channel. Share it with others who might need it to understand physics. Thank you, and look forward to more videos. Stay tuned. Thank you.\n\n[TOPIC_SHIFT] The transition here is from explaining the concept of predicting future motion to discussing the role of physics in understanding nature and making predictions.\n\n[Technical terms and concepts are discussed in the context of physics, focusing on motion, acceleration, velocity, and prediction.]",
+      "topic_shifts": [
+        "Explaining the concept of predicting future motion using physics principles.",
+        "Transitioning to the role of physics in understanding nature and making predictions."
+      ],
+      "technical_terms_mapped": {
+        "ਫਿਊਚਰ ਪ੍ਰਡਿਕਟ ਕਰਨ ਦੀ": "predicting the future",
+        "ਪਰਟੀਕੁਲਰ ਟਾਈਮ": "particular time",
+        "ਐਕਸਲਰੇਸ਼ਨ": "acceleration",
+        "ਪਾਰਟੀਕਲ": "particle",
+        "ਵਿਲੋਸਿਟੀ": "velocity",
+        "ਫੋਰਸ": "force",
+        "ਅਪਲਾਈਡ": "applied",
+        "ਪ੍ਰਡਿਕਸ਼ਨਸ": "predictions",
+        "ਸਮਰਾਈਜ਼": "summarize",
+        "ਪਾਵਰ": "power",
+        "ਨੇਚਰ": "nature",
+        "ਸਾਇੰਸ": "science",
+        "ਵੀਡੀਓ": "videos",
+        "ਪਲੱਸ ਵਨ": "Plus One"
+      },
+      "chunk_index": 2,
+      "time_range": "435.0s - 515.9s",
+      "original_segments": [
+        15,
+        16,
+        17
+      ]
+    }
+  ],
+  "total_chunks": 3,
+  "_audio_file": "/home/swayam/Desktop/irel_task/data/YIVPNbFKFjk/YIVPNbFKFjk.wav"
+}

@@ -1,0 +1,139 @@
+{
+  "dependencies": [
+    {
+      "from_concept": "concept_1",
+      "to_concept": "concept_3",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture explicitly states that understanding what an AI agent is (concept_1) is necessary before diving into the framework of an AI agent (concept_3)."
+    },
+    {
+      "from_concept": "concept_3",
+      "to_concept": "concept_4",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The framework of an AI agent (concept_3) is described as consisting of components, with input data (concept_4) being the first component. Understanding the framework is necessary to understand its parts."
+    },
+    {
+      "from_concept": "concept_4",
+      "to_concept": "concept_5",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The boot process (concept_5) is described as the next step after input data (concept_4) in the framework of an AI agent."
+    },
+    {
+      "from_concept": "concept_5",
+      "to_concept": "concept_6",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The brain (concept_6) is explicitly described as a component of the boot process (concept_5), making the latter a prerequisite."
+    },
+    {
+      "from_concept": "concept_5",
+      "to_concept": "concept_7",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The rules (concept_7) are explicitly described as a component of the boot process (concept_5), making the latter a prerequisite."
+    },
+    {
+      "from_concept": "concept_8",
+      "to_concept": "concept_9",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The chat trigger (concept_8) is described as the mechanism that activates the AI agent, and the JSON structure (concept_9) is used to define the chat input. Understanding the trigger is necessary to understand how the JSON structure is applied."
+    },
+    {
+      "from_concept": "concept_10",
+      "to_concept": "concept_11",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture introduces the OpenAI ChatGPT model (concept_10) before explaining the stateless nature of APIs (concept_11), which is a property of the model."
+    },
+    {
+      "from_concept": "concept_11",
+      "to_concept": "concept_12",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The stateless nature of APIs (concept_11) is described as a prerequisite for understanding how window buffer memory (concept_12) is used to retain context."
+    },
+    {
+      "from_concept": "concept_12",
+      "to_concept": "concept_13",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "Window buffer memory (concept_12) is described as a mechanism that supports dynamic email generation (concept_13) by retaining context."
+    },
+    {
+      "from_concept": "concept_13",
+      "to_concept": "concept_14",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "Dynamic email generation (concept_13) is described as a prerequisite for integrating Google Sheets (concept_14) to store and retrieve contact information for emails."
+    }
+  ],
+  "learning_path": [
+    "concept_1",
+    "concept_3",
+    "concept_4",
+    "concept_5",
+    "concept_6",
+    "concept_7",
+    "concept_8",
+    "concept_9",
+    "concept_10",
+    "concept_11",
+    "concept_12",
+    "concept_13",
+    "concept_14"
+  ],
+  "concept_clusters": [
+    {
+      "cluster_name": "AI Agent Basics",
+      "concept_ids": [
+        "concept_1",
+        "concept_3",
+        "concept_4",
+        "concept_5",
+        "concept_6",
+        "concept_7"
+      ],
+      "description": "These concepts cover the foundational understanding of what an AI agent is and how its framework and components function."
+    },
+    {
+      "cluster_name": "Chat and Input Mechanisms",
+      "concept_ids": [
+        "concept_8",
+        "concept_9"
+      ],
+      "description": "These concepts focus on the mechanisms for triggering and structuring input for the AI agent, particularly through chat interfaces."
+    },
+    {
+      "cluster_name": "OpenAI and Context Management",
+      "concept_ids": [
+        "concept_10",
+        "concept_11",
+        "concept_12"
+      ],
+      "description": "These concepts cover the OpenAI ChatGPT model, its stateless API nature, and the use of window buffer memory for context retention."
+    },
+    {
+      "cluster_name": "Dynamic Email and Integration",
+      "concept_ids": [
+        "concept_13",
+        "concept_14"
+      ],
+      "description": "These concepts focus on the application of AI agents for dynamic email generation and integration with external tools like Google Sheets."
+    }
+  ],
+  "root_concepts": [
+    "concept_1",
+    "concept_8",
+    "concept_10"
+  ],
+  "leaf_concepts": [
+    "concept_6",
+    "concept_7",
+    "concept_9",
+    "concept_14"
+  ]
+}

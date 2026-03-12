@@ -1,0 +1,320 @@
+{
+  "original_language": "ml-IN",
+  "normalized_text": "Hello. Today, we are going to discuss what an AI agent is and how you can actually develop an AI agent using a tool application like N8N. The advantage of this tool is that you don't necessarily need to know coding or programming. If you understand the basic logic, you can easily build AI agents. \n\n[TOPIC_SHIFT] \nBefore we dive into the tool, let's first understand what an AI agent is. An AI agent is essentially a specific set of code or instructions that can automate a variety of tasks and optimize them. For example, let's say I need to check my emails. If I have five email IDs, checking each inbox daily to identify which emails are spam and which ones require a response can be a very time-consuming job. In such a case, I can build an AI agent. I can simply ask it via WhatsApp, \"Okay, what emails have I received, and which ones are important?\" This is just a small use case. There can be numerous repetitive tasks that we can optimize using AI agents. \n\n[TOPIC_SHIFT] \nFor instance, Siri, Alexa, and even Google Maps are examples of AI agents. Google Maps, for example, helps you navigate from point A to point B by analyzing obstacles, traffic, and other factors to determine the most optimized route. So, as you can see, creating an AI agent for personal needs is actually quite simple. \n\n[TOPIC_SHIFT] \nNow, before jumping into the tool, we need to understand the framework of an AI agent. Essentially, you need to know the basics of how it works. This is not about complex tools or programming. Here, you are connecting various tools and creating a logic for them. You write prompts to define how the AI agent should respond and behave. If you don't understand this framework, you might get lost. \n\n[TOPIC_SHIFT] \nLooking at the framework, the first component is input data. Input data refers to the trigger for the AI agent—when it should act. This input could be a message, an email, a chat, or even another agent triggering it. It can be anything. \n\n[TOPIC_SHIFT] \nNext comes the AI agent's boot process, which consists of two important parts: the brain and the rules. The brain handles the decision-making and learning aspects, while the rules define the specific actions the agent should take in different scenarios.\n\nNext, we will discuss rules. What does this mean? In this tutorial, we are going to create an email AI agent. For example, I will provide a message saying, 'Okay, go and send an email to Santosh asking where the payment is.' The AI agent will automatically generate an email and send it to Santosh. Essentially, this is the tool's functionality. So, the rule here is defined by the prompt, which in this case is sending an email. After discussing tools, we can connect Gmail to send emails. Additionally, we can add multiple tools. For example, if I send an email and do not receive a response within one day, I can add another tool to send a message via WhatsApp. If there is still no response after one day, I can add another tool to make a phone call. For instance, if you are a collection agency and are unable to reach people, an AI agent can attempt to contact them. The AI agent can handle the conversation, and if necessary, a human can take over the call. There are numerous applications for this technology, and you can find many use cases related to your job. You can connect multiple tools to create a comprehensive system. Essentially, this demonstrates how we can transform a framework into a real-world tool. For example, the AI agent can receive a chat, process it, and interact with components like window buffer memory, contact database, and email output. This is how we transition from a framework to a functional tool. [TOPIC_SHIFT] Now, let's move to the next step and see how we can build this system. As mentioned earlier, today we are creating an email AI agent. The basic idea is that within a chat message, I will instruct the agent to send an email to someone. I will provide a basic context for the email. Here, I am introducing the concept of a chat trigger. When I input a chat message, you can see the chat being processed. For example, I type 'Hi,' and the system executes the command. However, there is currently no specific path or UI for execution; it simply shows the result here. [TOPIC_SHIFT] The AI agent is essentially a tool agent connected to the chat trigger. This means that whenever someone enters a message in the chat, the agent is triggered. Looking at the JSON structure, the chat input is defined. For example, the last input 'Hi' is processed as a prompt. Now, your AI agent is ready. You can proceed to ask questions like 'How are you?' and the agent will respond accordingly.\n\nTo achieve performance, you don't have any data inside, right? There is nothing inside because it is just a dummy setup. Now, we have not connected the chat model, memory, or tools yet. I am now going to connect the chat model. [TOPIC_SHIFT] As mentioned earlier, there are several models available here, such as Azure, DeepSea, and Google Gemini. For this demonstration, I am selecting the OpenAI chat model. [TOPIC_SHIFT] To use ChatGPT, you can go to OpenAI's website and register for an account. After registering, navigate to 'Manage Project' and create a new secret key under the API key section. When you create a new secret key, it will generate a long string for you. You need to copy this string and use it here. Once you copy it, your OpenAI account will be connected. [TOPIC_SHIFT] Now, you can choose whether to use GPT-3 or GPT-4.0. For this purpose, I am going to use GPT-4.0 Mini. After selecting the version, you can close this setup. [TOPIC_SHIFT] Now, if you check, my AI agent is connected as a large language model (LLM). You can now interact with it by simply saying 'Hello.' You will notice the difference here; it actually processes your input and communicates with the AI agent, which in turn interacts with the OpenAI chat model to provide responses. For example, you can ask it questions like, 'What is the capital of Kerala?' and it will respond with 'The capital of Kerala is Thiruvananthapuram.' This is possible because it has access to the large language model. [TOPIC_SHIFT] Now, let me ask something like, 'My name is Santosh.' The AI will respond, 'Hello Santosh, how can I assist you?' If I then ask, 'Do you know my name?' it will reply, 'I don't know your name unless you tell me.' Even though I already told it my name, it won't remember it. This is because OpenAI or any LLM accessed via an API is stateless. It only processes the current input and does not retain any previous conversation context. [TOPIC_SHIFT] However, if I add memory to the system, such as window buffer memory, it will allow for default storage within the system itself. Window buffer memory is an internal storage mechanism, so you don't need to connect to an external database. This enables the AI to retain some context for better interaction.\n\nFor simplicity, we are now discussing the window buffer memory. Here, you can see that the context window length is set to five. This means the last five conversations will be stored in memory. For our purpose, this is sufficient. Now, you can actually observe the flow here. For example, I am saying 'Hello, my name is Santosh.' Then, Santosh, do you know my name? I can see here that you mentioned your name is Santosh. So now, this conversation is added to the memory. You can observe one item being added here, two items being added there, and understand how the flow works. [TOPIC_SHIFT] Moving on to the next purpose, which is sending an email. For this purpose, I am using Gmail. To proceed, you need to open the Gmail tool. Once Gmail is opened, you need to connect it. Then, you need to go to the new credential signing method. This is the recommended method, as it allows you to connect your sheet, calendar, and entire database, and sync them with Google. You can also sync with NATAN. There is a small process involved in connecting this, but Google provides a clear and well-explained guide on how to configure the sign-in process properly. Once connected, you can trigger Google Calendar, Google Contacts, Google Drive, Google Mail, and Google Sheets at any time. [TOPIC_SHIFT] Now, since I am already connected, I will choose my Google account API. Then, I will send a message or set an automatic message. Here, you need to specify the subject and email type. For example, if the recipient's email is sand@gmail.com, the email will always be sent to sand@gmail.com. However, what we need is an expression. An expression means that the recipient's email address should change based on the chat context. For instance, if the chat specifies that the email should be sent to Suresh or a particular email ID like x@gmail.com, the system needs to extract this information from the chat. Always ensure that the recipient's email is dynamically set based on the expression. [TOPIC_SHIFT] After specifying the recipient's email, you need to copy the subject and generate it. Do not get confused here. The message also needs to be dynamic, based on the expression. If this step is missed, the email will be sent with a fixed value, which is not ideal. Within the message content, you can dynamically include information based on the chat context to ensure the email is sent correctly.\n\nAutomatically, AI will handle the process. For example, let me explain: if you want to send an email to Santosh asking about the payment status, the subject line will be generated based on the context. The content will be created automatically by AI to address the query about the payment status. The recipient, in this case, is Santosh. So, the AI will automatically fetch the necessary details. Do not get confused; you just need to input the required variables, and AI will handle the rest. Okay, now one more thing you need to know: the subject line of the email will be generated automatically, such as 'EMI for NI 10 generated.' Additionally, there will be a signature included in the email. If you do not want the signature, you can choose to avoid it. Now, the email is set up. I am going to rename this tool to 'Sent Email.' Sorry, I meant 'Sent Email.' This application or tool is not just for sending emails; it is designed to make the process easier to understand. Many tools are built for similar purposes. For example, if you have 100 tools, it is always better to name them in a way that makes it easy to identify their purpose. Now, our email tool is actually set up and developed. The next step is to provide the AI agent with a message specifying exactly what it needs to do. Although everything is connected, we have not yet instructed the AI agent on its specific task. To do this, go to the system message section and write precisely what the AI agent needs to perform. For instance, if someone asks the AI to send an email, the subject line and other details need to be specified. This might involve longer text, but do not worry; there is an easy way to generate it. Once you have the example, you just need to copy the workflow. Okay, I have copied the workflow. Alright, basically, I have already generated a GPT-based system message for the NI 10 AI agent. What you need to do here is use the link I will provide in the description. You can go ahead and use it. First, upload the captured image that we have already uploaded. Okay, now you need to specify an AI agent that uses the 'Send Email' tool. The 'Send Email' tool refers to the tool we generated earlier, named 'Send Email.' This tool is specifically designed for sending emails.\n\nNow, as you can see here, the system will automatically generate an invitation message. The agent receives a chat message from the user and uses the 'Send Email' tool to send an email. The system has access to the window buffer, where all information is processed. In the example provided, ensure that the email is professional, clear, and confirms the user's ID. If you want to modify the tone to make it more friendly, professional, or clear, you can do so. You can fine-tune the email format as needed. This is the basic format that has been provided to you. [TOPIC_SHIFT] Now, copy the information here and go to your AI agent tool. Enter this information, and let's see exactly how this works. For example, send an email to sankg.fin@domain.com. This is my email ID. Can you please update me regarding the project? Once you send the email, you can see here that the window buffer is running, and the email is being sent. Now the email has been sent successfully. [TOPIC_SHIFT] Here is a project update request: \"Hi Santosh, I hope this email finds you well. I would like to request an update regarding the project. Please provide your comments. Thank you.\" After this, you can sign off the email with your name, such as \"Best regards, Santosh.\" Okay? Now let's see exactly how this process works. Send another email, and again, the email is sent successfully. This is an important tool that you can use. After checking the latest login, you can see what actions have been performed. First, the AI agent retrieves the information, then updates it in the window buffer memory, and finally sends the email via OpenAI. [TOPIC_SHIFT] This tool will give you an idea of what actions have been performed. If debugging or troubleshooting is required, this tool is very useful, and you can check the details. Now, as you can see here, the email is updated with \"Best regards, Santosh.\" All emails will have this sign-off format. [TOPIC_SHIFT] Moving on to the next scenario, we are going to add another tool to this system. For example, if you want to connect the email ID to Google Docs, Google Contacts, or a contact master, you can do so. However, for simplicity, I am connecting it to Google Sheets. The sheet name is 'N8N Contact Sheet.' Now, go over here, and I am adding a Google Sheet. [TOPIC_SHIFT] Alright, I need to choose the Google Sheet. This is the same Google account we connected earlier, so we will connect this as well. Then you can see the sheet with the document and retrieve the rows.\n\nFirst, choose the file. Now, I am going to select the N8N contact sheet. From the list, I will choose sheet one. Once selected, close this window. [TOPIC_SHIFT] Next, we need to work with Google Sheets. As mentioned earlier, we will rename the sheet to 'Contact Database.' I am now changing the name of the sheet to 'Contact Database.' Now, it is ready. [TOPIC_SHIFT] At this point, we need to add this information into a system agent. The easiest way to do this is by using the same GPT model here. Can you refine the prompt and add a tool like 'Contact Database Agent' that can retrieve user contact details such as email and phone number? Right? Enter the details here. [TOPIC_SHIFT] Now, the agent generator will update all the numbers and other relevant information. The rest of the process is quite similar. Next, I need to copy this one. Just go over here, copy this one, and paste it. Now, you can see that the contact database has been updated. [TOPIC_SHIFT] After saving this in the contact database, you can verify the saved information. For example, I saved my name as 'Santhosh.' To send an email, wait for the model to run. You can see it is processing the database and sending the email. If I confirm, it will send the email to Santhosh. [TOPIC_SHIFT] Moving forward, you can reschedule upcoming meetings. For instance, I generated a message discussing our upcoming meeting and asking for availability next week. Please let me know if you are available. Regards, Santhosh. [TOPIC_SHIFT] So, that's it. Now, you have built your first AI agent. I hope you enjoyed this session. This is a very basic example, but this framework is essential for generating all AI agents. Once you understand this framework, you can accomplish much more. If you liked this video, please give it a thumbs up.",
+  "technical_terms_mapped": {
+    "AI agent": "Artificial Intelligence agent",
+    "tool application": "software tool",
+    "N8N": "N8N (workflow automation tool)",
+    "framework": "system architecture",
+    "input data": "trigger data",
+    "boot process": "initialization process",
+    "brain": "decision-making module",
+    "rules": "action-defining parameters",
+    "റൂൾസ്": "rules",
+    "പ്രോംപ്റ്റ്": "prompt",
+    "ടൂൾ": "tool",
+    "WhatsApp-ൽ": "on WhatsApp",
+    "ചാറ്റ്": "chat",
+    "ജെയ്സൺ": "JSON",
+    "ഇമെയിൽ": "email",
+    "എഐ ഏജന്റ്": "AI agent",
+    "കണക്ട്": "connect",
+    "ട്രിഗർ": "trigger",
+    "കണ്ടീഷനിൽ": "condition",
+    "കോള": "call",
+    "ഫ്രെയിംവർക്കിൽ": "framework",
+    "റിയൽ ടൂൾ": "real tool",
+    "ചാറ്റ് ഇൻപുട്ട്": "chat input",
+    "ചാറ്റ് മോഡൽ": "chat model",
+    "വിൻഡോ ബഫർ മെമ്മറി": "window buffer memory",
+    "കോൺടാക്ട് ഡേറ്റാബേസ്": "contact database",
+    "ഓട്ട്പുട്ട്": "output",
+    "മെമ്മറി": "memory",
+    "ടൂൾസ്": "tools",
+    "ഓപ്പൺ എഐ": "OpenAI",
+    "ചാറ്റ് ജിപിടി": "ChatGPT",
+    "എപിഐ കീ": "API key",
+    "സീക്രട്ട് കീ": "secret key",
+    "എൽഎൽഎം": "large language model (LLM)",
+    "window buffer memory": "window buffer memory",
+    "context window length": "context window length",
+    "credential signing": "credential signing",
+    "Google Calendar": "Google Calendar",
+    "Google Contacts": "Google Contacts",
+    "Google Drive": "Google Drive",
+    "Google Mail": "Google Mail",
+    "Google Sheets": "Google Sheets",
+    "expression": "dynamic expression",
+    "AI": "Artificial Intelligence",
+    "EMI": "Equated Monthly Installment",
+    "GPT": "Generative Pre-trained Transformer",
+    "NI 10": "NI 10 (specific tool or identifier)",
+    "window buffer": "window buffer memory",
+    "AI agent tool": "AI agent tool",
+    "OpenAI": "OpenAI",
+    "Google Docs": "Google Docs",
+    "contact master": "contact master",
+    "Google sheet": "Google Sheets",
+    "contact sheet": "Contact Database",
+    "system agent": "AI agent",
+    "GPT model": "GPT (Generative Pre-trained Transformer) model",
+    "agent generator": "AI agent generator"
+  },
+  "topic_shifts": [
+    "Introduction to AI agents and their advantages",
+    "Examples of AI agents and their use cases",
+    "Explanation of AI agent framework",
+    "Understanding input data as a trigger for AI agents",
+    "Components of AI agent boot process: brain and rules",
+    "Introduction to rules and the concept of an email AI agent",
+    "Transition to building the system and introducing chat triggers",
+    "Explanation of the AI agent's functionality and JSON structure",
+    "Introduction to connecting the chat model",
+    "Overview of available models and selection of OpenAI ChatGPT",
+    "Steps to register and create an API key for OpenAI",
+    "Choosing between GPT-3 and GPT-4.0 Mini",
+    "Demonstration of AI agent interaction and stateless nature of APIs",
+    "Introduction to memory addition using window buffer memory",
+    "Introduction to window buffer memory and context window length",
+    "Transition to sending emails using Gmail and connecting tools",
+    "Explanation of dynamic email recipient and subject generation",
+    "Introduction to AI handling email generation",
+    "Explanation of subject line and content generation by AI",
+    "Details about avoiding email signature",
+    "Renaming the tool to 'Sent Email'",
+    "Clarification on the tool's purpose and naming convention",
+    "Setting up the email tool and connecting it to the AI agent",
+    "Instructions for specifying tasks to the AI agent",
+    "Using the provided link and uploading images for the AI agent",
+    "Introduction to the automatic invitation system and email generation",
+    "Demonstration of sending an email using the AI agent tool",
+    "Explanation of the project update request email format",
+    "Overview of debugging and troubleshooting using the tool",
+    "Introduction to connecting the system with external tools like Google Sheets",
+    "Selecting and closing the file",
+    "Renaming the sheet to 'Contact Database'",
+    "Adding information into a system agent",
+    "Updating the contact database",
+    "Sending an email using the contact database",
+    "Rescheduling meetings and generating messages",
+    "Building the first AI agent and concluding the session"
+  ],
+  "chunks": [
+    {
+      "normalized_text": "Hello. Today, we are going to discuss what an AI agent is and how you can actually develop an AI agent using a tool application like N8N. The advantage of this tool is that you don't necessarily need to know coding or programming. If you understand the basic logic, you can easily build AI agents. \n\n[TOPIC_SHIFT] \nBefore we dive into the tool, let's first understand what an AI agent is. An AI agent is essentially a specific set of code or instructions that can automate a variety of tasks and optimize them. For example, let's say I need to check my emails. If I have five email IDs, checking each inbox daily to identify which emails are spam and which ones require a response can be a very time-consuming job. In such a case, I can build an AI agent. I can simply ask it via WhatsApp, \"Okay, what emails have I received, and which ones are important?\" This is just a small use case. There can be numerous repetitive tasks that we can optimize using AI agents. \n\n[TOPIC_SHIFT] \nFor instance, Siri, Alexa, and even Google Maps are examples of AI agents. Google Maps, for example, helps you navigate from point A to point B by analyzing obstacles, traffic, and other factors to determine the most optimized route. So, as you can see, creating an AI agent for personal needs is actually quite simple. \n\n[TOPIC_SHIFT] \nNow, before jumping into the tool, we need to understand the framework of an AI agent. Essentially, you need to know the basics of how it works. This is not about complex tools or programming. Here, you are connecting various tools and creating a logic for them. You write prompts to define how the AI agent should respond and behave. If you don't understand this framework, you might get lost. \n\n[TOPIC_SHIFT] \nLooking at the framework, the first component is input data. Input data refers to the trigger for the AI agent—when it should act. This input could be a message, an email, a chat, or even another agent triggering it. It can be anything. \n\n[TOPIC_SHIFT] \nNext comes the AI agent's boot process, which consists of two important parts: the brain and the rules. The brain handles the decision-making and learning aspects, while the rules define the specific actions the agent should take in different scenarios.",
+      "topic_shifts": [
+        "Introduction to AI agents and their advantages",
+        "Examples of AI agents and their use cases",
+        "Explanation of AI agent framework",
+        "Understanding input data as a trigger for AI agents",
+        "Components of AI agent boot process: brain and rules"
+      ],
+      "technical_terms_mapped": {
+        "AI agent": "Artificial Intelligence agent",
+        "tool application": "software tool",
+        "N8N": "N8N (workflow automation tool)",
+        "framework": "system architecture",
+        "input data": "trigger data",
+        "boot process": "initialization process",
+        "brain": "decision-making module",
+        "rules": "action-defining parameters"
+      },
+      "chunk_index": 0,
+      "time_range": "0.0s - 145.0s",
+      "original_segments": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "normalized_text": "Next, we will discuss rules. What does this mean? In this tutorial, we are going to create an email AI agent. For example, I will provide a message saying, 'Okay, go and send an email to Santosh asking where the payment is.' The AI agent will automatically generate an email and send it to Santosh. Essentially, this is the tool's functionality. So, the rule here is defined by the prompt, which in this case is sending an email. After discussing tools, we can connect Gmail to send emails. Additionally, we can add multiple tools. For example, if I send an email and do not receive a response within one day, I can add another tool to send a message via WhatsApp. If there is still no response after one day, I can add another tool to make a phone call. For instance, if you are a collection agency and are unable to reach people, an AI agent can attempt to contact them. The AI agent can handle the conversation, and if necessary, a human can take over the call. There are numerous applications for this technology, and you can find many use cases related to your job. You can connect multiple tools to create a comprehensive system. Essentially, this demonstrates how we can transform a framework into a real-world tool. For example, the AI agent can receive a chat, process it, and interact with components like window buffer memory, contact database, and email output. This is how we transition from a framework to a functional tool. [TOPIC_SHIFT] Now, let's move to the next step and see how we can build this system. As mentioned earlier, today we are creating an email AI agent. The basic idea is that within a chat message, I will instruct the agent to send an email to someone. I will provide a basic context for the email. Here, I am introducing the concept of a chat trigger. When I input a chat message, you can see the chat being processed. For example, I type 'Hi,' and the system executes the command. However, there is currently no specific path or UI for execution; it simply shows the result here. [TOPIC_SHIFT] The AI agent is essentially a tool agent connected to the chat trigger. This means that whenever someone enters a message in the chat, the agent is triggered. Looking at the JSON structure, the chat input is defined. For example, the last input 'Hi' is processed as a prompt. Now, your AI agent is ready. You can proceed to ask questions like 'How are you?' and the agent will respond accordingly.",
+      "topic_shifts": [
+        "Introduction to rules and the concept of an email AI agent",
+        "Transition to building the system and introducing chat triggers",
+        "Explanation of the AI agent's functionality and JSON structure"
+      ],
+      "technical_terms_mapped": {
+        "റൂൾസ്": "rules",
+        "പ്രോംപ്റ്റ്": "prompt",
+        "ടൂൾ": "tool",
+        "WhatsApp-ൽ": "on WhatsApp",
+        "ചാറ്റ്": "chat",
+        "ജെയ്സൺ": "JSON",
+        "ഇമെയിൽ": "email",
+        "എഐ ഏജന്റ്": "AI agent",
+        "കണക്ട്": "connect",
+        "ട്രിഗർ": "trigger",
+        "കണ്ടീഷനിൽ": "condition",
+        "കോള": "call",
+        "ഫ്രെയിംവർക്കിൽ": "framework",
+        "റിയൽ ടൂൾ": "real tool",
+        "ചാറ്റ് ഇൻപുട്ട്": "chat input",
+        "ചാറ്റ് മോഡൽ": "chat model",
+        "വിൻഡോ ബഫർ മെമ്മറി": "window buffer memory",
+        "കോൺടാക്ട് ഡേറ്റാബേസ്": "contact database",
+        "ഓട്ട്പുട്ട്": "output"
+      },
+      "chunk_index": 1,
+      "time_range": "145.0s - 319.0s",
+      "original_segments": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "normalized_text": "To achieve performance, you don't have any data inside, right? There is nothing inside because it is just a dummy setup. Now, we have not connected the chat model, memory, or tools yet. I am now going to connect the chat model. [TOPIC_SHIFT] As mentioned earlier, there are several models available here, such as Azure, DeepSea, and Google Gemini. For this demonstration, I am selecting the OpenAI chat model. [TOPIC_SHIFT] To use ChatGPT, you can go to OpenAI's website and register for an account. After registering, navigate to 'Manage Project' and create a new secret key under the API key section. When you create a new secret key, it will generate a long string for you. You need to copy this string and use it here. Once you copy it, your OpenAI account will be connected. [TOPIC_SHIFT] Now, you can choose whether to use GPT-3 or GPT-4.0. For this purpose, I am going to use GPT-4.0 Mini. After selecting the version, you can close this setup. [TOPIC_SHIFT] Now, if you check, my AI agent is connected as a large language model (LLM). You can now interact with it by simply saying 'Hello.' You will notice the difference here; it actually processes your input and communicates with the AI agent, which in turn interacts with the OpenAI chat model to provide responses. For example, you can ask it questions like, 'What is the capital of Kerala?' and it will respond with 'The capital of Kerala is Thiruvananthapuram.' This is possible because it has access to the large language model. [TOPIC_SHIFT] Now, let me ask something like, 'My name is Santosh.' The AI will respond, 'Hello Santosh, how can I assist you?' If I then ask, 'Do you know my name?' it will reply, 'I don't know your name unless you tell me.' Even though I already told it my name, it won't remember it. This is because OpenAI or any LLM accessed via an API is stateless. It only processes the current input and does not retain any previous conversation context. [TOPIC_SHIFT] However, if I add memory to the system, such as window buffer memory, it will allow for default storage within the system itself. Window buffer memory is an internal storage mechanism, so you don't need to connect to an external database. This enables the AI to retain some context for better interaction.",
+      "topic_shifts": [
+        "Introduction to connecting the chat model",
+        "Overview of available models and selection of OpenAI ChatGPT",
+        "Steps to register and create an API key for OpenAI",
+        "Choosing between GPT-3 and GPT-4.0 Mini",
+        "Demonstration of AI agent interaction and stateless nature of APIs",
+        "Introduction to memory addition using window buffer memory"
+      ],
+      "technical_terms_mapped": {
+        "ചാറ്റ് മോഡൽ": "chat model",
+        "മെമ്മറി": "memory",
+        "ടൂൾസ്": "tools",
+        "ഓപ്പൺ എഐ": "OpenAI",
+        "ചാറ്റ് ജിപിടി": "ChatGPT",
+        "എപിഐ കീ": "API key",
+        "സീക്രട്ട് കീ": "secret key",
+        "എൽഎൽഎം": "large language model (LLM)",
+        "വിൻഡോ ബഫർ മെമ്മറി": "window buffer memory"
+      },
+      "chunk_index": 2,
+      "time_range": "319.0s - 493.0s",
+      "original_segments": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "normalized_text": "For simplicity, we are now discussing the window buffer memory. Here, you can see that the context window length is set to five. This means the last five conversations will be stored in memory. For our purpose, this is sufficient. Now, you can actually observe the flow here. For example, I am saying 'Hello, my name is Santosh.' Then, Santosh, do you know my name? I can see here that you mentioned your name is Santosh. So now, this conversation is added to the memory. You can observe one item being added here, two items being added there, and understand how the flow works. [TOPIC_SHIFT] Moving on to the next purpose, which is sending an email. For this purpose, I am using Gmail. To proceed, you need to open the Gmail tool. Once Gmail is opened, you need to connect it. Then, you need to go to the new credential signing method. This is the recommended method, as it allows you to connect your sheet, calendar, and entire database, and sync them with Google. You can also sync with NATAN. There is a small process involved in connecting this, but Google provides a clear and well-explained guide on how to configure the sign-in process properly. Once connected, you can trigger Google Calendar, Google Contacts, Google Drive, Google Mail, and Google Sheets at any time. [TOPIC_SHIFT] Now, since I am already connected, I will choose my Google account API. Then, I will send a message or set an automatic message. Here, you need to specify the subject and email type. For example, if the recipient's email is sand@gmail.com, the email will always be sent to sand@gmail.com. However, what we need is an expression. An expression means that the recipient's email address should change based on the chat context. For instance, if the chat specifies that the email should be sent to Suresh or a particular email ID like x@gmail.com, the system needs to extract this information from the chat. Always ensure that the recipient's email is dynamically set based on the expression. [TOPIC_SHIFT] After specifying the recipient's email, you need to copy the subject and generate it. Do not get confused here. The message also needs to be dynamic, based on the expression. If this step is missed, the email will be sent with a fixed value, which is not ideal. Within the message content, you can dynamically include information based on the chat context to ensure the email is sent correctly.",
+      "topic_shifts": [
+        "Introduction to window buffer memory and context window length",
+        "Transition to sending emails using Gmail and connecting tools",
+        "Explanation of dynamic email recipient and subject generation"
+      ],
+      "technical_terms_mapped": {
+        "window buffer memory": "window buffer memory",
+        "context window length": "context window length",
+        "credential signing": "credential signing",
+        "Google Calendar": "Google Calendar",
+        "Google Contacts": "Google Contacts",
+        "Google Drive": "Google Drive",
+        "Google Mail": "Google Mail",
+        "Google Sheets": "Google Sheets",
+        "expression": "dynamic expression"
+      },
+      "chunk_index": 3,
+      "time_range": "493.0s - 667.0s",
+      "original_segments": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "normalized_text": "Automatically, AI will handle the process. For example, let me explain: if you want to send an email to Santosh asking about the payment status, the subject line will be generated based on the context. The content will be created automatically by AI to address the query about the payment status. The recipient, in this case, is Santosh. So, the AI will automatically fetch the necessary details. Do not get confused; you just need to input the required variables, and AI will handle the rest. Okay, now one more thing you need to know: the subject line of the email will be generated automatically, such as 'EMI for NI 10 generated.' Additionally, there will be a signature included in the email. If you do not want the signature, you can choose to avoid it. Now, the email is set up. I am going to rename this tool to 'Sent Email.' Sorry, I meant 'Sent Email.' This application or tool is not just for sending emails; it is designed to make the process easier to understand. Many tools are built for similar purposes. For example, if you have 100 tools, it is always better to name them in a way that makes it easy to identify their purpose. Now, our email tool is actually set up and developed. The next step is to provide the AI agent with a message specifying exactly what it needs to do. Although everything is connected, we have not yet instructed the AI agent on its specific task. To do this, go to the system message section and write precisely what the AI agent needs to perform. For instance, if someone asks the AI to send an email, the subject line and other details need to be specified. This might involve longer text, but do not worry; there is an easy way to generate it. Once you have the example, you just need to copy the workflow. Okay, I have copied the workflow. Alright, basically, I have already generated a GPT-based system message for the NI 10 AI agent. What you need to do here is use the link I will provide in the description. You can go ahead and use it. First, upload the captured image that we have already uploaded. Okay, now you need to specify an AI agent that uses the 'Send Email' tool. The 'Send Email' tool refers to the tool we generated earlier, named 'Send Email.' This tool is specifically designed for sending emails.",
+      "topic_shifts": [
+        "Introduction to AI handling email generation",
+        "Explanation of subject line and content generation by AI",
+        "Details about avoiding email signature",
+        "Renaming the tool to 'Sent Email'",
+        "Clarification on the tool's purpose and naming convention",
+        "Setting up the email tool and connecting it to the AI agent",
+        "Instructions for specifying tasks to the AI agent",
+        "Using the provided link and uploading images for the AI agent"
+      ],
+      "technical_terms_mapped": {
+        "AI": "Artificial Intelligence",
+        "EMI": "Equated Monthly Installment",
+        "GPT": "Generative Pre-trained Transformer",
+        "NI 10": "NI 10 (specific tool or identifier)"
+      },
+      "chunk_index": 4,
+      "time_range": "667.0s - 812.0s",
+      "original_segments": [
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "normalized_text": "Now, as you can see here, the system will automatically generate an invitation message. The agent receives a chat message from the user and uses the 'Send Email' tool to send an email. The system has access to the window buffer, where all information is processed. In the example provided, ensure that the email is professional, clear, and confirms the user's ID. If you want to modify the tone to make it more friendly, professional, or clear, you can do so. You can fine-tune the email format as needed. This is the basic format that has been provided to you. [TOPIC_SHIFT] Now, copy the information here and go to your AI agent tool. Enter this information, and let's see exactly how this works. For example, send an email to sankg.fin@domain.com. This is my email ID. Can you please update me regarding the project? Once you send the email, you can see here that the window buffer is running, and the email is being sent. Now the email has been sent successfully. [TOPIC_SHIFT] Here is a project update request: \"Hi Santosh, I hope this email finds you well. I would like to request an update regarding the project. Please provide your comments. Thank you.\" After this, you can sign off the email with your name, such as \"Best regards, Santosh.\" Okay? Now let's see exactly how this process works. Send another email, and again, the email is sent successfully. This is an important tool that you can use. After checking the latest login, you can see what actions have been performed. First, the AI agent retrieves the information, then updates it in the window buffer memory, and finally sends the email via OpenAI. [TOPIC_SHIFT] This tool will give you an idea of what actions have been performed. If debugging or troubleshooting is required, this tool is very useful, and you can check the details. Now, as you can see here, the email is updated with \"Best regards, Santosh.\" All emails will have this sign-off format. [TOPIC_SHIFT] Moving on to the next scenario, we are going to add another tool to this system. For example, if you want to connect the email ID to Google Docs, Google Contacts, or a contact master, you can do so. However, for simplicity, I am connecting it to Google Sheets. The sheet name is 'N8N Contact Sheet.' Now, go over here, and I am adding a Google Sheet. [TOPIC_SHIFT] Alright, I need to choose the Google Sheet. This is the same Google account we connected earlier, so we will connect this as well. Then you can see the sheet with the document and retrieve the rows.",
+      "topic_shifts": [
+        "Introduction to the automatic invitation system and email generation",
+        "Demonstration of sending an email using the AI agent tool",
+        "Explanation of the project update request email format",
+        "Overview of debugging and troubleshooting using the tool",
+        "Introduction to connecting the system with external tools like Google Sheets"
+      ],
+      "technical_terms_mapped": {
+        "window buffer": "window buffer memory",
+        "AI agent tool": "AI agent tool",
+        "OpenAI": "OpenAI",
+        "Google Docs": "Google Docs",
+        "Google Contacts": "Google Contacts",
+        "contact master": "contact master",
+        "Google Sheets": "Google Sheets"
+      },
+      "chunk_index": 5,
+      "time_range": "812.0s - 986.0s",
+      "original_segments": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "normalized_text": "First, choose the file. Now, I am going to select the N8N contact sheet. From the list, I will choose sheet one. Once selected, close this window. [TOPIC_SHIFT] Next, we need to work with Google Sheets. As mentioned earlier, we will rename the sheet to 'Contact Database.' I am now changing the name of the sheet to 'Contact Database.' Now, it is ready. [TOPIC_SHIFT] At this point, we need to add this information into a system agent. The easiest way to do this is by using the same GPT model here. Can you refine the prompt and add a tool like 'Contact Database Agent' that can retrieve user contact details such as email and phone number? Right? Enter the details here. [TOPIC_SHIFT] Now, the agent generator will update all the numbers and other relevant information. The rest of the process is quite similar. Next, I need to copy this one. Just go over here, copy this one, and paste it. Now, you can see that the contact database has been updated. [TOPIC_SHIFT] After saving this in the contact database, you can verify the saved information. For example, I saved my name as 'Santhosh.' To send an email, wait for the model to run. You can see it is processing the database and sending the email. If I confirm, it will send the email to Santhosh. [TOPIC_SHIFT] Moving forward, you can reschedule upcoming meetings. For instance, I generated a message discussing our upcoming meeting and asking for availability next week. Please let me know if you are available. Regards, Santhosh. [TOPIC_SHIFT] So, that's it. Now, you have built your first AI agent. I hope you enjoyed this session. This is a very basic example, but this framework is essential for generating all AI agents. Once you understand this framework, you can accomplish much more. If you liked this video, please give it a thumbs up.",
+      "topic_shifts": [
+        "Selecting and closing the file",
+        "Renaming the sheet to 'Contact Database'",
+        "Adding information into a system agent",
+        "Updating the contact database",
+        "Sending an email using the contact database",
+        "Rescheduling meetings and generating messages",
+        "Building the first AI agent and concluding the session"
+      ],
+      "technical_terms_mapped": {
+        "Google sheet": "Google Sheets",
+        "contact sheet": "Contact Database",
+        "system agent": "AI agent",
+        "GPT model": "GPT (Generative Pre-trained Transformer) model",
+        "agent generator": "AI agent generator"
+      },
+      "chunk_index": 6,
+      "time_range": "986.0s - 1130.1s",
+      "original_segments": [
+        34,
+        35,
+        36,
+        37,
+        38
+      ]
+    }
+  ],
+  "total_chunks": 7,
+  "_audio_file": "/home/swayam/Desktop/irel_task/data/xwfzt41hJhs/xwfzt41hJhs.wav"
+}

@@ -1,0 +1,100 @@
+{
+  "dependencies": [
+    {
+      "from_concept": "concept_1",
+      "to_concept": "concept_2",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The teacher explicitly states that understanding growth in living organisms is fundamental before discussing the cellular basis of growth."
+    },
+    {
+      "from_concept": "concept_2",
+      "to_concept": "concept_3",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The teacher explains that growth occurs at the cellular level, which directly leads to the concept of cell division."
+    },
+    {
+      "from_concept": "concept_3",
+      "to_concept": "concept_4",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The teacher mentions that cell division is a regulated process, which builds upon the understanding of cell division itself."
+    },
+    {
+      "from_concept": "concept_4",
+      "to_concept": "concept_5",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The teacher discusses how the regulated nature of cell division applies to both unicellular and multicellular organisms, indicating that understanding regulation is necessary to understand organism classification."
+    },
+    {
+      "from_concept": "concept_5",
+      "to_concept": "concept_6",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The teacher explains that growth patterns in plants and animals are based on their classification as unicellular or multicellular, thus requiring prior understanding of these classifications."
+    },
+    {
+      "from_concept": "concept_6",
+      "to_concept": "concept_7",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The teacher states that understanding growth patterns leads to a discussion on internal versus external growth, indicating a direct dependency."
+    },
+    {
+      "from_concept": "concept_7",
+      "to_concept": "concept_8",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The teacher mentions that growth is one of the defining characteristics of life after discussing internal versus external growth, indicating that understanding growth types is necessary to grasp the characteristics of life."
+    },
+    {
+      "from_concept": "concept_8",
+      "to_concept": "concept_9",
+      "relationship_type": "SOFT_PREREQUISITE",
+      "strength": 0.7,
+      "justification": "The teacher discusses examples of non-living growth in relation to the characteristics of life, suggesting that understanding the characteristics of life helps in understanding non-living growth, but is not strictly required."
+    }
+  ],
+  "learning_path": [
+    "concept_1",
+    "concept_2",
+    "concept_3",
+    "concept_4",
+    "concept_5",
+    "concept_6",
+    "concept_7",
+    "concept_8",
+    "concept_9"
+  ],
+  "concept_clusters": [
+    {
+      "cluster_name": "Growth Concepts",
+      "concept_ids": [
+        "concept_1",
+        "concept_2",
+        "concept_3",
+        "concept_4",
+        "concept_5",
+        "concept_6",
+        "concept_7",
+        "concept_8"
+      ],
+      "description": "These concepts are grouped together as they all relate to the understanding of growth in living organisms, from its definition to its characteristics and patterns."
+    },
+    {
+      "cluster_name": "Non-Living Growth",
+      "concept_ids": [
+        "concept_9"
+      ],
+      "description": "This concept is grouped separately as it discusses growth in non-living entities, contrasting with the previous concepts focused on living organisms."
+    }
+  ],
+  "root_concepts": [
+    "concept_1"
+  ],
+  "leaf_concepts": [
+    "concept_9"
+  ]
+}
