@@ -1,0 +1,25 @@
+# Audio/Video processing
+yt-dlp>=2024.0.0
+
+# Speech-to-Text (IndicWhisper via HuggingFace Transformers)
+transformers>=4.36.0
+torch>=2.1.0
+soundfile>=0.12.1
+accelerate>=0.27.0
+
+# Speech-to-Text (old faster-whisper backend, kept for reference)
+faster-whisper>=1.0.0
+
+# NLP & LLM
+openai>=1.0.0
+langdetect>=1.0.9
+
+# Graph & Visualization
+networkx>=3.0
+matplotlib>=3.7.0
+pyvis>=0.3.2
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.65.0
+pydantic>=2.0.0
