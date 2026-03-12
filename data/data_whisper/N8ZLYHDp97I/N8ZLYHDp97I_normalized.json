@@ -1,0 +1,93 @@
+{
+  "original_language": "gu",
+  "normalized_text": "Hello students, today we will discuss the same topic in business accounting. We will examine the financial statements for the year 2024. The time period is 146 days, and the total sales amount to 2400 and 1123 per day. The total revenue is 7,80,000. The average sales per day over 146 days is calculated as follows: \n\n[TOPIC_SHIFT] \n\nLet's calculate the depreciation. Each year, the depreciation is 12% of the original cost. If the original cost is 1,00,000, then the depreciation per year is 12,000. We will write this in the ledger. After equalizing, we calculate back to 2020. In 2021, the depreciation is 1, and in 2023, it is 1. The total depreciation over 4 years is calculated as follows: \n\n[TOPIC_SHIFT] \n\nThe annual depreciation is calculated at 12%. Therefore, 12 rupees occur 4 times. We calculate the depreciation per instance as 12 times. By 2023, we receive 52 rupees. In 2013, the total was 100 rupees. If equal, the original cost is 100 rupees, then 100 loans are taken, and 70,000 is multiplied by 60. The remaining amount is 22 and 15 lakh. What is the original cost? This is also the loan amount. Let's consider the original cost as 15 lakh. Let's complete this task. Now, let's move on to the next task. \n\n[TOPIC_SHIFT] \n\nWe calculate the depreciation at 12% on the original cost. Both are valid for calculation. You need to write both amounts increased. Explanation is added for clarity. If you write both amounts increased, you get 5 marks out of 10. Write both amounts increased with a brief explanation. \n\n[TOPIC_SHIFT] \n\nFor the 4th year, the calculation is as follows: if equal, the profit is 1,500,000 from the original cost. If you achieve this, the profit is 32,000. The total depreciation is 32,000. Let's complete this task for 5 marks. \n\n[TOPIC_SHIFT] \n\nThank you all for your attention. Best of luck for your exams. Please like, share, and subscribe to the channel for more videos. Thank you all.",
+  "technical_terms_mapped": {
+    "ઘસારો": "depreciation",
+    "મૂળ કીમત": "original cost",
+    "ઘસારનું": "depreciation amount",
+    "લોખવડું": "ledger",
+    "વધારે": "increased",
+    "વૈધારિ": "valid",
+    "વોરસનું": "year",
+    "વતયારે": "profit",
+    "ગૂણિયા": "multiplier"
+  },
+  "topic_shifts": [
+    "Introduction to financial statements and sales calculation",
+    "Calculation of depreciation",
+    "Depreciation calculation for specific years",
+    "Explanation of marks allocation for calculations",
+    "Conclusion and call to action"
+  ],
+  "chunks": [
+    {
+      "normalized_text": "Hello students, today we will discuss the same topic in business accounting. We will examine the financial statements for the year 2024. The time period is 146 days, and the total sales amount to 2400 and 1123 per day. The total revenue is 7,80,000. The average sales per day over 146 days is calculated as follows: \n\n[TOPIC_SHIFT] \n\nLet's calculate the depreciation. Each year, the depreciation is 12% of the original cost. If the original cost is 1,00,000, then the depreciation per year is 12,000. We will write this in the ledger. After equalizing, we calculate back to 2020. In 2021, the depreciation is 1, and in 2023, it is 1. The total depreciation over 4 years is calculated as follows: \n\n[TOPIC_SHIFT] \n\nThe annual depreciation is calculated at 12%. Therefore, 12 rupees occur 4 times. We calculate the depreciation per instance as 12 times. By 2023, we receive 52 rupees. In 2013, the total was 100 rupees. If equal, the original cost is 100 rupees, then 100 loans are taken, and 70,000 is multiplied by 60. The remaining amount is 22 and 15 lakh. What is the original cost? This is also the loan amount. Let's consider the original cost as 15 lakh. Let's complete this task. Now, let's move on to the next task. \n\n[TOPIC_SHIFT] \n\nWe calculate the depreciation at 12% on the original cost. Both are valid for calculation. You need to write both amounts increased. Explanation is added for clarity. If you write both amounts increased, you get 5 marks out of 10. Write both amounts increased with a brief explanation. \n\n[TOPIC_SHIFT] \n\nFor the 4th year, the calculation is as follows: if equal, the profit is 1,500,000 from the original cost. If you achieve this, the profit is 32,000. The total depreciation is 32,000. Let's complete this task for 5 marks. \n\n[TOPIC_SHIFT] \n\nThank you all for your attention. Best of luck for your exams. Please like, share, and subscribe to the channel for more videos. Thank you all.",
+      "topic_shifts": [
+        "Introduction to financial statements and sales calculation",
+        "Calculation of depreciation",
+        "Depreciation calculation for specific years",
+        "Explanation of marks allocation for calculations",
+        "Conclusion and call to action"
+      ],
+      "technical_terms_mapped": {
+        "ઘસારો": "depreciation",
+        "મૂળ કીમત": "original cost",
+        "ઘસારનું": "depreciation amount",
+        "લોખવડું": "ledger",
+        "વધારે": "increased",
+        "વૈધારિ": "valid",
+        "વોરસનું": "year",
+        "વતયારે": "profit",
+        "ગૂણિયા": "multiplier"
+      },
+      "chunk_index": 0,
+      "time_range": "0.2s - 454.9s",
+      "original_segments": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ]
+    }
+  ],
+  "total_chunks": 1,
+  "_audio_file": "/home/swayam/Desktop/irel_task/data_whisper/N8ZLYHDp97I/N8ZLYHDp97I.wav"
+}

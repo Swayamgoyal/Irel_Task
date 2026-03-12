@@ -1,0 +1,250 @@
+{
+  "metadata": {
+    "video_source": "https://www.youtube.com/watch?v=N8ZLYHDp97I",
+    "transcription_model": "large-v3",
+    "detected_language": "gu",
+    "language_probability": 1,
+    "audio_duration_seconds": 455.62,
+    "languages_detected": [
+      "Gujarati",
+      "English"
+    ],
+    "code_mix_ratio": 0.058
+  },
+  "lecture_info": {
+    "topic": "Introduction to financial statements and sales calculation, Calculation of depreciation",
+    "summary": "The lecture covers the examination of financial statements for a specific year, calculation of sales, and depreciation over several years. It also includes instructions on how to allocate marks for calculations and concludes with a call to action.",
+    "teaching_flow": [
+      "concept_1 -> concept_2",
+      "concept_2 -> concept_3",
+      "concept_3 -> concept_4",
+      "concept_4 -> concept_5",
+      "concept_5 -> concept_6"
+    ],
+    "analogies_used": [
+      {
+        "concept": "concept_3",
+        "analogy": "Depreciation is explained as a percentage of the original cost, similar to calculating interest."
+      }
+    ]
+  },
+  "concepts": [
+    {
+      "id": "concept_1",
+      "name": "Financial Statements",
+      "aliases": [
+        "financial reports"
+      ],
+      "description": "Documents that provide an overview of a company's financial condition, including revenue and expenses.",
+      "type": "core",
+      "explanation_method": "Formal definition and example calculation",
+      "key_points": [
+        "Includes total sales and revenue",
+        "Examined for the year 2024"
+      ],
+      "complexity_note": "N/A"
+    },
+    {
+      "id": "concept_2",
+      "name": "Sales Calculation",
+      "aliases": [
+        "total sales",
+        "average sales per day"
+      ],
+      "description": "The process of determining total sales and average sales per day over a specified period.",
+      "type": "core",
+      "explanation_method": "Example calculation",
+      "key_points": [
+        "Total sales amount to 2400 and 1123 per day",
+        "Average sales calculated over 146 days"
+      ],
+      "complexity_note": "N/A"
+    },
+    {
+      "id": "concept_3",
+      "name": "Depreciation",
+      "aliases": [
+        "depreciation calculation"
+      ],
+      "description": "The reduction in the value of an asset over time, calculated as a percentage of the original cost.",
+      "type": "core",
+      "explanation_method": "Formal definition and example calculation",
+      "key_points": [
+        "Depreciation is 12% of the original cost annually",
+        "Depreciation calculated for specific years"
+      ],
+      "complexity_note": "N/A"
+    },
+    {
+      "id": "concept_4",
+      "name": "Depreciation Ledger",
+      "aliases": [
+        "ledger entry"
+      ],
+      "description": "Recording depreciation in financial records.",
+      "type": "supporting",
+      "explanation_method": "Instructional",
+      "key_points": [
+        "Depreciation written in the ledger",
+        "Used for equalizing calculations"
+      ],
+      "complexity_note": "N/A"
+    },
+    {
+      "id": "concept_5",
+      "name": "Marks Allocation",
+      "aliases": [
+        "marks for calculations"
+      ],
+      "description": "Guidelines on how marks are allocated for correct calculation and explanation.",
+      "type": "supporting",
+      "explanation_method": "Instructional",
+      "key_points": [
+        "5 marks for writing increased amounts with explanation"
+      ],
+      "complexity_note": "N/A"
+    },
+    {
+      "id": "concept_6",
+      "name": "Profit Calculation",
+      "aliases": [
+        "profit from original cost"
+      ],
+      "description": "Determining profit based on the original cost and depreciation.",
+      "type": "core",
+      "explanation_method": "Example calculation",
+      "key_points": [
+        "Profit calculated as 1,500,000 from original cost",
+        "Total depreciation considered"
+      ],
+      "complexity_note": "N/A"
+    }
+  ],
+  "prerequisites": {
+    "dependencies": [
+      {
+        "from_concept": "concept_1",
+        "to_concept": "concept_2",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "The lecture begins with financial statements, which provide the context for calculating sales, indicating that understanding financial statements is necessary before calculating sales."
+      },
+      {
+        "from_concept": "concept_2",
+        "to_concept": "concept_3",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "The lecture transitions from sales calculation to depreciation, suggesting that understanding sales is a prerequisite for calculating depreciation."
+      },
+      {
+        "from_concept": "concept_3",
+        "to_concept": "concept_4",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "Depreciation is calculated and then recorded in the depreciation ledger, indicating that understanding depreciation is necessary before recording it."
+      },
+      {
+        "from_concept": "concept_4",
+        "to_concept": "concept_5",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "The lecture discusses recording depreciation in the ledger and then moves to marks allocation, implying that understanding how to record depreciation is necessary before understanding marks allocation."
+      },
+      {
+        "from_concept": "concept_5",
+        "to_concept": "concept_6",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "Marks allocation is discussed before profit calculation, suggesting that understanding marks allocation is necessary before calculating profit."
+      }
+    ],
+    "learning_path": [
+      "concept_1",
+      "concept_2",
+      "concept_3",
+      "concept_4",
+      "concept_5",
+      "concept_6"
+    ],
+    "concept_clusters": [
+      {
+        "cluster_name": "Financial Overview",
+        "concept_ids": [
+          "concept_1",
+          "concept_2"
+        ],
+        "description": "These concepts are grouped together as they both deal with understanding the financial performance of a company."
+      },
+      {
+        "cluster_name": "Depreciation and Recording",
+        "concept_ids": [
+          "concept_3",
+          "concept_4"
+        ],
+        "description": "These concepts are grouped together as they involve calculating and recording depreciation."
+      },
+      {
+        "cluster_name": "Evaluation and Profit",
+        "concept_ids": [
+          "concept_5",
+          "concept_6"
+        ],
+        "description": "These concepts are grouped together as they involve evaluating calculations and determining profit."
+      }
+    ],
+    "root_concepts": [
+      "concept_1"
+    ],
+    "leaf_concepts": [
+      "concept_6"
+    ]
+  },
+  "linguistic_analysis": {
+    "original_language_distribution": {
+      "Gujarati": 0.942,
+      "English": 0.058
+    },
+    "technical_terms_mapped": {
+      "ઘસારો": "depreciation",
+      "મૂળ કીમત": "original cost",
+      "ઘસારનું": "depreciation amount",
+      "લોખવડું": "ledger",
+      "વધારે": "increased",
+      "વૈધારિ": "valid",
+      "વોરસનું": "year",
+      "વતયારે": "profit",
+      "ગૂણિયા": "multiplier"
+    },
+    "topic_shifts": [
+      "Introduction to financial statements and sales calculation",
+      "Calculation of depreciation",
+      "Depreciation calculation for specific years",
+      "Explanation of marks allocation for calculations",
+      "Conclusion and call to action"
+    ]
+  },
+  "graph_metrics": {
+    "total_concepts": 6,
+    "total_dependencies": 5,
+    "is_dag": true,
+    "graph_density": 0.1667,
+    "longest_path_length": 5,
+    "longest_path": [
+      "concept_1",
+      "concept_2",
+      "concept_3",
+      "concept_4",
+      "concept_5",
+      "concept_6"
+    ],
+    "topological_order": [
+      "concept_1",
+      "concept_2",
+      "concept_3",
+      "concept_4",
+      "concept_5",
+      "concept_6"
+    ]
+  },
+  "normalized_transcript": "Hello students, today we will discuss the same topic in business accounting. We will examine the financial statements for the year 2024. The time period is 146 days, and the total sales amount to 2400 and 1123 per day. The total revenue is 7,80,000. The average sales per day over 146 days is calculated as follows: \n\n[TOPIC_SHIFT] \n\nLet's calculate the depreciation. Each year, the depreciation is 12% of the original cost. If the original cost is 1,00,000, then the depreciation per year is 12,000. We will write this in the ledger. After equalizing, we calculate back to 2020. In 2021, the depreciation is 1, and in 2023, it is 1. The total depreciation over 4 years is calculated as follows: \n\n[TOPIC_SHIFT] \n\nThe annual depreciation is calculated at 12%. Therefore, 12 rupees occur 4 times. We calculate the depreciation per instance as 12 times. By 2023, we receive 52 rupees. In 2013, the total was 100 rupees. If equal, the original cost is 100 rupees, then 100 loans are taken, and 70,000 is multiplied by 60. The remaining amount is 22 and 15 lakh. What is the original cost? This is also the loan amount. Let's consider the original cost as 15 lakh. Let's complete this task. Now, let's move on to the next task. \n\n[TOPIC_SHIFT] \n\nWe calculate the depreciation at 12% on the original cost. Both are valid for calculation. You need to write both amounts increased. Explanation is added for clarity. If you write both amounts increased, you get 5 marks out of 10. Write both amounts increased with a brief explanation. \n\n[TOPIC_SHIFT] \n\nFor the 4th year, the calculation is as follows: if equal, the profit is 1,500,000 from the original cost. If you achieve this, the profit is 32,000. The total depreciation is 32,000. Let's complete this task for 5 marks. \n\n[TOPIC_SHIFT] \n\nThank you all for your attention. Best of luck for your exams. Please like, share, and subscribe to the channel for more videos. Thank you all."
+}

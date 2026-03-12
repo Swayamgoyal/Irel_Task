@@ -1,0 +1,6164 @@
+{
+  "audio_file": "/home/swayam/Desktop/irel_task/data_whisper/n4orr02dEvw/n4orr02dEvw.wav",
+  "model": "large-v3",
+  "language": "te",
+  "language_probability": 1,
+  "duration_seconds": 810.42,
+  "transcription_time_seconds": 128.42,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.05,
+      "end": 2.27,
+      "text": "hi అండీ, welcome to python life youtube channel.",
+      "language": "te",
+      "avg_logprob": -0.5069,
+      "no_speech_prob": 0.0025,
+      "words": [
+        {
+          "word": "hi",
+          "start": 0.05,
+          "end": 0.39,
+          "probability": 0.0539
+        },
+        {
+          "word": "అండీ,",
+          "start": 0.39,
+          "end": 0.61,
+          "probability": 0.768
+        },
+        {
+          "word": "welcome",
+          "start": 0.75,
+          "end": 1.27,
+          "probability": 0.8774
+        },
+        {
+          "word": "to",
+          "start": 1.27,
+          "end": 1.47,
+          "probability": 0.9395
+        },
+        {
+          "word": "python",
+          "start": 1.47,
+          "end": 1.65,
+          "probability": 0.9507
+        },
+        {
+          "word": "life",
+          "start": 1.65,
+          "end": 1.85,
+          "probability": 0.8687
+        },
+        {
+          "word": "youtube",
+          "start": 1.85,
+          "end": 2.03,
+          "probability": 0.874
+        },
+        {
+          "word": "channel.",
+          "start": 2.03,
+          "end": 2.27,
+          "probability": 0.8545
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "start": 2.35,
+      "end": 5.67,
+      "text": "so ఇరుజ మన టాపిక్ వచ్చలకె ఎంటంతే list in python",
+      "language": "te",
+      "avg_logprob": -0.5069,
+      "no_speech_prob": 0.0025,
+      "words": [
+        {
+          "word": "so",
+          "start": 2.35,
+          "end": 2.73,
+          "probability": 0.2793
+        },
+        {
+          "word": "ఇరుజ",
+          "start": 2.73,
+          "end": 3.05,
+          "probability": 0.7747
+        },
+        {
+          "word": "మన",
+          "start": 3.05,
+          "end": 3.19,
+          "probability": 0.7151
+        },
+        {
+          "word": "టాపి",
+          "start": 3.19,
+          "end": 3.43,
+          "probability": 0.8056
+        },
+        {
+          "word": "వచ్చలకె",
+          "start": 3.43,
+          "end": 3.73,
+          "probability": 0.6321
+        },
+        {
+          "word": "ఎంటంతే",
+          "start": 3.73,
+          "end": 4.01,
+          "probability": 0.7192
+        },
+        {
+          "word": "list",
+          "start": 4.01,
+          "end": 4.79,
+          "probability": 0.5938
+        },
+        {
+          "word": "in",
+          "start": 4.79,
+          "end": 5.25,
+          "probability": 0.8916
+        },
+        {
+          "word": "python",
+          "start": 5.25,
+          "end": 5.67,
+          "probability": 0.9927
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.67,
+      "end": 7.47,
+      "text": "list అయది ఒక data type",
+      "language": "te",
+      "avg_logprob": -0.5069,
+      "no_speech_prob": 0.0025,
+      "words": [
+        {
+          "word": "list",
+          "start": 5.67,
+          "end": 6.31,
+          "probability": 0.0898
+        },
+        {
+          "word": "అయది",
+          "start": 6.31,
+          "end": 6.73,
+          "probability": 0.7421
+        },
+        {
+          "word": "ఒక",
+          "start": 6.73,
+          "end": 6.85,
+          "probability": 0.8947
+        },
+        {
+          "word": "data",
+          "start": 6.85,
+          "end": 7.17,
+          "probability": 0.4365
+        },
+        {
+          "word": "type",
+          "start": 7.17,
+          "end": 7.47,
+          "probability": 0.6694
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.47,
+      "end": 10.05,
+      "text": "దాను గిరిస్చు పూర్ధికా discuss చాద్దా మిరోజు",
+      "language": "te",
+      "avg_logprob": -0.5069,
+      "no_speech_prob": 0.0025,
+      "words": [
+        {
+          "word": "దాను",
+          "start": 7.47,
+          "end": 8.11,
+          "probability": 0.8144
+        },
+        {
+          "word": "గిరిస్చు",
+          "start": 8.11,
+          "end": 8.39,
+          "probability": 0.736
+        },
+        {
+          "word": "పూర్ధికా",
+          "start": 8.39,
+          "end": 8.85,
+          "probability": 0.8974
+        },
+        {
+          "word": "discuss",
+          "start": 8.85,
+          "end": 9.01,
+          "probability": 0.2198
+        },
+        {
+          "word": "చాద్దా",
+          "start": 9.01,
+          "end": 9.45,
+          "probability": 0.766
+        },
+        {
+          "word": "మిరోజు",
+          "start": 9.45,
+          "end": 10.05,
+          "probability": 0.8055
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 14.05,
+      "end": 18.93,
+      "text": "list slicing,methods",
+      "language": "te",
+      "avg_logprob": -1.3031,
+      "no_speech_prob": 0.0057,
+      "words": [
+        {
+          "word": "list",
+          "start": 14.05,
+          "end": 15.01,
+          "probability": 0.0061
+        },
+        {
+          "word": "slicing",
+          "start": 15.01,
+          "end": 15.67,
+          "probability": 0.8896
+        },
+        {
+          "word": ",methods",
+          "start": 15.67,
+          "end": 18.93,
+          "probability": 0.504
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 22.13,
+      "end": 25.49,
+      "text": "list is a data type",
+      "language": "te",
+      "avg_logprob": -0.8794,
+      "no_speech_prob": 0.0029,
+      "words": [
+        {
+          "word": "list",
+          "start": 22.13,
+          "end": 23.51,
+          "probability": 0.0306
+        },
+        {
+          "word": "is",
+          "start": 23.51,
+          "end": 24.79,
+          "probability": 0.0569
+        },
+        {
+          "word": "a",
+          "start": 24.79,
+          "end": 24.79,
+          "probability": 0.4021
+        },
+        {
+          "word": "data",
+          "start": 24.79,
+          "end": 25.25,
+          "probability": 0.2942
+        },
+        {
+          "word": "type",
+          "start": 25.25,
+          "end": 25.49,
+          "probability": 0.9268
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 25.49,
+      "end": 29.21,
+      "text": "how to define list in python",
+      "language": "te",
+      "avg_logprob": -0.8794,
+      "no_speech_prob": 0.0029,
+      "words": [
+        {
+          "word": "how",
+          "start": 25.49,
+          "end": 26.31,
+          "probability": 0.0009
+        },
+        {
+          "word": "to",
+          "start": 26.31,
+          "end": 27.31,
+          "probability": 0.2507
+        },
+        {
+          "word": "define",
+          "start": 27.31,
+          "end": 28.33,
+          "probability": 0.8716
+        },
+        {
+          "word": "list",
+          "start": 28.33,
+          "end": 29.05,
+          "probability": 0.5933
+        },
+        {
+          "word": "in",
+          "start": 29.05,
+          "end": 29.05,
+          "probability": 0.3147
+        },
+        {
+          "word": "python",
+          "start": 29.05,
+          "end": 29.21,
+          "probability": 0.9106
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 29.89,
+      "end": 33.45,
+      "text": "we use square brackets",
+      "language": "te",
+      "avg_logprob": -0.8794,
+      "no_speech_prob": 0.0029,
+      "words": [
+        {
+          "word": "we",
+          "start": 29.89,
+          "end": 30.59,
+          "probability": 0.03
+        },
+        {
+          "word": "use",
+          "start": 30.59,
+          "end": 30.99,
+          "probability": 0.2969
+        },
+        {
+          "word": "square",
+          "start": 30.99,
+          "end": 32.69,
+          "probability": 0.7617
+        },
+        {
+          "word": "brackets",
+          "start": 32.69,
+          "end": 33.45,
+          "probability": 0.854
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 33.45,
+      "end": 39.73,
+      "text": "using square bracket we can easily define the list",
+      "language": "te",
+      "avg_logprob": -0.8794,
+      "no_speech_prob": 0.0029,
+      "words": [
+        {
+          "word": "using",
+          "start": 33.45,
+          "end": 33.51,
+          "probability": 0.0015
+        },
+        {
+          "word": "square",
+          "start": 33.51,
+          "end": 34.17,
+          "probability": 0.111
+        },
+        {
+          "word": "bracket",
+          "start": 34.17,
+          "end": 35.97,
+          "probability": 0.0585
+        },
+        {
+          "word": "we",
+          "start": 35.97,
+          "end": 36.57,
+          "probability": 0.6899
+        },
+        {
+          "word": "can",
+          "start": 36.57,
+          "end": 37.01,
+          "probability": 0.7671
+        },
+        {
+          "word": "easily",
+          "start": 37.01,
+          "end": 37.83,
+          "probability": 0.2771
+        },
+        {
+          "word": "define",
+          "start": 37.83,
+          "end": 39.07,
+          "probability": 0.9507
+        },
+        {
+          "word": "the",
+          "start": 39.07,
+          "end": 39.73,
+          "probability": 0.1182
+        },
+        {
+          "word": "list",
+          "start": 39.73,
+          "end": 39.73,
+          "probability": 0.9834
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 39.73,
+      "end": 44.47,
+      "text": "next is mutable datatype",
+      "language": "te",
+      "avg_logprob": -0.8794,
+      "no_speech_prob": 0.0029,
+      "words": [
+        {
+          "word": "next",
+          "start": 39.73,
+          "end": 40.31,
+          "probability": 0.1265
+        },
+        {
+          "word": "is",
+          "start": 40.31,
+          "end": 40.55,
+          "probability": 0.1129
+        },
+        {
+          "word": "mutable",
+          "start": 40.55,
+          "end": 43.15,
+          "probability": 0.5172
+        },
+        {
+          "word": "datatype",
+          "start": 43.15,
+          "end": 44.47,
+          "probability": 0.5477
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 44.47,
+      "end": 56.17,
+      "text": "mutable datatype means once we take elements we can modify or add or delete a data type",
+      "language": "te",
+      "avg_logprob": -0.7832,
+      "no_speech_prob": 0.0027,
+      "words": [
+        {
+          "word": "mutable",
+          "start": 44.47,
+          "end": 45.99,
+          "probability": 0.4798
+        },
+        {
+          "word": "datatype",
+          "start": 45.99,
+          "end": 46.57,
+          "probability": 0.5825
+        },
+        {
+          "word": "means",
+          "start": 46.57,
+          "end": 46.75,
+          "probability": 0.0645
+        },
+        {
+          "word": "once",
+          "start": 46.75,
+          "end": 47.53,
+          "probability": 0.0958
+        },
+        {
+          "word": "we",
+          "start": 47.53,
+          "end": 48.05,
+          "probability": 0.8047
+        },
+        {
+          "word": "take",
+          "start": 48.05,
+          "end": 48.31,
+          "probability": 0.4695
+        },
+        {
+          "word": "elements",
+          "start": 48.31,
+          "end": 49.29,
+          "probability": 0.8618
+        },
+        {
+          "word": "we",
+          "start": 49.29,
+          "end": 49.85,
+          "probability": 0.5283
+        },
+        {
+          "word": "can",
+          "start": 49.85,
+          "end": 50.57,
+          "probability": 0.8667
+        },
+        {
+          "word": "modify",
+          "start": 50.57,
+          "end": 52.01,
+          "probability": 0.9473
+        },
+        {
+          "word": "or",
+          "start": 52.01,
+          "end": 52.43,
+          "probability": 0.1016
+        },
+        {
+          "word": "add",
+          "start": 52.43,
+          "end": 53.85,
+          "probability": 0.4622
+        },
+        {
+          "word": "or",
+          "start": 53.85,
+          "end": 54.75,
+          "probability": 0.4419
+        },
+        {
+          "word": "delete",
+          "start": 54.75,
+          "end": 55.27,
+          "probability": 0.8691
+        },
+        {
+          "word": "a",
+          "start": 55.27,
+          "end": 56.17,
+          "probability": 0.2025
+        },
+        {
+          "word": "data",
+          "start": 56.17,
+          "end": 56.17,
+          "probability": 0.0872
+        },
+        {
+          "word": "type",
+          "start": 56.17,
+          "end": 56.17,
+          "probability": 0.853
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 56.17,
+      "end": 61.09,
+      "text": "so modifying is possible here",
+      "language": "te",
+      "avg_logprob": -0.7832,
+      "no_speech_prob": 0.0027,
+      "words": [
+        {
+          "word": "so",
+          "start": 56.17,
+          "end": 56.17,
+          "probability": 0.1503
+        },
+        {
+          "word": "modifying",
+          "start": 56.17,
+          "end": 59.29,
+          "probability": 0.0672
+        },
+        {
+          "word": "is",
+          "start": 59.29,
+          "end": 59.67,
+          "probability": 0.4402
+        },
+        {
+          "word": "possible",
+          "start": 59.67,
+          "end": 60.47,
+          "probability": 0.7451
+        },
+        {
+          "word": "here",
+          "start": 60.47,
+          "end": 61.09,
+          "probability": 0.3723
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 61.09,
+      "end": 63.07,
+      "text": "that's why we say mutable",
+      "language": "te",
+      "avg_logprob": -0.7832,
+      "no_speech_prob": 0.0027,
+      "words": [
+        {
+          "word": "that's",
+          "start": 61.09,
+          "end": 61.25,
+          "probability": 0.317
+        },
+        {
+          "word": "why",
+          "start": 61.25,
+          "end": 61.25,
+          "probability": 0.9692
+        },
+        {
+          "word": "we",
+          "start": 61.25,
+          "end": 61.51,
+          "probability": 0.8755
+        },
+        {
+          "word": "say",
+          "start": 61.51,
+          "end": 61.75,
+          "probability": 0.5229
+        },
+        {
+          "word": "mutable",
+          "start": 61.75,
+          "end": 63.07,
+          "probability": 0.9709
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 63.07,
+      "end": 65.63,
+      "text": "mutable is nothing but changeable",
+      "language": "te",
+      "avg_logprob": -0.7832,
+      "no_speech_prob": 0.0027,
+      "words": [
+        {
+          "word": "mutable",
+          "start": 63.07,
+          "end": 63.93,
+          "probability": 0.7834
+        },
+        {
+          "word": "is",
+          "start": 63.93,
+          "end": 64.09,
+          "probability": 0.9292
+        },
+        {
+          "word": "nothing",
+          "start": 64.09,
+          "end": 64.29,
+          "probability": 0.9453
+        },
+        {
+          "word": "but",
+          "start": 64.29,
+          "end": 64.53,
+          "probability": 0.9697
+        },
+        {
+          "word": "changeable",
+          "start": 64.53,
+          "end": 65.63,
+          "probability": 0.9805
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 67.85,
+      "end": 74.29,
+      "text": "store different types of elements list stores different types of elements",
+      "language": "te",
+      "avg_logprob": -0.8307,
+      "no_speech_prob": 0.0021,
+      "words": [
+        {
+          "word": "store",
+          "start": 67.85,
+          "end": 69.17,
+          "probability": 0.0055
+        },
+        {
+          "word": "different",
+          "start": 69.17,
+          "end": 69.75,
+          "probability": 0.4639
+        },
+        {
+          "word": "types",
+          "start": 69.75,
+          "end": 70.45,
+          "probability": 0.6118
+        },
+        {
+          "word": "of",
+          "start": 70.45,
+          "end": 70.77,
+          "probability": 0.9663
+        },
+        {
+          "word": "elements",
+          "start": 70.77,
+          "end": 71.21,
+          "probability": 0.9707
+        },
+        {
+          "word": "list",
+          "start": 71.21,
+          "end": 72.09,
+          "probability": 0.5342
+        },
+        {
+          "word": "stores",
+          "start": 72.09,
+          "end": 72.83,
+          "probability": 0.0662
+        },
+        {
+          "word": "different",
+          "start": 72.83,
+          "end": 73.09,
+          "probability": 0.9492
+        },
+        {
+          "word": "types",
+          "start": 73.09,
+          "end": 73.75,
+          "probability": 0.7969
+        },
+        {
+          "word": "of",
+          "start": 73.75,
+          "end": 73.99,
+          "probability": 0.9785
+        },
+        {
+          "word": "elements",
+          "start": 73.99,
+          "end": 74.29,
+          "probability": 0.9746
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 74.99,
+      "end": 84.33,
+      "text": "for example if we take house,float ,list string boolean complex any data type",
+      "language": "te",
+      "avg_logprob": -0.8307,
+      "no_speech_prob": 0.0021,
+      "words": [
+        {
+          "word": "for",
+          "start": 74.99,
+          "end": 75.65,
+          "probability": 0.3496
+        },
+        {
+          "word": "example",
+          "start": 75.65,
+          "end": 76.09,
+          "probability": 0.8569
+        },
+        {
+          "word": "if",
+          "start": 76.09,
+          "end": 76.69,
+          "probability": 0.0234
+        },
+        {
+          "word": "we",
+          "start": 76.69,
+          "end": 76.69,
+          "probability": 0.7334
+        },
+        {
+          "word": "take",
+          "start": 76.69,
+          "end": 76.89,
+          "probability": 0.7368
+        },
+        {
+          "word": "house",
+          "start": 76.89,
+          "end": 77.79,
+          "probability": 0.2074
+        },
+        {
+          "word": ",float",
+          "start": 77.79,
+          "end": 79.05,
+          "probability": 0.5802
+        },
+        {
+          "word": ",list",
+          "start": 79.05,
+          "end": 80.35,
+          "probability": 0.5001
+        },
+        {
+          "word": "string",
+          "start": 80.35,
+          "end": 81.11,
+          "probability": 0.1501
+        },
+        {
+          "word": "boolean",
+          "start": 81.11,
+          "end": 82.27,
+          "probability": 0.554
+        },
+        {
+          "word": "complex",
+          "start": 82.27,
+          "end": 82.69,
+          "probability": 0.0474
+        },
+        {
+          "word": "any",
+          "start": 82.69,
+          "end": 83.35,
+          "probability": 0.22
+        },
+        {
+          "word": "data",
+          "start": 83.35,
+          "end": 84.05,
+          "probability": 0.5679
+        },
+        {
+          "word": "type",
+          "start": 84.05,
+          "end": 84.33,
+          "probability": 0.8413
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 88.09,
+      "end": 90.59,
+      "text": "allow duplicates",
+      "language": "te",
+      "avg_logprob": -1.4401,
+      "no_speech_prob": 0.0103,
+      "words": [
+        {
+          "word": "allow",
+          "start": 88.09,
+          "end": 89.49,
+          "probability": 0.0039
+        },
+        {
+          "word": "duplicates",
+          "start": 89.49,
+          "end": 90.59,
+          "probability": 0.8997
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 92.39,
+      "end": 95.67,
+      "text": "అలో, duplicates. ఇంట్లో లిస్ట్‌లో elements ఈది duplicate న అరొ యాస్తివం.",
+      "language": "te",
+      "avg_logprob": -0.6966,
+      "no_speech_prob": 0.0017,
+      "words": [
+        {
+          "word": "అలో,",
+          "start": 92.39,
+          "end": 92.83,
+          "probability": 0.741
+        },
+        {
+          "word": "duplicates.",
+          "start": 92.83,
+          "end": 93.27,
+          "probability": 0.5018
+        },
+        {
+          "word": "ఇంట్తె",
+          "start": 93.35,
+          "end": 93.69,
+          "probability": 0.5333
+        },
+        {
+          "word": "లిజ్టునీ",
+          "start": 93.69,
+          "end": 94.29,
+          "probability": 0.6183
+        },
+        {
+          "word": "elements",
+          "start": 94.29,
+          "end": 94.51,
+          "probability": 0.2255
+        },
+        {
+          "word": "ఈది",
+          "start": 94.51,
+          "end": 94.81,
+          "probability": 0.6318
+        },
+        {
+          "word": "duplicate",
+          "start": 94.81,
+          "end": 94.99,
+          "probability": 0.6348
+        },
+        {
+          "word": "న",
+          "start": 94.99,
+          "end": 95.29,
+          "probability": 0.7734
+        },
+        {
+          "word": "అరొ",
+          "start": 95.29,
+          "end": 95.39,
+          "probability": 0.5609
+        },
+        {
+          "word": "యాస్తివం.",
+          "start": 95.39,
+          "end": 95.67,
+          "probability": 0.6111
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 95.67,
+      "end": 99.65,
+      "text": "For example, 1 comma ,1 comma, 1 comma, any ones ఉడిష్కుండా, all ones ప్రింటావతది.",
+      "language": "te",
+      "avg_logprob": -0.6966,
+      "no_speech_prob": 0.0017,
+      "words": [
+        {
+          "word": "For",
+          "start": 95.67,
+          "end": 95.75,
+          "probability": 0.1278
+        },
+        {
+          "word": "example,",
+          "start": 95.75,
+          "end": 96.07,
+          "probability": 0.856
+        },
+        {
+          "word": "1",
+          "start": 96.15,
+          "end": 96.29,
+          "probability": 0.2585
+        },
+        {
+          "word": "comma",
+          "start": 96.29,
+          "end": 96.59,
+          "probability": 0.3179
+        },
+        {
+          "word": ",1",
+          "start": 96.59,
+          "end": 96.91,
+          "probability": 0.1472
+        },
+        {
+          "word": "comma,",
+          "start": 96.91,
+          "end": 97.15,
+          "probability": 0.9927
+        },
+        {
+          "word": "1",
+          "start": 97.19,
+          "end": 97.31,
+          "probability": 0.6782
+        },
+        {
+          "word": "comma,",
+          "start": 97.31,
+          "end": 97.53,
+          "probability": 0.981
+        },
+        {
+          "word": "any",
+          "start": 97.65,
+          "end": 97.87,
+          "probability": 0.0791
+        },
+        {
+          "word": "ones",
+          "start": 97.87,
+          "end": 98.17,
+          "probability": 0.5122
+        },
+        {
+          "word": "ఉడిష్కుండా,",
+          "start": 98.17,
+          "end": 98.65,
+          "probability": 0.6935
+        },
+        {
+          "word": "all",
+          "start": 98.69,
+          "end": 98.77,
+          "probability": 0.1065
+        },
+        {
+          "word": "ones",
+          "start": 98.77,
+          "end": 98.99,
+          "probability": 0.7949
+        },
+        {
+          "word": "ప్రింటావతది.",
+          "start": 98.99,
+          "end": 99.65,
+          "probability": 0.7634
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 99.65,
+      "end": 102.61,
+      "text": "duplicates allow you means only one person can read it",
+      "language": "te",
+      "avg_logprob": -0.8414,
+      "no_speech_prob": 0.0095,
+      "words": [
+        {
+          "word": "duplicates",
+          "start": 99.65,
+          "end": 100.77,
+          "probability": 0.4801
+        },
+        {
+          "word": "allow",
+          "start": 100.77,
+          "end": 100.89,
+          "probability": 0.4431
+        },
+        {
+          "word": "you",
+          "start": 100.89,
+          "end": 101.05,
+          "probability": 0.5674
+        },
+        {
+          "word": "means",
+          "start": 101.05,
+          "end": 101.31,
+          "probability": 0.0251
+        },
+        {
+          "word": "only",
+          "start": 101.31,
+          "end": 101.85,
+          "probability": 0.7686
+        },
+        {
+          "word": "one",
+          "start": 101.85,
+          "end": 102.09,
+          "probability": 0.8398
+        },
+        {
+          "word": "person",
+          "start": 102.09,
+          "end": 102.33,
+          "probability": 0.2101
+        },
+        {
+          "word": "can",
+          "start": 102.33,
+          "end": 102.37,
+          "probability": 0.2073
+        },
+        {
+          "word": "read",
+          "start": 102.37,
+          "end": 102.61,
+          "probability": 0.1912
+        },
+        {
+          "word": "it",
+          "start": 102.61,
+          "end": 102.61,
+          "probability": 0.4436
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 102.61,
+      "end": 107.67,
+      "text": "in the same way hello indexing also allows",
+      "language": "te",
+      "avg_logprob": -0.8414,
+      "no_speech_prob": 0.0095,
+      "words": [
+        {
+          "word": "in",
+          "start": 102.61,
+          "end": 103.61,
+          "probability": 0.0289
+        },
+        {
+          "word": "the",
+          "start": 103.61,
+          "end": 104.13,
+          "probability": 0.2583
+        },
+        {
+          "word": "same",
+          "start": 104.13,
+          "end": 104.13,
+          "probability": 0.8228
+        },
+        {
+          "word": "way",
+          "start": 104.13,
+          "end": 104.25,
+          "probability": 0.9253
+        },
+        {
+          "word": "hello",
+          "start": 104.25,
+          "end": 104.83,
+          "probability": 0.1616
+        },
+        {
+          "word": "indexing",
+          "start": 104.83,
+          "end": 105.95,
+          "probability": 0.895
+        },
+        {
+          "word": "also",
+          "start": 106.05,
+          "end": 107.47,
+          "probability": 0.1583
+        },
+        {
+          "word": "allows",
+          "start": 107.47,
+          "end": 107.67,
+          "probability": 0.3088
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 107.67,
+      "end": 109.99,
+      "text": "i will explain what is indexing",
+      "language": "te",
+      "avg_logprob": -0.8414,
+      "no_speech_prob": 0.0095,
+      "words": [
+        {
+          "word": "i",
+          "start": 107.67,
+          "end": 108.21,
+          "probability": 0.0052
+        },
+        {
+          "word": "will",
+          "start": 108.21,
+          "end": 108.49,
+          "probability": 0.627
+        },
+        {
+          "word": "explain",
+          "start": 108.49,
+          "end": 108.49,
+          "probability": 0.9351
+        },
+        {
+          "word": "what",
+          "start": 108.49,
+          "end": 108.49,
+          "probability": 0.5752
+        },
+        {
+          "word": "is",
+          "start": 108.49,
+          "end": 108.53,
+          "probability": 0.707
+        },
+        {
+          "word": "indexing",
+          "start": 108.53,
+          "end": 109.99,
+          "probability": 0.9565
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 109.99,
+      "end": 112.95,
+      "text": "there should be an index in your book",
+      "language": "te",
+      "avg_logprob": -0.8414,
+      "no_speech_prob": 0.0095,
+      "words": [
+        {
+          "word": "there",
+          "start": 109.99,
+          "end": 111.07,
+          "probability": 0.051
+        },
+        {
+          "word": "should",
+          "start": 111.07,
+          "end": 111.79,
+          "probability": 0.0459
+        },
+        {
+          "word": "be",
+          "start": 111.79,
+          "end": 112.27,
+          "probability": 0.9678
+        },
+        {
+          "word": "an",
+          "start": 112.27,
+          "end": 112.35,
+          "probability": 0.3413
+        },
+        {
+          "word": "index",
+          "start": 112.35,
+          "end": 112.63,
+          "probability": 0.9946
+        },
+        {
+          "word": "in",
+          "start": 112.63,
+          "end": 112.91,
+          "probability": 0.7593
+        },
+        {
+          "word": "your",
+          "start": 112.91,
+          "end": 112.95,
+          "probability": 0.3816
+        },
+        {
+          "word": "book",
+          "start": 112.95,
+          "end": 112.95,
+          "probability": 0.8496
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 112.95,
+      "end": 114.29,
+      "text": "for example if we have 10 pages",
+      "language": "te",
+      "avg_logprob": -0.8414,
+      "no_speech_prob": 0.0095,
+      "words": [
+        {
+          "word": "for",
+          "start": 112.95,
+          "end": 113.33,
+          "probability": 0.3848
+        },
+        {
+          "word": "example",
+          "start": 113.33,
+          "end": 113.61,
+          "probability": 0.7578
+        },
+        {
+          "word": "if",
+          "start": 113.61,
+          "end": 113.75,
+          "probability": 0.2354
+        },
+        {
+          "word": "we",
+          "start": 113.75,
+          "end": 113.85,
+          "probability": 0.02
+        },
+        {
+          "word": "have",
+          "start": 113.85,
+          "end": 113.85,
+          "probability": 0.8574
+        },
+        {
+          "word": "10",
+          "start": 113.85,
+          "end": 113.99,
+          "probability": 0.7256
+        },
+        {
+          "word": "pages",
+          "start": 113.99,
+          "end": 114.29,
+          "probability": 0.2406
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 115.33,
+      "end": 119.25,
+      "text": "first index or zero index",
+      "language": "te",
+      "avg_logprob": -0.8414,
+      "no_speech_prob": 0.0095,
+      "words": [
+        {
+          "word": "first",
+          "start": 115.33,
+          "end": 116.03,
+          "probability": 0.0272
+        },
+        {
+          "word": "index",
+          "start": 116.03,
+          "end": 116.73,
+          "probability": 0.8242
+        },
+        {
+          "word": "or",
+          "start": 116.73,
+          "end": 118.49,
+          "probability": 0.2499
+        },
+        {
+          "word": "zero",
+          "start": 118.49,
+          "end": 118.93,
+          "probability": 0.5859
+        },
+        {
+          "word": "index",
+          "start": 118.93,
+          "end": 119.25,
+          "probability": 0.9844
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 119.25,
+      "end": 121.95,
+      "text": "exactly as seen here",
+      "language": "te",
+      "avg_logprob": -0.8414,
+      "no_speech_prob": 0.0095,
+      "words": [
+        {
+          "word": "exactly",
+          "start": 119.25,
+          "end": 120.13,
+          "probability": 0.054
+        },
+        {
+          "word": "as",
+          "start": 120.13,
+          "end": 120.87,
+          "probability": 0.1394
+        },
+        {
+          "word": "seen",
+          "start": 120.87,
+          "end": 121.51,
+          "probability": 0.1139
+        },
+        {
+          "word": "here",
+          "start": 121.51,
+          "end": 121.95,
+          "probability": 0.8931
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 122.61,
+      "end": 130.77,
+      "text": "indexing is two ways forward indexing and negative indexing",
+      "language": "te",
+      "avg_logprob": -1.0501,
+      "no_speech_prob": 0.0022,
+      "words": [
+        {
+          "word": "indexing",
+          "start": 122.61,
+          "end": 123.33,
+          "probability": 0.4684
+        },
+        {
+          "word": "is",
+          "start": 123.33,
+          "end": 123.43,
+          "probability": 0.0219
+        },
+        {
+          "word": "two",
+          "start": 123.43,
+          "end": 124.13,
+          "probability": 0.1011
+        },
+        {
+          "word": "ways",
+          "start": 124.13,
+          "end": 125.79,
+          "probability": 0.3479
+        },
+        {
+          "word": "forward",
+          "start": 125.79,
+          "end": 126.37,
+          "probability": 0.3027
+        },
+        {
+          "word": "indexing",
+          "start": 126.37,
+          "end": 128.21,
+          "probability": 0.9656
+        },
+        {
+          "word": "and",
+          "start": 128.21,
+          "end": 128.33,
+          "probability": 0.5957
+        },
+        {
+          "word": "negative",
+          "start": 128.33,
+          "end": 129.71,
+          "probability": 0.7153
+        },
+        {
+          "word": "indexing",
+          "start": 129.71,
+          "end": 130.77,
+          "probability": 0.9946
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 130.77,
+      "end": 137.75,
+      "text": "forward indexing starts from zero",
+      "language": "te",
+      "avg_logprob": -1.0501,
+      "no_speech_prob": 0.0022,
+      "words": [
+        {
+          "word": "forward",
+          "start": 130.77,
+          "end": 131.39,
+          "probability": 0.1573
+        },
+        {
+          "word": "indexing",
+          "start": 131.39,
+          "end": 135.57,
+          "probability": 0.9927
+        },
+        {
+          "word": "starts",
+          "start": 135.57,
+          "end": 135.95,
+          "probability": 0.7305
+        },
+        {
+          "word": "from",
+          "start": 135.95,
+          "end": 136.33,
+          "probability": 0.5742
+        },
+        {
+          "word": "zero",
+          "start": 136.33,
+          "end": 137.75,
+          "probability": 0.4553
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 140.67,
+      "end": 155.41,
+      "text": "for example if you have 10 elements in forward indexing n-1 means 9 is your last index",
+      "language": "te",
+      "avg_logprob": -0.8045,
+      "no_speech_prob": 0.0057,
+      "words": [
+        {
+          "word": "for",
+          "start": 140.67,
+          "end": 141.75,
+          "probability": 0.0039
+        },
+        {
+          "word": "example",
+          "start": 141.75,
+          "end": 142.39,
+          "probability": 0.7632
+        },
+        {
+          "word": "if",
+          "start": 142.39,
+          "end": 142.65,
+          "probability": 0.0918
+        },
+        {
+          "word": "you",
+          "start": 142.65,
+          "end": 142.65,
+          "probability": 0.8252
+        },
+        {
+          "word": "have",
+          "start": 142.65,
+          "end": 142.85,
+          "probability": 0.9116
+        },
+        {
+          "word": "10",
+          "start": 142.85,
+          "end": 144.03,
+          "probability": 0.8276
+        },
+        {
+          "word": "elements",
+          "start": 144.13,
+          "end": 144.47,
+          "probability": 0.832
+        },
+        {
+          "word": "in",
+          "start": 144.47,
+          "end": 144.63,
+          "probability": 0.3281
+        },
+        {
+          "word": "forward",
+          "start": 144.63,
+          "end": 146.67,
+          "probability": 0.4102
+        },
+        {
+          "word": "indexing",
+          "start": 146.67,
+          "end": 148.17,
+          "probability": 0.9336
+        },
+        {
+          "word": "n",
+          "start": 148.17,
+          "end": 148.55,
+          "probability": 0.3269
+        },
+        {
+          "word": "-1",
+          "start": 148.55,
+          "end": 149.09,
+          "probability": 0.8499
+        },
+        {
+          "word": "means",
+          "start": 149.09,
+          "end": 149.51,
+          "probability": 0.3262
+        },
+        {
+          "word": "9",
+          "start": 149.51,
+          "end": 152.39,
+          "probability": 0.4614
+        },
+        {
+          "word": "is",
+          "start": 152.39,
+          "end": 152.83,
+          "probability": 0.6846
+        },
+        {
+          "word": "your",
+          "start": 152.83,
+          "end": 153.31,
+          "probability": 0.6768
+        },
+        {
+          "word": "last",
+          "start": 153.31,
+          "end": 154.29,
+          "probability": 0.8599
+        },
+        {
+          "word": "index",
+          "start": 154.29,
+          "end": 155.41,
+          "probability": 0.9355
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 156.15,
+      "end": 163.05,
+      "text": "so negative indexing starts with minus 1 and goes to minus 8",
+      "language": "te",
+      "avg_logprob": -0.8045,
+      "no_speech_prob": 0.0057,
+      "words": [
+        {
+          "word": "so",
+          "start": 156.15,
+          "end": 156.69,
+          "probability": 0.2041
+        },
+        {
+          "word": "negative",
+          "start": 156.69,
+          "end": 157.69,
+          "probability": 0.2446
+        },
+        {
+          "word": "indexing",
+          "start": 157.69,
+          "end": 158.25,
+          "probability": 0.9658
+        },
+        {
+          "word": "starts",
+          "start": 158.25,
+          "end": 158.63,
+          "probability": 0.6631
+        },
+        {
+          "word": "with",
+          "start": 158.63,
+          "end": 158.79,
+          "probability": 0.7866
+        },
+        {
+          "word": "minus",
+          "start": 158.79,
+          "end": 159.13,
+          "probability": 0.056
+        },
+        {
+          "word": "1",
+          "start": 159.13,
+          "end": 159.43,
+          "probability": 0.8311
+        },
+        {
+          "word": "and",
+          "start": 159.43,
+          "end": 160.41,
+          "probability": 0.7759
+        },
+        {
+          "word": "goes",
+          "start": 160.41,
+          "end": 161.19,
+          "probability": 0.4065
+        },
+        {
+          "word": "to",
+          "start": 161.19,
+          "end": 161.73,
+          "probability": 0.2783
+        },
+        {
+          "word": "minus",
+          "start": 161.73,
+          "end": 162.59,
+          "probability": 0.6694
+        },
+        {
+          "word": "8",
+          "start": 162.59,
+          "end": 163.05,
+          "probability": 0.2397
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 164.77,
+      "end": 165.81,
+      "text": "మాయన్యేస్ కిందాక్రిలుతోది.",
+      "language": "te",
+      "avg_logprob": -0.5548,
+      "no_speech_prob": 0.0008,
+      "words": [
+        {
+          "word": "మైన్యేస్",
+          "start": 164.77,
+          "end": 165.29,
+          "probability": 0.5636
+        },
+        {
+          "word": "కిందాక్రిలుతోది.",
+          "start": 165.29,
+          "end": 165.81,
+          "probability": 0.6566
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 165.81,
+      "end": 167.35,
+      "text": "ఉకెనా? ఇది గుర్ధపేట్వడి.",
+      "language": "te",
+      "avg_logprob": -0.5548,
+      "no_speech_prob": 0.0008,
+      "words": [
+        {
+          "word": "ఉకెనా?",
+          "start": 165.81,
+          "end": 166.33,
+          "probability": 0.7445
+        },
+        {
+          "word": "ఇది",
+          "start": 166.35,
+          "end": 166.75,
+          "probability": 0.9492
+        },
+        {
+          "word": "గుర్ధపేట్వడి.",
+          "start": 166.75,
+          "end": 167.35,
+          "probability": 0.7488
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 167.39,
+      "end": 168.41,
+      "text": "ఇండెక్జిం అంటే ఏండి లీదు,",
+      "language": "te",
+      "avg_logprob": -0.5548,
+      "no_speech_prob": 0.0008,
+      "words": [
+        {
+          "word": "ఇండేక్జిం",
+          "start": 167.39,
+          "end": 167.89,
+          "probability": 0.8856
+        },
+        {
+          "word": "అంటే",
+          "start": 167.89,
+          "end": 168.07,
+          "probability": 0.7884
+        },
+        {
+          "word": "ఏండి",
+          "start": 168.07,
+          "end": 168.33,
+          "probability": 0.7166
+        },
+        {
+          "word": "లీదు,",
+          "start": 168.33,
+          "end": 168.41,
+          "probability": 0.7724
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 168.49,
+      "end": 169.37,
+      "text": "మన ఎల్లిమెంటినీ అక్",
+      "language": "te",
+      "avg_logprob": -0.5548,
+      "no_speech_prob": 0.0008,
+      "words": [
+        {
+          "word": "మన",
+          "start": 168.49,
+          "end": 168.63,
+          "probability": 0.9318
+        },
+        {
+          "word": "ఎల్లిమెంటినీ",
+          "start": 168.63,
+          "end": 169.19,
+          "probability": 0.7786
+        },
+        {
+          "word": "అక్�",
+          "start": 169.19,
+          "end": 169.37,
+          "probability": 0.7088
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 174.77,
+      "end": 182.05,
+      "text": "1 index 0 index 2.2 index 1 index true index 2.1 index",
+      "language": "te",
+      "avg_logprob": -1.0453,
+      "no_speech_prob": 0.0191,
+      "words": [
+        {
+          "word": "1",
+          "start": 174.77,
+          "end": 175.19,
+          "probability": 0.5317
+        },
+        {
+          "word": "index",
+          "start": 175.19,
+          "end": 175.63,
+          "probability": 0.0001
+        },
+        {
+          "word": "0",
+          "start": 175.63,
+          "end": 176.43,
+          "probability": 0.0214
+        },
+        {
+          "word": "index",
+          "start": 176.43,
+          "end": 177.23,
+          "probability": 0.8203
+        },
+        {
+          "word": "2",
+          "start": 177.23,
+          "end": 178.21,
+          "probability": 0.5928
+        },
+        {
+          "word": ".2",
+          "start": 178.21,
+          "end": 178.73,
+          "probability": 0.5302
+        },
+        {
+          "word": "index",
+          "start": 178.73,
+          "end": 178.91,
+          "probability": 0.8657
+        },
+        {
+          "word": "1",
+          "start": 178.91,
+          "end": 179.57,
+          "probability": 0.8599
+        },
+        {
+          "word": "index",
+          "start": 179.57,
+          "end": 180.27,
+          "probability": 0.9712
+        },
+        {
+          "word": "true",
+          "start": 180.27,
+          "end": 180.75,
+          "probability": 0.2003
+        },
+        {
+          "word": "index",
+          "start": 180.75,
+          "end": 180.99,
+          "probability": 0.8672
+        },
+        {
+          "word": "2",
+          "start": 180.99,
+          "end": 181.69,
+          "probability": 0.6636
+        },
+        {
+          "word": ".1",
+          "start": 181.69,
+          "end": 181.89,
+          "probability": 0.5404
+        },
+        {
+          "word": "index",
+          "start": 181.89,
+          "end": 182.05,
+          "probability": 0.9272
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 182.83,
+      "end": 185.71,
+      "text": "for example how to access this two?",
+      "language": "te",
+      "avg_logprob": -1.0453,
+      "no_speech_prob": 0.0191,
+      "words": [
+        {
+          "word": "for",
+          "start": 182.83,
+          "end": 183.35,
+          "probability": 0.1592
+        },
+        {
+          "word": "example",
+          "start": 183.35,
+          "end": 184.01,
+          "probability": 0.9165
+        },
+        {
+          "word": "how",
+          "start": 184.01,
+          "end": 184.79,
+          "probability": 0.0759
+        },
+        {
+          "word": "to",
+          "start": 184.79,
+          "end": 184.93,
+          "probability": 0.3564
+        },
+        {
+          "word": "access",
+          "start": 184.93,
+          "end": 185.35,
+          "probability": 0.8506
+        },
+        {
+          "word": "this",
+          "start": 185.35,
+          "end": 185.71,
+          "probability": 0.2064
+        },
+        {
+          "word": "two?",
+          "start": 185.71,
+          "end": 185.71,
+          "probability": 0.0468
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 185.71,
+      "end": 191.47,
+      "text": "if else elif break continue return list tuple dict set function variable string",
+      "language": "te",
+      "avg_logprob": -0.9669,
+      "no_speech_prob": 0.1639,
+      "words": [
+        {
+          "word": "if",
+          "start": 185.71,
+          "end": 185.71,
+          "probability": 0.0004
+        },
+        {
+          "word": "else",
+          "start": 185.71,
+          "end": 185.71,
+          "probability": 0.0
+        },
+        {
+          "word": "elif",
+          "start": 185.71,
+          "end": 185.93,
+          "probability": 0.001
+        },
+        {
+          "word": "break",
+          "start": 185.93,
+          "end": 186.15,
+          "probability": 0.0001
+        },
+        {
+          "word": "continue",
+          "start": 186.15,
+          "end": 186.19,
+          "probability": 0.0
+        },
+        {
+          "word": "return",
+          "start": 186.19,
+          "end": 186.83,
+          "probability": 0.0001
+        },
+        {
+          "word": "list",
+          "start": 186.83,
+          "end": 188.13,
+          "probability": 0.0
+        },
+        {
+          "word": "tuple",
+          "start": 188.13,
+          "end": 189.89,
+          "probability": 0.0001
+        },
+        {
+          "word": "dict",
+          "start": 189.89,
+          "end": 190.03,
+          "probability": 0.0
+        },
+        {
+          "word": "set",
+          "start": 190.03,
+          "end": 190.59,
+          "probability": 0.0001
+        },
+        {
+          "word": "function",
+          "start": 190.59,
+          "end": 191.21,
+          "probability": 0.0001
+        },
+        {
+          "word": "variable",
+          "start": 191.21,
+          "end": 191.37,
+          "probability": 0.0009
+        },
+        {
+          "word": "string",
+          "start": 191.37,
+          "end": 191.47,
+          "probability": 0.0015
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 191.47,
+      "end": 191.83,
+      "text": "update",
+      "language": "te",
+      "avg_logprob": -1.5059,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "update",
+          "start": 191.47,
+          "end": 191.83,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 191.85,
+      "end": 193.25,
+      "text": "indexing",
+      "language": "te",
+      "avg_logprob": -1.5995,
+      "no_speech_prob": 0.0135,
+      "words": [
+        {
+          "word": "indexing",
+          "start": 191.85,
+          "end": 193.25,
+          "probability": 0.2374
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 196.17,
+      "end": 199.09,
+      "text": "index and element",
+      "language": "te",
+      "avg_logprob": -1.0408,
+      "no_speech_prob": 0.0337,
+      "words": [
+        {
+          "word": "index",
+          "start": 196.17,
+          "end": 197.57,
+          "probability": 0.0018
+        },
+        {
+          "word": "and",
+          "start": 197.57,
+          "end": 198.63,
+          "probability": 0.0047
+        },
+        {
+          "word": "element",
+          "start": 198.63,
+          "end": 199.09,
+          "probability": 0.6567
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 199.09,
+      "end": 207.46,
+      "text": "next we will use this index to implement slicing",
+      "language": "te",
+      "avg_logprob": -1.0408,
+      "no_speech_prob": 0.0337,
+      "words": [
+        {
+          "word": "next",
+          "start": 199.09,
+          "end": 200.63,
+          "probability": 0.0011
+        },
+        {
+          "word": "we",
+          "start": 200.63,
+          "end": 202.05,
+          "probability": 0.215
+        },
+        {
+          "word": "will",
+          "start": 202.05,
+          "end": 202.33,
+          "probability": 0.4702
+        },
+        {
+          "word": "use",
+          "start": 202.33,
+          "end": 203.31,
+          "probability": 0.3635
+        },
+        {
+          "word": "this",
+          "start": 203.6,
+          "end": 204.1,
+          "probability": 0.3518
+        },
+        {
+          "word": "index",
+          "start": 204.1,
+          "end": 204.62,
+          "probability": 0.9224
+        },
+        {
+          "word": "to",
+          "start": 204.62,
+          "end": 204.98,
+          "probability": 0.183
+        },
+        {
+          "word": "implement",
+          "start": 204.98,
+          "end": 206.02,
+          "probability": 0.6758
+        },
+        {
+          "word": "slicing",
+          "start": 206.02,
+          "end": 207.46,
+          "probability": 0.8198
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 207.46,
+      "end": 210.42,
+      "text": "slicing is cutting a list into parts",
+      "language": "te",
+      "avg_logprob": -1.0408,
+      "no_speech_prob": 0.0337,
+      "words": [
+        {
+          "word": "slicing",
+          "start": 207.46,
+          "end": 207.64,
+          "probability": 0.1968
+        },
+        {
+          "word": "is",
+          "start": 207.64,
+          "end": 208.1,
+          "probability": 0.3145
+        },
+        {
+          "word": "cutting",
+          "start": 208.1,
+          "end": 208.96,
+          "probability": 0.1299
+        },
+        {
+          "word": "a",
+          "start": 208.96,
+          "end": 208.96,
+          "probability": 0.4622
+        },
+        {
+          "word": "list",
+          "start": 208.96,
+          "end": 209.56,
+          "probability": 0.7744
+        },
+        {
+          "word": "into",
+          "start": 209.56,
+          "end": 209.86,
+          "probability": 0.3916
+        },
+        {
+          "word": "parts",
+          "start": 209.86,
+          "end": 210.42,
+          "probability": 0.8403
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 210.42,
+      "end": 219.94,
+      "text": "slicing means start, stop & skip",
+      "language": "te",
+      "avg_logprob": -1.0408,
+      "no_speech_prob": 0.0337,
+      "words": [
+        {
+          "word": "slicing",
+          "start": 210.42,
+          "end": 212.16,
+          "probability": 0.0383
+        },
+        {
+          "word": "means",
+          "start": 212.16,
+          "end": 216.12,
+          "probability": 0.2986
+        },
+        {
+          "word": "start,",
+          "start": 216.12,
+          "end": 217.16,
+          "probability": 0.3059
+        },
+        {
+          "word": "stop",
+          "start": 218.14,
+          "end": 218.7,
+          "probability": 0.6299
+        },
+        {
+          "word": "&",
+          "start": 218.7,
+          "end": 219.56,
+          "probability": 0.0239
+        },
+        {
+          "word": "skip",
+          "start": 219.56,
+          "end": 219.94,
+          "probability": 0.9199
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 222.7,
+      "end": 231.32,
+      "text": "0 index start 5 index 2 to skip",
+      "language": "te",
+      "avg_logprob": -1.1875,
+      "no_speech_prob": 0.0103,
+      "words": [
+        {
+          "word": "0",
+          "start": 222.7,
+          "end": 224.1,
+          "probability": 0.0571
+        },
+        {
+          "word": "index",
+          "start": 224.1,
+          "end": 224.8,
+          "probability": 0.3303
+        },
+        {
+          "word": "start",
+          "start": 224.8,
+          "end": 225.18,
+          "probability": 0.0262
+        },
+        {
+          "word": "5",
+          "start": 225.18,
+          "end": 226.78,
+          "probability": 0.1558
+        },
+        {
+          "word": "index",
+          "start": 226.78,
+          "end": 228.72,
+          "probability": 0.9507
+        },
+        {
+          "word": "2",
+          "start": 228.72,
+          "end": 229.98,
+          "probability": 0.6572
+        },
+        {
+          "word": "to",
+          "start": 229.98,
+          "end": 231.12,
+          "probability": 0.1714
+        },
+        {
+          "word": "skip",
+          "start": 231.12,
+          "end": 231.32,
+          "probability": 0.5605
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 231.32,
+      "end": 234.98,
+      "text": "స్కిప్పావుగంటు రావాలి. అన్తే, ఈట్ల కణ్డిశిస్ బెటికో మన హయిం జేసామంచ్తి",
+      "language": "te",
+      "avg_logprob": -0.4762,
+      "no_speech_prob": 0.0447,
+      "words": [
+        {
+          "word": "స్కిప్పావుగంటు",
+          "start": 231.32,
+          "end": 231.8,
+          "probability": 0.7771
+        },
+        {
+          "word": "రావాలి.",
+          "start": 231.8,
+          "end": 232.26,
+          "probability": 0.9657
+        },
+        {
+          "word": "అన్తే,",
+          "start": 232.26,
+          "end": 232.54,
+          "probability": 0.7963
+        },
+        {
+          "word": "ఈట్ల",
+          "start": 232.56,
+          "end": 233.26,
+          "probability": 0.8494
+        },
+        {
+          "word": "కణ్డిశిస్",
+          "start": 233.26,
+          "end": 233.78,
+          "probability": 0.8358
+        },
+        {
+          "word": "బెటికో",
+          "start": 233.78,
+          "end": 234.06,
+          "probability": 0.7492
+        },
+        {
+          "word": "మన",
+          "start": 234.06,
+          "end": 234.22,
+          "probability": 0.7697
+        },
+        {
+          "word": "హయిం",
+          "start": 234.22,
+          "end": 234.4,
+          "probability": 0.6056
+        },
+        {
+          "word": "జేసామంచ్తి",
+          "start": 234.4,
+          "end": 234.98,
+          "probability": 0.6619
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 239.36,
+      "end": 245.78,
+      "text": "ప్రజేకానికి వీడు స్లైసింగ్ చోట్ మాట్ట౉ పాటలు ప఼టళు త్రాయ్ చేస్ కొఛు",
+      "language": "te",
+      "avg_logprob": -0.7515,
+      "no_speech_prob": 0.0239,
+      "words": [
+        {
+          "word": "ప్రజేకానికి",
+          "start": 239.36,
+          "end": 240.2,
+          "probability": 0.6542
+        },
+        {
+          "word": "వీడు",
+          "start": 240.2,
+          "end": 240.4,
+          "probability": 0.6352
+        },
+        {
+          "word": "స్లైశింగె",
+          "start": 240.4,
+          "end": 240.9,
+          "probability": 0.78
+        },
+        {
+          "word": "చోట్",
+          "start": 240.9,
+          "end": 241.24,
+          "probability": 0.5288
+        },
+        {
+          "word": "మాట్ట౉",
+          "start": 241.24,
+          "end": 241.48,
+          "probability": 0.605
+        },
+        {
+          "word": "పాటలు",
+          "start": 241.48,
+          "end": 242.02,
+          "probability": 0.778
+        },
+        {
+          "word": "ప఼టళు",
+          "start": 242.02,
+          "end": 243.56,
+          "probability": 0.7224
+        },
+        {
+          "word": "త్రాయ్",
+          "start": 243.56,
+          "end": 243.84,
+          "probability": 0.6724
+        },
+        {
+          "word": "చేస్",
+          "start": 243.84,
+          "end": 245.66,
+          "probability": 0.857
+        },
+        {
+          "word": "కొఛు",
+          "start": 245.66,
+          "end": 245.78,
+          "probability": 0.6013
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 245.8,
+      "end": 250.94,
+      "text": "set up, stop and skip",
+      "language": "te",
+      "avg_logprob": -2.2717,
+      "no_speech_prob": 0.0018,
+      "words": [
+        {
+          "word": "set",
+          "start": 245.8,
+          "end": 247.0,
+          "probability": 0.0
+        },
+        {
+          "word": "up,",
+          "start": 247.0,
+          "end": 248.2,
+          "probability": 0.3389
+        },
+        {
+          "word": "stop",
+          "start": 250.0,
+          "end": 250.22,
+          "probability": 0.1859
+        },
+        {
+          "word": "and",
+          "start": 250.22,
+          "end": 250.76,
+          "probability": 0.1494
+        },
+        {
+          "word": "skip",
+          "start": 250.76,
+          "end": 250.94,
+          "probability": 0.9111
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 251.94,
+      "end": 253.92,
+      "text": "i will show you all this in practical way",
+      "language": "te",
+      "avg_logprob": -0.9936,
+      "no_speech_prob": 0.0028,
+      "words": [
+        {
+          "word": "i",
+          "start": 251.94,
+          "end": 252.18,
+          "probability": 0.0095
+        },
+        {
+          "word": "will",
+          "start": 252.18,
+          "end": 252.4,
+          "probability": 0.4675
+        },
+        {
+          "word": "show",
+          "start": 252.4,
+          "end": 252.42,
+          "probability": 0.5874
+        },
+        {
+          "word": "you",
+          "start": 252.42,
+          "end": 252.42,
+          "probability": 0.5918
+        },
+        {
+          "word": "all",
+          "start": 252.42,
+          "end": 252.42,
+          "probability": 0.3589
+        },
+        {
+          "word": "this",
+          "start": 252.42,
+          "end": 252.66,
+          "probability": 0.2384
+        },
+        {
+          "word": "in",
+          "start": 252.66,
+          "end": 253.04,
+          "probability": 0.3191
+        },
+        {
+          "word": "practical",
+          "start": 253.04,
+          "end": 253.64,
+          "probability": 0.2319
+        },
+        {
+          "word": "way",
+          "start": 253.64,
+          "end": 253.92,
+          "probability": 0.2225
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 254.41,
+      "end": 259.7,
+      "text": "like how to define list and how we can do slicing",
+      "language": "te",
+      "avg_logprob": -0.9936,
+      "no_speech_prob": 0.0028,
+      "words": [
+        {
+          "word": "like",
+          "start": 254.41,
+          "end": 254.92,
+          "probability": 0.1603
+        },
+        {
+          "word": "how",
+          "start": 254.92,
+          "end": 255.28,
+          "probability": 0.4194
+        },
+        {
+          "word": "to",
+          "start": 255.28,
+          "end": 255.72,
+          "probability": 0.8794
+        },
+        {
+          "word": "define",
+          "start": 255.72,
+          "end": 256.48,
+          "probability": 0.8608
+        },
+        {
+          "word": "list",
+          "start": 256.48,
+          "end": 257.0,
+          "probability": 0.3857
+        },
+        {
+          "word": "and",
+          "start": 257.0,
+          "end": 257.36,
+          "probability": 0.2046
+        },
+        {
+          "word": "how",
+          "start": 257.36,
+          "end": 257.98,
+          "probability": 0.6294
+        },
+        {
+          "word": "we",
+          "start": 257.98,
+          "end": 259.1,
+          "probability": 0.0481
+        },
+        {
+          "word": "can",
+          "start": 259.1,
+          "end": 259.4,
+          "probability": 0.4893
+        },
+        {
+          "word": "do",
+          "start": 259.4,
+          "end": 259.44,
+          "probability": 0.2573
+        },
+        {
+          "word": "slicing",
+          "start": 259.44,
+          "end": 259.7,
+          "probability": 0.9229
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 259.7,
+      "end": 273.7,
+      "text": "also there are some methods for append extend remove pop count index",
+      "language": "te",
+      "avg_logprob": -0.9936,
+      "no_speech_prob": 0.0028,
+      "words": [
+        {
+          "word": "also",
+          "start": 259.7,
+          "end": 260.82,
+          "probability": 0.0043
+        },
+        {
+          "word": "there",
+          "start": 260.82,
+          "end": 264.0,
+          "probability": 0.0637
+        },
+        {
+          "word": "are",
+          "start": 264.0,
+          "end": 267.14,
+          "probability": 0.7139
+        },
+        {
+          "word": "some",
+          "start": 267.14,
+          "end": 267.46,
+          "probability": 0.3242
+        },
+        {
+          "word": "methods",
+          "start": 267.46,
+          "end": 267.86,
+          "probability": 0.6899
+        },
+        {
+          "word": "for",
+          "start": 267.86,
+          "end": 268.36,
+          "probability": 0.1815
+        },
+        {
+          "word": "append",
+          "start": 268.36,
+          "end": 269.94,
+          "probability": 0.0221
+        },
+        {
+          "word": "extend",
+          "start": 269.94,
+          "end": 270.78,
+          "probability": 0.426
+        },
+        {
+          "word": "remove",
+          "start": 270.78,
+          "end": 271.58,
+          "probability": 0.9312
+        },
+        {
+          "word": "pop",
+          "start": 271.58,
+          "end": 272.32,
+          "probability": 0.9307
+        },
+        {
+          "word": "count",
+          "start": 272.32,
+          "end": 273.06,
+          "probability": 0.7856
+        },
+        {
+          "word": "index",
+          "start": 273.06,
+          "end": 273.7,
+          "probability": 0.5303
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 273.7,
+      "end": 276.98,
+      "text": "all these can be performed in crud operations",
+      "language": "te",
+      "avg_logprob": -0.7919,
+      "no_speech_prob": 0.0024,
+      "words": [
+        {
+          "word": "all",
+          "start": 273.7,
+          "end": 274.34,
+          "probability": 0.0009
+        },
+        {
+          "word": "these",
+          "start": 274.34,
+          "end": 274.48,
+          "probability": 0.2825
+        },
+        {
+          "word": "can",
+          "start": 274.48,
+          "end": 274.62,
+          "probability": 0.1464
+        },
+        {
+          "word": "be",
+          "start": 274.62,
+          "end": 274.72,
+          "probability": 0.7773
+        },
+        {
+          "word": "performed",
+          "start": 274.72,
+          "end": 275.88,
+          "probability": 0.6768
+        },
+        {
+          "word": "in",
+          "start": 275.88,
+          "end": 276.06,
+          "probability": 0.2791
+        },
+        {
+          "word": "crud",
+          "start": 276.06,
+          "end": 276.68,
+          "probability": 0.5715
+        },
+        {
+          "word": "operations",
+          "start": 276.68,
+          "end": 276.98,
+          "probability": 0.7485
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 276.98,
+      "end": 280.46,
+      "text": "for example create read update delete",
+      "language": "te",
+      "avg_logprob": -0.7919,
+      "no_speech_prob": 0.0024,
+      "words": [
+        {
+          "word": "for",
+          "start": 276.98,
+          "end": 277.16,
+          "probability": 0.0684
+        },
+        {
+          "word": "example",
+          "start": 277.16,
+          "end": 278.0,
+          "probability": 0.8481
+        },
+        {
+          "word": "create",
+          "start": 278.0,
+          "end": 278.88,
+          "probability": 0.2549
+        },
+        {
+          "word": "read",
+          "start": 278.88,
+          "end": 279.34,
+          "probability": 0.3264
+        },
+        {
+          "word": "update",
+          "start": 279.34,
+          "end": 280.02,
+          "probability": 0.7168
+        },
+        {
+          "word": "delete",
+          "start": 280.02,
+          "end": 280.46,
+          "probability": 0.8154
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 280.46,
+      "end": 283.52,
+      "text": "you can use this method to perform the list operations",
+      "language": "te",
+      "avg_logprob": -0.7919,
+      "no_speech_prob": 0.0024,
+      "words": [
+        {
+          "word": "you",
+          "start": 280.46,
+          "end": 281.3,
+          "probability": 0.0944
+        },
+        {
+          "word": "can",
+          "start": 281.3,
+          "end": 281.32,
+          "probability": 0.9292
+        },
+        {
+          "word": "use",
+          "start": 281.32,
+          "end": 281.32,
+          "probability": 0.2839
+        },
+        {
+          "word": "this",
+          "start": 281.32,
+          "end": 281.32,
+          "probability": 0.4133
+        },
+        {
+          "word": "method",
+          "start": 281.32,
+          "end": 282.06,
+          "probability": 0.7905
+        },
+        {
+          "word": "to",
+          "start": 282.06,
+          "end": 282.42,
+          "probability": 0.4495
+        },
+        {
+          "word": "perform",
+          "start": 282.42,
+          "end": 282.76,
+          "probability": 0.9375
+        },
+        {
+          "word": "the",
+          "start": 282.76,
+          "end": 282.76,
+          "probability": 0.0447
+        },
+        {
+          "word": "list",
+          "start": 282.76,
+          "end": 282.82,
+          "probability": 0.1201
+        },
+        {
+          "word": "operations",
+          "start": 282.82,
+          "end": 283.52,
+          "probability": 0.2544
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 284.7,
+      "end": 287.36,
+      "text": "so this is a theory related to lists",
+      "language": "te",
+      "avg_logprob": -0.7919,
+      "no_speech_prob": 0.0024,
+      "words": [
+        {
+          "word": "so",
+          "start": 284.7,
+          "end": 285.18,
+          "probability": 0.2732
+        },
+        {
+          "word": "this",
+          "start": 285.18,
+          "end": 285.56,
+          "probability": 0.7715
+        },
+        {
+          "word": "is",
+          "start": 285.56,
+          "end": 285.68,
+          "probability": 0.8062
+        },
+        {
+          "word": "a",
+          "start": 285.68,
+          "end": 285.9,
+          "probability": 0.0678
+        },
+        {
+          "word": "theory",
+          "start": 285.9,
+          "end": 286.4,
+          "probability": 0.5327
+        },
+        {
+          "word": "related",
+          "start": 286.4,
+          "end": 286.4,
+          "probability": 0.4487
+        },
+        {
+          "word": "to",
+          "start": 286.4,
+          "end": 286.54,
+          "probability": 0.9858
+        },
+        {
+          "word": "lists",
+          "start": 286.54,
+          "end": 287.36,
+          "probability": 0.0321
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 287.36,
+      "end": 290.0,
+      "text": "we will see it practically",
+      "language": "te",
+      "avg_logprob": -0.7919,
+      "no_speech_prob": 0.0024,
+      "words": [
+        {
+          "word": "we",
+          "start": 287.36,
+          "end": 288.4,
+          "probability": 0.123
+        },
+        {
+          "word": "will",
+          "start": 288.4,
+          "end": 288.66,
+          "probability": 0.686
+        },
+        {
+          "word": "see",
+          "start": 288.66,
+          "end": 288.66,
+          "probability": 0.4868
+        },
+        {
+          "word": "it",
+          "start": 288.66,
+          "end": 288.66,
+          "probability": 0.1115
+        },
+        {
+          "word": "practically",
+          "start": 288.66,
+          "end": 290.0,
+          "probability": 0.5308
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 290.0,
+      "end": 291.82,
+      "text": "and learn about outputs",
+      "language": "te",
+      "avg_logprob": -0.7919,
+      "no_speech_prob": 0.0024,
+      "words": [
+        {
+          "word": "and",
+          "start": 290.0,
+          "end": 290.6,
+          "probability": 0.4617
+        },
+        {
+          "word": "learn",
+          "start": 290.6,
+          "end": 291.38,
+          "probability": 0.0736
+        },
+        {
+          "word": "about",
+          "start": 291.38,
+          "end": 291.38,
+          "probability": 0.1161
+        },
+        {
+          "word": "outputs",
+          "start": 291.38,
+          "end": 291.82,
+          "probability": 0.0395
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 291.82,
+      "end": 293.46,
+      "text": "and functionalities",
+      "language": "te",
+      "avg_logprob": -0.7919,
+      "no_speech_prob": 0.0024,
+      "words": [
+        {
+          "word": "and",
+          "start": 291.82,
+          "end": 292.52,
+          "probability": 0.7627
+        },
+        {
+          "word": "functionalities",
+          "start": 292.52,
+          "end": 293.46,
+          "probability": 0.3506
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 293.46,
+      "end": 296.0,
+      "text": "please like this video",
+      "language": "te",
+      "avg_logprob": -0.7919,
+      "no_speech_prob": 0.0024,
+      "words": [
+        {
+          "word": "please",
+          "start": 293.46,
+          "end": 294.7,
+          "probability": 0.29
+        },
+        {
+          "word": "like",
+          "start": 294.7,
+          "end": 295.72,
+          "probability": 0.875
+        },
+        {
+          "word": "this",
+          "start": 295.72,
+          "end": 295.8,
+          "probability": 0.6909
+        },
+        {
+          "word": "video",
+          "start": 295.8,
+          "end": 296.0,
+          "probability": 0.9434
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 296.62,
+      "end": 297.94,
+      "text": "if you are interested in learning python",
+      "language": "te",
+      "avg_logprob": -0.7919,
+      "no_speech_prob": 0.0024,
+      "words": [
+        {
+          "word": "if",
+          "start": 296.62,
+          "end": 297.08,
+          "probability": 0.5054
+        },
+        {
+          "word": "you",
+          "start": 297.08,
+          "end": 297.4,
+          "probability": 0.8735
+        },
+        {
+          "word": "are",
+          "start": 297.4,
+          "end": 297.4,
+          "probability": 0.5513
+        },
+        {
+          "word": "interested",
+          "start": 297.4,
+          "end": 297.44,
+          "probability": 0.9453
+        },
+        {
+          "word": "in",
+          "start": 297.44,
+          "end": 297.48,
+          "probability": 0.8716
+        },
+        {
+          "word": "learning",
+          "start": 297.48,
+          "end": 297.66,
+          "probability": 0.6694
+        },
+        {
+          "word": "python",
+          "start": 297.66,
+          "end": 297.94,
+          "probability": 0.771
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 298.52,
+      "end": 302.18,
+      "text": "I have given link of course in comment section",
+      "language": "te",
+      "avg_logprob": -0.7919,
+      "no_speech_prob": 0.0024,
+      "words": [
+        {
+          "word": "I",
+          "start": 298.52,
+          "end": 298.98,
+          "probability": 0.139
+        },
+        {
+          "word": "have",
+          "start": 298.98,
+          "end": 300.02,
+          "probability": 0.5278
+        },
+        {
+          "word": "given",
+          "start": 300.02,
+          "end": 300.06,
+          "probability": 0.7476
+        },
+        {
+          "word": "link",
+          "start": 300.06,
+          "end": 300.24,
+          "probability": 0.0467
+        },
+        {
+          "word": "of",
+          "start": 300.24,
+          "end": 300.24,
+          "probability": 0.074
+        },
+        {
+          "word": "course",
+          "start": 300.24,
+          "end": 300.78,
+          "probability": 0.3252
+        },
+        {
+          "word": "in",
+          "start": 300.78,
+          "end": 301.5,
+          "probability": 0.6187
+        },
+        {
+          "word": "comment",
+          "start": 301.5,
+          "end": 302.18,
+          "probability": 0.2776
+        },
+        {
+          "word": "section",
+          "start": 302.18,
+          "end": 302.18,
+          "probability": 0.7456
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 302.18,
+      "end": 303.56,
+      "text": "ఈజ్ తే అనో టు సైం దలన్ కరణ ఛీ గళా జే చాయ మారే థే సు బహడే అభా శాన్ ఎ చ్",
+      "language": "te",
+      "avg_logprob": -1.6507,
+      "no_speech_prob": 0.0038,
+      "words": [
+        {
+          "word": "ಈાజ્తে",
+          "start": 302.18,
+          "end": 302.44,
+          "probability": 0.3022
+        },
+        {
+          "word": "અનੋ",
+          "start": 302.44,
+          "end": 302.96,
+          "probability": 0.3142
+        },
+        {
+          "word": "ଟు",
+          "start": 302.96,
+          "end": 303.56,
+          "probability": 0.3447
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 335.03,
+      "end": 336.43,
+      "text": "తెంక్యు.",
+      "language": "te",
+      "avg_logprob": -0.5555,
+      "no_speech_prob": 0.0029,
+      "words": [
+        {
+          "word": "తెంక్యు.",
+          "start": 335.03,
+          "end": 336.43,
+          "probability": 0.6653
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 336.48,
+      "end": 338.48,
+      "text": "జేక్ జెసు గూడి వీదాంగ టీ పైన్ట్ యొష్చు",
+      "language": "te",
+      "avg_logprob": -0.8128,
+      "no_speech_prob": 0.0194,
+      "words": [
+        {
+          "word": "జేక్",
+          "start": 336.48,
+          "end": 337.02,
+          "probability": 0.5681
+        },
+        {
+          "word": "জెసు",
+          "start": 337.02,
+          "end": 337.48,
+          "probability": 0.511
+        },
+        {
+          "word": "గూడి",
+          "start": 337.48,
+          "end": 337.66,
+          "probability": 0.6605
+        },
+        {
+          "word": "వీదాంగ",
+          "start": 337.66,
+          "end": 337.9,
+          "probability": 0.6994
+        },
+        {
+          "word": "టీ",
+          "start": 337.9,
+          "end": 338.06,
+          "probability": 0.5805
+        },
+        {
+          "word": "పైన్ట్",
+          "start": 338.06,
+          "end": 338.3,
+          "probability": 0.743
+        },
+        {
+          "word": "యొష్చు",
+          "start": 338.3,
+          "end": 338.48,
+          "probability": 0.7085
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 338.48,
+      "end": 341.92,
+      "text": "జో లిస్ట ఎరుమేట్స్ ఏల్లా ఫాస్ జెరు అగుడు జూబిష్తాన",
+      "language": "te",
+      "avg_logprob": -0.8128,
+      "no_speech_prob": 0.0194,
+      "words": [
+        {
+          "word": "జో",
+          "start": 338.48,
+          "end": 339.48,
+          "probability": 0.5928
+        },
+        {
+          "word": "లిస్ట",
+          "start": 339.54,
+          "end": 340.52,
+          "probability": 0.8592
+        },
+        {
+          "word": "ఎరుమేట్స",
+          "start": 340.52,
+          "end": 340.88,
+          "probability": 0.7358
+        },
+        {
+          "word": "ఏల్లా",
+          "start": 340.88,
+          "end": 341.06,
+          "probability": 0.6827
+        },
+        {
+          "word": "ఫాస్",
+          "start": 341.06,
+          "end": 341.28,
+          "probability": 0.8278
+        },
+        {
+          "word": "జెరు",
+          "start": 341.28,
+          "end": 341.4,
+          "probability": 0.6719
+        },
+        {
+          "word": "అగుడు",
+          "start": 341.4,
+          "end": 341.52,
+          "probability": 0.6334
+        },
+        {
+          "word": "జూబిశ్తాన",
+          "start": 341.52,
+          "end": 341.92,
+          "probability": 0.7568
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 342.37,
+      "end": 344.52,
+      "text": "l equal to 1 comma something",
+      "language": "te",
+      "avg_logprob": -0.8128,
+      "no_speech_prob": 0.0194,
+      "words": [
+        {
+          "word": "l",
+          "start": 342.37,
+          "end": 342.64,
+          "probability": 0.0
+        },
+        {
+          "word": "equal",
+          "start": 342.64,
+          "end": 343.06,
+          "probability": 0.1937
+        },
+        {
+          "word": "to",
+          "start": 343.06,
+          "end": 343.3,
+          "probability": 0.9399
+        },
+        {
+          "word": "1",
+          "start": 343.3,
+          "end": 343.96,
+          "probability": 0.8125
+        },
+        {
+          "word": "comma",
+          "start": 343.96,
+          "end": 344.24,
+          "probability": 0.3896
+        },
+        {
+          "word": "something",
+          "start": 344.24,
+          "end": 344.52,
+          "probability": 0.2937
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 344.52,
+      "end": 345.78,
+      "text": "ఇలిమెంట్‌ అభాల",
+      "language": "te",
+      "avg_logprob": -0.8128,
+      "no_speech_prob": 0.0194,
+      "words": [
+        {
+          "word": "ఇలేమెట్‌స",
+          "start": 344.52,
+          "end": 345.52,
+          "probability": 0.719
+        },
+        {
+          "word": "అభాళా",
+          "start": 345.52,
+          "end": 345.78,
+          "probability": 0.5691
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 345.78,
+      "end": 346.9,
+      "text": "different types of elements could be given",
+      "language": "te",
+      "avg_logprob": -0.8128,
+      "no_speech_prob": 0.0194,
+      "words": [
+        {
+          "word": "different",
+          "start": 345.78,
+          "end": 345.84,
+          "probability": 0.1346
+        },
+        {
+          "word": "types",
+          "start": 345.84,
+          "end": 346.14,
+          "probability": 0.6162
+        },
+        {
+          "word": "of",
+          "start": 346.14,
+          "end": 346.36,
+          "probability": 0.7988
+        },
+        {
+          "word": "elements",
+          "start": 346.36,
+          "end": 346.54,
+          "probability": 0.7285
+        },
+        {
+          "word": "could",
+          "start": 346.54,
+          "end": 346.74,
+          "probability": 0.005
+        },
+        {
+          "word": "be",
+          "start": 346.74,
+          "end": 346.76,
+          "probability": 0.129
+        },
+        {
+          "word": "given",
+          "start": 346.76,
+          "end": 346.9,
+          "probability": 0.5557
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 346.9,
+      "end": 347.62,
+      "text": "no problem",
+      "language": "te",
+      "avg_logprob": -0.8128,
+      "no_speech_prob": 0.0194,
+      "words": [
+        {
+          "word": "no",
+          "start": 346.9,
+          "end": 347.28,
+          "probability": 0.2771
+        },
+        {
+          "word": "problem",
+          "start": 347.28,
+          "end": 347.62,
+          "probability": 0.9458
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 348.13,
+      "end": 348.78,
+      "text": "for example",
+      "language": "te",
+      "avg_logprob": -0.8128,
+      "no_speech_prob": 0.0194,
+      "words": [
+        {
+          "word": "for",
+          "start": 348.13,
+          "end": 348.4,
+          "probability": 0.4026
+        },
+        {
+          "word": "example",
+          "start": 348.4,
+          "end": 348.78,
+          "probability": 0.9375
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 348.78,
+      "end": 352.46,
+      "text": "ఇజ్రంగు డిఫరెంట్ టైప్స్ ఎలిమెంట్స్ కోడీ చొవత్య.",
+      "language": "te",
+      "avg_logprob": -0.6735,
+      "no_speech_prob": 0.0059,
+      "words": [
+        {
+          "word": "ఇజ్రంగు",
+          "start": 348.78,
+          "end": 348.88,
+          "probability": 0.5152
+        },
+        {
+          "word": "డిఫెన్టీ",
+          "start": 348.88,
+          "end": 349.3,
+          "probability": 0.627
+        },
+        {
+          "word": "టైప్స్",
+          "start": 349.3,
+          "end": 349.46,
+          "probability": 0.842
+        },
+        {
+          "word": "ఎల్మాట్ష్",
+          "start": 349.46,
+          "end": 349.88,
+          "probability": 0.7073
+        },
+        {
+          "word": "కోడీ",
+          "start": 349.88,
+          "end": 350.0,
+          "probability": 0.6369
+        },
+        {
+          "word": "చొవత్య.",
+          "start": 350.0,
+          "end": 352.46,
+          "probability": 0.599
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 363.64,
+      "end": 371.44,
+      "text": "ఇది, ఉక్కా బిరిండ్ జేస్కుడం మేక్ అశ్టిస్",
+      "language": "te",
+      "avg_logprob": -0.6735,
+      "no_speech_prob": 0.0059,
+      "words": [
+        {
+          "word": "ఇది,",
+          "start": 363.64,
+          "end": 364.48,
+          "probability": 0.7093
+        },
+        {
+          "word": "ఉక్కా",
+          "start": 364.48,
+          "end": 365.32,
+          "probability": 0.6774
+        },
+        {
+          "word": "బిరిండ్",
+          "start": 365.32,
+          "end": 366.76,
+          "probability": 0.5825
+        },
+        {
+          "word": "జేస్కుడం",
+          "start": 366.76,
+          "end": 367.18,
+          "probability": 0.6509
+        },
+        {
+          "word": "మేక్",
+          "start": 367.18,
+          "end": 367.5,
+          "probability": 0.7069
+        },
+        {
+          "word": "అశ్టిస్�",
+          "start": 367.5,
+          "end": 371.44,
+          "probability": 0.6589
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 371.44,
+      "end": 375.48,
+      "text": "జేర్ పేటు బోలీ 0 1",
+      "language": "te",
+      "avg_logprob": -1.1543,
+      "no_speech_prob": 0.1926,
+      "words": [
+        {
+          "word": "జేర్",
+          "start": 371.44,
+          "end": 371.58,
+          "probability": 0.4464
+        },
+        {
+          "word": "পెటు",
+          "start": 371.58,
+          "end": 371.92,
+          "probability": 0.3406
+        },
+        {
+          "word": "বోలీ",
+          "start": 371.92,
+          "end": 372.64,
+          "probability": 0.4215
+        },
+        {
+          "word": "0",
+          "start": 372.64,
+          "end": 373.56,
+          "probability": 0.0079
+        },
+        {
+          "word": "1",
+          "start": 373.56,
+          "end": 375.48,
+          "probability": 0.4414
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "start": 377.42,
+      "end": 384.36,
+      "text": "2 3 4 positive indexing",
+      "language": "te",
+      "avg_logprob": -1.1521,
+      "no_speech_prob": 0.0014,
+      "words": [
+        {
+          "word": "2",
+          "start": 377.42,
+          "end": 377.6,
+          "probability": 0.082
+        },
+        {
+          "word": "3",
+          "start": 377.6,
+          "end": 379.08,
+          "probability": 0.2426
+        },
+        {
+          "word": "4",
+          "start": 379.08,
+          "end": 380.92,
+          "probability": 0.4236
+        },
+        {
+          "word": "positive",
+          "start": 380.92,
+          "end": 383.0,
+          "probability": 0.0198
+        },
+        {
+          "word": "indexing",
+          "start": 383.0,
+          "end": 384.36,
+          "probability": 0.428
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "start": 386.2,
+      "end": 389.38,
+      "text": "negative indexing",
+      "language": "te",
+      "avg_logprob": -1.1521,
+      "no_speech_prob": 0.0014,
+      "words": [
+        {
+          "word": "negative",
+          "start": 386.2,
+          "end": 386.9,
+          "probability": 0.3567
+        },
+        {
+          "word": "indexing",
+          "start": 386.9,
+          "end": 389.38,
+          "probability": 0.9851
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "start": 390.38,
+      "end": 393.38,
+      "text": "last element is negative index",
+      "language": "te",
+      "avg_logprob": -1.043,
+      "no_speech_prob": 0.0042,
+      "words": [
+        {
+          "word": "last",
+          "start": 390.38,
+          "end": 390.38,
+          "probability": 0.0011
+        },
+        {
+          "word": "element",
+          "start": 390.38,
+          "end": 390.64,
+          "probability": 0.9146
+        },
+        {
+          "word": "is",
+          "start": 390.64,
+          "end": 391.78,
+          "probability": 0.2383
+        },
+        {
+          "word": "negative",
+          "start": 391.78,
+          "end": 392.14,
+          "probability": 0.2015
+        },
+        {
+          "word": "index",
+          "start": 392.14,
+          "end": 393.38,
+          "probability": 0.9692
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "start": 393.38,
+      "end": 399.18,
+      "text": "we can do slicing also",
+      "language": "te",
+      "avg_logprob": -1.043,
+      "no_speech_prob": 0.0042,
+      "words": [
+        {
+          "word": "we",
+          "start": 393.38,
+          "end": 394.04,
+          "probability": 0.0178
+        },
+        {
+          "word": "can",
+          "start": 394.04,
+          "end": 395.5,
+          "probability": 0.5225
+        },
+        {
+          "word": "do",
+          "start": 395.5,
+          "end": 397.84,
+          "probability": 0.4915
+        },
+        {
+          "word": "slicing",
+          "start": 397.84,
+          "end": 398.96,
+          "probability": 0.8193
+        },
+        {
+          "word": "also",
+          "start": 398.96,
+          "end": 399.18,
+          "probability": 0.1979
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "start": 402.32,
+      "end": 407.96,
+      "text": "print reoff 0 to forward",
+      "language": "te",
+      "avg_logprob": -1.043,
+      "no_speech_prob": 0.0042,
+      "words": [
+        {
+          "word": "print",
+          "start": 402.32,
+          "end": 403.02,
+          "probability": 0.066
+        },
+        {
+          "word": "reoff",
+          "start": 403.02,
+          "end": 404.42,
+          "probability": 0.3293
+        },
+        {
+          "word": "0",
+          "start": 404.42,
+          "end": 405.38,
+          "probability": 0.2314
+        },
+        {
+          "word": "to",
+          "start": 405.38,
+          "end": 405.8,
+          "probability": 0.4128
+        },
+        {
+          "word": "forward",
+          "start": 405.84,
+          "end": 407.96,
+          "probability": 0.2961
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "start": 407.96,
+      "end": 422.2,
+      "text": "కోర్వాగు జీవ శాస్త్రం, మైటోసిస్, కణ కలిపి.",
+      "language": "te",
+      "avg_logprob": -0.4176,
+      "no_speech_prob": 0.002,
+      "words": [
+        {
+          "word": "కోర్వాగు",
+          "start": 407.96,
+          "end": 408.26,
+          "probability": 0.6382
+        },
+        {
+          "word": "జీవ",
+          "start": 408.26,
+          "end": 410.34,
+          "probability": 0.5075
+        },
+        {
+          "word": "శాస్త్రం,",
+          "start": 410.34,
+          "end": 413.44,
+          "probability": 0.482
+        },
+        {
+          "word": "మైటోసిస్,",
+          "start": 413.54,
+          "end": 419.8,
+          "probability": 0.3739
+        },
+        {
+          "word": "కణ",
+          "start": 420.2,
+          "end": 420.46,
+          "probability": 0.4829
+        },
+        {
+          "word": "కలిపి.",
+          "start": 420.46,
+          "end": 422.2,
+          "probability": 0.3257
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "start": 422.22,
+      "end": 427.48,
+      "text": "0 4 1 2 3 4",
+      "language": "te",
+      "avg_logprob": -1.6192,
+      "no_speech_prob": 0.0143,
+      "words": [
+        {
+          "word": "0",
+          "start": 422.22,
+          "end": 423.62,
+          "probability": 0.2338
+        },
+        {
+          "word": "4",
+          "start": 423.62,
+          "end": 424.04,
+          "probability": 0.071
+        },
+        {
+          "word": "1",
+          "start": 424.04,
+          "end": 424.48,
+          "probability": 0.193
+        },
+        {
+          "word": "2",
+          "start": 424.48,
+          "end": 425.82,
+          "probability": 0.427
+        },
+        {
+          "word": "3",
+          "start": 425.82,
+          "end": 426.52,
+          "probability": 0.8423
+        },
+        {
+          "word": "4",
+          "start": 426.52,
+          "end": 427.48,
+          "probability": 0.9521
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "start": 427.48,
+      "end": 439.7,
+      "text": "కేంద్రానికి జీవ శాస్త్రం, మైటోసిస్, కణ విభజన, కెంగ్లాండ్.",
+      "language": "te",
+      "avg_logprob": -0.4982,
+      "no_speech_prob": 0.0283,
+      "words": [
+        {
+          "word": "కేంద్రకి",
+          "start": 427.48,
+          "end": 428.1,
+          "probability": 0.3937
+        },
+        {
+          "word": "జీవ",
+          "start": 428.1,
+          "end": 428.28,
+          "probability": 0.4148
+        },
+        {
+          "word": "శాస్త్రు,",
+          "start": 428.28,
+          "end": 430.22,
+          "probability": 0.4711
+        },
+        {
+          "word": "మైటోసిస్,",
+          "start": 430.28,
+          "end": 434.16,
+          "probability": 0.3545
+        },
+        {
+          "word": "కణ",
+          "start": 434.16,
+          "end": 434.32,
+          "probability": 0.4513
+        },
+        {
+          "word": "విభజన,",
+          "start": 434.32,
+          "end": 435.22,
+          "probability": 0.3865
+        },
+        {
+          "word": "కెంగ్లండ్డు.",
+          "start": 435.22,
+          "end": 439.7,
+          "probability": 0.3914
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "start": 440.02,
+      "end": 442.16,
+      "text": "cut index",
+      "language": "te",
+      "avg_logprob": -1.2877,
+      "no_speech_prob": 0.0136,
+      "words": [
+        {
+          "word": "cut",
+          "start": 440.02,
+          "end": 440.54,
+          "probability": 0.0002
+        },
+        {
+          "word": "index",
+          "start": 440.54,
+          "end": 442.16,
+          "probability": 0.0007
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "start": 443.92,
+      "end": 448.9,
+      "text": "forward or backward",
+      "language": "te",
+      "avg_logprob": -1.2877,
+      "no_speech_prob": 0.0136,
+      "words": [
+        {
+          "word": "forward",
+          "start": 443.92,
+          "end": 445.32,
+          "probability": 0.0003
+        },
+        {
+          "word": "or",
+          "start": 445.32,
+          "end": 446.5,
+          "probability": 0.029
+        },
+        {
+          "word": "backward",
+          "start": 446.5,
+          "end": 448.9,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "start": 448.9,
+      "end": 452.72,
+      "text": "if you want to do it in a different way",
+      "language": "te",
+      "avg_logprob": -1.2877,
+      "no_speech_prob": 0.0136,
+      "words": [
+        {
+          "word": "if",
+          "start": 448.9,
+          "end": 449.94,
+          "probability": 0.002
+        },
+        {
+          "word": "you",
+          "start": 449.94,
+          "end": 449.94,
+          "probability": 0.3213
+        },
+        {
+          "word": "want",
+          "start": 449.94,
+          "end": 449.94,
+          "probability": 0.3259
+        },
+        {
+          "word": "to",
+          "start": 449.94,
+          "end": 449.98,
+          "probability": 0.4329
+        },
+        {
+          "word": "do",
+          "start": 449.98,
+          "end": 449.98,
+          "probability": 0.2241
+        },
+        {
+          "word": "it",
+          "start": 449.98,
+          "end": 449.98,
+          "probability": 0.1565
+        },
+        {
+          "word": "in",
+          "start": 449.98,
+          "end": 451.88,
+          "probability": 0.1602
+        },
+        {
+          "word": "a",
+          "start": 451.88,
+          "end": 452.16,
+          "probability": 0.0695
+        },
+        {
+          "word": "different",
+          "start": 452.16,
+          "end": 452.16,
+          "probability": 0.3606
+        },
+        {
+          "word": "way",
+          "start": 452.16,
+          "end": 452.72,
+          "probability": 0.9165
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "start": 452.72,
+      "end": 455.1,
+      "text": "for example",
+      "language": "te",
+      "avg_logprob": -1.2877,
+      "no_speech_prob": 0.0136,
+      "words": [
+        {
+          "word": "for",
+          "start": 452.72,
+          "end": 454.96,
+          "probability": 0.0103
+        },
+        {
+          "word": "example",
+          "start": 454.96,
+          "end": 455.1,
+          "probability": 0.1353
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "start": 455.1,
+      "end": 457.42,
+      "text": "some methods",
+      "language": "te",
+      "avg_logprob": -1.2877,
+      "no_speech_prob": 0.0136,
+      "words": [
+        {
+          "word": "some",
+          "start": 455.1,
+          "end": 455.34,
+          "probability": 0.0052
+        },
+        {
+          "word": "methods",
+          "start": 455.34,
+          "end": 457.42,
+          "probability": 0.5796
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "start": 457.42,
+      "end": 457.9,
+      "text": "have been discussed",
+      "language": "te",
+      "avg_logprob": -1.2877,
+      "no_speech_prob": 0.0136,
+      "words": [
+        {
+          "word": "have",
+          "start": 457.42,
+          "end": 457.6,
+          "probability": 0.007
+        },
+        {
+          "word": "been",
+          "start": 457.6,
+          "end": 457.68,
+          "probability": 0.8335
+        },
+        {
+          "word": "discussed",
+          "start": 457.68,
+          "end": 457.9,
+          "probability": 0.8833
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "start": 461.98,
+      "end": 463.38,
+      "text": "append",
+      "language": "te",
+      "avg_logprob": -1.2877,
+      "no_speech_prob": 0.0136,
+      "words": [
+        {
+          "word": "append",
+          "start": 461.98,
+          "end": 463.38,
+          "probability": 0.0054
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "start": 464.12,
+      "end": 465.68,
+      "text": "extend",
+      "language": "te",
+      "avg_logprob": -1.2877,
+      "no_speech_prob": 0.0136,
+      "words": [
+        {
+          "word": "extend",
+          "start": 464.12,
+          "end": 465.68,
+          "probability": 0.5244
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "start": 467.22,
+      "end": 478.84,
+      "text": "append, extend , count , insert , pop , remove",
+      "language": "te",
+      "avg_logprob": -1.1469,
+      "no_speech_prob": 0.0028,
+      "words": [
+        {
+          "word": "append,",
+          "start": 467.22,
+          "end": 468.84,
+          "probability": 0.0006
+        },
+        {
+          "word": "extend",
+          "start": 469.06,
+          "end": 469.98,
+          "probability": 0.772
+        },
+        {
+          "word": ",",
+          "start": 469.98,
+          "end": 470.64,
+          "probability": 0.091
+        },
+        {
+          "word": "count",
+          "start": 470.64,
+          "end": 472.24,
+          "probability": 0.7036
+        },
+        {
+          "word": ",",
+          "start": 472.24,
+          "end": 473.36,
+          "probability": 0.5283
+        },
+        {
+          "word": "insert",
+          "start": 473.36,
+          "end": 475.1,
+          "probability": 0.7188
+        },
+        {
+          "word": ",",
+          "start": 475.1,
+          "end": 475.68,
+          "probability": 0.7168
+        },
+        {
+          "word": "pop",
+          "start": 475.68,
+          "end": 477.12,
+          "probability": 0.8799
+        },
+        {
+          "word": ",",
+          "start": 477.12,
+          "end": 477.62,
+          "probability": 0.8716
+        },
+        {
+          "word": "remove",
+          "start": 477.62,
+          "end": 478.84,
+          "probability": 0.8921
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "start": 506.04,
+      "end": 509.26,
+      "text": "రీమోవానే, జుడ్ధిస్కొన్చెల్లిస్తాం.",
+      "language": "te",
+      "avg_logprob": -0.7176,
+      "no_speech_prob": 0.0002,
+      "words": [
+        {
+          "word": "రీమోవానే,",
+          "start": 506.04,
+          "end": 507.44,
+          "probability": 0.6422
+        },
+        {
+          "word": "జుడ్ధిస్కొష్చెల్లిశ్తం.",
+          "start": 507.86,
+          "end": 509.26,
+          "probability": 0.5464
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "start": 509.26,
+      "end": 514.1,
+      "text": "జేర్వు జూపోస్టె అపేడీ చేల్తా",
+      "language": "te",
+      "avg_logprob": -1.0318,
+      "no_speech_prob": 0.3149,
+      "words": [
+        {
+          "word": "జేర్వు",
+          "start": 509.26,
+          "end": 510.42,
+          "probability": 0.4143
+        },
+        {
+          "word": "జూపోస్టె",
+          "start": 510.42,
+          "end": 510.9,
+          "probability": 0.5585
+        },
+        {
+          "word": "అపేడీ",
+          "start": 510.9,
+          "end": 511.24,
+          "probability": 0.7407
+        },
+        {
+          "word": "চేల్తా",
+          "start": 511.4,
+          "end": 514.1,
+          "probability": 0.7526
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "start": 514.13,
+      "end": 518.47,
+      "text": "for example v.append",
+      "language": "te",
+      "avg_logprob": -1.2156,
+      "no_speech_prob": 0.0283,
+      "words": [
+        {
+          "word": "for",
+          "start": 514.13,
+          "end": 515.53,
+          "probability": 0.0052
+        },
+        {
+          "word": "example",
+          "start": 515.53,
+          "end": 516.25,
+          "probability": 0.8501
+        },
+        {
+          "word": "v",
+          "start": 516.25,
+          "end": 517.63,
+          "probability": 0.2435
+        },
+        {
+          "word": ".append",
+          "start": 517.63,
+          "end": 518.47,
+          "probability": 0.908
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "start": 521.47,
+      "end": 529.67,
+      "text": "for example if i add python here in my list it will be added at the end and append to that",
+      "language": "te",
+      "avg_logprob": -1.1901,
+      "no_speech_prob": 0.0105,
+      "words": [
+        {
+          "word": "for",
+          "start": 521.47,
+          "end": 521.93,
+          "probability": 0.0009
+        },
+        {
+          "word": "example",
+          "start": 521.93,
+          "end": 522.49,
+          "probability": 0.8906
+        },
+        {
+          "word": "if",
+          "start": 522.49,
+          "end": 522.75,
+          "probability": 0.0712
+        },
+        {
+          "word": "i",
+          "start": 522.75,
+          "end": 522.77,
+          "probability": 0.6865
+        },
+        {
+          "word": "add",
+          "start": 522.77,
+          "end": 523.45,
+          "probability": 0.1104
+        },
+        {
+          "word": "python",
+          "start": 523.45,
+          "end": 524.63,
+          "probability": 0.8286
+        },
+        {
+          "word": "here",
+          "start": 524.63,
+          "end": 525.11,
+          "probability": 0.1519
+        },
+        {
+          "word": "in",
+          "start": 525.11,
+          "end": 525.75,
+          "probability": 0.1465
+        },
+        {
+          "word": "my",
+          "start": 525.75,
+          "end": 525.75,
+          "probability": 0.3667
+        },
+        {
+          "word": "list",
+          "start": 525.75,
+          "end": 526.65,
+          "probability": 0.9282
+        },
+        {
+          "word": "it",
+          "start": 526.65,
+          "end": 526.97,
+          "probability": 0.2173
+        },
+        {
+          "word": "will",
+          "start": 526.97,
+          "end": 527.23,
+          "probability": 0.7144
+        },
+        {
+          "word": "be",
+          "start": 527.23,
+          "end": 527.31,
+          "probability": 0.1406
+        },
+        {
+          "word": "added",
+          "start": 527.31,
+          "end": 527.45,
+          "probability": 0.5503
+        },
+        {
+          "word": "at",
+          "start": 527.45,
+          "end": 528.21,
+          "probability": 0.3564
+        },
+        {
+          "word": "the",
+          "start": 528.21,
+          "end": 528.31,
+          "probability": 0.5703
+        },
+        {
+          "word": "end",
+          "start": 528.31,
+          "end": 528.43,
+          "probability": 0.5938
+        },
+        {
+          "word": "and",
+          "start": 528.43,
+          "end": 528.87,
+          "probability": 0.0528
+        },
+        {
+          "word": "append",
+          "start": 528.87,
+          "end": 529.27,
+          "probability": 0.0019
+        },
+        {
+          "word": "to",
+          "start": 529.27,
+          "end": 529.43,
+          "probability": 0.0791
+        },
+        {
+          "word": "that",
+          "start": 529.43,
+          "end": 529.67,
+          "probability": 0.1214
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "start": 530.47,
+      "end": 535.17,
+      "text": "print v is running here",
+      "language": "te",
+      "avg_logprob": -1.1901,
+      "no_speech_prob": 0.0105,
+      "words": [
+        {
+          "word": "print",
+          "start": 530.47,
+          "end": 531.07,
+          "probability": 0.007
+        },
+        {
+          "word": "v",
+          "start": 531.07,
+          "end": 532.77,
+          "probability": 0.1572
+        },
+        {
+          "word": "is",
+          "start": 532.77,
+          "end": 532.91,
+          "probability": 0.0591
+        },
+        {
+          "word": "running",
+          "start": 532.91,
+          "end": 534.93,
+          "probability": 0.5234
+        },
+        {
+          "word": "here",
+          "start": 534.93,
+          "end": 535.17,
+          "probability": 0.4009
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "start": 536.55,
+      "end": 543.29,
+      "text": "so if we run here, python has been added as last from needle",
+      "language": "te",
+      "avg_logprob": -1.1901,
+      "no_speech_prob": 0.0105,
+      "words": [
+        {
+          "word": "so",
+          "start": 536.55,
+          "end": 537.39,
+          "probability": 0.3081
+        },
+        {
+          "word": "if",
+          "start": 537.39,
+          "end": 537.71,
+          "probability": 0.6074
+        },
+        {
+          "word": "we",
+          "start": 537.71,
+          "end": 537.71,
+          "probability": 0.0641
+        },
+        {
+          "word": "run",
+          "start": 537.71,
+          "end": 537.71,
+          "probability": 0.9619
+        },
+        {
+          "word": "here,",
+          "start": 537.71,
+          "end": 539.67,
+          "probability": 0.5132
+        },
+        {
+          "word": "python",
+          "start": 539.91,
+          "end": 540.81,
+          "probability": 0.2644
+        },
+        {
+          "word": "has",
+          "start": 540.81,
+          "end": 541.49,
+          "probability": 0.0271
+        },
+        {
+          "word": "been",
+          "start": 541.49,
+          "end": 541.49,
+          "probability": 0.8159
+        },
+        {
+          "word": "added",
+          "start": 541.49,
+          "end": 541.53,
+          "probability": 0.9497
+        },
+        {
+          "word": "as",
+          "start": 541.53,
+          "end": 541.67,
+          "probability": 0.0837
+        },
+        {
+          "word": "last",
+          "start": 541.67,
+          "end": 542.01,
+          "probability": 0.4182
+        },
+        {
+          "word": "from",
+          "start": 542.01,
+          "end": 542.55,
+          "probability": 0.1132
+        },
+        {
+          "word": "needle",
+          "start": 542.55,
+          "end": 543.29,
+          "probability": 0.048
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "start": 556.81,
+      "end": 558.25,
+      "text": "ఇజ్టెండు ఉష్చాస్తమో, బల్కు డేటా.",
+      "language": "te",
+      "avg_logprob": -0.705,
+      "no_speech_prob": 0.0005,
+      "words": [
+        {
+          "word": "ఇజ్టెండు",
+          "start": 556.81,
+          "end": 557.17,
+          "probability": 0.6313
+        },
+        {
+          "word": "ఉష్చాస్తమో,",
+          "start": 557.17,
+          "end": 557.67,
+          "probability": 0.6728
+        },
+        {
+          "word": "బల్కు",
+          "start": 557.67,
+          "end": 557.97,
+          "probability": 0.8702
+        },
+        {
+          "word": "డైటా.",
+          "start": 557.97,
+          "end": 558.25,
+          "probability": 0.846
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "start": 560.29,
+      "end": 563.27,
+      "text": "పొరియన్ వద్ధాగండి, అర్థం డేటా ఏడింది భాక్కలు.",
+      "language": "te",
+      "avg_logprob": -0.705,
+      "no_speech_prob": 0.0005,
+      "words": [
+        {
+          "word": "పొరియన్",
+          "start": 560.29,
+          "end": 560.97,
+          "probability": 0.4959
+        },
+        {
+          "word": "వద్ధాగండి,",
+          "start": 560.97,
+          "end": 561.65,
+          "probability": 0.5333
+        },
+        {
+          "word": "అర్థాండ",
+          "start": 561.71,
+          "end": 562.27,
+          "probability": 0.6367
+        },
+        {
+          "word": "దాటా",
+          "start": 562.27,
+          "end": 562.51,
+          "probability": 0.4627
+        },
+        {
+          "word": "ఏడింది",
+          "start": 562.51,
+          "end": 562.85,
+          "probability": 0.7192
+        },
+        {
+          "word": "భాక్కలు.",
+          "start": 562.85,
+          "end": 563.27,
+          "probability": 0.6714
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "start": 586.09,
+      "end": 586.77,
+      "text": "ఒకేనా?",
+      "language": "te",
+      "avg_logprob": -0.705,
+      "no_speech_prob": 0.0005,
+      "words": [
+        {
+          "word": "ఒకేనా?",
+          "start": 586.09,
+          "end": 586.77,
+          "probability": 0.7538
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "start": 621.54,
+      "end": 622.52,
+      "text": "జ్చే કેટా",
+      "language": "te",
+      "avg_logprob": -1.3125,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "జ్చে",
+          "start": 621.54,
+          "end": 621.82,
+          "probability": 0.3039
+        },
+        {
+          "word": "કెటా",
+          "start": 621.82,
+          "end": 622.52,
+          "probability": 0.4558
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "start": 622.97,
+      "end": 623.41,
+      "text": "setup",
+      "language": "te",
+      "avg_logprob": -0.9834,
+      "no_speech_prob": 0.0027,
+      "words": [
+        {
+          "word": "setup",
+          "start": 622.97,
+          "end": 623.41,
+          "probability": 0.0153
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "start": 624.39,
+      "end": 626.09,
+      "text": "pop and remove",
+      "language": "te",
+      "avg_logprob": -0.9834,
+      "no_speech_prob": 0.0027,
+      "words": [
+        {
+          "word": "pop",
+          "start": 624.39,
+          "end": 625.09,
+          "probability": 0.1187
+        },
+        {
+          "word": "and",
+          "start": 625.09,
+          "end": 625.65,
+          "probability": 0.2971
+        },
+        {
+          "word": "remove",
+          "start": 625.65,
+          "end": 626.09,
+          "probability": 0.9434
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "start": 626.97,
+      "end": 628.69,
+      "text": "v dot",
+      "language": "te",
+      "avg_logprob": -0.9834,
+      "no_speech_prob": 0.0027,
+      "words": [
+        {
+          "word": "v",
+          "start": 626.97,
+          "end": 627.95,
+          "probability": 0.005
+        },
+        {
+          "word": "dot",
+          "start": 627.95,
+          "end": 628.69,
+          "probability": 0.0845
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "start": 628.69,
+      "end": 629.63,
+      "text": "remove",
+      "language": "te",
+      "avg_logprob": -0.9834,
+      "no_speech_prob": 0.0027,
+      "words": [
+        {
+          "word": "remove",
+          "start": 628.69,
+          "end": 629.63,
+          "probability": 0.9009
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "start": 629.63,
+      "end": 632.33,
+      "text": "v dot",
+      "language": "te",
+      "avg_logprob": -0.9834,
+      "no_speech_prob": 0.0027,
+      "words": [
+        {
+          "word": "v",
+          "start": 629.63,
+          "end": 630.31,
+          "probability": 0.0356
+        },
+        {
+          "word": "dot",
+          "start": 630.31,
+          "end": 632.33,
+          "probability": 0.8647
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "start": 632.33,
+      "end": 633.93,
+      "text": "for example",
+      "language": "te",
+      "avg_logprob": -0.9834,
+      "no_speech_prob": 0.0027,
+      "words": [
+        {
+          "word": "for",
+          "start": 632.33,
+          "end": 632.61,
+          "probability": 0.0014
+        },
+        {
+          "word": "example",
+          "start": 632.61,
+          "end": 633.93,
+          "probability": 0.6221
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "start": 634.97,
+      "end": 635.71,
+      "text": "1",
+      "language": "te",
+      "avg_logprob": -0.9834,
+      "no_speech_prob": 0.0027,
+      "words": [
+        {
+          "word": "1",
+          "start": 634.97,
+          "end": 635.71,
+          "probability": 0.2688
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "start": 636.37,
+      "end": 637.07,
+      "text": "24",
+      "language": "te",
+      "avg_logprob": -0.9834,
+      "no_speech_prob": 0.0027,
+      "words": [
+        {
+          "word": "24",
+          "start": 636.37,
+          "end": 637.07,
+          "probability": 0.0226
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "start": 638.83,
+      "end": 640.23,
+      "text": "element",
+      "language": "te",
+      "avg_logprob": -0.9834,
+      "no_speech_prob": 0.0027,
+      "words": [
+        {
+          "word": "element",
+          "start": 638.83,
+          "end": 640.23,
+          "probability": 0.103
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "start": 640.23,
+      "end": 640.43,
+      "text": "ఇజువార్ కింద.",
+      "language": "te",
+      "avg_logprob": -1.195,
+      "no_speech_prob": 0.001,
+      "words": [
+        {
+          "word": "ఇజువార్",
+          "start": 640.23,
+          "end": 640.35,
+          "probability": 0.4924
+        },
+        {
+          "word": "కిండి.",
+          "start": 640.35,
+          "end": 640.43,
+          "probability": 0.5274
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "start": 640.43,
+      "end": 642.51,
+      "text": "I am removing the element,",
+      "language": "te",
+      "avg_logprob": -1.195,
+      "no_speech_prob": 0.001,
+      "words": [
+        {
+          "word": "I",
+          "start": 640.43,
+          "end": 640.65,
+          "probability": 0.0016
+        },
+        {
+          "word": "am",
+          "start": 640.65,
+          "end": 640.71,
+          "probability": 0.1038
+        },
+        {
+          "word": "removing",
+          "start": 640.71,
+          "end": 640.97,
+          "probability": 0.6113
+        },
+        {
+          "word": "the",
+          "start": 640.97,
+          "end": 642.15,
+          "probability": 0.5679
+        },
+        {
+          "word": "element,",
+          "start": 642.15,
+          "end": 642.51,
+          "probability": 0.7285
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "start": 643.97,
+      "end": 648.51,
+      "text": "and then I remove 24.",
+      "language": "te",
+      "avg_logprob": -1.195,
+      "no_speech_prob": 0.001,
+      "words": [
+        {
+          "word": "and",
+          "start": 643.97,
+          "end": 644.75,
+          "probability": 0.0674
+        },
+        {
+          "word": "then",
+          "start": 644.75,
+          "end": 645.13,
+          "probability": 0.0237
+        },
+        {
+          "word": "I",
+          "start": 645.13,
+          "end": 645.53,
+          "probability": 0.1827
+        },
+        {
+          "word": "remove",
+          "start": 645.53,
+          "end": 646.97,
+          "probability": 0.1562
+        },
+        {
+          "word": "24.",
+          "start": 646.97,
+          "end": 648.51,
+          "probability": 0.1591
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "start": 649.88,
+      "end": 654.87,
+      "text": "The pop removes are removed by index.",
+      "language": "te",
+      "avg_logprob": -1.195,
+      "no_speech_prob": 0.001,
+      "words": [
+        {
+          "word": "The",
+          "start": 649.88,
+          "end": 650.27,
+          "probability": 0.0843
+        },
+        {
+          "word": "pop",
+          "start": 650.27,
+          "end": 650.79,
+          "probability": 0.3542
+        },
+        {
+          "word": "removes",
+          "start": 650.79,
+          "end": 651.17,
+          "probability": 0.0553
+        },
+        {
+          "word": "are",
+          "start": 651.17,
+          "end": 651.37,
+          "probability": 0.0001
+        },
+        {
+          "word": "removed",
+          "start": 651.37,
+          "end": 654.75,
+          "probability": 0.0002
+        },
+        {
+          "word": "by",
+          "start": 654.75,
+          "end": 654.75,
+          "probability": 0.6631
+        },
+        {
+          "word": "index.",
+          "start": 654.75,
+          "end": 654.87,
+          "probability": 0.5854
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "start": 685.71,
+      "end": 689.97,
+      "text": "index 0 1",
+      "language": "te",
+      "avg_logprob": -1.9983,
+      "no_speech_prob": 0.0136,
+      "words": [
+        {
+          "word": "index",
+          "start": 685.71,
+          "end": 687.11,
+          "probability": 0.0112
+        },
+        {
+          "word": "0",
+          "start": 687.11,
+          "end": 688.51,
+          "probability": 0.04
+        },
+        {
+          "word": "1",
+          "start": 688.51,
+          "end": 689.97,
+          "probability": 0.3354
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "start": 693.31,
+      "end": 696.11,
+      "text": "print 24x",
+      "language": "te",
+      "avg_logprob": -1.1126,
+      "no_speech_prob": 0.0349,
+      "words": [
+        {
+          "word": "print",
+          "start": 693.31,
+          "end": 694.71,
+          "probability": 0.0027
+        },
+        {
+          "word": "24x",
+          "start": 694.71,
+          "end": 696.11,
+          "probability": 0.3818
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "start": 696.26,
+      "end": 699.06,
+      "text": "index.index",
+      "language": "te",
+      "avg_logprob": -1.4492,
+      "no_speech_prob": 0.0071,
+      "words": [
+        {
+          "word": "index",
+          "start": 696.26,
+          "end": 697.66,
+          "probability": 0.018
+        },
+        {
+          "word": ".index",
+          "start": 697.66,
+          "end": 699.06,
+          "probability": 0.4473
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "start": 702.06,
+      "end": 707.06,
+      "text": "index 0 index 1",
+      "language": "te",
+      "avg_logprob": -1.7987,
+      "no_speech_prob": 0.0048,
+      "words": [
+        {
+          "word": "index",
+          "start": 702.06,
+          "end": 702.68,
+          "probability": 0.0001
+        },
+        {
+          "word": "0",
+          "start": 702.68,
+          "end": 704.5,
+          "probability": 0.0506
+        },
+        {
+          "word": "index",
+          "start": 704.5,
+          "end": 705.66,
+          "probability": 0.3777
+        },
+        {
+          "word": "1",
+          "start": 705.66,
+          "end": 707.06,
+          "probability": 0.6348
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "start": 708.46,
+      "end": 710.2,
+      "text": "for loop",
+      "language": "te",
+      "avg_logprob": -1.7987,
+      "no_speech_prob": 0.0048,
+      "words": [
+        {
+          "word": "for",
+          "start": 708.46,
+          "end": 709.62,
+          "probability": 0.0312
+        },
+        {
+          "word": "loop",
+          "start": 709.62,
+          "end": 710.2,
+          "probability": 0.5928
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "start": 711.3,
+      "end": 712.98,
+      "text": "జిలుప్ జాస్కోచే using for loop",
+      "language": "te",
+      "avg_logprob": -0.9223,
+      "no_speech_prob": 0.0029,
+      "words": [
+        {
+          "word": "జిలుప్",
+          "start": 711.3,
+          "end": 711.82,
+          "probability": 0.4498
+        },
+        {
+          "word": "జాస్కోచే",
+          "start": 711.82,
+          "end": 712.34,
+          "probability": 0.6508
+        },
+        {
+          "word": "using",
+          "start": 712.34,
+          "end": 712.44,
+          "probability": 0.0353
+        },
+        {
+          "word": "for",
+          "start": 712.44,
+          "end": 712.72,
+          "probability": 0.7334
+        },
+        {
+          "word": "loop",
+          "start": 712.72,
+          "end": 712.98,
+          "probability": 0.6196
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "start": 712.98,
+      "end": 716.08,
+      "text": "so simple gaffar i, a",
+      "language": "te",
+      "avg_logprob": -0.9223,
+      "no_speech_prob": 0.0029,
+      "words": [
+        {
+          "word": "so",
+          "start": 712.98,
+          "end": 713.6,
+          "probability": 0.0211
+        },
+        {
+          "word": "simple",
+          "start": 713.6,
+          "end": 715.18,
+          "probability": 0.2369
+        },
+        {
+          "word": "gaffar",
+          "start": 715.18,
+          "end": 715.6,
+          "probability": 0.175
+        },
+        {
+          "word": "i,",
+          "start": 715.6,
+          "end": 715.8,
+          "probability": 0.3909
+        },
+        {
+          "word": "a",
+          "start": 715.92,
+          "end": 716.08,
+          "probability": 0.3936
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "start": 716.08,
+      "end": 717.88,
+      "text": "we are going to paste the list",
+      "language": "te",
+      "avg_logprob": -0.9223,
+      "no_speech_prob": 0.0029,
+      "words": [
+        {
+          "word": "we",
+          "start": 716.08,
+          "end": 716.9,
+          "probability": 0.0102
+        },
+        {
+          "word": "are",
+          "start": 716.9,
+          "end": 717.02,
+          "probability": 0.2152
+        },
+        {
+          "word": "going",
+          "start": 717.02,
+          "end": 717.16,
+          "probability": 0.6533
+        },
+        {
+          "word": "to",
+          "start": 717.16,
+          "end": 717.26,
+          "probability": 0.9556
+        },
+        {
+          "word": "paste",
+          "start": 717.26,
+          "end": 717.56,
+          "probability": 0.645
+        },
+        {
+          "word": "the",
+          "start": 717.56,
+          "end": 717.88,
+          "probability": 0.3237
+        },
+        {
+          "word": "list",
+          "start": 717.88,
+          "end": 717.88,
+          "probability": 0.8286
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "start": 717.88,
+      "end": 719.78,
+      "text": "after that what I am doing is space",
+      "language": "te",
+      "avg_logprob": -0.9223,
+      "no_speech_prob": 0.0029,
+      "words": [
+        {
+          "word": "after",
+          "start": 717.88,
+          "end": 718.22,
+          "probability": 0.0182
+        },
+        {
+          "word": "that",
+          "start": 718.22,
+          "end": 718.88,
+          "probability": 0.708
+        },
+        {
+          "word": "what",
+          "start": 718.88,
+          "end": 718.98,
+          "probability": 0.2454
+        },
+        {
+          "word": "I",
+          "start": 718.98,
+          "end": 719.06,
+          "probability": 0.0657
+        },
+        {
+          "word": "am",
+          "start": 719.06,
+          "end": 719.1,
+          "probability": 0.4868
+        },
+        {
+          "word": "doing",
+          "start": 719.1,
+          "end": 719.3,
+          "probability": 0.2922
+        },
+        {
+          "word": "is",
+          "start": 719.3,
+          "end": 719.46,
+          "probability": 0.7417
+        },
+        {
+          "word": "space",
+          "start": 719.46,
+          "end": 719.78,
+          "probability": 0.4949
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "start": 719.78,
+      "end": 721.48,
+      "text": "and here next time I will remove it",
+      "language": "te",
+      "avg_logprob": -0.9223,
+      "no_speech_prob": 0.0029,
+      "words": [
+        {
+          "word": "and",
+          "start": 719.78,
+          "end": 720.36,
+          "probability": 0.4453
+        },
+        {
+          "word": "here",
+          "start": 720.36,
+          "end": 720.66,
+          "probability": 0.2839
+        },
+        {
+          "word": "next",
+          "start": 720.66,
+          "end": 720.9,
+          "probability": 0.0263
+        },
+        {
+          "word": "time",
+          "start": 720.9,
+          "end": 721.12,
+          "probability": 0.77
+        },
+        {
+          "word": "I",
+          "start": 721.12,
+          "end": 721.26,
+          "probability": 0.7759
+        },
+        {
+          "word": "will",
+          "start": 721.26,
+          "end": 721.34,
+          "probability": 0.4895
+        },
+        {
+          "word": "remove",
+          "start": 721.34,
+          "end": 721.34,
+          "probability": 0.5752
+        },
+        {
+          "word": "it",
+          "start": 721.34,
+          "end": 721.48,
+          "probability": 0.1605
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "start": 722.26,
+      "end": 723.3,
+      "text": "now enter",
+      "language": "te",
+      "avg_logprob": -0.9223,
+      "no_speech_prob": 0.0029,
+      "words": [
+        {
+          "word": "now",
+          "start": 722.26,
+          "end": 722.78,
+          "probability": 0.0145
+        },
+        {
+          "word": "enter",
+          "start": 722.78,
+          "end": 723.3,
+          "probability": 0.0114
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "start": 724.32,
+      "end": 725.36,
+      "text": "print print",
+      "language": "te",
+      "avg_logprob": -0.9223,
+      "no_speech_prob": 0.0029,
+      "words": [
+        {
+          "word": "print",
+          "start": 724.32,
+          "end": 724.84,
+          "probability": 0.1744
+        },
+        {
+          "word": "print",
+          "start": 724.84,
+          "end": 725.36,
+          "probability": 0.3638
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "start": 725.36,
+      "end": 728.14,
+      "text": "ok then run",
+      "language": "te",
+      "avg_logprob": -0.9223,
+      "no_speech_prob": 0.0029,
+      "words": [
+        {
+          "word": "ok",
+          "start": 725.36,
+          "end": 726.1,
+          "probability": 0.0124
+        },
+        {
+          "word": "then",
+          "start": 726.1,
+          "end": 727.4,
+          "probability": 0.4773
+        },
+        {
+          "word": "run",
+          "start": 727.4,
+          "end": 728.14,
+          "probability": 0.8843
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "start": 729.5,
+      "end": 731.8,
+      "text": "see every element has been looped",
+      "language": "te",
+      "avg_logprob": -0.9223,
+      "no_speech_prob": 0.0029,
+      "words": [
+        {
+          "word": "see",
+          "start": 729.5,
+          "end": 730.02,
+          "probability": 0.0277
+        },
+        {
+          "word": "every",
+          "start": 730.02,
+          "end": 730.54,
+          "probability": 0.2776
+        },
+        {
+          "word": "element",
+          "start": 730.54,
+          "end": 731.02,
+          "probability": 0.916
+        },
+        {
+          "word": "has",
+          "start": 731.02,
+          "end": 731.24,
+          "probability": 0.125
+        },
+        {
+          "word": "been",
+          "start": 731.24,
+          "end": 731.42,
+          "probability": 0.2515
+        },
+        {
+          "word": "looped",
+          "start": 731.42,
+          "end": 731.8,
+          "probability": 0.6799
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "start": 731.8,
+      "end": 733.72,
+      "text": "in this way you can do each one of these loops",
+      "language": "te",
+      "avg_logprob": -0.9223,
+      "no_speech_prob": 0.0029,
+      "words": [
+        {
+          "word": "in",
+          "start": 731.8,
+          "end": 731.86,
+          "probability": 0.1
+        },
+        {
+          "word": "this",
+          "start": 731.86,
+          "end": 732.16,
+          "probability": 0.4556
+        },
+        {
+          "word": "way",
+          "start": 732.16,
+          "end": 732.56,
+          "probability": 0.9678
+        },
+        {
+          "word": "you",
+          "start": 732.56,
+          "end": 732.62,
+          "probability": 0.2474
+        },
+        {
+          "word": "can",
+          "start": 732.62,
+          "end": 732.82,
+          "probability": 0.9321
+        },
+        {
+          "word": "do",
+          "start": 732.82,
+          "end": 733.0,
+          "probability": 0.1945
+        },
+        {
+          "word": "each",
+          "start": 733.0,
+          "end": 733.0,
+          "probability": 0.1697
+        },
+        {
+          "word": "one",
+          "start": 733.0,
+          "end": 733.26,
+          "probability": 0.1544
+        },
+        {
+          "word": "of",
+          "start": 733.26,
+          "end": 733.34,
+          "probability": 0.0769
+        },
+        {
+          "word": "these",
+          "start": 733.34,
+          "end": 733.46,
+          "probability": 0.1989
+        },
+        {
+          "word": "loops",
+          "start": 733.46,
+          "end": 733.72,
+          "probability": 0.4573
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "start": 739.36,
+      "end": 742.86,
+      "text": "జరిగే సెముందిష్టీ ఇన్ఫామేషన్ ఏది అల్లీ సమంజించు అహు మేథర సాయణ ఇది డిస్కాస్ చేస్",
+      "language": "te",
+      "avg_logprob": -0.9161,
+      "no_speech_prob": 0.027,
+      "words": [
+        {
+          "word": "జ്રে",
+          "start": 739.36,
+          "end": 739.48,
+          "probability": 0.2598
+        },
+        {
+          "word": "సెముందిష్టీ",
+          "start": 739.48,
+          "end": 739.88,
+          "probability": 0.6188
+        },
+        {
+          "word": "ఇన్ఫామైశ్యో",
+          "start": 739.88,
+          "end": 740.36,
+          "probability": 0.6546
+        },
+        {
+          "word": "ఏడి",
+          "start": 740.36,
+          "end": 740.7,
+          "probability": 0.5928
+        },
+        {
+          "word": "అల్లి",
+          "start": 740.7,
+          "end": 740.82,
+          "probability": 0.6768
+        },
+        {
+          "word": "సమొంజిచ్ఛ్తు",
+          "start": 740.82,
+          "end": 741.48,
+          "probability": 0.6506
+        },
+        {
+          "word": "అహు",
+          "start": 741.48,
+          "end": 741.64,
+          "probability": 0.4842
+        },
+        {
+          "word": "మేథర",
+          "start": 741.64,
+          "end": 741.9,
+          "probability": 0.7206
+        },
+        {
+          "word": "సాయ్ణ",
+          "start": 741.9,
+          "end": 742.1,
+          "probability": 0.681
+        },
+        {
+          "word": "ఇది",
+          "start": 742.1,
+          "end": 742.26,
+          "probability": 0.7147
+        },
+        {
+          "word": "డిస్కాస్",
+          "start": 742.26,
+          "end": 742.66,
+          "probability": 0.8614
+        },
+        {
+          "word": "చేస్",
+          "start": 742.66,
+          "end": 742.86,
+          "probability": 0.7877
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "start": 742.86,
+      "end": 758.74,
+      "text": "ఉన్న ఒకే నా",
+      "language": "te",
+      "avg_logprob": -0.9161,
+      "no_speech_prob": 0.027,
+      "words": [
+        {
+          "word": "ఉన్‌నా",
+          "start": 742.86,
+          "end": 743.12,
+          "probability": 0.6364
+        },
+        {
+          "word": "ఒకే",
+          "start": 743.12,
+          "end": 746.76,
+          "probability": 0.5855
+        },
+        {
+          "word": "నా",
+          "start": 746.76,
+          "end": 758.74,
+          "probability": 0.7856
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "start": 767.66,
+      "end": 768.26,
+      "text": "ఓకేనా",
+      "language": "te",
+      "avg_logprob": -0.9161,
+      "no_speech_prob": 0.027,
+      "words": [
+        {
+          "word": "ఓకేనా",
+          "start": 767.66,
+          "end": 768.26,
+          "probability": 0.6655
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "start": 768.26,
+      "end": 776.62,
+      "text": "print viz 0 location add-in",
+      "language": "te",
+      "avg_logprob": -0.9936,
+      "no_speech_prob": 0.0083,
+      "words": [
+        {
+          "word": "print",
+          "start": 768.26,
+          "end": 768.96,
+          "probability": 0.0105
+        },
+        {
+          "word": "viz",
+          "start": 768.96,
+          "end": 770.56,
+          "probability": 0.0367
+        },
+        {
+          "word": "0",
+          "start": 770.56,
+          "end": 773.36,
+          "probability": 0.0857
+        },
+        {
+          "word": "location",
+          "start": 773.84,
+          "end": 775.22,
+          "probability": 0.5122
+        },
+        {
+          "word": "add",
+          "start": 775.22,
+          "end": 776.2,
+          "probability": 0.1986
+        },
+        {
+          "word": "-in",
+          "start": 776.2,
+          "end": 776.62,
+          "probability": 0.4996
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "start": 777.46,
+      "end": 780.54,
+      "text": "జరిగే లోకేషన్ ఏదం ఐడ్ చేస్కొనాటీ insert use జాస్‌తమ",
+      "language": "te",
+      "avg_logprob": -0.9936,
+      "no_speech_prob": 0.0083,
+      "words": [
+        {
+          "word": "జ്રে",
+          "start": 777.46,
+          "end": 778.14,
+          "probability": 0.2651
+        },
+        {
+          "word": "లోకెశను",
+          "start": 778.14,
+          "end": 778.82,
+          "probability": 0.6038
+        },
+        {
+          "word": "এదం",
+          "start": 778.82,
+          "end": 778.98,
+          "probability": 0.4522
+        },
+        {
+          "word": "ఐడ్",
+          "start": 778.98,
+          "end": 779.24,
+          "probability": 0.7409
+        },
+        {
+          "word": "చేస్కొళాటీ",
+          "start": 779.24,
+          "end": 779.62,
+          "probability": 0.6707
+        },
+        {
+          "word": "insert",
+          "start": 779.62,
+          "end": 779.8,
+          "probability": 0.1368
+        },
+        {
+          "word": "use",
+          "start": 779.8,
+          "end": 780.04,
+          "probability": 0.0222
+        },
+        {
+          "word": "జాస్‌తమ",
+          "start": 780.04,
+          "end": 780.54,
+          "probability": 0.7487
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "start": 780.54,
+      "end": 785.52,
+      "text": "జిష్య బాగ్ లొ ఐట్ ఛేలే nappend use జేసత్తమ bulk లౌ ఈట్ �",
+      "language": "te",
+      "avg_logprob": -0.9936,
+      "no_speech_prob": 0.0083,
+      "words": [
+        {
+          "word": "జిష్య",
+          "start": 780.54,
+          "end": 781.5,
+          "probability": 0.5552
+        },
+        {
+          "word": "బాగ్",
+          "start": 781.5,
+          "end": 783.74,
+          "probability": 0.6022
+        },
+        {
+          "word": "ల౉",
+          "start": 783.74,
+          "end": 783.86,
+          "probability": 0.63
+        },
+        {
+          "word": "ఐట్",
+          "start": 783.86,
+          "end": 783.98,
+          "probability": 0.7268
+        },
+        {
+          "word": "ఛేలే",
+          "start": 783.98,
+          "end": 784.14,
+          "probability": 0.6347
+        },
+        {
+          "word": "nappend",
+          "start": 784.14,
+          "end": 784.4,
+          "probability": 0.293
+        },
+        {
+          "word": "use",
+          "start": 784.4,
+          "end": 784.56,
+          "probability": 0.1483
+        },
+        {
+          "word": "ജేసత్తమ",
+          "start": 784.56,
+          "end": 784.9,
+          "probability": 0.653
+        },
+        {
+          "word": "bulk",
+          "start": 784.9,
+          "end": 785.14,
+          "probability": 0.1716
+        },
+        {
+          "word": "లౌ",
+          "start": 785.14,
+          "end": 785.32,
+          "probability": 0.749
+        },
+        {
+          "word": "ఈట్",
+          "start": 785.32,
+          "end": 785.48,
+          "probability": 0.7486
+        },
+        {
+          "word": "�",
+          "start": 785.48,
+          "end": 785.52,
+          "probability": 0.0007
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "start": 785.52,
+      "end": 788.86,
+      "text": "extend count powerpoint index remove",
+      "language": "te",
+      "avg_logprob": -0.9936,
+      "no_speech_prob": 0.0083,
+      "words": [
+        {
+          "word": "extend",
+          "start": 785.52,
+          "end": 785.84,
+          "probability": 0.0054
+        },
+        {
+          "word": "count",
+          "start": 785.84,
+          "end": 786.4,
+          "probability": 0.007
+        },
+        {
+          "word": "powerpoint",
+          "start": 786.4,
+          "end": 788.22,
+          "probability": 0.0718
+        },
+        {
+          "word": "index",
+          "start": 788.22,
+          "end": 788.52,
+          "probability": 0.4326
+        },
+        {
+          "word": "remove",
+          "start": 788.52,
+          "end": 788.86,
+          "probability": 0.1667
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "start": 798.02,
+      "end": 800.82,
+      "text": "కేరణజన్, కిరణోసాదం.",
+      "language": "te",
+      "avg_logprob": -0.7671,
+      "no_speech_prob": 0.0023,
+      "words": [
+        {
+          "word": "కేరణజన్,",
+          "start": 798.02,
+          "end": 799.42,
+          "probability": 0.3905
+        },
+        {
+          "word": "కిరణోసాదం.",
+          "start": 799.42,
+          "end": 800.82,
+          "probability": 0.444
+        }
+      ]
+    }
+  ],
+  "full_text": "hi అండీ, welcome to python life youtube channel. so ఇరుజ మన టాపిక్ వచ్చలకె ఎంటంతే list in python list అయది ఒక data type దాను గిరిస్చు పూర్ధికా discuss చాద్దా మిరోజు list slicing,methods list is a data type how to define list in python we use square brackets using square bracket we can easily define the list next is mutable datatype mutable datatype means once we take elements we can modify or add or delete a data type so modifying is possible here that's why we say mutable mutable is nothing but changeable store different types of elements list stores different types of elements for example if we take house,float ,list string boolean complex any data type allow duplicates అలో, duplicates. ఇంట్లో లిస్ట్‌లో elements ఈది duplicate న అరొ యాస్తివం. For example, 1 comma ,1 comma, 1 comma, any ones ఉడిష్కుండా, all ones ప్రింటావతది. duplicates allow you means only one person can read it in the same way hello indexing also allows i will explain what is indexing there should be an index in your book for example if we have 10 pages first index or zero index exactly as seen here indexing is two ways forward indexing and negative indexing forward indexing starts from zero for example if you have 10 elements in forward indexing n-1 means 9 is your last index so negative indexing starts with minus 1 and goes to minus 8 మాయన్యేస్ కిందాక్రిలుతోది. ఉకెనా? ఇది గుర్ధపేట్వడి. ఇండెక్జిం అంటే ఏండి లీదు, మన ఎల్లిమెంటినీ అక్ 1 index 0 index 2.2 index 1 index true index 2.1 index for example how to access this two? if else elif break continue return list tuple dict set function variable string update indexing index and element next we will use this index to implement slicing slicing is cutting a list into parts slicing means start, stop & skip 0 index start 5 index 2 to skip స్కిప్పావుగంటు రావాలి. అన్తే, ఈట్ల కణ్డిశిస్ బెటికో మన హయిం జేసామంచ్తి ప్రజేకానికి వీడు స్లైసింగ్ చోట్ మాట్ట౉ పాటలు ప఼టళు త్రాయ్ చేస్ కొఛు set up, stop and skip i will show you all this in practical way like how to define list and how we can do slicing also there are some methods for append extend remove pop count index all these can be performed in crud operations for example create read update delete you can use this method to perform the list operations so this is a theory related to lists we will see it practically and learn about outputs and functionalities please like this video if you are interested in learning python I have given link of course in comment section ఈజ్ తే అనో టు సైం దలన్ కరణ ఛీ గళా జే చాయ మారే థే సు బహడే అభా శాన్ ఎ చ్ తెంక్యు. జేక్ జెసు గూడి వీదాంగ టీ పైన్ట్ యొష్చు జో లిస్ట ఎరుమేట్స్ ఏల్లా ఫాస్ జెరు అగుడు జూబిష్తాన l equal to 1 comma something ఇలిమెంట్‌ అభాల different types of elements could be given no problem for example ఇజ్రంగు డిఫరెంట్ టైప్స్ ఎలిమెంట్స్ కోడీ చొవత్య. ఇది, ఉక్కా బిరిండ్ జేస్కుడం మేక్ అశ్టిస్ జేర్ పేటు బోలీ 0 1 2 3 4 positive indexing negative indexing last element is negative index we can do slicing also print reoff 0 to forward కోర్వాగు జీవ శాస్త్రం, మైటోసిస్, కణ కలిపి. 0 4 1 2 3 4 కేంద్రానికి జీవ శాస్త్రం, మైటోసిస్, కణ విభజన, కెంగ్లాండ్. cut index forward or backward if you want to do it in a different way for example some methods have been discussed append extend append, extend , count , insert , pop , remove రీమోవానే, జుడ్ధిస్కొన్చెల్లిస్తాం. జేర్వు జూపోస్టె అపేడీ చేల్తా for example v.append for example if i add python here in my list it will be added at the end and append to that print v is running here so if we run here, python has been added as last from needle ఇజ్టెండు ఉష్చాస్తమో, బల్కు డేటా. పొరియన్ వద్ధాగండి, అర్థం డేటా ఏడింది భాక్కలు. ఒకేనా? జ్చే કેટా setup pop and remove v dot remove v dot for example 1 24 element ఇజువార్ కింద. I am removing the element, and then I remove 24. The pop removes are removed by index. index 0 1 print 24x index.index index 0 index 1 for loop జిలుప్ జాస్కోచే using for loop so simple gaffar i, a we are going to paste the list after that what I am doing is space and here next time I will remove it now enter print print ok then run see every element has been looped in this way you can do each one of these loops జరిగే సెముందిష్టీ ఇన్ఫామేషన్ ఏది అల్లీ సమంజించు అహు మేథర సాయణ ఇది డిస్కాస్ చేస్ ఉన్న ఒకే నా ఓకేనా print viz 0 location add-in జరిగే లోకేషన్ ఏదం ఐడ్ చేస్కొనాటీ insert use జాస్‌తమ జిష్య బాగ్ లొ ఐట్ ఛేలే nappend use జేసత్తమ bulk లౌ ఈట్ � extend count powerpoint index remove కేరణజన్, కిరణోసాదం."
+}

@@ -1,0 +1,79 @@
+{
+  "dependencies": [
+    {
+      "from_concept": "concept_1",
+      "to_concept": "concept_2",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture begins with financial statements, which provide the context for calculating sales, indicating that understanding financial statements is necessary before calculating sales."
+    },
+    {
+      "from_concept": "concept_2",
+      "to_concept": "concept_3",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture transitions from sales calculation to depreciation, suggesting that understanding sales is a prerequisite for calculating depreciation."
+    },
+    {
+      "from_concept": "concept_3",
+      "to_concept": "concept_4",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "Depreciation is calculated and then recorded in the depreciation ledger, indicating that understanding depreciation is necessary before recording it."
+    },
+    {
+      "from_concept": "concept_4",
+      "to_concept": "concept_5",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture discusses recording depreciation in the ledger and then moves to marks allocation, implying that understanding how to record depreciation is necessary before understanding marks allocation."
+    },
+    {
+      "from_concept": "concept_5",
+      "to_concept": "concept_6",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "Marks allocation is discussed before profit calculation, suggesting that understanding marks allocation is necessary before calculating profit."
+    }
+  ],
+  "learning_path": [
+    "concept_1",
+    "concept_2",
+    "concept_3",
+    "concept_4",
+    "concept_5",
+    "concept_6"
+  ],
+  "concept_clusters": [
+    {
+      "cluster_name": "Financial Overview",
+      "concept_ids": [
+        "concept_1",
+        "concept_2"
+      ],
+      "description": "These concepts are grouped together as they both deal with understanding the financial performance of a company."
+    },
+    {
+      "cluster_name": "Depreciation and Recording",
+      "concept_ids": [
+        "concept_3",
+        "concept_4"
+      ],
+      "description": "These concepts are grouped together as they involve calculating and recording depreciation."
+    },
+    {
+      "cluster_name": "Evaluation and Profit",
+      "concept_ids": [
+        "concept_5",
+        "concept_6"
+      ],
+      "description": "These concepts are grouped together as they involve evaluating calculations and determining profit."
+    }
+  ],
+  "root_concepts": [
+    "concept_1"
+  ],
+  "leaf_concepts": [
+    "concept_6"
+  ]
+}

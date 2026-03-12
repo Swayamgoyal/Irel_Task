@@ -1,0 +1,396 @@
+{
+  "metadata": {
+    "video_source": "https://www.youtube.com/watch?v=HZm1QyEGV-4",
+    "transcription_model": "large-v3",
+    "detected_language": "kn",
+    "language_probability": 1,
+    "audio_duration_seconds": 461.4,
+    "languages_detected": [
+      "English",
+      "Kannada"
+    ],
+    "code_mix_ratio": 0.093
+  },
+  "lecture_info": {
+    "topic": "Loop Control Statements in Python",
+    "summary": "This lecture covers the use of loop control statements such as 'break' and 'continue' in Python to manage the flow of loops. It explains how to skip specific elements in a loop and handle conditions using these statements, with examples involving lists and strings.",
+    "teaching_flow": [
+      "concept_1 -> concept_3",
+      "concept_1 -> concept_4",
+      "concept_3 -> concept_5",
+      "concept_4 -> concept_5",
+      "concept_5 -> concept_6",
+      "concept_5 -> concept_7"
+    ],
+    "analogies_used": [
+      {
+        "concept": "concept_3",
+        "analogy": "Stopping the loop when a specific condition is met, like stopping at a red light."
+      },
+      {
+        "concept": "concept_4",
+        "analogy": "Skipping a step in a sequence, like skipping a song on a playlist."
+      }
+    ]
+  },
+  "concepts": [
+    {
+      "id": "concept_1",
+      "name": "For Loop",
+      "aliases": [
+        "for-loop"
+      ],
+      "description": "A control flow statement for iterating over a sequence (like a list, tuple, or string).",
+      "type": "core",
+      "explanation_method": "Example",
+      "key_points": [
+        "Iterates over a sequence",
+        "Used to execute a block of code multiple times"
+      ],
+      "complexity_note": "Time complexity depends on the length of the sequence."
+    },
+    {
+      "id": "concept_2",
+      "name": "While Loop",
+      "aliases": [],
+      "description": "A control flow statement that allows code to be executed repeatedly based on a given Boolean condition.",
+      "type": "supporting",
+      "explanation_method": "Mentioned as a type of loop",
+      "key_points": [
+        "Executes as long as the condition is true"
+      ],
+      "complexity_note": "Time complexity depends on the condition."
+    },
+    {
+      "id": "concept_3",
+      "name": "Break Statement",
+      "aliases": [],
+      "description": "A loop control statement that terminates the loop containing it.",
+      "type": "core",
+      "explanation_method": "Example",
+      "key_points": [
+        "Terminates the loop",
+        "Used to exit a loop when a condition is met"
+      ],
+      "complexity_note": "Reduces the number of iterations."
+    },
+    {
+      "id": "concept_4",
+      "name": "Continue Statement",
+      "aliases": [],
+      "description": "A loop control statement that skips the rest of the code inside a loop for the current iteration.",
+      "type": "core",
+      "explanation_method": "Example",
+      "key_points": [
+        "Skips to the next iteration",
+        "Used to skip specific elements in a loop"
+      ],
+      "complexity_note": "Affects the number of iterations."
+    },
+    {
+      "id": "concept_5",
+      "name": "Conditional Statements",
+      "aliases": [
+        "if",
+        "else",
+        "elif"
+      ],
+      "description": "Statements that execute different blocks of code based on certain conditions.",
+      "type": "supporting",
+      "explanation_method": "Example",
+      "key_points": [
+        "if: executes if the condition is true",
+        "else: executes if the condition is false",
+        "elif: else if"
+      ],
+      "complexity_note": "Time complexity depends on the condition."
+    },
+    {
+      "id": "concept_6",
+      "name": "List",
+      "aliases": [],
+      "description": "A collection data type that is ordered and changeable, allowing duplicate members.",
+      "type": "supporting",
+      "explanation_method": "Example",
+      "key_points": [
+        "Ordered",
+        "Changeable",
+        "Allows duplicates"
+      ],
+      "complexity_note": "Access time complexity is O(1)."
+    },
+    {
+      "id": "concept_7",
+      "name": "String",
+      "aliases": [],
+      "description": "A sequence of characters used to store text.",
+      "type": "supporting",
+      "explanation_method": "Example",
+      "key_points": [
+        "Immutable",
+        "Ordered"
+      ],
+      "complexity_note": "Access time complexity is O(1)."
+    },
+    {
+      "id": "concept_8",
+      "name": "Integer",
+      "aliases": [],
+      "description": "A data type used to represent whole numbers.",
+      "type": "supporting",
+      "explanation_method": "Mentioned as a data type",
+      "key_points": [
+        "Whole numbers",
+        "Can be positive or negative"
+      ],
+      "complexity_note": "Arithmetic operations are O(1)."
+    },
+    {
+      "id": "concept_9",
+      "name": "Boolean",
+      "aliases": [],
+      "description": "A data type with two possible values: True or False.",
+      "type": "supporting",
+      "explanation_method": "Mentioned as a data type",
+      "key_points": [
+        "True or False",
+        "Used in conditional statements"
+      ],
+      "complexity_note": "Comparison operations are O(1)."
+    },
+    {
+      "id": "concept_10",
+      "name": "Index",
+      "aliases": [],
+      "description": "A position of an element within an ordered list.",
+      "type": "supporting",
+      "explanation_method": "Mentioned in context of lists",
+      "key_points": [
+        "Zero-based",
+        "Used to access elements"
+      ],
+      "complexity_note": "Access time complexity is O(1)."
+    },
+    {
+      "id": "concept_11",
+      "name": "Append",
+      "aliases": [],
+      "description": "A method to add an element to the end of a list.",
+      "type": "supporting",
+      "explanation_method": "Mentioned as a list method",
+      "key_points": [
+        "Adds element to end",
+        "Changes the list"
+      ],
+      "complexity_note": "Time complexity is O(1) on average."
+    },
+    {
+      "id": "concept_12",
+      "name": "Range",
+      "aliases": [],
+      "description": "A built-in function that generates a sequence of numbers.",
+      "type": "supporting",
+      "explanation_method": "Mentioned as a function",
+      "key_points": [
+        "Used in loops",
+        "Can specify start, stop, and step"
+      ],
+      "complexity_note": "Time complexity depends on the range size."
+    }
+  ],
+  "prerequisites": {
+    "dependencies": [
+      {
+        "from_concept": "concept_1",
+        "to_concept": "concept_3",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "The lecture explains using 'break' within a 'for loop', indicating that understanding 'for loop' is necessary before 'break'."
+      },
+      {
+        "from_concept": "concept_1",
+        "to_concept": "concept_4",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "The lecture discusses using 'continue' in a 'for loop', showing that 'for loop' must be understood before 'continue'."
+      },
+      {
+        "from_concept": "concept_3",
+        "to_concept": "concept_5",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "The lecture mentions using 'if, else, elif' with 'break', implying that 'conditional statements' are needed to understand 'break'."
+      },
+      {
+        "from_concept": "concept_4",
+        "to_concept": "concept_5",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "The lecture discusses using 'if, else, elif' with 'continue', indicating that 'conditional statements' are necessary to understand 'continue'."
+      },
+      {
+        "from_concept": "concept_5",
+        "to_concept": "concept_6",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "The lecture transitions from 'conditional statements' to using a 'list', suggesting that understanding 'conditional statements' is required before working with 'list'."
+      },
+      {
+        "from_concept": "concept_5",
+        "to_concept": "concept_7",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "The lecture moves from 'conditional statements' to using a 'string', indicating that 'conditional statements' must be understood before 'string'."
+      }
+    ],
+    "learning_path": [
+      "concept_1",
+      "concept_3",
+      "concept_4",
+      "concept_5",
+      "concept_6",
+      "concept_7"
+    ],
+    "concept_clusters": [
+      {
+        "cluster_name": "Loop Control Statements",
+        "concept_ids": [
+          "concept_1",
+          "concept_3",
+          "concept_4"
+        ],
+        "description": "These concepts are grouped together as they deal with loop structures and control mechanisms within loops."
+      },
+      {
+        "cluster_name": "Conditional Logic",
+        "concept_ids": [
+          "concept_5"
+        ],
+        "description": "This concept is grouped with loop control statements as it is essential for making decisions within loops."
+      },
+      {
+        "cluster_name": "Data Structures",
+        "concept_ids": [
+          "concept_6",
+          "concept_7"
+        ],
+        "description": "These concepts are grouped as they represent basic data structures used in programming."
+      }
+    ],
+    "root_concepts": [
+      "concept_1"
+    ],
+    "leaf_concepts": [
+      "concept_6",
+      "concept_7"
+    ]
+  },
+  "linguistic_analysis": {
+    "original_language_distribution": {
+      "English": 0.907,
+      "Kannada": 0.093
+    },
+    "technical_terms_mapped": {
+      "ಗಾಯ್ಸು": "Welcome",
+      "ಅನ್ಯುವಾಗಿ": "Then",
+      "ಪ್ರಿಂಟಾಗ್ಬೇಕು": "Should be printed",
+      "ಪ್ರಿಂಟಾದೆಗ್ಭರತು": "Is printed",
+      "ಅಣ್ಧರೆ": "If",
+      "ನಾನಿ": "I",
+      "ಬಂಡಾವಾಗ": "When",
+      "ಬ್ರೇಕರ್ನ": "Break",
+      "ಯೂಸ್ಮಾಡತ್ತಿನೀ": "Use",
+      "ಬರಿಯೇತಿ": "Only",
+      "ಇಗ್ಯ": "If",
+      "ಏನು": "What",
+      "ಅಪ್ಪಳಿ": "Append",
+      "ನಾಂದೆ": "Name",
+      "ಈವರೋ": "Over",
+      "ಬಿಕ್ಕೊ": "Break",
+      "ನು": "And",
+      "ಇದು": "This",
+      "ಮ್ರೂಟಿಪಲ್": "Multiple",
+      "ಸ್ಟ್ರಿಂಗ್": "String",
+      "ನಾಕೋಡೆ": "In code",
+      "ನೇಸ್ಟ": "Next",
+      "ಮಾಡತ್ತೆ": "do",
+      "ಮಿಗೆ": "Me",
+      "ಇದೆ": "Is",
+      "ಅನ್ರದನ": "And",
+      "ಸ್ಕಿಪ್ಮಾಟ್ಸುಕೆ": "Skip method",
+      "help": "Help",
+      "ಮಾಡ್ತೆ": "Do",
+      "ಅಪ್ಲು": "Apple",
+      "ಸ್ಕಿಪ್ಪಾಗಿದೆ": "Is skipped",
+      "ಇವಾಗ": "Then",
+      "ಇದನ್ನೆ": "This",
+      "ರೈಮೋಹ್ಟುಂದೆ": "Will be modified",
+      "ಬರದು": "continue",
+      "ಬಂತು": "then",
+      "ಇಷ್ಟೆ": "break",
+      "ಅಂತ": "then",
+      "ಬದರೆ": "otherwise",
+      "ಅನ್ನ": "the",
+      "ಎಲಾ": "how",
+      "ವಿಡಿಯೋ": "video",
+      "ಎಸ್ಟಾಡ್ರೆ": "explained",
+      "ಮೇಡ್": "made",
+      "ಅರತ್ತಿದಿಯಾ": "explained",
+      "ಸಬ್ಸ್ಕ್ರೈಬ್": "subscribe",
+      "ನ್ಯೂ": "new",
+      "ಫ್ರೆಂಡ್ಸ್": "friends",
+      "ಎರುಡುರು": "join",
+      "ಕನ್ನರ": "community",
+      "ಡಲ್ಲೆ": "with",
+      "ಕೋಡಿಂಗಾನ": "coding",
+      "ಕಲಿಬು": "community",
+      "ಎಕುಂದರುಗೆ": "to",
+      "ವಿಡಿಯೋನ": "videos",
+      "ಶೇರ್ಮೆಡೆ": "share",
+      "ನೆಕ್ಸ್ಟ್": "next",
+      "ಟ್ಯೂಟೋರಿಯಲಿ": "tutorial",
+      "ಸಿಗ್ನ": "sign",
+      "ಅಲ್ಲಿರ್ಗುಗು": "all",
+      "ಬಾ": "and",
+      "ಟೇಕ್": "take",
+      "ಕೇರ್": "care"
+    },
+    "topic_shifts": [
+      "Introduction to loop requirements and skipping elements",
+      "Explanation of break statement and its usage",
+      "Discussion on handling strings and conditions in loops",
+      "Introduction to continue statement and its application",
+      "Explanation of the code logic",
+      "Invitation to subscribe and join the community",
+      "Introduction to the next tutorial"
+    ]
+  },
+  "graph_metrics": {
+    "total_concepts": 12,
+    "total_dependencies": 6,
+    "is_dag": true,
+    "graph_density": 0.0455,
+    "longest_path_length": 3,
+    "longest_path": [
+      "concept_1",
+      "concept_3",
+      "concept_5",
+      "concept_6"
+    ],
+    "topological_order": [
+      "concept_1",
+      "concept_2",
+      "concept_8",
+      "concept_9",
+      "concept_10",
+      "concept_11",
+      "concept_12",
+      "concept_3",
+      "concept_4",
+      "concept_5",
+      "concept_6",
+      "concept_7"
+    ]
+  },
+  "normalized_transcript": "Welcome to this lesson on loops. In this topic, sometimes the requirement will be, for example, if I use a for-loop with the numbers 10, 20, 30, and 40. When I print this list using a for-loop, it comes out as 10, 20, 30, and 40. We need to print it in a specific way where 40 should not be printed. The first requirement is that the code should only print certain elements and not the entire list. The second requirement is that even if there is no number in between, we need to handle these two options using if, else, elif, break, and continue.\n\nFor example, if I have a list of 10, 20, 30, 40, and 50, and I want to skip a particular value in the loop, what do I need? Let's check the break statement. At which point should we stop the code? We want to print 10, 20, and 30, but not 40. If 50 is printed, then I will use a break when 40 is encountered. In the list, only 40 should be skipped.\n\nFor loops, while loops, if, else, elif, break, continue, return, list, tuple, dict, set, function, variable, string, integer, boolean, loop, condition, index, append, range, class. If x is equal to 40, when the value of x reaches 40, I will write a break in my code. If this code block is true, then only 40 and 50 will not be printed. If the code is false, 10, 20, or 30 will get printed.\n\nIf else, elif, break, continue, return, list, tuple, dict, set, function, variable, string, index, append, range, class, import module, error, exception. Consider a list from 10 to 50. For loop, x is equal to 40. If true, it will break; otherwise, it will print. Now the code has been broken. There is no condition that I have only numbers; here, I can take a string. If L is equal to a certain value, then it is your condition. Set a, b, and c. This is multiple strings in the code. If else, elif, break, continue, return, list, tuple, dict, set, function, variable, string, index, append, range, class. If x is equal to mango, if I run, see orange, apple, and for mango, the code is breaking. This is how break works. Break means stopping the loop, but what do we know now? Let's see next, continue.\n\nNext, use continue to skip a particular value in the code block. For example, skip 30 using continue. The rest works the same, so you can use continue in place of break, and the code will print 10, 20, and 40. Apply the same code continuously. I want apple to come in orange and mango. If else, elif, break, continue, return, list, tuple, dict, set, function, variable, string, integer, boolean, loop, condition. See guys, orange, mango, apple. Apple is skipped, and if I remove it from the list, fruits will be modified. Here, I will use a list, and when it is not in the list, I have to skip 40 or 30. So from this list, 10 and 20 have to be printed, then 40 and 50 have to be printed.\n\nTo do that, x is equal to 30. Continue. If I run the sequence 10, 20, 40, 50, then break. Otherwise, print the value and break. If continue, print the remaining value. In the video, I explained this concept. Please subscribe, share the video with your friends, and join our coding community. In the next tutorial, we will explore more concepts. Thank you, and take care.\n\n[TOPIC_SHIFT]\n\nIn the next tutorial, we will delve into more advanced topics."
+}

@@ -1,0 +1,7194 @@
+{
+  "audio_file": "/home/swayam/Desktop/irel_task/data_whisper/YIVPNbFKFjk/YIVPNbFKFjk.wav",
+  "model": "large-v3",
+  "language": "pa",
+  "language_probability": 1,
+  "duration_seconds": 515.92,
+  "transcription_time_seconds": 184.49,
+  "segments": [
+    {
+      "id": 0,
+      "start": 4.05,
+      "end": 7.37,
+      "text": "ਹੈ, ਆਜ ਮੈ ਤਾਨੂੰ ਏਕ ਕਾਣੀ ਸਨਾਲਨੇ ॥",
+      "language": "pa",
+      "avg_logprob": -0.5989,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "ਹਿ,",
+          "start": 4.05,
+          "end": 4.55,
+          "probability": 0.5933
+        },
+        {
+          "word": "ਆਜ",
+          "start": 4.61,
+          "end": 5.51,
+          "probability": 0.8943
+        },
+        {
+          "word": "ਮੈ",
+          "start": 5.51,
+          "end": 5.71,
+          "probability": 0.7717
+        },
+        {
+          "word": "ਤਾਨੂੰ",
+          "start": 5.71,
+          "end": 5.97,
+          "probability": 0.8358
+        },
+        {
+          "word": "ਏਕ",
+          "start": 5.97,
+          "end": 6.41,
+          "probability": 0.8609
+        },
+        {
+          "word": "ਕਾਣੀ",
+          "start": 6.41,
+          "end": 6.81,
+          "probability": 0.9624
+        },
+        {
+          "word": "ਸਨਾਲਨੇ",
+          "start": 6.81,
+          "end": 7.21,
+          "probability": 0.8449
+        },
+        {
+          "word": "॥",
+          "start": 7.21,
+          "end": 7.37,
+          "probability": 0.199
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "start": 7.37,
+      "end": 34.74,
+      "text": "scientific ਕ਼ਾਣੀ ਹੋਗੀ, ਬੋਰ ਨੀ ਹੋਙਗੇ.",
+      "language": "pa",
+      "avg_logprob": -0.5989,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "scientific",
+          "start": 7.37,
+          "end": 7.57,
+          "probability": 0.0013
+        },
+        {
+          "word": "ਕ਼ਾਣਿ",
+          "start": 7.57,
+          "end": 8.21,
+          "probability": 0.7725
+        },
+        {
+          "word": "ਹੋਗੀ,",
+          "start": 8.21,
+          "end": 8.57,
+          "probability": 0.9684
+        },
+        {
+          "word": "ਬોਰ",
+          "start": 9.38,
+          "end": 23.34,
+          "probability": 0.807
+        },
+        {
+          "word": "ਨੀ",
+          "start": 23.34,
+          "end": 24.3,
+          "probability": 0.9202
+        },
+        {
+          "word": "ਹੋਙ੍ਗੇ.",
+          "start": 24.3,
+          "end": 34.74,
+          "probability": 0.7468
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 34.9,
+      "end": 40.76,
+      "text": "ਤੇ 1600 ਦੇ ਵਿੱਚ ਬਣਾਇਆ 1600 ਤੋਂ 1700 ਫੇ 1800 ਆਗਿਆ",
+      "language": "pa",
+      "avg_logprob": -0.7272,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "ਤੇ",
+          "start": 34.9,
+          "end": 35.5,
+          "probability": 0.866
+        },
+        {
+          "word": "1600",
+          "start": 35.5,
+          "end": 36.28,
+          "probability": 0.2966
+        },
+        {
+          "word": "ਦੇ",
+          "start": 36.28,
+          "end": 36.6,
+          "probability": 0.8196
+        },
+        {
+          "word": "ਵੈਚ",
+          "start": 36.6,
+          "end": 36.72,
+          "probability": 0.7601
+        },
+        {
+          "word": "ਬਨਾਯਾ",
+          "start": 36.72,
+          "end": 37.18,
+          "probability": 0.8038
+        },
+        {
+          "word": "1600",
+          "start": 37.18,
+          "end": 38.38,
+          "probability": 0.0277
+        },
+        {
+          "word": "ਤਹੋ",
+          "start": 38.38,
+          "end": 38.94,
+          "probability": 0.7983
+        },
+        {
+          "word": "1700",
+          "start": 38.94,
+          "end": 39.1,
+          "probability": 0.2386
+        },
+        {
+          "word": "ਫੇ",
+          "start": 39.1,
+          "end": 39.76,
+          "probability": 0.7447
+        },
+        {
+          "word": "1800",
+          "start": 39.76,
+          "end": 39.98,
+          "probability": 0.0386
+        },
+        {
+          "word": "ਆਗਿਆ",
+          "start": 39.98,
+          "end": 40.76,
+          "probability": 0.9207
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 40.76,
+      "end": 43.2,
+      "text": "ਤਾ 18th century ਦੇ ਵਜ਼ ਕੀ ਹੁਯਾ",
+      "language": "pa",
+      "avg_logprob": -0.7272,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "ਤਾੰ",
+          "start": 40.76,
+          "end": 41.58,
+          "probability": 0.6884
+        },
+        {
+          "word": "18th",
+          "start": 41.58,
+          "end": 42.04,
+          "probability": 0.5436
+        },
+        {
+          "word": "century",
+          "start": 42.04,
+          "end": 42.36,
+          "probability": 0.0876
+        },
+        {
+          "word": "ਦে",
+          "start": 42.36,
+          "end": 42.6,
+          "probability": 0.8232
+        },
+        {
+          "word": "ਵਜ਼",
+          "start": 42.6,
+          "end": 42.74,
+          "probability": 0.5688
+        },
+        {
+          "word": "ਕੀ",
+          "start": 42.74,
+          "end": 42.9,
+          "probability": 0.9479
+        },
+        {
+          "word": "ਹੁਯਾ",
+          "start": 42.9,
+          "end": 43.2,
+          "probability": 0.8314
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 43.2,
+      "end": 45.56,
+      "text": "ਇੱਕ debate ਛੇਡ਼ਗੀ scientist ਦੇਹੇ ਵਿੱਚ",
+      "language": "pa",
+      "avg_logprob": -0.7272,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "ਏक",
+          "start": 43.2,
+          "end": 43.54,
+          "probability": 0.5019
+        },
+        {
+          "word": "debate",
+          "start": 43.54,
+          "end": 43.94,
+          "probability": 0.0761
+        },
+        {
+          "word": "ਛੇਡ਼ਗੀ",
+          "start": 43.94,
+          "end": 44.6,
+          "probability": 0.921
+        },
+        {
+          "word": "scientist",
+          "start": 44.6,
+          "end": 44.88,
+          "probability": 0.3218
+        },
+        {
+          "word": "ਦਹੇਵੇਚ",
+          "start": 44.88,
+          "end": 45.56,
+          "probability": 0.7588
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 45.56,
+      "end": 47.88,
+      "text": "ਕੀ ਜਟੇ Saturn ਦੇਸ ring ਨੇ",
+      "language": "pa",
+      "avg_logprob": -0.7272,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "कੀ",
+          "start": 45.56,
+          "end": 46.28,
+          "probability": 0.6856
+        },
+        {
+          "word": "जਟੇ",
+          "start": 46.28,
+          "end": 46.54,
+          "probability": 0.6393
+        },
+        {
+          "word": "Saturn",
+          "start": 46.54,
+          "end": 46.96,
+          "probability": 0.9097
+        },
+        {
+          "word": "ਦਸ",
+          "start": 46.96,
+          "end": 47.32,
+          "probability": 0.7885
+        },
+        {
+          "word": "ring",
+          "start": 47.32,
+          "end": 47.46,
+          "probability": 0.1058
+        },
+        {
+          "word": "ਨੇ",
+          "start": 47.46,
+          "end": 47.88,
+          "probability": 0.9691
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 47.88,
+      "end": 49.16,
+      "text": "ਓ ਖੀਲੇਂ ਬਣੇਨੀ",
+      "language": "pa",
+      "avg_logprob": -0.7272,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "ਓ",
+          "start": 47.88,
+          "end": 48.44,
+          "probability": 0.6295
+        },
+        {
+          "word": "ਖੀਲੇਂ",
+          "start": 48.44,
+          "end": 48.88,
+          "probability": 0.6929
+        },
+        {
+          "word": "ਬਣੇਨੀ",
+          "start": 48.88,
+          "end": 49.16,
+          "probability": 0.7807
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 49.16,
+      "end": 50.8,
+      "text": "stone ਦੇ ਬਰਨਨੈਆ",
+      "language": "pa",
+      "avg_logprob": -0.7272,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "stone",
+          "start": 49.16,
+          "end": 49.76,
+          "probability": 0.2325
+        },
+        {
+          "word": "ਦৈ",
+          "start": 49.76,
+          "end": 50.3,
+          "probability": 0.7886
+        },
+        {
+          "word": "ਬਰਨ੍ਨੈਆ",
+          "start": 50.3,
+          "end": 50.8,
+          "probability": 0.6117
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 50.8,
+      "end": 59.16,
+      "text": "water ਦੇਨੇ ਕੀਹੋ ਅਪਣਾ ice ਦੇਨੰ ਤੇਨੈ possibilities ਹੁਸਗਦੀ ਆਯ੍ਸ ਦੇ ਭੀ ਹਹੱਸਕਡੇ",
+      "language": "pa",
+      "avg_logprob": -0.8083,
+      "no_speech_prob": 0.0044,
+      "words": [
+        {
+          "word": "water",
+          "start": 50.8,
+          "end": 51.42,
+          "probability": 0.014
+        },
+        {
+          "word": "ਦੇਨੇ",
+          "start": 51.42,
+          "end": 51.88,
+          "probability": 0.8502
+        },
+        {
+          "word": "ਕੀਹੋ",
+          "start": 51.88,
+          "end": 53.14,
+          "probability": 0.6955
+        },
+        {
+          "word": "ਅਪਣਾ",
+          "start": 53.14,
+          "end": 54.38,
+          "probability": 0.7045
+        },
+        {
+          "word": "ice",
+          "start": 54.38,
+          "end": 54.96,
+          "probability": 0.314
+        },
+        {
+          "word": "ਦেਨੰ",
+          "start": 54.96,
+          "end": 55.5,
+          "probability": 0.7711
+        },
+        {
+          "word": "ਤੇਂਨੈ",
+          "start": 55.5,
+          "end": 56.28,
+          "probability": 0.7364
+        },
+        {
+          "word": "possibilities",
+          "start": 56.28,
+          "end": 56.6,
+          "probability": 0.749
+        },
+        {
+          "word": "ਹੁਸਗ਼ਦੀ",
+          "start": 56.6,
+          "end": 57.28,
+          "probability": 0.7743
+        },
+        {
+          "word": "ਆਯ੍ਸ",
+          "start": 57.28,
+          "end": 58.44,
+          "probability": 0.4062
+        },
+        {
+          "word": "ਦે",
+          "start": 58.44,
+          "end": 58.66,
+          "probability": 0.7892
+        },
+        {
+          "word": "ਭੀ",
+          "start": 58.66,
+          "end": 58.76,
+          "probability": 0.9104
+        },
+        {
+          "word": "ਹਹੱਸਕਡੇ",
+          "start": 58.76,
+          "end": 59.16,
+          "probability": 0.762
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 59.16,
+      "end": 60.38,
+      "text": "stone ਦਹੀ ॥",
+      "language": "pa",
+      "avg_logprob": -0.8083,
+      "no_speech_prob": 0.0044,
+      "words": [
+        {
+          "word": "stone",
+          "start": 59.16,
+          "end": 59.3,
+          "probability": 0.0
+        },
+        {
+          "word": "ਦਹੀ",
+          "start": 59.3,
+          "end": 59.8,
+          "probability": 0.7673
+        },
+        {
+          "word": "॥",
+          "start": 59.8,
+          "end": 60.38,
+          "probability": 0.3942
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 60.38,
+      "end": 60.82,
+      "text": "ਵਾਟਰ ਦੇਬੀ ਉਹਸਖਦੈ ਆਘੱੱ ਕਹਿੰਦਾ ਕੀ",
+      "language": "pa",
+      "avg_logprob": -0.8083,
+      "no_speech_prob": 0.0044,
+      "words": [
+        {
+          "word": "ਵਾਟਰ",
+          "start": 60.38,
+          "end": 60.82,
+          "probability": 0.7632
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 63.35,
+      "end": 66.77,
+      "text": "ਸਕੋਹੰਦੇ ਸਟੋਨ ਦੇ ਅਗੋਂ ਸਤੋਂਡੇ ਆਖੋਰੋ ॥",
+      "language": "pa",
+      "avg_logprob": -0.9072,
+      "no_speech_prob": 0.0041,
+      "words": [
+        {
+          "word": "ਸਕੋਹੱੁੰਦੇ",
+          "start": 63.35,
+          "end": 64.07,
+          "probability": 0.5532
+        },
+        {
+          "word": "ਸਟੋਨ੍ਦੈ",
+          "start": 64.07,
+          "end": 64.79,
+          "probability": 0.6688
+        },
+        {
+          "word": "અਗੱોણੀ",
+          "start": 64.79,
+          "end": 66.01,
+          "probability": 0.4243
+        },
+        {
+          "word": "ਸਤੋਂਡੇ",
+          "start": 66.01,
+          "end": 66.41,
+          "probability": 0.6561
+        },
+        {
+          "word": "আਖੋਰੋ",
+          "start": 66.41,
+          "end": 66.57,
+          "probability": 0.4832
+        },
+        {
+          "word": "॥",
+          "start": 66.57,
+          "end": 66.77,
+          "probability": 0.2062
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 66.77,
+      "end": 69.09,
+      "text": "ਸ਼ੋਣਧੇ ਕੇਮੇ, ਤੇਨੋਕੀ ਮੈ ਭਾਤਾ ਲਗਿਆ ?",
+      "language": "pa",
+      "avg_logprob": -0.9072,
+      "no_speech_prob": 0.0041,
+      "words": [
+        {
+          "word": "ਸ਼ੋਣ੍ਧੇ",
+          "start": 66.77,
+          "end": 67.49,
+          "probability": 0.6163
+        },
+        {
+          "word": "ਕੇਮੇ,",
+          "start": 67.49,
+          "end": 67.79,
+          "probability": 0.7663
+        },
+        {
+          "word": "ਤੇਨੋਕੀ",
+          "start": 67.95,
+          "end": 68.41,
+          "probability": 0.7985
+        },
+        {
+          "word": "ਮੈ",
+          "start": 68.41,
+          "end": 68.53,
+          "probability": 0.6787
+        },
+        {
+          "word": "ਭਾਤਾ",
+          "start": 68.53,
+          "end": 68.69,
+          "probability": 0.7534
+        },
+        {
+          "word": "ਲਗਿਯਾ",
+          "start": 68.69,
+          "end": 69.05,
+          "probability": 0.8223
+        },
+        {
+          "word": "?",
+          "start": 69.05,
+          "end": 69.09,
+          "probability": 0.1152
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 69.09,
+      "end": 70.63,
+      "text": "ਜਾਕੈ ਦੇਖਿਆ ਸੀ ।",
+      "language": "pa",
+      "avg_logprob": -0.9072,
+      "no_speech_prob": 0.0041,
+      "words": [
+        {
+          "word": "ਜਾਕੈ",
+          "start": 69.09,
+          "end": 69.51,
+          "probability": 0.7265
+        },
+        {
+          "word": "దੇਖਿਆ",
+          "start": 69.51,
+          "end": 69.79,
+          "probability": 0.8565
+        },
+        {
+          "word": "ਸੀ",
+          "start": 69.79,
+          "end": 69.97,
+          "probability": 0.8603
+        },
+        {
+          "word": "।",
+          "start": 69.97,
+          "end": 70.63,
+          "probability": 0.4131
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 70.63,
+      "end": 72.81,
+      "text": "ਕਹੋਏ ਨੈ ।",
+      "language": "pa",
+      "avg_logprob": -0.9072,
+      "no_speech_prob": 0.0041,
+      "words": [
+        {
+          "word": "ਕਹੋਏ",
+          "start": 70.63,
+          "end": 71.03,
+          "probability": 0.5652
+        },
+        {
+          "word": "ਨੈ",
+          "start": 71.03,
+          "end": 71.17,
+          "probability": 0.83
+        },
+        {
+          "word": "।",
+          "start": 71.17,
+          "end": 72.81,
+          "probability": 0.3533
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 73.87,
+      "end": 104.49,
+      "text": "ਆਸਕਦੇਂ । ਅਗਰ ਜੇ ਕੋਈ ਕਹੁਵਗਾ ਖੀ ਆਂਸ ਦੇ ਨੀ ਹੈਗੇ, ਤਾ ਏਭੀ ਆਪਾਣੋ ਪੁਛਿਨਾ",
+      "language": "pa",
+      "avg_logprob": -0.7439,
+      "no_speech_prob": 0.0008,
+      "words": [
+        {
+          "word": "ਆੱਾਸਕਦੇਂ",
+          "start": 73.87,
+          "end": 74.53,
+          "probability": 0.5401
+        },
+        {
+          "word": "।",
+          "start": 74.53,
+          "end": 74.71,
+          "probability": 0.4456
+        },
+        {
+          "word": "ਅਗਰ",
+          "start": 74.87,
+          "end": 75.83,
+          "probability": 0.7736
+        },
+        {
+          "word": "ਜੇ",
+          "start": 75.83,
+          "end": 75.95,
+          "probability": 0.9009
+        },
+        {
+          "word": "ਕੋਈ",
+          "start": 75.95,
+          "end": 76.13,
+          "probability": 0.8998
+        },
+        {
+          "word": "ਕਹੁਵਗਾ",
+          "start": 76.13,
+          "end": 76.47,
+          "probability": 0.7722
+        },
+        {
+          "word": "ਖੀ",
+          "start": 76.47,
+          "end": 76.99,
+          "probability": 0.7539
+        },
+        {
+          "word": "ਆੰਸ",
+          "start": 76.99,
+          "end": 78.25,
+          "probability": 0.5579
+        },
+        {
+          "word": "ਦੈ",
+          "start": 78.25,
+          "end": 78.47,
+          "probability": 0.7292
+        },
+        {
+          "word": "ਨੀ",
+          "start": 78.47,
+          "end": 78.61,
+          "probability": 0.8789
+        },
+        {
+          "word": "ਹੈਗੇ,",
+          "start": 78.61,
+          "end": 78.93,
+          "probability": 0.8908
+        },
+        {
+          "word": "ਤਾੱ",
+          "start": 79.01,
+          "end": 79.27,
+          "probability": 0.811
+        },
+        {
+          "word": "ਏਭੀ",
+          "start": 79.27,
+          "end": 92.21,
+          "probability": 0.7234
+        },
+        {
+          "word": "আਪਾਣੋ",
+          "start": 92.44,
+          "end": 93.34,
+          "probability": 0.755
+        },
+        {
+          "word": "ਪੁਛਿਨਾ",
+          "start": 94.65,
+          "end": 104.49,
+          "probability": 0.8131
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 104.49,
+      "end": 109.23,
+      "text": "ਕੇਮੇ ਗੋਗਲ ਕਰੋ । ਦੋ ਮਿੰਟ ਚਾਂਸ਼ਾ ਰਹਿਏ ਆਪਣੇ, ਬੁਝ ਉਸ ਥੇਂਮ ਧਾ ਗੋਗਲ ਵੀ ਨੀ ਛੇਗਾ",
+      "language": "pa",
+      "avg_logprob": -0.6778,
+      "no_speech_prob": 0.0028,
+      "words": [
+        {
+          "word": "ਕੇਮੇ",
+          "start": 104.49,
+          "end": 104.99,
+          "probability": 0.7899
+        },
+        {
+          "word": "ਗੋਗਲ",
+          "start": 104.99,
+          "end": 105.45,
+          "probability": 0.8606
+        },
+        {
+          "word": "ਕਰੋ",
+          "start": 105.45,
+          "end": 105.65,
+          "probability": 0.9531
+        },
+        {
+          "word": "।",
+          "start": 105.65,
+          "end": 106.09,
+          "probability": 0.4672
+        },
+        {
+          "word": "ਦੋ",
+          "start": 106.09,
+          "end": 106.25,
+          "probability": 0.9778
+        },
+        {
+          "word": "ਮੈਨ੍ਟ",
+          "start": 106.25,
+          "end": 106.49,
+          "probability": 0.7435
+        },
+        {
+          "word": "ਚਾਂਸ਼ਾ",
+          "start": 106.49,
+          "end": 106.85,
+          "probability": 0.7526
+        },
+        {
+          "word": "ਰਹਿਏ",
+          "start": 106.85,
+          "end": 107.05,
+          "probability": 0.623
+        },
+        {
+          "word": "ਆਪਣੇ,",
+          "start": 107.05,
+          "end": 107.35,
+          "probability": 0.8625
+        },
+        {
+          "word": "ਬੱੁਝ",
+          "start": 107.37,
+          "end": 108.07,
+          "probability": 0.6276
+        },
+        {
+          "word": "ਉਸ",
+          "start": 108.07,
+          "end": 108.19,
+          "probability": 0.7685
+        },
+        {
+          "word": "ਥੇਂਮ",
+          "start": 108.19,
+          "end": 108.45,
+          "probability": 0.7755
+        },
+        {
+          "word": "ਧਾ",
+          "start": 108.45,
+          "end": 108.55,
+          "probability": 0.6925
+        },
+        {
+          "word": "ਗોਗਲ਼",
+          "start": 108.55,
+          "end": 108.75,
+          "probability": 0.682
+        },
+        {
+          "word": "ਵੀ",
+          "start": 108.75,
+          "end": 108.89,
+          "probability": 0.9165
+        },
+        {
+          "word": "ਨੀ",
+          "start": 108.89,
+          "end": 109.01,
+          "probability": 0.9508
+        },
+        {
+          "word": "ছੇਗਾ",
+          "start": 109.01,
+          "end": 109.23,
+          "probability": 0.7897
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 109.75,
+      "end": 111.73,
+      "text": "ਤੇਖਨੇਓਲੋਜੀ ਤੁੰਸੇ level ਸੋਚ ਸਾਗਦੇ ।",
+      "language": "pa",
+      "avg_logprob": -0.6778,
+      "no_speech_prob": 0.0028,
+      "words": [
+        {
+          "word": "ਤੇਖਨੇਓਲੋਜੀ",
+          "start": 109.75,
+          "end": 110.23,
+          "probability": 0.7786
+        },
+        {
+          "word": "तੁੰਸੇ",
+          "start": 110.23,
+          "end": 110.47,
+          "probability": 0.6332
+        },
+        {
+          "word": "level",
+          "start": 110.47,
+          "end": 110.65,
+          "probability": 0.0025
+        },
+        {
+          "word": "ਸੋਚ",
+          "start": 110.65,
+          "end": 111.11,
+          "probability": 0.7396
+        },
+        {
+          "word": "सਾਗਦੇ",
+          "start": 111.11,
+          "end": 111.45,
+          "probability": 0.7809
+        },
+        {
+          "word": "।",
+          "start": 111.45,
+          "end": 111.73,
+          "probability": 0.6429
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 113.58,
+      "end": 122.15,
+      "text": "ਤਾਂ ਜੇ ਮੈ ਸੋਚਾਂ, ਅਗਰ ਆਪਨੀ ਉਹ ਸਟਾਇਮ ਥੁਂ ਲੈਕੇ ਜਾਵੰ ਆਤ੍ਤਾ ਮੈ ਅਘਰ ਇਮੇਝਿਣ ਕਰਦਾ ਤਾਂ",
+      "language": "pa",
+      "avg_logprob": -0.6994,
+      "no_speech_prob": 0.002,
+      "words": [
+        {
+          "word": "ਤੱਾਂ",
+          "start": 113.58,
+          "end": 114.52,
+          "probability": 0.6953
+        },
+        {
+          "word": "ਜੇ",
+          "start": 115.48,
+          "end": 116.44,
+          "probability": 0.7467
+        },
+        {
+          "word": "ਮੈ",
+          "start": 116.44,
+          "end": 116.68,
+          "probability": 0.9089
+        },
+        {
+          "word": "ਸੋਚਾਂ,",
+          "start": 116.68,
+          "end": 117.42,
+          "probability": 0.9502
+        },
+        {
+          "word": "ਅਗਰ",
+          "start": 117.46,
+          "end": 117.7,
+          "probability": 0.9514
+        },
+        {
+          "word": "ਆਪਨੀ",
+          "start": 117.7,
+          "end": 118.66,
+          "probability": 0.7259
+        },
+        {
+          "word": "ਉਹ",
+          "start": 118.66,
+          "end": 119.3,
+          "probability": 0.5758
+        },
+        {
+          "word": "ਸਟਾਇਮ",
+          "start": 119.3,
+          "end": 119.56,
+          "probability": 0.7253
+        },
+        {
+          "word": "ਥੁਂ",
+          "start": 119.56,
+          "end": 119.7,
+          "probability": 0.651
+        },
+        {
+          "word": "ਲੈਕੇ",
+          "start": 119.7,
+          "end": 119.9,
+          "probability": 0.8819
+        },
+        {
+          "word": "জਾਵੰ",
+          "start": 119.9,
+          "end": 120.2,
+          "probability": 0.573
+        },
+        {
+          "word": "ਆਤ੍ਤਾ",
+          "start": 120.2,
+          "end": 120.42,
+          "probability": 0.7407
+        },
+        {
+          "word": "ਮৈ",
+          "start": 120.42,
+          "end": 120.58,
+          "probability": 0.6861
+        },
+        {
+          "word": "ਅਘਰ",
+          "start": 120.58,
+          "end": 120.86,
+          "probability": 0.8082
+        },
+        {
+          "word": "ਇਮੇਝਿਣ",
+          "start": 120.86,
+          "end": 121.42,
+          "probability": 0.7258
+        },
+        {
+          "word": "ਕਰਦਾ",
+          "start": 121.42,
+          "end": 121.86,
+          "probability": 0.9314
+        },
+        {
+          "word": "ਤਾਂ",
+          "start": 121.86,
+          "end": 122.15,
+          "probability": 0.7782
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 122.15,
+      "end": 126.79,
+      "text": "ਮੇਭੀ ਕੈਂਦਾ ਕਹਿ ਬੈ । ਉੰਚੇ ਐਸ਼ਾ ਬਣਾਓ ਜਿਦੇਵੇਛ ਬੈਖੀਆ ਪਾ ਸੇਟਰਨ ਤਾਕ ਚਲੇਗਿਏ ਸੇਫਲੀ",
+      "language": "pa",
+      "avg_logprob": -0.7117,
+      "no_speech_prob": 0.0004,
+      "words": [
+        {
+          "word": "ਮੇਭੀ",
+          "start": 122.15,
+          "end": 122.55,
+          "probability": 0.8151
+        },
+        {
+          "word": "ਕੈਂਦਾ",
+          "start": 122.55,
+          "end": 122.89,
+          "probability": 0.837
+        },
+        {
+          "word": "ਕਹਿ",
+          "start": 122.89,
+          "end": 123.07,
+          "probability": 0.6853
+        },
+        {
+          "word": "ਬੈ",
+          "start": 123.07,
+          "end": 123.15,
+          "probability": 0.7842
+        },
+        {
+          "word": "।",
+          "start": 123.15,
+          "end": 123.33,
+          "probability": 0.4875
+        },
+        {
+          "word": "ਉੰਚੇ",
+          "start": 123.33,
+          "end": 123.57,
+          "probability": 0.6321
+        },
+        {
+          "word": "ਐਸ਼ਾ",
+          "start": 123.57,
+          "end": 123.93,
+          "probability": 0.7497
+        },
+        {
+          "word": "ਬਣਾਓ",
+          "start": 123.93,
+          "end": 124.21,
+          "probability": 0.8617
+        },
+        {
+          "word": "ਜਿਦੇਵੇਛ",
+          "start": 124.21,
+          "end": 124.67,
+          "probability": 0.7966
+        },
+        {
+          "word": "ਬૈਖੀਆ",
+          "start": 124.67,
+          "end": 125.13,
+          "probability": 0.6224
+        },
+        {
+          "word": "ਪਾ",
+          "start": 125.13,
+          "end": 125.29,
+          "probability": 0.7946
+        },
+        {
+          "word": "ਸੇਟਰਨ",
+          "start": 125.29,
+          "end": 125.67,
+          "probability": 0.7977
+        },
+        {
+          "word": "ਤਾਕ",
+          "start": 125.67,
+          "end": 125.83,
+          "probability": 0.8005
+        },
+        {
+          "word": "ਚਲੇਗਿਏ",
+          "start": 125.83,
+          "end": 126.35,
+          "probability": 0.7607
+        },
+        {
+          "word": "ਸেਫਲੀ",
+          "start": 126.35,
+          "end": 126.79,
+          "probability": 0.8538
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 126.79,
+      "end": 129.95,
+      "text": "ਉਤਥੇ ਜਾਕੇ sample ਲੋ ਤੇ check ਕਰੋ ਕੀਡਾ ਭਨੇਯਾ",
+      "language": "pa",
+      "avg_logprob": -0.7117,
+      "no_speech_prob": 0.0004,
+      "words": [
+        {
+          "word": "ਉതਥੇ",
+          "start": 126.79,
+          "end": 127.73,
+          "probability": 0.5748
+        },
+        {
+          "word": "জਾਕੇ",
+          "start": 127.73,
+          "end": 128.03,
+          "probability": 0.873
+        },
+        {
+          "word": "sample",
+          "start": 128.03,
+          "end": 128.35,
+          "probability": 0.0018
+        },
+        {
+          "word": "ਲੋ",
+          "start": 128.35,
+          "end": 128.63,
+          "probability": 0.9758
+        },
+        {
+          "word": "ਤੇ",
+          "start": 128.63,
+          "end": 128.79,
+          "probability": 0.8702
+        },
+        {
+          "word": "check",
+          "start": 128.79,
+          "end": 128.97,
+          "probability": 0.075
+        },
+        {
+          "word": "ਕਰੋ",
+          "start": 128.97,
+          "end": 129.23,
+          "probability": 0.9347
+        },
+        {
+          "word": "कੀਡਾ",
+          "start": 129.23,
+          "end": 129.57,
+          "probability": 0.5847
+        },
+        {
+          "word": "ਭਨੇਯਾ",
+          "start": 129.57,
+          "end": 129.95,
+          "probability": 0.7068
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 129.95,
+      "end": 134.75,
+      "text": "ਆਸ ਹੋਗੀ, ਤਾ ਪ਼ਤਲਾਕਜੁਂ. ਸਟੋਨ ਹੋਗੰ, ਥਾਮੀ ਪਾਤਾਲਗਜੂ ਵਾਟਰ ਹੋਗ ਥਿਆਮੇ ਪਤਾੲਾਖਜ੍ਯੁਓਗੋ।",
+      "language": "pa",
+      "avg_logprob": -0.6445,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "ਆੈਸ",
+          "start": 129.95,
+          "end": 130.29,
+          "probability": 0.7507
+        },
+        {
+          "word": "ਹੋਗੀ,",
+          "start": 130.29,
+          "end": 130.67,
+          "probability": 0.9555
+        },
+        {
+          "word": "ਤਾ",
+          "start": 130.67,
+          "end": 130.79,
+          "probability": 0.9164
+        },
+        {
+          "word": "ਪ਼ਤਲਾਕਜੁਂ.",
+          "start": 130.79,
+          "end": 131.33,
+          "probability": 0.6902
+        },
+        {
+          "word": "ਸਟੋਨ",
+          "start": 131.37,
+          "end": 131.67,
+          "probability": 0.8941
+        },
+        {
+          "word": "ਹોਗੰ,",
+          "start": 131.67,
+          "end": 131.93,
+          "probability": 0.7744
+        },
+        {
+          "word": "ਥਾਮੀ",
+          "start": 131.97,
+          "end": 132.21,
+          "probability": 0.8346
+        },
+        {
+          "word": "ਪਾਤਾਲਗਜੂ",
+          "start": 132.21,
+          "end": 132.67,
+          "probability": 0.7735
+        },
+        {
+          "word": "ਵੱਟਰ",
+          "start": 132.67,
+          "end": 133.03,
+          "probability": 0.6628
+        },
+        {
+          "word": "ਹোਗ",
+          "start": 133.03,
+          "end": 133.19,
+          "probability": 0.8471
+        },
+        {
+          "word": "ਥਿਆਮੇ",
+          "start": 133.19,
+          "end": 133.39,
+          "probability": 0.6156
+        },
+        {
+          "word": "ਪਤਾੲਾਖਜ੍ਯੁਓਗੋ।",
+          "start": 133.39,
+          "end": 134.75,
+          "probability": 0.6555
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 136.61,
+      "end": 143.31,
+      "text": "ਜੋਕੀ rocket । ਰੋਕੇਟ ਬਣਾਂ ਆਪਵੁਗ ਅਪਾਣੁ ਟੈਲੀਸ਼ਕੋਪ ਹੈ ਨੀ ਗਾ ਰੋਕੇਟ ਬਣਨਾ ਲਗਿਨੇ ਏ ਪਾ ਪੋਸਿਭਾਲ ਇ ਨੀ ਹਹਾ",
+      "language": "pa",
+      "avg_logprob": -0.7304,
+      "no_speech_prob": 0.0016,
+      "words": [
+        {
+          "word": "ਜੋਕੀ",
+          "start": 136.61,
+          "end": 136.99,
+          "probability": 0.9258
+        },
+        {
+          "word": "rocket",
+          "start": 136.99,
+          "end": 137.15,
+          "probability": 0.0013
+        },
+        {
+          "word": "।",
+          "start": 137.15,
+          "end": 137.47,
+          "probability": 0.6201
+        },
+        {
+          "word": "ਰੋकੇट",
+          "start": 137.47,
+          "end": 138.07,
+          "probability": 0.7431
+        },
+        {
+          "word": "ਬਨਾਂ",
+          "start": 138.07,
+          "end": 138.27,
+          "probability": 0.7936
+        },
+        {
+          "word": "ਆਪਵੁਗ",
+          "start": 138.27,
+          "end": 138.51,
+          "probability": 0.6594
+        },
+        {
+          "word": "ਅਪਾਣੁ",
+          "start": 138.51,
+          "end": 138.85,
+          "probability": 0.7436
+        },
+        {
+          "word": "ਟੈਲੀਸ਼ਕੋਪ",
+          "start": 138.85,
+          "end": 140.15,
+          "probability": 0.8059
+        },
+        {
+          "word": "ਹੈ",
+          "start": 140.15,
+          "end": 140.27,
+          "probability": 0.9452
+        },
+        {
+          "word": "ਨੀ",
+          "start": 140.27,
+          "end": 140.47,
+          "probability": 0.9583
+        },
+        {
+          "word": "ਗਾ",
+          "start": 140.47,
+          "end": 140.59,
+          "probability": 0.9199
+        },
+        {
+          "word": "ਰોਕেਟ",
+          "start": 140.59,
+          "end": 141.07,
+          "probability": 0.7903
+        },
+        {
+          "word": "ਬੰਨਾ",
+          "start": 141.07,
+          "end": 141.27,
+          "probability": 0.7165
+        },
+        {
+          "word": "ਲਗਿਨੇ",
+          "start": 141.27,
+          "end": 141.65,
+          "probability": 0.7131
+        },
+        {
+          "word": "ਏ",
+          "start": 141.65,
+          "end": 141.81,
+          "probability": 0.5621
+        },
+        {
+          "word": "ਪਾ",
+          "start": 141.81,
+          "end": 141.99,
+          "probability": 0.7612
+        },
+        {
+          "word": "ਪ੉ਸਿਭਾਲ",
+          "start": 141.99,
+          "end": 143.01,
+          "probability": 0.7156
+        },
+        {
+          "word": "ਇ",
+          "start": 143.01,
+          "end": 143.05,
+          "probability": 0.7817
+        },
+        {
+          "word": "ਨী",
+          "start": 143.05,
+          "end": 143.15,
+          "probability": 0.6781
+        },
+        {
+          "word": "ਹਹਾ",
+          "start": 143.15,
+          "end": 143.31,
+          "probability": 0.7764
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 145.14,
+      "end": 162.83,
+      "text": "ਸਾਨੇ ਕੋਸ਼ੀਂ ਹੈ । ਸੋਲਵ ਹੰਗਿਆ ਸੀਗਾ, ਓਸੇ ਸਣੇ ਬੁੰ ਸੌਟੇ ਸੇਡੀ ਸ਼ਾਲਾਂਦੇ ਬੇਛੀ ਏ ਹੋਗਿਹਾ ਸੀ ਸਨੇ ॥",
+      "language": "pa",
+      "avg_logprob": -1.0496,
+      "no_speech_prob": 0.0006,
+      "words": [
+        {
+          "word": "ਸਾਨੇ",
+          "start": 145.14,
+          "end": 145.82,
+          "probability": 0.4725
+        },
+        {
+          "word": "ਕੋਸ਼ੀਂ",
+          "start": 145.95,
+          "end": 146.63,
+          "probability": 0.5825
+        },
+        {
+          "word": "ਹੈ",
+          "start": 146.63,
+          "end": 147.71,
+          "probability": 0.6509
+        },
+        {
+          "word": "।",
+          "start": 147.71,
+          "end": 147.71,
+          "probability": 0.3554
+        },
+        {
+          "word": "ਸ੉ਲ੍ਵ",
+          "start": 147.71,
+          "end": 148.01,
+          "probability": 0.6877
+        },
+        {
+          "word": "ਹੰਗਿਆ",
+          "start": 148.01,
+          "end": 148.37,
+          "probability": 0.6905
+        },
+        {
+          "word": "ਸીਗਾ,",
+          "start": 148.37,
+          "end": 148.71,
+          "probability": 0.7567
+        },
+        {
+          "word": "ওਸੇ",
+          "start": 148.77,
+          "end": 149.31,
+          "probability": 0.6947
+        },
+        {
+          "word": "ਸણੇ",
+          "start": 149.31,
+          "end": 149.65,
+          "probability": 0.5543
+        },
+        {
+          "word": "�ੱੁੰ",
+          "start": 149.65,
+          "end": 149.95,
+          "probability": 0.5657
+        },
+        {
+          "word": "ਸৌਟੇ",
+          "start": 149.95,
+          "end": 150.23,
+          "probability": 0.5544
+        },
+        {
+          "word": "సੇਡੀ",
+          "start": 150.23,
+          "end": 150.45,
+          "probability": 0.5006
+        },
+        {
+          "word": "ਸ਼ਾਲਾਂਦੇ",
+          "start": 150.45,
+          "end": 150.77,
+          "probability": 0.7998
+        },
+        {
+          "word": "ബੇਛੀ",
+          "start": 150.77,
+          "end": 151.09,
+          "probability": 0.7253
+        },
+        {
+          "word": "ਏ",
+          "start": 151.09,
+          "end": 151.49,
+          "probability": 0.3362
+        },
+        {
+          "word": "ਹોਗਿਹਾ",
+          "start": 151.49,
+          "end": 151.87,
+          "probability": 0.755
+        },
+        {
+          "word": "ਸী",
+          "start": 151.87,
+          "end": 152.05,
+          "probability": 0.7455
+        },
+        {
+          "word": "ਸનੇ",
+          "start": 152.05,
+          "end": 153.27,
+          "probability": 0.7292
+        },
+        {
+          "word": "॥",
+          "start": 153.87,
+          "end": 162.83,
+          "probability": 0.3466
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 163.35,
+      "end": 166.63,
+      "text": "ਕੀਮੇ ਸੋਚਿਆ । ਉਨਾ ਨੈ ? ਕਹੀ ਤੋ method ਹੋਗ਼ਾ",
+      "language": "pa",
+      "avg_logprob": -0.7044,
+      "no_speech_prob": 0.0002,
+      "words": [
+        {
+          "word": "ਕੀਮੇ",
+          "start": 163.35,
+          "end": 164.29,
+          "probability": 0.8489
+        },
+        {
+          "word": "ਸੋਚਿਆ",
+          "start": 164.29,
+          "end": 164.63,
+          "probability": 0.9338
+        },
+        {
+          "word": "।",
+          "start": 164.63,
+          "end": 164.87,
+          "probability": 0.6205
+        },
+        {
+          "word": "ਉਨਾ",
+          "start": 164.87,
+          "end": 165.05,
+          "probability": 0.7535
+        },
+        {
+          "word": "ਨੈ",
+          "start": 165.05,
+          "end": 165.19,
+          "probability": 0.705
+        },
+        {
+          "word": "?",
+          "start": 165.19,
+          "end": 165.21,
+          "probability": 0.0758
+        },
+        {
+          "word": "ਕਹੀ",
+          "start": 165.21,
+          "end": 165.73,
+          "probability": 0.7746
+        },
+        {
+          "word": "ਤੋ",
+          "start": 165.73,
+          "end": 165.93,
+          "probability": 0.8359
+        },
+        {
+          "word": "method",
+          "start": 165.93,
+          "end": 166.07,
+          "probability": 0.0009
+        },
+        {
+          "word": "ਹੋਗ਼ਾ",
+          "start": 166.07,
+          "end": 166.63,
+          "probability": 0.8666
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 166.63,
+      "end": 171.61,
+      "text": "ਤਾ ਖੀ ਹੋਇਆ, ਇੱਕ ਇੰਸਾਨ ਖੜਾ ਹੈ",
+      "language": "pa",
+      "avg_logprob": -0.7044,
+      "no_speech_prob": 0.0002,
+      "words": [
+        {
+          "word": "ਤਾ",
+          "start": 166.63,
+          "end": 167.57,
+          "probability": 0.5987
+        },
+        {
+          "word": "ਖੀ",
+          "start": 167.95,
+          "end": 168.49,
+          "probability": 0.7478
+        },
+        {
+          "word": "हੁਯਾ,",
+          "start": 168.49,
+          "end": 168.89,
+          "probability": 0.6457
+        },
+        {
+          "word": "ਏक",
+          "start": 168.91,
+          "end": 169.93,
+          "probability": 0.6561
+        },
+        {
+          "word": "ਇੰਸਾਂ",
+          "start": 169.93,
+          "end": 170.47,
+          "probability": 0.8348
+        },
+        {
+          "word": "ਖਡਾ",
+          "start": 170.47,
+          "end": 171.35,
+          "probability": 0.9104
+        },
+        {
+          "word": "ਹਹਯਾ",
+          "start": 171.35,
+          "end": 171.61,
+          "probability": 0.7861
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 171.61,
+      "end": 174.51,
+      "text": "ਓਹਨੇ bundle ਲਿਆ ਇੱਕ papers ਦਾ",
+      "language": "pa",
+      "avg_logprob": -0.7044,
+      "no_speech_prob": 0.0002,
+      "words": [
+        {
+          "word": "ਓਣੇ",
+          "start": 171.61,
+          "end": 172.61,
+          "probability": 0.7117
+        },
+        {
+          "word": "bundle",
+          "start": 172.61,
+          "end": 173.23,
+          "probability": 0.2114
+        },
+        {
+          "word": "ਲੇਆ",
+          "start": 173.23,
+          "end": 173.59,
+          "probability": 0.8959
+        },
+        {
+          "word": "ਏਕ",
+          "start": 173.59,
+          "end": 173.73,
+          "probability": 0.7386
+        },
+        {
+          "word": "papers",
+          "start": 173.73,
+          "end": 174.15,
+          "probability": 0.0988
+        },
+        {
+          "word": "ਦਾ",
+          "start": 174.15,
+          "end": 174.51,
+          "probability": 0.9654
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 174.51,
+      "end": 176.47,
+      "text": "ਔਣੇ candles ਲਿਆ",
+      "language": "pa",
+      "avg_logprob": -0.7044,
+      "no_speech_prob": 0.0002,
+      "words": [
+        {
+          "word": "ਔਣੈ",
+          "start": 174.51,
+          "end": 175.43,
+          "probability": 0.6293
+        },
+        {
+          "word": "candles",
+          "start": 175.43,
+          "end": 176.03,
+          "probability": 0.1772
+        },
+        {
+          "word": "ਲਹ੍ਯਾ",
+          "start": 176.03,
+          "end": 176.47,
+          "probability": 0.7805
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 177.77,
+      "end": 180.23,
+      "text": "ਵੱਧ ਸਰੀ ink ਲਈ ਥੇ ਪੈਨ ਲੈ",
+      "language": "pa",
+      "avg_logprob": -0.7044,
+      "no_speech_prob": 0.0002,
+      "words": [
+        {
+          "word": "ਵੱਧੁ",
+          "start": 177.77,
+          "end": 178.53,
+          "probability": 0.599
+        },
+        {
+          "word": "ਸਰੀ",
+          "start": 178.53,
+          "end": 178.79,
+          "probability": 0.817
+        },
+        {
+          "word": "ink",
+          "start": 178.79,
+          "end": 178.97,
+          "probability": 0.0236
+        },
+        {
+          "word": "ਲਈ",
+          "start": 178.97,
+          "end": 179.21,
+          "probability": 0.741
+        },
+        {
+          "word": "ਥੇ",
+          "start": 179.21,
+          "end": 179.37,
+          "probability": 0.7511
+        },
+        {
+          "word": "ਪੈਨ",
+          "start": 179.37,
+          "end": 179.57,
+          "probability": 0.9083
+        },
+        {
+          "word": "ਲે",
+          "start": 179.57,
+          "end": 180.23,
+          "probability": 0.7351
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 180.23,
+      "end": 185.66,
+      "text": "ਇੱਕ ਕੰਰੀਂ ਚੱਲਾ ਗਿਆ । ਇੱਕ, ਦੋ ਮੀਨੇ ਹੋਣੇ ਕਮਰੇ ਵਿੱਚ ਬੇਟਾਏ।",
+      "language": "pa",
+      "avg_logprob": -0.72,
+      "no_speech_prob": 0.0008,
+      "words": [
+        {
+          "word": "ਇੱ",
+          "start": 180.23,
+          "end": 180.87,
+          "probability": 0.7037
+        },
+        {
+          "word": "ਕੰਰੀਂ",
+          "start": 180.87,
+          "end": 181.33,
+          "probability": 0.6226
+        },
+        {
+          "word": "ਚ੍ਲਾ",
+          "start": 181.33,
+          "end": 181.81,
+          "probability": 0.5901
+        },
+        {
+          "word": "ਗਿਆ",
+          "start": 181.81,
+          "end": 182.05,
+          "probability": 0.919
+        },
+        {
+          "word": "।",
+          "start": 182.05,
+          "end": 183.01,
+          "probability": 0.4982
+        },
+        {
+          "word": "ਏਕ,",
+          "start": 183.36,
+          "end": 183.8,
+          "probability": 0.7203
+        },
+        {
+          "word": "ਦੋ",
+          "start": 184.0,
+          "end": 184.04,
+          "probability": 0.974
+        },
+        {
+          "word": "ਮੀਨੇ",
+          "start": 184.04,
+          "end": 184.36,
+          "probability": 0.9791
+        },
+        {
+          "word": "ਹੋਣੇ",
+          "start": 184.36,
+          "end": 184.56,
+          "probability": 0.7913
+        },
+        {
+          "word": "ਕਮਰੈਚ",
+          "start": 184.56,
+          "end": 184.98,
+          "probability": 0.7509
+        },
+        {
+          "word": "ਬੇਟਾਯੇ।",
+          "start": 184.98,
+          "end": 185.66,
+          "probability": 0.7222
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 185.66,
+      "end": 188.78,
+      "text": "ਬਾਰ ਆਖਦਾ ਕਿ ਸੇਡ਼ਨ ਦੇ ਰੰਗ।",
+      "language": "pa",
+      "avg_logprob": -0.72,
+      "no_speech_prob": 0.0008,
+      "words": [
+        {
+          "word": "ਬਾਰ",
+          "start": 185.66,
+          "end": 186.14,
+          "probability": 0.9399
+        },
+        {
+          "word": "ਆਖੈ",
+          "start": 186.14,
+          "end": 186.34,
+          "probability": 0.7073
+        },
+        {
+          "word": "ਕેਨਦਾ",
+          "start": 186.34,
+          "end": 186.68,
+          "probability": 0.8225
+        },
+        {
+          "word": "ਕੀ",
+          "start": 186.68,
+          "end": 187.2,
+          "probability": 0.8856
+        },
+        {
+          "word": "ਸੇਡ਼ਨ",
+          "start": 187.2,
+          "end": 187.64,
+          "probability": 0.7204
+        },
+        {
+          "word": "ਦে",
+          "start": 187.64,
+          "end": 187.8,
+          "probability": 0.789
+        },
+        {
+          "word": "ਰੁਙ੍ਗ।",
+          "start": 187.8,
+          "end": 188.78,
+          "probability": 0.6767
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 188.88,
+      "end": 190.16,
+      "text": "ਨਾ ਆਈਸ ਦਹ ਵਣਿਆ।",
+      "language": "pa",
+      "avg_logprob": -0.72,
+      "no_speech_prob": 0.0008,
+      "words": [
+        {
+          "word": "ਨਾ",
+          "start": 188.88,
+          "end": 189.18,
+          "probability": 0.925
+        },
+        {
+          "word": "ਆਈਸ",
+          "start": 189.18,
+          "end": 189.54,
+          "probability": 0.8544
+        },
+        {
+          "word": "ਦਹ",
+          "start": 189.54,
+          "end": 189.72,
+          "probability": 0.7789
+        },
+        {
+          "word": "ਵਨੈਆ।",
+          "start": 189.72,
+          "end": 190.16,
+          "probability": 0.5669
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 193.79,
+      "end": 196.61,
+      "text": "ਨੈ ਵਾਟਰ ਦੇ ਬਣੇਆਂ, ਏ ਬਝਿਆਂ ਸ਼ਤੋਨਸ ਦਹੀ।",
+      "language": "pa",
+      "avg_logprob": -0.7483,
+      "no_speech_prob": 0.0013,
+      "words": [
+        {
+          "word": "ਨੈ",
+          "start": 193.79,
+          "end": 194.35,
+          "probability": 0.632
+        },
+        {
+          "word": "ਵਾਟਰ",
+          "start": 194.35,
+          "end": 194.69,
+          "probability": 0.859
+        },
+        {
+          "word": "ਦੇ",
+          "start": 194.69,
+          "end": 194.85,
+          "probability": 0.9674
+        },
+        {
+          "word": "ਬਣੇਆਂ,",
+          "start": 194.85,
+          "end": 195.25,
+          "probability": 0.7475
+        },
+        {
+          "word": "ਏ",
+          "start": 195.29,
+          "end": 195.47,
+          "probability": 0.7602
+        },
+        {
+          "word": "ਬਝਿਆਂ",
+          "start": 195.47,
+          "end": 195.77,
+          "probability": 0.7222
+        },
+        {
+          "word": "ਸ਼ਤੋਨ੍ਸ",
+          "start": 195.77,
+          "end": 196.31,
+          "probability": 0.7371
+        },
+        {
+          "word": "ਦਹੀ।",
+          "start": 196.31,
+          "end": 196.61,
+          "probability": 0.6699
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 196.61,
+      "end": 199.19,
+      "text": "ਉਕੈਂਡਾ ਸਾਰੇ ਕੰਧੇ ''ਤੇਨੂੰ ਗਿਮੇਂ ਪਟਾ?''",
+      "language": "pa",
+      "avg_logprob": -0.7483,
+      "no_speech_prob": 0.0013,
+      "words": [
+        {
+          "word": "ਉਕੈਂਡਾ",
+          "start": 196.61,
+          "end": 197.59,
+          "probability": 0.6477
+        },
+        {
+          "word": "ਸਾਰੇ",
+          "start": 197.59,
+          "end": 198.27,
+          "probability": 0.9054
+        },
+        {
+          "word": "கੰਧੇ",
+          "start": 198.27,
+          "end": 198.47,
+          "probability": 0.5712
+        },
+        {
+          "word": "''ਤੇਨੁਂ",
+          "start": 198.47,
+          "end": 198.69,
+          "probability": 0.781
+        },
+        {
+          "word": "ਗਿਮੇਂ",
+          "start": 198.69,
+          "end": 198.91,
+          "probability": 0.6709
+        },
+        {
+          "word": "ਪਟਾ?''",
+          "start": 198.91,
+          "end": 199.19,
+          "probability": 0.6967
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 200.04,
+      "end": 202.78,
+      "text": "ਉਖਾਂਦਾ ਦੇਖੋ, ਮੀਰਿਕੋਲ ਭਰੂਫ ਹੈ।",
+      "language": "pa",
+      "avg_logprob": -0.7483,
+      "no_speech_prob": 0.0013,
+      "words": [
+        {
+          "word": "ਉਖਾਂਦਾ",
+          "start": 200.04,
+          "end": 200.54,
+          "probability": 0.7167
+        },
+        {
+          "word": "ਦેਖੋ,",
+          "start": 200.54,
+          "end": 200.84,
+          "probability": 0.7686
+        },
+        {
+          "word": "ਮੀਰਿਕੋਲ",
+          "start": 200.9,
+          "end": 201.82,
+          "probability": 0.8676
+        },
+        {
+          "word": "ਭੁਰੂਫ",
+          "start": 201.82,
+          "end": 202.22,
+          "probability": 0.6926
+        },
+        {
+          "word": "ਹੈ।",
+          "start": 202.22,
+          "end": 202.78,
+          "probability": 0.8131
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 202.78,
+      "end": 208.82,
+      "text": "ਕੋਲਾ prove ਕੀ ਸੀਗਾ ਕੁਝ pages ਜਿਦੇ ਉੱਤੇ ਕੁਝ mathematics ਲਿਖਾਇਆ ਸੀਗਾ",
+      "language": "pa",
+      "avg_logprob": -0.8061,
+      "no_speech_prob": 0.0012,
+      "words": [
+        {
+          "word": "ਕੋਲਾ",
+          "start": 202.78,
+          "end": 203.24,
+          "probability": 0.6997
+        },
+        {
+          "word": "prove",
+          "start": 203.24,
+          "end": 203.44,
+          "probability": 0.032
+        },
+        {
+          "word": "कੀ",
+          "start": 203.44,
+          "end": 203.74,
+          "probability": 0.7445
+        },
+        {
+          "word": "सੀਗਾ",
+          "start": 203.74,
+          "end": 204.0,
+          "probability": 0.7891
+        },
+        {
+          "word": "ਕુछ",
+          "start": 204.0,
+          "end": 205.08,
+          "probability": 0.5821
+        },
+        {
+          "word": "pages",
+          "start": 205.08,
+          "end": 205.92,
+          "probability": 0.7852
+        },
+        {
+          "word": "ਜਿਦੇ",
+          "start": 205.92,
+          "end": 206.7,
+          "probability": 0.891
+        },
+        {
+          "word": "ਉਤ੍ਤੈ",
+          "start": 206.7,
+          "end": 206.96,
+          "probability": 0.775
+        },
+        {
+          "word": "ਕुছ",
+          "start": 206.96,
+          "end": 207.12,
+          "probability": 0.6881
+        },
+        {
+          "word": "mathematics",
+          "start": 207.12,
+          "end": 207.72,
+          "probability": 0.8223
+        },
+        {
+          "word": "ਲੀਖ਼ਾਯਾ",
+          "start": 207.72,
+          "end": 208.48,
+          "probability": 0.8386
+        },
+        {
+          "word": "ਸੀਘਾ",
+          "start": 208.48,
+          "end": 208.82,
+          "probability": 0.8004
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 209.7,
+      "end": 210.7,
+      "text": "ਕੋਛ ਲਿਖਿਆ ਹੱਸੂ",
+      "language": "pa",
+      "avg_logprob": -0.8061,
+      "no_speech_prob": 0.0012,
+      "words": [
+        {
+          "word": "ਕোਛ",
+          "start": 209.7,
+          "end": 210.06,
+          "probability": 0.786
+        },
+        {
+          "word": "ਲએਖਿਆ",
+          "start": 210.06,
+          "end": 210.42,
+          "probability": 0.7673
+        },
+        {
+          "word": "ਹੱੰਸੂ",
+          "start": 210.42,
+          "end": 210.7,
+          "probability": 0.5568
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 210.7,
+      "end": 213.94,
+      "text": "ਅਵੱ ਕੀ ਸੀਗਾ ਓ equations ਸੀਂਗੇ match ਦੀਆਂ",
+      "language": "pa",
+      "avg_logprob": -0.8061,
+      "no_speech_prob": 0.0012,
+      "words": [
+        {
+          "word": "ਅਵੱ",
+          "start": 210.7,
+          "end": 211.38,
+          "probability": 0.5263
+        },
+        {
+          "word": "ਕী",
+          "start": 211.38,
+          "end": 211.52,
+          "probability": 0.6451
+        },
+        {
+          "word": "ਸીਗ਼ਾ",
+          "start": 211.52,
+          "end": 211.96,
+          "probability": 0.7598
+        },
+        {
+          "word": "ਓ",
+          "start": 211.96,
+          "end": 212.08,
+          "probability": 0.5204
+        },
+        {
+          "word": "equations",
+          "start": 212.08,
+          "end": 212.36,
+          "probability": 0.269
+        },
+        {
+          "word": "ਸੀਙੇ",
+          "start": 212.36,
+          "end": 213.0,
+          "probability": 0.7004
+        },
+        {
+          "word": "match",
+          "start": 213.0,
+          "end": 213.28,
+          "probability": 0.0515
+        },
+        {
+          "word": "ਦੀਆ",
+          "start": 213.28,
+          "end": 213.94,
+          "probability": 0.8688
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 214.16,
+      "end": 219.94,
+      "text": "ਤੁਸੀ ਏਹ ਥੱਲ ਆਸੀ power ਰੇ ਕਿ ਜਦੋਂ ਉਹ ਹਜ਼ਾਰਾਂ ਕਲੋਮੀਟਰ ਦੂਰ",
+      "language": "pa",
+      "avg_logprob": -0.9183,
+      "no_speech_prob": 0.0013,
+      "words": [
+        {
+          "word": "ਤੁਸੀ",
+          "start": 214.16,
+          "end": 214.84,
+          "probability": 0.8953
+        },
+        {
+          "word": "ਏਹ",
+          "start": 214.84,
+          "end": 215.54,
+          "probability": 0.5039
+        },
+        {
+          "word": "ॱਲ",
+          "start": 215.54,
+          "end": 215.96,
+          "probability": 0.2342
+        },
+        {
+          "word": "ਆਸੀ",
+          "start": 215.96,
+          "end": 216.62,
+          "probability": 0.6405
+        },
+        {
+          "word": "power",
+          "start": 216.62,
+          "end": 217.36,
+          "probability": 0.0093
+        },
+        {
+          "word": "ਰੇ",
+          "start": 217.36,
+          "end": 217.66,
+          "probability": 0.669
+        },
+        {
+          "word": "ਕਿ",
+          "start": 217.66,
+          "end": 217.92,
+          "probability": 0.7442
+        },
+        {
+          "word": "ਜਦਨੰ",
+          "start": 217.92,
+          "end": 218.26,
+          "probability": 0.5944
+        },
+        {
+          "word": "ਓ",
+          "start": 218.26,
+          "end": 218.36,
+          "probability": 0.5948
+        },
+        {
+          "word": "ਹਾਝਾਰਾਂ",
+          "start": 218.36,
+          "end": 219.08,
+          "probability": 0.7861
+        },
+        {
+          "word": "ਕਲੋਮੀਟਰ",
+          "start": 219.08,
+          "end": 219.62,
+          "probability": 0.8344
+        },
+        {
+          "word": "ਦੂਰ",
+          "start": 219.62,
+          "end": 219.94,
+          "probability": 0.9623
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 219.94,
+      "end": 224.48,
+      "text": "ਇੱਕ planet ਦੇ rings ਬਾਲੇ ਹਨ ਡੇ ਗਿਯੋ ਕੁਝ ਚੀਜ਼ ਭਣੇ ।",
+      "language": "pa",
+      "avg_logprob": -0.9183,
+      "no_speech_prob": 0.0013,
+      "words": [
+        {
+          "word": "ਏਕ",
+          "start": 219.94,
+          "end": 220.5,
+          "probability": 0.79
+        },
+        {
+          "word": "planet",
+          "start": 220.5,
+          "end": 220.94,
+          "probability": 0.0668
+        },
+        {
+          "word": "ਦে",
+          "start": 220.94,
+          "end": 221.54,
+          "probability": 0.8173
+        },
+        {
+          "word": "rings",
+          "start": 221.54,
+          "end": 221.82,
+          "probability": 0.0903
+        },
+        {
+          "word": "ਬਾਲੇ",
+          "start": 221.82,
+          "end": 222.32,
+          "probability": 0.9426
+        },
+        {
+          "word": "ਹੈਂ",
+          "start": 222.32,
+          "end": 222.48,
+          "probability": 0.5161
+        },
+        {
+          "word": "ਡ਼ੇ",
+          "start": 222.48,
+          "end": 222.64,
+          "probability": 0.4996
+        },
+        {
+          "word": "গਿਯੋ",
+          "start": 222.64,
+          "end": 223.2,
+          "probability": 0.5227
+        },
+        {
+          "word": "ਕਛ",
+          "start": 223.2,
+          "end": 223.5,
+          "probability": 0.6797
+        },
+        {
+          "word": "ਚੀਜ਼",
+          "start": 223.5,
+          "end": 223.92,
+          "probability": 0.7832
+        },
+        {
+          "word": "ਭਣੇ",
+          "start": 223.92,
+          "end": 224.24,
+          "probability": 0.6917
+        },
+        {
+          "word": "।",
+          "start": 224.24,
+          "end": 224.48,
+          "probability": 0.5102
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 224.51,
+      "end": 226.79,
+      "text": "ਕਨੀ ਹਿੰਖਾਲ ਦੀ ਚੀਜ਼",
+      "language": "pa",
+      "avg_logprob": -0.9183,
+      "no_speech_prob": 0.0013,
+      "words": [
+        {
+          "word": "ਕਨੀ",
+          "start": 224.51,
+          "end": 225.41,
+          "probability": 0.7933
+        },
+        {
+          "word": "ਹਿਂਖਾਲ",
+          "start": 225.41,
+          "end": 225.79,
+          "probability": 0.6167
+        },
+        {
+          "word": "ਦী",
+          "start": 225.79,
+          "end": 225.97,
+          "probability": 0.7062
+        },
+        {
+          "word": "ਚ્ਯਿਜ਼",
+          "start": 225.97,
+          "end": 226.79,
+          "probability": 0.6604
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 226.86,
+      "end": 231.36,
+      "text": "ਤੱਾ ਆਪਾ ਕੋਛ ਨਾ ਖੋਜ ਇੱਕਰ ਤਹੇ science ਲਈ ਥਾ, ਤੁਸੀਂ ਏਹੀ ਚੀਜ਼",
+      "language": "pa",
+      "avg_logprob": -0.7706,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "ਤੱਾ",
+          "start": 226.86,
+          "end": 227.34,
+          "probability": 0.7371
+        },
+        {
+          "word": "ਆਪਾ",
+          "start": 227.34,
+          "end": 227.78,
+          "probability": 0.7344
+        },
+        {
+          "word": "ਕੋਛ",
+          "start": 227.78,
+          "end": 228.04,
+          "probability": 0.8798
+        },
+        {
+          "word": "ਨਾ",
+          "start": 228.04,
+          "end": 228.28,
+          "probability": 0.8915
+        },
+        {
+          "word": "ਖੋਚ",
+          "start": 228.28,
+          "end": 228.48,
+          "probability": 0.7363
+        },
+        {
+          "word": "ਏਕਰ",
+          "start": 228.48,
+          "end": 228.82,
+          "probability": 0.787
+        },
+        {
+          "word": "ਤਹੇ",
+          "start": 228.82,
+          "end": 229.04,
+          "probability": 0.7118
+        },
+        {
+          "word": "science",
+          "start": 229.04,
+          "end": 229.32,
+          "probability": 0.0013
+        },
+        {
+          "word": "ਲੈਯੇ",
+          "start": 229.32,
+          "end": 229.84,
+          "probability": 0.7533
+        },
+        {
+          "word": "ਥਾ,",
+          "start": 229.84,
+          "end": 230.02,
+          "probability": 0.7272
+        },
+        {
+          "word": "ਤਸੀ",
+          "start": 230.02,
+          "end": 230.26,
+          "probability": 0.8398
+        },
+        {
+          "word": "ਏਹੀ",
+          "start": 230.26,
+          "end": 231.02,
+          "probability": 0.8886
+        },
+        {
+          "word": "चੀੰਸ",
+          "start": 231.02,
+          "end": 231.36,
+          "probability": 0.6814
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 231.96,
+      "end": 235.18,
+      "text": "ਅਪਣੀ ੧੦. ਐਹੁ ਮੈਜ਼ਿਕਲ ਪਾਵਰ ਟੰਜੀ ਸੇਖ ਰੇਓ",
+      "language": "pa",
+      "avg_logprob": -0.7706,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "ਅਪਣੀ",
+          "start": 231.96,
+          "end": 232.4,
+          "probability": 0.7935
+        },
+        {
+          "word": "१૦.",
+          "start": 232.4,
+          "end": 232.7,
+          "probability": 0.1893
+        },
+        {
+          "word": "ਐਹੁ",
+          "start": 232.76,
+          "end": 232.96,
+          "probability": 0.6423
+        },
+        {
+          "word": "ਮੈਜ਼ਿਕਲ",
+          "start": 232.96,
+          "end": 234.06,
+          "probability": 0.7528
+        },
+        {
+          "word": "ਪਾਵਰ",
+          "start": 234.06,
+          "end": 234.46,
+          "probability": 0.9026
+        },
+        {
+          "word": "ਟੂజੀ",
+          "start": 234.46,
+          "end": 234.66,
+          "probability": 0.684
+        },
+        {
+          "word": "ਸੇਖ",
+          "start": 234.66,
+          "end": 234.84,
+          "probability": 0.8734
+        },
+        {
+          "word": "ਰੇਓ",
+          "start": 234.84,
+          "end": 235.18,
+          "probability": 0.7003
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 235.18,
+      "end": 237.12,
+      "text": "ਕਿਉਂਕਿ, ਸਿੱਖਣ ਆਲੀਂ sorry",
+      "language": "pa",
+      "avg_logprob": -0.7706,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "ਕਿਉਕੀ,",
+          "start": 235.18,
+          "end": 236.12,
+          "probability": 0.7558
+        },
+        {
+          "word": "सੀਖਨ",
+          "start": 236.18,
+          "end": 236.74,
+          "probability": 0.7443
+        },
+        {
+          "word": "ਆਲ੍ਲੀਂ",
+          "start": 236.74,
+          "end": 237.04,
+          "probability": 0.7357
+        },
+        {
+          "word": "sorry",
+          "start": 237.04,
+          "end": 237.12,
+          "probability": 0.0112
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 237.98,
+      "end": 242.96,
+      "text": "ਦੱਸਣਾ ਚਾਰੇ ਕੀ ਜੋ ਏ ਟੂਲ ਉਨ੍ਹਾਂ ਨੇ ਯੂਸ ਕੀਤਾ",
+      "language": "pa",
+      "avg_logprob": -0.6917,
+      "no_speech_prob": 0.0006,
+      "words": [
+        {
+          "word": "ਦੱਸਨਾ",
+          "start": 237.98,
+          "end": 238.7,
+          "probability": 0.7644
+        },
+        {
+          "word": "ਚਾਰੇ",
+          "start": 238.7,
+          "end": 238.84,
+          "probability": 0.8818
+        },
+        {
+          "word": "ਕੀ",
+          "start": 238.84,
+          "end": 239.04,
+          "probability": 0.795
+        },
+        {
+          "word": "ਜੋ",
+          "start": 239.04,
+          "end": 240.38,
+          "probability": 0.9149
+        },
+        {
+          "word": "ਏ",
+          "start": 240.38,
+          "end": 240.56,
+          "probability": 0.651
+        },
+        {
+          "word": "ਟੂਲ",
+          "start": 240.56,
+          "end": 241.74,
+          "probability": 0.8124
+        },
+        {
+          "word": "ਉੰਣਾ",
+          "start": 241.74,
+          "end": 242.28,
+          "probability": 0.6547
+        },
+        {
+          "word": "ਨੈ",
+          "start": 242.28,
+          "end": 242.36,
+          "probability": 0.7077
+        },
+        {
+          "word": "ਯੂਸ",
+          "start": 242.36,
+          "end": 242.58,
+          "probability": 0.8604
+        },
+        {
+          "word": "ਗੀਤਾ",
+          "start": 242.58,
+          "end": 242.96,
+          "probability": 0.8309
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 242.96,
+      "end": 245.96,
+      "text": "By the way, ਉਹਨਾਂ ਨੇ James Clarke Maxwell",
+      "language": "pa",
+      "avg_logprob": -0.6917,
+      "no_speech_prob": 0.0006,
+      "words": [
+        {
+          "word": "By",
+          "start": 242.96,
+          "end": 243.82,
+          "probability": 0.1135
+        },
+        {
+          "word": "the",
+          "start": 243.82,
+          "end": 244.0,
+          "probability": 0.729
+        },
+        {
+          "word": "way,",
+          "start": 244.0,
+          "end": 244.14,
+          "probability": 0.8682
+        },
+        {
+          "word": "ਉਹਨਾਂ",
+          "start": 244.18,
+          "end": 244.42,
+          "probability": 0.7909
+        },
+        {
+          "word": "ਥ੍ਵੇ",
+          "start": 244.42,
+          "end": 244.74,
+          "probability": 0.5915
+        },
+        {
+          "word": "James",
+          "start": 244.74,
+          "end": 244.94,
+          "probability": 0.0478
+        },
+        {
+          "word": "Clarke",
+          "start": 244.94,
+          "end": 245.6,
+          "probability": 0.564
+        },
+        {
+          "word": "Maxwell",
+          "start": 245.6,
+          "end": 245.96,
+          "probability": 0.9868
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 245.96,
+      "end": 248.48,
+      "text": "ਬਡੇ ਹੀ great scientist ।",
+      "language": "pa",
+      "avg_logprob": -0.6917,
+      "no_speech_prob": 0.0006,
+      "words": [
+        {
+          "word": "ਬਡੇ",
+          "start": 245.96,
+          "end": 247.26,
+          "probability": 0.9081
+        },
+        {
+          "word": "हੀ",
+          "start": 247.26,
+          "end": 247.48,
+          "probability": 0.7227
+        },
+        {
+          "word": "great",
+          "start": 247.48,
+          "end": 247.8,
+          "probability": 0.7012
+        },
+        {
+          "word": "scientist",
+          "start": 247.8,
+          "end": 248.2,
+          "probability": 0.6211
+        },
+        {
+          "word": "।",
+          "start": 248.2,
+          "end": 248.48,
+          "probability": 0.6213
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 248.48,
+      "end": 249.76,
+      "text": "Great mathematician ਸਿੱਖੇ",
+      "language": "pa",
+      "avg_logprob": -0.6917,
+      "no_speech_prob": 0.0006,
+      "words": [
+        {
+          "word": "Great",
+          "start": 248.48,
+          "end": 248.62,
+          "probability": 0.1302
+        },
+        {
+          "word": "mathematician",
+          "start": 248.62,
+          "end": 249.12,
+          "probability": 0.7524
+        },
+        {
+          "word": "ਸੀਖੇ",
+          "start": 249.12,
+          "end": 249.76,
+          "probability": 0.8275
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 249.76,
+      "end": 253.7,
+      "text": "So Mathematics ਆਪਾਂ ਏਕ tool ਹੈ",
+      "language": "pa",
+      "avg_logprob": -0.6917,
+      "no_speech_prob": 0.0006,
+      "words": [
+        {
+          "word": "So",
+          "start": 249.76,
+          "end": 250.3,
+          "probability": 0.2205
+        },
+        {
+          "word": "Mathematics",
+          "start": 250.3,
+          "end": 251.5,
+          "probability": 0.5824
+        },
+        {
+          "word": "ਆਪਾਨੁਂ",
+          "start": 251.5,
+          "end": 252.02,
+          "probability": 0.7907
+        },
+        {
+          "word": "ਏਕ",
+          "start": 252.02,
+          "end": 252.32,
+          "probability": 0.8957
+        },
+        {
+          "word": "tool",
+          "start": 252.32,
+          "end": 253.3,
+          "probability": 0.0619
+        },
+        {
+          "word": "ਹੈ",
+          "start": 253.3,
+          "end": 253.7,
+          "probability": 0.8812
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 253.7,
+      "end": 256.12,
+      "text": "ਜਿਦੇਨਾ ਅਪਾ future predict ਕਰ ਸਕਦੇ ਹਾਂ",
+      "language": "pa",
+      "avg_logprob": -0.6917,
+      "no_speech_prob": 0.0006,
+      "words": [
+        {
+          "word": "ਜਿਦੇਨਾর",
+          "start": 253.7,
+          "end": 254.26,
+          "probability": 0.7347
+        },
+        {
+          "word": "ਅਪਾ",
+          "start": 254.26,
+          "end": 254.44,
+          "probability": 0.7762
+        },
+        {
+          "word": "future",
+          "start": 254.44,
+          "end": 254.64,
+          "probability": 0.4814
+        },
+        {
+          "word": "predict",
+          "start": 254.64,
+          "end": 255.08,
+          "probability": 0.5493
+        },
+        {
+          "word": "ਕਰ",
+          "start": 255.08,
+          "end": 255.4,
+          "probability": 0.9733
+        },
+        {
+          "word": "सक਼ਦੀਆ",
+          "start": 255.4,
+          "end": 256.12,
+          "probability": 0.5412
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 257.9,
+      "end": 264.54,
+      "text": "Mathematical is a magical tool which can be used by those who know how to use it and they will make great discoveries.",
+      "language": "pa",
+      "avg_logprob": -0.7436,
+      "no_speech_prob": 0.0012,
+      "words": [
+        {
+          "word": "Mathematical",
+          "start": 257.9,
+          "end": 258.56,
+          "probability": 0.4304
+        },
+        {
+          "word": "is",
+          "start": 258.56,
+          "end": 258.68,
+          "probability": 0.0281
+        },
+        {
+          "word": "a",
+          "start": 258.68,
+          "end": 259.0,
+          "probability": 0.8301
+        },
+        {
+          "word": "magical",
+          "start": 259.0,
+          "end": 259.5,
+          "probability": 0.6982
+        },
+        {
+          "word": "tool",
+          "start": 259.5,
+          "end": 259.84,
+          "probability": 0.9736
+        },
+        {
+          "word": "which",
+          "start": 259.84,
+          "end": 260.08,
+          "probability": 0.1528
+        },
+        {
+          "word": "can",
+          "start": 260.08,
+          "end": 260.8,
+          "probability": 0.2177
+        },
+        {
+          "word": "be",
+          "start": 260.8,
+          "end": 260.8,
+          "probability": 0.6582
+        },
+        {
+          "word": "used",
+          "start": 260.8,
+          "end": 261.08,
+          "probability": 0.6021
+        },
+        {
+          "word": "by",
+          "start": 261.08,
+          "end": 261.08,
+          "probability": 0.7212
+        },
+        {
+          "word": "those",
+          "start": 261.08,
+          "end": 261.08,
+          "probability": 0.1394
+        },
+        {
+          "word": "who",
+          "start": 261.08,
+          "end": 261.6,
+          "probability": 0.8633
+        },
+        {
+          "word": "know",
+          "start": 261.6,
+          "end": 261.6,
+          "probability": 0.6123
+        },
+        {
+          "word": "how",
+          "start": 261.6,
+          "end": 261.6,
+          "probability": 0.708
+        },
+        {
+          "word": "to",
+          "start": 261.6,
+          "end": 261.6,
+          "probability": 0.981
+        },
+        {
+          "word": "use",
+          "start": 261.6,
+          "end": 261.6,
+          "probability": 0.7529
+        },
+        {
+          "word": "it",
+          "start": 261.6,
+          "end": 262.36,
+          "probability": 0.7812
+        },
+        {
+          "word": "and",
+          "start": 262.36,
+          "end": 263.16,
+          "probability": 0.1357
+        },
+        {
+          "word": "they",
+          "start": 263.16,
+          "end": 263.38,
+          "probability": 0.2297
+        },
+        {
+          "word": "will",
+          "start": 263.38,
+          "end": 263.5,
+          "probability": 0.0542
+        },
+        {
+          "word": "make",
+          "start": 263.5,
+          "end": 263.68,
+          "probability": 0.3633
+        },
+        {
+          "word": "great",
+          "start": 263.68,
+          "end": 263.78,
+          "probability": 0.2839
+        },
+        {
+          "word": "discoveries.",
+          "start": 263.78,
+          "end": 264.54,
+          "probability": 0.9551
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 266.84,
+      "end": 275.0,
+      "text": "So from here we start with physics, in fact they have studied nature using mathematics",
+      "language": "pa",
+      "avg_logprob": -0.7436,
+      "no_speech_prob": 0.0012,
+      "words": [
+        {
+          "word": "So",
+          "start": 266.84,
+          "end": 267.5,
+          "probability": 0.3875
+        },
+        {
+          "word": "from",
+          "start": 267.6,
+          "end": 268.26,
+          "probability": 0.218
+        },
+        {
+          "word": "here",
+          "start": 268.26,
+          "end": 268.34,
+          "probability": 0.8496
+        },
+        {
+          "word": "we",
+          "start": 268.34,
+          "end": 268.64,
+          "probability": 0.771
+        },
+        {
+          "word": "start",
+          "start": 268.64,
+          "end": 268.86,
+          "probability": 0.8584
+        },
+        {
+          "word": "with",
+          "start": 268.86,
+          "end": 269.38,
+          "probability": 0.5747
+        },
+        {
+          "word": "physics,",
+          "start": 269.38,
+          "end": 269.86,
+          "probability": 0.3909
+        },
+        {
+          "word": "in",
+          "start": 270.12,
+          "end": 270.58,
+          "probability": 0.108
+        },
+        {
+          "word": "fact",
+          "start": 270.58,
+          "end": 270.88,
+          "probability": 0.3159
+        },
+        {
+          "word": "they",
+          "start": 270.88,
+          "end": 271.32,
+          "probability": 0.4978
+        },
+        {
+          "word": "have",
+          "start": 271.32,
+          "end": 271.62,
+          "probability": 0.3943
+        },
+        {
+          "word": "studied",
+          "start": 271.62,
+          "end": 272.72,
+          "probability": 0.3525
+        },
+        {
+          "word": "nature",
+          "start": 272.72,
+          "end": 273.84,
+          "probability": 0.6089
+        },
+        {
+          "word": "using",
+          "start": 273.84,
+          "end": 275.0,
+          "probability": 0.2817
+        },
+        {
+          "word": "mathematics",
+          "start": 275.0,
+          "end": 275.0,
+          "probability": 0.8169
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 275.0,
+      "end": 281.65,
+      "text": "As soon as you find out what's happening around us and this was about 1000 km away",
+      "language": "pa",
+      "avg_logprob": -0.7436,
+      "no_speech_prob": 0.0012,
+      "words": [
+        {
+          "word": "As",
+          "start": 275.0,
+          "end": 275.24,
+          "probability": 0.0026
+        },
+        {
+          "word": "soon",
+          "start": 275.81,
+          "end": 276.83,
+          "probability": 0.3953
+        },
+        {
+          "word": "as",
+          "start": 276.83,
+          "end": 276.87,
+          "probability": 0.9971
+        },
+        {
+          "word": "you",
+          "start": 276.87,
+          "end": 277.17,
+          "probability": 0.0279
+        },
+        {
+          "word": "find",
+          "start": 277.17,
+          "end": 277.41,
+          "probability": 0.1328
+        },
+        {
+          "word": "out",
+          "start": 277.41,
+          "end": 277.83,
+          "probability": 0.978
+        },
+        {
+          "word": "what's",
+          "start": 277.83,
+          "end": 278.19,
+          "probability": 0.5565
+        },
+        {
+          "word": "happening",
+          "start": 278.19,
+          "end": 278.19,
+          "probability": 0.728
+        },
+        {
+          "word": "around",
+          "start": 278.19,
+          "end": 278.41,
+          "probability": 0.8018
+        },
+        {
+          "word": "us",
+          "start": 278.41,
+          "end": 278.73,
+          "probability": 0.0598
+        },
+        {
+          "word": "and",
+          "start": 278.73,
+          "end": 279.55,
+          "probability": 0.3049
+        },
+        {
+          "word": "this",
+          "start": 279.55,
+          "end": 279.77,
+          "probability": 0.3176
+        },
+        {
+          "word": "was",
+          "start": 279.77,
+          "end": 279.95,
+          "probability": 0.4705
+        },
+        {
+          "word": "about",
+          "start": 279.95,
+          "end": 280.01,
+          "probability": 0.163
+        },
+        {
+          "word": "1000",
+          "start": 280.01,
+          "end": 280.87,
+          "probability": 0.3972
+        },
+        {
+          "word": "km",
+          "start": 280.87,
+          "end": 281.35,
+          "probability": 0.4102
+        },
+        {
+          "word": "away",
+          "start": 281.35,
+          "end": 281.65,
+          "probability": 0.2532
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 283.31,
+      "end": 287.31,
+      "text": "so ਅੱਰ ਮੈ ਇਨੂੰ ਡਿਫਾਇਨ ਕਰਾ, what is physics?",
+      "language": "pa",
+      "avg_logprob": -0.7839,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "so",
+          "start": 283.31,
+          "end": 284.03,
+          "probability": 0.0072
+        },
+        {
+          "word": "ਅੱਰ",
+          "start": 284.03,
+          "end": 284.75,
+          "probability": 0.5562
+        },
+        {
+          "word": "ਮੈ",
+          "start": 284.75,
+          "end": 284.95,
+          "probability": 0.8028
+        },
+        {
+          "word": "ਇਨੂ",
+          "start": 284.95,
+          "end": 285.29,
+          "probability": 0.7822
+        },
+        {
+          "word": "ਡਿਫਾਇਣ",
+          "start": 285.29,
+          "end": 285.77,
+          "probability": 0.7052
+        },
+        {
+          "word": "ਕਿਰਾ,",
+          "start": 285.77,
+          "end": 285.99,
+          "probability": 0.8567
+        },
+        {
+          "word": "what",
+          "start": 286.09,
+          "end": 286.49,
+          "probability": 0.5625
+        },
+        {
+          "word": "is",
+          "start": 286.49,
+          "end": 286.73,
+          "probability": 0.9531
+        },
+        {
+          "word": "physics?",
+          "start": 286.73,
+          "end": 287.31,
+          "probability": 0.584
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 287.61,
+      "end": 290.95,
+      "text": "So physics, ਆਪਾ ਏਵੇ ਦਿਫਾਇਨ ਕਰਸ਼ਤਹੁੰ।",
+      "language": "pa",
+      "avg_logprob": -0.7839,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "So",
+          "start": 287.61,
+          "end": 288.33,
+          "probability": 0.1444
+        },
+        {
+          "word": "physics,",
+          "start": 288.33,
+          "end": 288.91,
+          "probability": 0.6255
+        },
+        {
+          "word": "ਆਪਾ",
+          "start": 289.17,
+          "end": 289.91,
+          "probability": 0.878
+        },
+        {
+          "word": "ਏਵੇ",
+          "start": 289.91,
+          "end": 290.17,
+          "probability": 0.6527
+        },
+        {
+          "word": "ਦਿਫাਇਝ",
+          "start": 290.17,
+          "end": 290.53,
+          "probability": 0.6943
+        },
+        {
+          "word": "ਕਰਸ਼ਤਹੁੰ।",
+          "start": 290.53,
+          "end": 290.95,
+          "probability": 0.5277
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 290.95,
+      "end": 295.49,
+      "text": "Great scientist and Professor Richard Feynman",
+      "language": "pa",
+      "avg_logprob": -0.7839,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "Great",
+          "start": 290.95,
+          "end": 291.09,
+          "probability": 0.0504
+        },
+        {
+          "word": "scientist",
+          "start": 291.09,
+          "end": 292.63,
+          "probability": 0.6787
+        },
+        {
+          "word": "and",
+          "start": 292.63,
+          "end": 292.95,
+          "probability": 0.092
+        },
+        {
+          "word": "Professor",
+          "start": 292.95,
+          "end": 293.65,
+          "probability": 0.2922
+        },
+        {
+          "word": "Richard",
+          "start": 293.65,
+          "end": 294.47,
+          "probability": 0.2876
+        },
+        {
+          "word": "Feynman",
+          "start": 294.47,
+          "end": 295.49,
+          "probability": 0.9735
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 295.49,
+      "end": 298.11,
+      "text": "ਉਨਾਨੇ Physics ਨੋਂ ਕੁਛ ਇਸ ਤਰਾਂ ਦਾਲਿਖਿਆ",
+      "language": "pa",
+      "avg_logprob": -0.7839,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "ਉਨਾਨੇ",
+          "start": 295.49,
+          "end": 296.47,
+          "probability": 0.7306
+        },
+        {
+          "word": "Physics",
+          "start": 296.47,
+          "end": 296.53,
+          "probability": 0.0488
+        },
+        {
+          "word": "ਨੋਂ",
+          "start": 296.53,
+          "end": 296.97,
+          "probability": 0.5467
+        },
+        {
+          "word": "ਕੁਛ",
+          "start": 296.97,
+          "end": 297.03,
+          "probability": 0.8568
+        },
+        {
+          "word": "ਇਸ",
+          "start": 297.03,
+          "end": 297.23,
+          "probability": 0.9396
+        },
+        {
+          "word": "ਤਰਾਂ",
+          "start": 297.23,
+          "end": 297.49,
+          "probability": 0.8474
+        },
+        {
+          "word": "ਦਾਲਿਖਿਟਾ",
+          "start": 297.49,
+          "end": 298.11,
+          "probability": 0.6405
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 298.11,
+      "end": 301.05,
+      "text": "ਗੀ ਮਾਨ ਲੋ ਦੋ ਬਡੇ ਹੀ intelligent player",
+      "language": "pa",
+      "avg_logprob": -0.7839,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "ਗੀ",
+          "start": 298.11,
+          "end": 298.35,
+          "probability": 0.6481
+        },
+        {
+          "word": "ਮਾਨ",
+          "start": 298.35,
+          "end": 299.03,
+          "probability": 0.7977
+        },
+        {
+          "word": "ਲੋ",
+          "start": 299.03,
+          "end": 299.21,
+          "probability": 0.9451
+        },
+        {
+          "word": "ਦੋ",
+          "start": 299.21,
+          "end": 299.41,
+          "probability": 0.9363
+        },
+        {
+          "word": "बਡੇ",
+          "start": 299.41,
+          "end": 299.95,
+          "probability": 0.8066
+        },
+        {
+          "word": "ਹੀ",
+          "start": 299.95,
+          "end": 300.17,
+          "probability": 0.7936
+        },
+        {
+          "word": "intelligent",
+          "start": 300.17,
+          "end": 300.49,
+          "probability": 0.5176
+        },
+        {
+          "word": "player",
+          "start": 300.49,
+          "end": 301.05,
+          "probability": 0.4148
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 301.05,
+      "end": 304.83,
+      "text": "ਬੱਡੇ brilliant chess ਦੇ player ਏਕ chess ਦੇ game ਖੇਲ ਰਹੀ ।",
+      "language": "pa",
+      "avg_logprob": -0.8902,
+      "no_speech_prob": 0.0016,
+      "words": [
+        {
+          "word": "ਬੱਡੇ",
+          "start": 301.05,
+          "end": 301.49,
+          "probability": 0.7911
+        },
+        {
+          "word": "brilliant",
+          "start": 301.49,
+          "end": 301.93,
+          "probability": 0.0325
+        },
+        {
+          "word": "chess",
+          "start": 301.93,
+          "end": 302.27,
+          "probability": 0.2522
+        },
+        {
+          "word": "de",
+          "start": 302.27,
+          "end": 302.59,
+          "probability": 0.0086
+        },
+        {
+          "word": "player",
+          "start": 302.59,
+          "end": 302.87,
+          "probability": 0.5864
+        },
+        {
+          "word": "ਏਕ",
+          "start": 302.87,
+          "end": 303.35,
+          "probability": 0.7878
+        },
+        {
+          "word": "chess",
+          "start": 303.35,
+          "end": 303.63,
+          "probability": 0.1271
+        },
+        {
+          "word": "de",
+          "start": 303.63,
+          "end": 303.83,
+          "probability": 0.6138
+        },
+        {
+          "word": "game",
+          "start": 303.83,
+          "end": 304.05,
+          "probability": 0.9019
+        },
+        {
+          "word": "ਖੇਲ",
+          "start": 304.05,
+          "end": 304.33,
+          "probability": 0.8569
+        },
+        {
+          "word": "ਰੀਹ",
+          "start": 304.33,
+          "end": 304.59,
+          "probability": 0.7275
+        },
+        {
+          "word": "।",
+          "start": 304.59,
+          "end": 304.83,
+          "probability": 0.3862
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 304.83,
+      "end": 311.71,
+      "text": "ਦੇ ਇਕ ਭੰਦਾ, ਜੇਡ਼ਾ ਭੀ ਓ ਸੋਈ intelligent ਆ ਜਿਆਂ ਦਮਾਗ ਬਹਤ ਵਧੀਆ ਹਾਂ",
+      "language": "pa",
+      "avg_logprob": -0.8902,
+      "no_speech_prob": 0.0016,
+      "words": [
+        {
+          "word": "ਦੇ",
+          "start": 304.83,
+          "end": 305.65,
+          "probability": 0.8035
+        },
+        {
+          "word": "ਇਕ",
+          "start": 305.65,
+          "end": 305.83,
+          "probability": 0.8061
+        },
+        {
+          "word": "ਭੰਦਾ,",
+          "start": 305.83,
+          "end": 307.57,
+          "probability": 0.7045
+        },
+        {
+          "word": "ਜੇਡ਼ਾ",
+          "start": 307.65,
+          "end": 308.89,
+          "probability": 0.82
+        },
+        {
+          "word": "ਭੀ",
+          "start": 308.89,
+          "end": 308.97,
+          "probability": 0.9492
+        },
+        {
+          "word": "ਓ",
+          "start": 308.97,
+          "end": 309.11,
+          "probability": 0.6093
+        },
+        {
+          "word": "ਸੋਈ",
+          "start": 309.11,
+          "end": 309.31,
+          "probability": 0.4569
+        },
+        {
+          "word": "intelligent",
+          "start": 309.31,
+          "end": 309.61,
+          "probability": 0.0587
+        },
+        {
+          "word": "ਆ",
+          "start": 309.61,
+          "end": 310.07,
+          "probability": 0.6346
+        },
+        {
+          "word": "ਜ্ਯਾਂ",
+          "start": 310.07,
+          "end": 310.55,
+          "probability": 0.5899
+        },
+        {
+          "word": "ਦੰਾਗ",
+          "start": 310.55,
+          "end": 311.01,
+          "probability": 0.6371
+        },
+        {
+          "word": "ਬਹਤ",
+          "start": 311.01,
+          "end": 311.25,
+          "probability": 0.7103
+        },
+        {
+          "word": "ਵਦੀ",
+          "start": 311.25,
+          "end": 311.51,
+          "probability": 0.8613
+        },
+        {
+          "word": "ਹਾਂ",
+          "start": 311.51,
+          "end": 311.71,
+          "probability": 0.6942
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 312.25,
+      "end": 315.15,
+      "text": "ਉਹੀ ਜਾਕੇ ਹੁਣਨੋ ਅਬਸਰਵ ਕਰ ਰਹੇ ।",
+      "language": "pa",
+      "avg_logprob": -0.8902,
+      "no_speech_prob": 0.0016,
+      "words": [
+        {
+          "word": "ਉਹੀ",
+          "start": 312.25,
+          "end": 312.75,
+          "probability": 0.6491
+        },
+        {
+          "word": "জਾਕੇ",
+          "start": 312.75,
+          "end": 313.15,
+          "probability": 0.8314
+        },
+        {
+          "word": "ਹੁਣਨੋ",
+          "start": 313.15,
+          "end": 313.47,
+          "probability": 0.6148
+        },
+        {
+          "word": "ਅਬੁਸਰਵ",
+          "start": 313.47,
+          "end": 314.07,
+          "probability": 0.6589
+        },
+        {
+          "word": "ਕਰ",
+          "start": 314.07,
+          "end": 314.27,
+          "probability": 0.9589
+        },
+        {
+          "word": "ਰਹੇ",
+          "start": 314.27,
+          "end": 314.55,
+          "probability": 0.7855
+        },
+        {
+          "word": "।",
+          "start": 314.55,
+          "end": 315.15,
+          "probability": 0.9128
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 315.15,
+      "end": 321.67,
+      "text": "ਦੇਰ ਤੱਕ ਬਹੁਤ ਅਚੀ ਤਰ੍ਹਾਂ keen observation ਕਰਦਾ, ਬੱਡੇ ਦਿਲ ਤੱਕ ਕਾਰਦਾ ਵਹੁਂ ਜ਼ਿਆਦਾ observation ਲਿਖਿਆ ॥",
+      "language": "pa",
+      "avg_logprob": -0.7694,
+      "no_speech_prob": 0.0021,
+      "words": [
+        {
+          "word": "ਦੇਰ",
+          "start": 315.15,
+          "end": 315.79,
+          "probability": 0.5981
+        },
+        {
+          "word": "ਤਾਕ",
+          "start": 315.79,
+          "end": 315.79,
+          "probability": 0.8072
+        },
+        {
+          "word": "ਬਹੋਡ",
+          "start": 315.79,
+          "end": 316.03,
+          "probability": 0.6575
+        },
+        {
+          "word": "ਅਚੀ",
+          "start": 316.03,
+          "end": 316.81,
+          "probability": 0.759
+        },
+        {
+          "word": "ਤਨਾ",
+          "start": 316.81,
+          "end": 317.03,
+          "probability": 0.681
+        },
+        {
+          "word": "keen",
+          "start": 317.03,
+          "end": 317.17,
+          "probability": 0.0053
+        },
+        {
+          "word": "observation",
+          "start": 317.17,
+          "end": 317.63,
+          "probability": 0.5605
+        },
+        {
+          "word": "ਕਰਦੈ,",
+          "start": 317.63,
+          "end": 318.27,
+          "probability": 0.8285
+        },
+        {
+          "word": "ਬੱਡੇ",
+          "start": 318.37,
+          "end": 318.97,
+          "probability": 0.7612
+        },
+        {
+          "word": "ਦেਲ",
+          "start": 318.97,
+          "end": 319.47,
+          "probability": 0.7074
+        },
+        {
+          "word": "ਤਕ",
+          "start": 319.47,
+          "end": 319.69,
+          "probability": 0.8803
+        },
+        {
+          "word": "ਕਾਰਦ",
+          "start": 319.69,
+          "end": 319.99,
+          "probability": 0.8626
+        },
+        {
+          "word": "ਵਹੁਂ",
+          "start": 319.99,
+          "end": 320.41,
+          "probability": 0.5249
+        },
+        {
+          "word": "ਜ਼ਾਦਾ",
+          "start": 320.41,
+          "end": 320.67,
+          "probability": 0.7883
+        },
+        {
+          "word": "observation",
+          "start": 320.67,
+          "end": 320.91,
+          "probability": 0.7427
+        },
+        {
+          "word": "ਲੇਖਿਟਾ",
+          "start": 320.91,
+          "end": 321.45,
+          "probability": 0.7874
+        },
+        {
+          "word": "॥",
+          "start": 321.45,
+          "end": 321.67,
+          "probability": 0.2421
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 321.67,
+      "end": 324.15,
+      "text": "ਲਿਖਦਾ ਰਹਿੰਦਾ, ਲੰਗਦਾਰੇਂਦ੍ਦੇ, ਓ ਕੀ Observe ਕਰੀਏ?",
+      "language": "pa",
+      "avg_logprob": -0.7694,
+      "no_speech_prob": 0.0021,
+      "words": [
+        {
+          "word": "ਲેਖਦਾ",
+          "start": 321.67,
+          "end": 322.21,
+          "probability": 0.7419
+        },
+        {
+          "word": "ਰੈਂਦਾ,",
+          "start": 322.21,
+          "end": 322.39,
+          "probability": 0.8225
+        },
+        {
+          "word": "ਲੰਗਦਾਰੇਂਦ੍ਦ੆,",
+          "start": 322.45,
+          "end": 322.93,
+          "probability": 0.6145
+        },
+        {
+          "word": "ਓ",
+          "start": 322.95,
+          "end": 323.07,
+          "probability": 0.6608
+        },
+        {
+          "word": "ਕੀ",
+          "start": 323.07,
+          "end": 323.25,
+          "probability": 0.8579
+        },
+        {
+          "word": "Observe",
+          "start": 323.25,
+          "end": 323.57,
+          "probability": 0.4613
+        },
+        {
+          "word": "ਕਲ਼ਰੀਏ?",
+          "start": 323.57,
+          "end": 324.15,
+          "probability": 0.6486
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 324.15,
+      "end": 326.31,
+      "text": "ਆਉਣੇ ਕੋਈ ਮਤਲਬ ॥",
+      "language": "pa",
+      "avg_logprob": -0.6928,
+      "no_speech_prob": 0.0009,
+      "words": [
+        {
+          "word": "ਆੱਨੇ",
+          "start": 324.15,
+          "end": 324.61,
+          "probability": 0.559
+        },
+        {
+          "word": "ਕੋਈ",
+          "start": 324.61,
+          "end": 325.69,
+          "probability": 0.8432
+        },
+        {
+          "word": "ਮਤਲੁਬ",
+          "start": 325.69,
+          "end": 326.11,
+          "probability": 0.7678
+        },
+        {
+          "word": "॥",
+          "start": 326.11,
+          "end": 326.31,
+          "probability": 0.3311
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 327.51,
+      "end": 329.15,
+      "text": "ਏਕ, ਦੂ ਹਫ਼ਤਿਆਂ ਬਾਦ",
+      "language": "pa",
+      "avg_logprob": -0.6928,
+      "no_speech_prob": 0.0009,
+      "words": [
+        {
+          "word": "ਏਕ,",
+          "start": 327.51,
+          "end": 328.31,
+          "probability": 0.7236
+        },
+        {
+          "word": "ਦੂ",
+          "start": 328.45,
+          "end": 328.53,
+          "probability": 0.8364
+        },
+        {
+          "word": "ਹਫ਼ਤੇਂ",
+          "start": 328.53,
+          "end": 328.93,
+          "probability": 0.8307
+        },
+        {
+          "word": "ਬਾਦ",
+          "start": 328.93,
+          "end": 329.15,
+          "probability": 0.9309
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 329.15,
+      "end": 332.43,
+      "text": "ਅਗਰ ਆਪਾ ਉਸ ਨੌ ਸਿਖੀਏ",
+      "language": "pa",
+      "avg_logprob": -0.6928,
+      "no_speech_prob": 0.0009,
+      "words": [
+        {
+          "word": "ਅਗਰ",
+          "start": 329.15,
+          "end": 330.43,
+          "probability": 0.8443
+        },
+        {
+          "word": "ਆਪਾ",
+          "start": 330.43,
+          "end": 330.63,
+          "probability": 0.8698
+        },
+        {
+          "word": "ਉਸ",
+          "start": 330.63,
+          "end": 330.83,
+          "probability": 0.6715
+        },
+        {
+          "word": "ਨੌ",
+          "start": 330.83,
+          "end": 331.79,
+          "probability": 0.8204
+        },
+        {
+          "word": "ਸਿਖੀਯਨੂੰ",
+          "start": 331.79,
+          "end": 332.43,
+          "probability": 0.7401
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 332.43,
+      "end": 334.11,
+      "text": "ਜਿਡਾ ਚੇਸ ਦਾ ਨੈ ਸਿਖਿਆ",
+      "language": "pa",
+      "avg_logprob": -0.6928,
+      "no_speech_prob": 0.0009,
+      "words": [
+        {
+          "word": "ਜਿਡਾ",
+          "start": 332.43,
+          "end": 333.05,
+          "probability": 0.7387
+        },
+        {
+          "word": "ਚੇਸ",
+          "start": 333.05,
+          "end": 333.35,
+          "probability": 0.8544
+        },
+        {
+          "word": "ਦਾ",
+          "start": 333.35,
+          "end": 333.51,
+          "probability": 0.7495
+        },
+        {
+          "word": "ਨৈ",
+          "start": 333.51,
+          "end": 333.65,
+          "probability": 0.7713
+        },
+        {
+          "word": "ਸੇਖ੍ਹੀਆ",
+          "start": 333.65,
+          "end": 334.11,
+          "probability": 0.7578
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 334.11,
+      "end": 335.87,
+      "text": "ਕੋਨੂੰ ਪੁਛਾਂਗੇ, ਹਾਬੀ ਤੇਨੂੰ ਕੈ ਪਟਾ ਲਗਿਆ।",
+      "language": "pa",
+      "avg_logprob": -0.7361,
+      "no_speech_prob": 0.0006,
+      "words": [
+        {
+          "word": "ਕੋਨੁ",
+          "start": 334.11,
+          "end": 334.27,
+          "probability": 0.6665
+        },
+        {
+          "word": "ਪੁਛਾਂਗੇ,",
+          "start": 334.27,
+          "end": 334.69,
+          "probability": 0.8567
+        },
+        {
+          "word": "ਹਾਬੀ",
+          "start": 334.75,
+          "end": 334.93,
+          "probability": 0.7917
+        },
+        {
+          "word": "ਤੇਨ੍ਨੋ",
+          "start": 334.93,
+          "end": 335.17,
+          "probability": 0.846
+        },
+        {
+          "word": "ਕૈ",
+          "start": 335.17,
+          "end": 335.31,
+          "probability": 0.6484
+        },
+        {
+          "word": "ਪਟਾ",
+          "start": 335.31,
+          "end": 335.51,
+          "probability": 0.8273
+        },
+        {
+          "word": "ਲਗਿਆ।",
+          "start": 335.51,
+          "end": 335.87,
+          "probability": 0.8654
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 335.87,
+      "end": 338.15,
+      "text": "ਤਾਂ ਓ ਦੱਸ ਸਕਦੇ ਕੇਡੇ...",
+      "language": "pa",
+      "avg_logprob": -0.7361,
+      "no_speech_prob": 0.0006,
+      "words": [
+        {
+          "word": "ਤਾਂ",
+          "start": 335.87,
+          "end": 336.61,
+          "probability": 0.867
+        },
+        {
+          "word": "ਓ",
+          "start": 336.61,
+          "end": 336.73,
+          "probability": 0.8442
+        },
+        {
+          "word": "ਦਾਸ",
+          "start": 336.73,
+          "end": 337.11,
+          "probability": 0.8294
+        },
+        {
+          "word": "ਸਖ਼ਦੇ",
+          "start": 337.11,
+          "end": 337.55,
+          "probability": 0.7601
+        },
+        {
+          "word": "ਕেਡੇ...",
+          "start": 337.55,
+          "end": 338.15,
+          "probability": 0.7382
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 338.15,
+      "end": 339.27,
+      "text": "...ਕੇਡੇ..",
+      "language": "pa",
+      "avg_logprob": -0.7361,
+      "no_speech_prob": 0.0006,
+      "words": [
+        {
+          "word": "...ਕੇਡੰ..",
+          "start": 338.15,
+          "end": 339.27,
+          "probability": 0.6429
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 340.01,
+      "end": 340.43,
+      "text": "..ਕੇਡੇ...",
+      "language": "pa",
+      "avg_logprob": -0.7361,
+      "no_speech_prob": 0.0006,
+      "words": [
+        {
+          "word": "..ਕ੏ਡੀ...",
+          "start": 340.01,
+          "end": 340.43,
+          "probability": 0.6665
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 340.43,
+      "end": 343.61,
+      "text": "ਮਲਰਭਕੀ player ਦਾ, bishop ਦਾ",
+      "language": "pa",
+      "avg_logprob": -0.7361,
+      "no_speech_prob": 0.0006,
+      "words": [
+        {
+          "word": "ਮਲਰਭਕੀ",
+          "start": 340.43,
+          "end": 341.55,
+          "probability": 0.6358
+        },
+        {
+          "word": "playerਦਾ,",
+          "start": 341.55,
+          "end": 342.11,
+          "probability": 0.5697
+        },
+        {
+          "word": "bishopਦਾ",
+          "start": 342.15,
+          "end": 343.61,
+          "probability": 0.695
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "start": 343.61,
+      "end": 345.97,
+      "text": "ਹਾਥੀ ਦਾ or Queen ਦਾ",
+      "language": "pa",
+      "avg_logprob": -0.7361,
+      "no_speech_prob": 0.0006,
+      "words": [
+        {
+          "word": "हਾਥੀਦਾ",
+          "start": 343.61,
+          "end": 344.69,
+          "probability": 0.846
+        },
+        {
+          "word": "or",
+          "start": 344.69,
+          "end": 344.91,
+          "probability": 0.0045
+        },
+        {
+          "word": "Queenਦਾ",
+          "start": 344.91,
+          "end": 345.97,
+          "probability": 0.752
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "start": 345.97,
+      "end": 346.95,
+      "text": "King ਦਾ",
+      "language": "pa",
+      "avg_logprob": -0.7361,
+      "no_speech_prob": 0.0006,
+      "words": [
+        {
+          "word": "Kingਦਾ",
+          "start": 345.97,
+          "end": 346.95,
+          "probability": 0.7922
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "start": 346.95,
+      "end": 355.87,
+      "text": "ਕੀਡੇ ਮੂਵਨੇ । ਉਂਦੇ moves ਕੀ ਨੈ ਸੋ physics ਭੀ ਕੁਝ ਐਸ ਤਰਾਂ ਦੀਹੇ, ਆਪਾਣੋ ਬਡੇ ਹੀ keen observation ਕਰਨੀਏ ਪੈਂਧੀਆਂ ।",
+      "language": "pa",
+      "avg_logprob": -0.7056,
+      "no_speech_prob": 0.0005,
+      "words": [
+        {
+          "word": "ਕੀਡੇ",
+          "start": 346.95,
+          "end": 348.29,
+          "probability": 0.8617
+        },
+        {
+          "word": "ਮੂਵਨੇ",
+          "start": 348.29,
+          "end": 349.31,
+          "probability": 0.7958
+        },
+        {
+          "word": "।",
+          "start": 349.31,
+          "end": 349.53,
+          "probability": 0.4361
+        },
+        {
+          "word": "ਉੰਦੇ",
+          "start": 349.53,
+          "end": 349.93,
+          "probability": 0.7575
+        },
+        {
+          "word": "moves",
+          "start": 349.93,
+          "end": 350.15,
+          "probability": 0.0024
+        },
+        {
+          "word": "कੀ",
+          "start": 350.15,
+          "end": 350.49,
+          "probability": 0.7471
+        },
+        {
+          "word": "ਨੈ",
+          "start": 350.49,
+          "end": 350.73,
+          "probability": 0.6939
+        },
+        {
+          "word": "ਸੋ",
+          "start": 350.73,
+          "end": 351.49,
+          "probability": 0.565
+        },
+        {
+          "word": "physics",
+          "start": 351.49,
+          "end": 351.85,
+          "probability": 0.1475
+        },
+        {
+          "word": "ਭੀਕੁਛ",
+          "start": 351.85,
+          "end": 352.25,
+          "probability": 0.7718
+        },
+        {
+          "word": "ਐਸ",
+          "start": 352.25,
+          "end": 352.47,
+          "probability": 0.7562
+        },
+        {
+          "word": "ਤਰਾਂ",
+          "start": 352.47,
+          "end": 352.79,
+          "probability": 0.9383
+        },
+        {
+          "word": "ਦੀਹੇ,",
+          "start": 352.79,
+          "end": 353.05,
+          "probability": 0.8043
+        },
+        {
+          "word": "ਆਪਾਣੋ",
+          "start": 353.11,
+          "end": 353.53,
+          "probability": 0.8768
+        },
+        {
+          "word": "ਬਡੈਹੀ",
+          "start": 353.53,
+          "end": 353.99,
+          "probability": 0.8378
+        },
+        {
+          "word": "keen",
+          "start": 353.99,
+          "end": 354.19,
+          "probability": 0.6226
+        },
+        {
+          "word": "observation",
+          "start": 354.19,
+          "end": 354.65,
+          "probability": 0.7017
+        },
+        {
+          "word": "ਕਰਨੀਏ",
+          "start": 354.65,
+          "end": 355.17,
+          "probability": 0.8657
+        },
+        {
+          "word": "ਪੈਨਧੀਆ",
+          "start": 355.17,
+          "end": 355.57,
+          "probability": 0.77
+        },
+        {
+          "word": "।",
+          "start": 355.57,
+          "end": 355.87,
+          "probability": 0.6521
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "start": 355.87,
+      "end": 362.19,
+      "text": "on observation basis ਦੇ ਆਪਾ ਕੋਛ theories ਲੀਖ ਦਹੇਂ ਅਕੀ ਹਾਂ ਬੈ nature image ਹੋਗੇ ।",
+      "language": "pa",
+      "avg_logprob": -0.7539,
+      "no_speech_prob": 0.0008,
+      "words": [
+        {
+          "word": "on",
+          "start": 355.87,
+          "end": 356.13,
+          "probability": 0.0037
+        },
+        {
+          "word": "observation",
+          "start": 356.13,
+          "end": 356.65,
+          "probability": 0.7388
+        },
+        {
+          "word": "basis",
+          "start": 356.65,
+          "end": 357.23,
+          "probability": 0.1469
+        },
+        {
+          "word": "ਦੇ",
+          "start": 357.23,
+          "end": 357.71,
+          "probability": 0.8193
+        },
+        {
+          "word": "ਆਪਾ",
+          "start": 357.71,
+          "end": 357.97,
+          "probability": 0.8499
+        },
+        {
+          "word": "ਕੋਛ",
+          "start": 357.97,
+          "end": 358.11,
+          "probability": 0.8549
+        },
+        {
+          "word": "theories",
+          "start": 358.11,
+          "end": 358.37,
+          "probability": 0.4492
+        },
+        {
+          "word": "ਲੀਖ",
+          "start": 358.37,
+          "end": 358.83,
+          "probability": 0.8384
+        },
+        {
+          "word": "ਦਹੇਂ",
+          "start": 358.83,
+          "end": 359.07,
+          "probability": 0.6757
+        },
+        {
+          "word": "ਅਕੀ",
+          "start": 359.07,
+          "end": 359.21,
+          "probability": 0.6717
+        },
+        {
+          "word": "ਹਾਂ",
+          "start": 359.21,
+          "end": 359.41,
+          "probability": 0.9226
+        },
+        {
+          "word": "ਬੈ",
+          "start": 359.41,
+          "end": 359.59,
+          "probability": 0.8062
+        },
+        {
+          "word": "nature",
+          "start": 359.59,
+          "end": 360.31,
+          "probability": 0.5381
+        },
+        {
+          "word": "image",
+          "start": 360.31,
+          "end": 360.81,
+          "probability": 0.0211
+        },
+        {
+          "word": "ਹੋਗ਼ੰ",
+          "start": 360.81,
+          "end": 361.59,
+          "probability": 0.7055
+        },
+        {
+          "word": "।",
+          "start": 361.59,
+          "end": 362.19,
+          "probability": 0.4219
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "start": 362.8,
+      "end": 366.5,
+      "text": "ਹੋਗਾ ਚਾਨਸੀਜ ਹਿਰੀ ਓਣ ਨੈ ਭੀ ਹੋਵੇ but ਹਹੁਸਕਦੈ",
+      "language": "pa",
+      "avg_logprob": -0.7539,
+      "no_speech_prob": 0.0008,
+      "words": [
+        {
+          "word": "ਹોਗਾ",
+          "start": 362.8,
+          "end": 363.44,
+          "probability": 0.7172
+        },
+        {
+          "word": "ਚਾਨਸੀਜ",
+          "start": 363.44,
+          "end": 364.1,
+          "probability": 0.7603
+        },
+        {
+          "word": "ਹ্ਯਿਰੀ",
+          "start": 364.1,
+          "end": 364.62,
+          "probability": 0.5748
+        },
+        {
+          "word": "ਓਣ",
+          "start": 364.62,
+          "end": 364.72,
+          "probability": 0.3613
+        },
+        {
+          "word": "ਨੈ",
+          "start": 364.72,
+          "end": 364.88,
+          "probability": 0.8604
+        },
+        {
+          "word": "ਭੀ",
+          "start": 364.88,
+          "end": 365.06,
+          "probability": 0.9606
+        },
+        {
+          "word": "हੋਵੇ",
+          "start": 365.06,
+          "end": 365.28,
+          "probability": 0.849
+        },
+        {
+          "word": "but",
+          "start": 365.28,
+          "end": 365.84,
+          "probability": 0.0426
+        },
+        {
+          "word": "ਹਹੁਸਕਦੈ",
+          "start": 365.84,
+          "end": 366.5,
+          "probability": 0.7175
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "start": 366.5,
+      "end": 370.18,
+      "text": "ਤੇ ਓ ਛੀਝ ਅਜੋ ਤਾਕ ਮਨਨੀ ਨੈ ਜਾਂਦੀ",
+      "language": "pa",
+      "avg_logprob": -0.7139,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "ਤੇ",
+          "start": 366.5,
+          "end": 367.28,
+          "probability": 0.8658
+        },
+        {
+          "word": "ਓ",
+          "start": 367.28,
+          "end": 367.44,
+          "probability": 0.8519
+        },
+        {
+          "word": "ਛੀਝ",
+          "start": 367.44,
+          "end": 367.78,
+          "probability": 0.7582
+        },
+        {
+          "word": "ਅਜੋ",
+          "start": 367.78,
+          "end": 368.12,
+          "probability": 0.6024
+        },
+        {
+          "word": "ਤਾਕ",
+          "start": 368.12,
+          "end": 368.36,
+          "probability": 0.9435
+        },
+        {
+          "word": "ਮਨ੍ਨੀ",
+          "start": 368.36,
+          "end": 369.8,
+          "probability": 0.8235
+        },
+        {
+          "word": "ਨੈ",
+          "start": 369.8,
+          "end": 369.96,
+          "probability": 0.8105
+        },
+        {
+          "word": "ਜਾਂਦੀ",
+          "start": 369.96,
+          "end": 370.18,
+          "probability": 0.8993
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "start": 370.18,
+      "end": 373.14,
+      "text": "ਜੌ ਤਖ experimentally ਭੀਆ ਆਪਣੁਹੋਂ ਦੇ evidence ਨਾ ਮਿਲਜੇ",
+      "language": "pa",
+      "avg_logprob": -0.7139,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "ਜੌ",
+          "start": 370.18,
+          "end": 370.36,
+          "probability": 0.772
+        },
+        {
+          "word": "ਤਖ",
+          "start": 370.36,
+          "end": 370.56,
+          "probability": 0.7368
+        },
+        {
+          "word": "experimentally",
+          "start": 370.56,
+          "end": 371.54,
+          "probability": 0.5626
+        },
+        {
+          "word": "ਭੀਆ",
+          "start": 371.54,
+          "end": 371.82,
+          "probability": 0.741
+        },
+        {
+          "word": "ਆਪਣੁਹੋਂ",
+          "start": 371.82,
+          "end": 372.1,
+          "probability": 0.6821
+        },
+        {
+          "word": "ਦੇ",
+          "start": 372.1,
+          "end": 372.2,
+          "probability": 0.8073
+        },
+        {
+          "word": "evidence",
+          "start": 372.2,
+          "end": 372.42,
+          "probability": 0.9111
+        },
+        {
+          "word": "ਨਾ",
+          "start": 372.42,
+          "end": 372.8,
+          "probability": 0.963
+        },
+        {
+          "word": "ਮਿਲਜੇ",
+          "start": 372.8,
+          "end": 373.14,
+          "probability": 0.8927
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "start": 373.14,
+      "end": 375.38,
+      "text": "ਜ਼ਧੋਨ experiment ਮੀਲਡਾ ਰੈਗਾ",
+      "language": "pa",
+      "avg_logprob": -0.7139,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "ਜ਼ਧੋਨ",
+          "start": 373.14,
+          "end": 374.16,
+          "probability": 0.5753
+        },
+        {
+          "word": "experiment",
+          "start": 374.16,
+          "end": 374.3,
+          "probability": 0.2676
+        },
+        {
+          "word": "ਮੀਲਡਾ",
+          "start": 374.3,
+          "end": 374.98,
+          "probability": 0.8222
+        },
+        {
+          "word": "ਰੈਗਾ",
+          "start": 374.98,
+          "end": 375.38,
+          "probability": 0.9263
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "start": 375.38,
+      "end": 377.82,
+      "text": "ਔਵੱ ਤਥਾਕਾ ਬਾਂ ਮੰਨ੃ ਜਨਾਗੀ",
+      "language": "pa",
+      "avg_logprob": -0.7139,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "ਔਵੱ",
+          "start": 375.38,
+          "end": 376.48,
+          "probability": 0.5277
+        },
+        {
+          "word": "ਤਥਾਕਾ",
+          "start": 376.7,
+          "end": 376.94,
+          "probability": 0.7125
+        },
+        {
+          "word": "ਬਾਂ",
+          "start": 376.94,
+          "end": 377.1,
+          "probability": 0.5893
+        },
+        {
+          "word": "ਮੰਨ੃",
+          "start": 377.1,
+          "end": 377.36,
+          "probability": 0.6666
+        },
+        {
+          "word": "ਜਨਾਗੀ",
+          "start": 377.36,
+          "end": 377.82,
+          "probability": 0.716
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "start": 377.82,
+      "end": 381.38,
+      "text": "ਜੇਦਾਨ ਮੀਲਗੇ ਆਪਾਣੋ ਕੈ experimentally ਕਹੁਂ ਵੈਲਿਡ ਕਰ ਰੇ ।",
+      "language": "pa",
+      "avg_logprob": -0.6983,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "ਜੇਦਾਨ",
+          "start": 377.82,
+          "end": 378.18,
+          "probability": 0.6725
+        },
+        {
+          "word": "ਮੀਲਗੇ",
+          "start": 378.18,
+          "end": 378.62,
+          "probability": 0.8405
+        },
+        {
+          "word": "ਆਪਾਣੋ",
+          "start": 378.62,
+          "end": 379.0,
+          "probability": 0.8721
+        },
+        {
+          "word": "ਕੈ",
+          "start": 379.0,
+          "end": 379.14,
+          "probability": 0.6978
+        },
+        {
+          "word": "experimentally",
+          "start": 379.14,
+          "end": 379.84,
+          "probability": 0.5147
+        },
+        {
+          "word": "ਕਹੁਂ",
+          "start": 379.84,
+          "end": 380.26,
+          "probability": 0.6299
+        },
+        {
+          "word": "ਵੈਲਿਡ",
+          "start": 380.26,
+          "end": 380.7,
+          "probability": 0.6851
+        },
+        {
+          "word": "ਕਰ",
+          "start": 380.7,
+          "end": 380.98,
+          "probability": 0.9017
+        },
+        {
+          "word": "ਰੇ",
+          "start": 380.98,
+          "end": 381.16,
+          "probability": 0.8997
+        },
+        {
+          "word": "।",
+          "start": 381.16,
+          "end": 381.38,
+          "probability": 0.477
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "start": 381.38,
+      "end": 382.94,
+      "text": "ਇਸ ਥੋਰੀ ਸਹੀ ਨੈ ਹੈਗੀ ।",
+      "language": "pa",
+      "avg_logprob": -0.6983,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "ਇਸ",
+          "start": 381.38,
+          "end": 381.66,
+          "probability": 0.6536
+        },
+        {
+          "word": "ਥੋਰੀ",
+          "start": 381.66,
+          "end": 381.82,
+          "probability": 0.9095
+        },
+        {
+          "word": "ਸਹੀ",
+          "start": 381.82,
+          "end": 382.1,
+          "probability": 0.8038
+        },
+        {
+          "word": "ਨੈ",
+          "start": 382.1,
+          "end": 382.26,
+          "probability": 0.8748
+        },
+        {
+          "word": "ਹੈਗੀ",
+          "start": 382.26,
+          "end": 382.56,
+          "probability": 0.9126
+        },
+        {
+          "word": "।",
+          "start": 382.56,
+          "end": 382.94,
+          "probability": 0.7166
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "start": 382.94,
+      "end": 387.94,
+      "text": "ਐਮੇਂ ਨਹੀੰਦਾ ਤਾ ਆਭਾਂ ਉਸ ਛੀਝ ਦੂਂ ਗੱਲਧ ਠੇਰਾਮਾਂਗੈ",
+      "language": "pa",
+      "avg_logprob": -0.6983,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "ਐਮੇਂ",
+          "start": 382.94,
+          "end": 383.34,
+          "probability": 0.7558
+        },
+        {
+          "word": "ਨਹੀੰਦਾ",
+          "start": 383.34,
+          "end": 383.78,
+          "probability": 0.7538
+        },
+        {
+          "word": "ਤਾ",
+          "start": 383.78,
+          "end": 384.78,
+          "probability": 0.8396
+        },
+        {
+          "word": "ਆਭਾਂ",
+          "start": 384.78,
+          "end": 385.06,
+          "probability": 0.7862
+        },
+        {
+          "word": "ਉਸ",
+          "start": 385.06,
+          "end": 386.16,
+          "probability": 0.8111
+        },
+        {
+          "word": "ਛੀਝ",
+          "start": 386.74,
+          "end": 386.92,
+          "probability": 0.7543
+        },
+        {
+          "word": "ਦੂਂ",
+          "start": 386.92,
+          "end": 387.08,
+          "probability": 0.7642
+        },
+        {
+          "word": "ਗਲ਼਼ਧ",
+          "start": 387.08,
+          "end": 387.3,
+          "probability": 0.6314
+        },
+        {
+          "word": "ਠੇਰਾਮਾਂਗੈ",
+          "start": 387.3,
+          "end": 387.94,
+          "probability": 0.8232
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "start": 387.94,
+      "end": 393.4,
+      "text": "ਛੈਸ ਵੀ, ਚੇਸ ਦੇ moves players ਤੋ ਹੁੰੰੰ ਸਿਖਨੇ ਬਹੁਤ easy ਨੈ",
+      "language": "pa",
+      "avg_logprob": -0.9411,
+      "no_speech_prob": 0.0007,
+      "words": [
+        {
+          "word": "ਛੈਸ",
+          "start": 387.94,
+          "end": 388.9,
+          "probability": 0.7902
+        },
+        {
+          "word": "ਵੀ,",
+          "start": 388.9,
+          "end": 389.18,
+          "probability": 0.8293
+        },
+        {
+          "word": "ਚੇਸ",
+          "start": 389.24,
+          "end": 390.0,
+          "probability": 0.767
+        },
+        {
+          "word": "ਦੇ",
+          "start": 390.0,
+          "end": 390.16,
+          "probability": 0.9803
+        },
+        {
+          "word": "moves",
+          "start": 390.16,
+          "end": 391.22,
+          "probability": 0.0348
+        },
+        {
+          "word": "players",
+          "start": 391.22,
+          "end": 391.78,
+          "probability": 0.0379
+        },
+        {
+          "word": "ਤੋ",
+          "start": 391.78,
+          "end": 392.14,
+          "probability": 0.7152
+        },
+        {
+          "word": "ਹੁੰੰੰ",
+          "start": 392.14,
+          "end": 392.24,
+          "probability": 0.5544
+        },
+        {
+          "word": "ਸਿਖਨੇ",
+          "start": 392.24,
+          "end": 392.52,
+          "probability": 0.7454
+        },
+        {
+          "word": "ਬ્ਹੋਧ",
+          "start": 392.52,
+          "end": 392.96,
+          "probability": 0.6936
+        },
+        {
+          "word": "easy",
+          "start": 392.96,
+          "end": 393.12,
+          "probability": 0.2749
+        },
+        {
+          "word": "ਨ੆",
+          "start": 393.12,
+          "end": 393.4,
+          "probability": 0.8195
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "start": 393.4,
+      "end": 396.54,
+      "text": "but ਚਹੱੱਸ ਅਕਸ਼ਾ player ਬੁਣਾ ਬਹੁਤ ਮੁਸ਼ਖਿਲ ਆਹ",
+      "language": "pa",
+      "avg_logprob": -0.9411,
+      "no_speech_prob": 0.0007,
+      "words": [
+        {
+          "word": "but",
+          "start": 393.4,
+          "end": 393.8,
+          "probability": 0.007
+        },
+        {
+          "word": "ਚਹੱੱਸ",
+          "start": 393.8,
+          "end": 394.3,
+          "probability": 0.5975
+        },
+        {
+          "word": "ਅਕ੍ষਾ",
+          "start": 394.3,
+          "end": 395.12,
+          "probability": 0.5557
+        },
+        {
+          "word": "player",
+          "start": 395.12,
+          "end": 395.36,
+          "probability": 0.2217
+        },
+        {
+          "word": "ਬੁਣਾ",
+          "start": 395.36,
+          "end": 395.76,
+          "probability": 0.6628
+        },
+        {
+          "word": "ਬਹੂत",
+          "start": 395.76,
+          "end": 396.0,
+          "probability": 0.5939
+        },
+        {
+          "word": "ਮੁਸ਼ਖਿਲ",
+          "start": 396.0,
+          "end": 396.36,
+          "probability": 0.8417
+        },
+        {
+          "word": "ਆਹ",
+          "start": 396.36,
+          "end": 396.54,
+          "probability": 0.4176
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "start": 396.54,
+      "end": 398.76,
+      "text": "because ਓ ਜਟਾ combination use ਉੰਦਾ",
+      "language": "pa",
+      "avg_logprob": -0.9411,
+      "no_speech_prob": 0.0007,
+      "words": [
+        {
+          "word": "because",
+          "start": 396.54,
+          "end": 396.96,
+          "probability": 0.6299
+        },
+        {
+          "word": "ਓ",
+          "start": 396.96,
+          "end": 397.28,
+          "probability": 0.8208
+        },
+        {
+          "word": "ਜਟਾ",
+          "start": 397.28,
+          "end": 397.5,
+          "probability": 0.6786
+        },
+        {
+          "word": "combination",
+          "start": 397.5,
+          "end": 397.9,
+          "probability": 0.6123
+        },
+        {
+          "word": "use",
+          "start": 397.9,
+          "end": 398.34,
+          "probability": 0.2727
+        },
+        {
+          "word": "ਉੰਦਾ",
+          "start": 398.34,
+          "end": 398.76,
+          "probability": 0.8018
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "start": 398.76,
+      "end": 406.4,
+      "text": "ਸਕੱੰਲੀ practice skills so physics bilkul chess ਵਰਗੀ ਹੈ laws rules ਸਮਝਣੇ saukhi",
+      "language": "pa",
+      "avg_logprob": -1.0269,
+      "no_speech_prob": 0.0005,
+      "words": [
+        {
+          "word": "ਸਕੱੰਲੀ",
+          "start": 398.76,
+          "end": 399.4,
+          "probability": 0.4951
+        },
+        {
+          "word": "practice",
+          "start": 399.4,
+          "end": 399.56,
+          "probability": 0.168
+        },
+        {
+          "word": "skills",
+          "start": 399.56,
+          "end": 400.32,
+          "probability": 0.0
+        },
+        {
+          "word": "so",
+          "start": 400.32,
+          "end": 401.12,
+          "probability": 0.0145
+        },
+        {
+          "word": "physics",
+          "start": 401.12,
+          "end": 402.3,
+          "probability": 0.3013
+        },
+        {
+          "word": "bilkul",
+          "start": 402.3,
+          "end": 402.94,
+          "probability": 0.3878
+        },
+        {
+          "word": "chess",
+          "start": 402.94,
+          "end": 403.14,
+          "probability": 0.8667
+        },
+        {
+          "word": "vergi",
+          "start": 403.14,
+          "end": 403.52,
+          "probability": 0.3924
+        },
+        {
+          "word": "hai",
+          "start": 403.52,
+          "end": 403.68,
+          "probability": 0.1246
+        },
+        {
+          "word": "laws",
+          "start": 403.68,
+          "end": 404.7,
+          "probability": 0.2773
+        },
+        {
+          "word": "rules",
+          "start": 404.7,
+          "end": 405.44,
+          "probability": 0.1459
+        },
+        {
+          "word": "samjhne",
+          "start": 405.44,
+          "end": 406.12,
+          "probability": 0.4582
+        },
+        {
+          "word": "saukhi",
+          "start": 406.12,
+          "end": 406.4,
+          "probability": 0.4093
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "start": 406.4,
+      "end": 410.86,
+      "text": "nai but akar chato apa collectively apply kar de hain o thoda jaa samjhana complicated",
+      "language": "pa",
+      "avg_logprob": -1.0269,
+      "no_speech_prob": 0.0005,
+      "words": [
+        {
+          "word": "nai",
+          "start": 406.4,
+          "end": 406.62,
+          "probability": 0.0562
+        },
+        {
+          "word": "but",
+          "start": 406.62,
+          "end": 406.72,
+          "probability": 0.4907
+        },
+        {
+          "word": "akar",
+          "start": 406.72,
+          "end": 407.42,
+          "probability": 0.4414
+        },
+        {
+          "word": "chato",
+          "start": 407.42,
+          "end": 407.6,
+          "probability": 0.3102
+        },
+        {
+          "word": "apa",
+          "start": 407.6,
+          "end": 408.08,
+          "probability": 0.102
+        },
+        {
+          "word": "collectively",
+          "start": 408.08,
+          "end": 408.54,
+          "probability": 0.6055
+        },
+        {
+          "word": "apply",
+          "start": 408.54,
+          "end": 408.9,
+          "probability": 0.9048
+        },
+        {
+          "word": "kar",
+          "start": 408.9,
+          "end": 409.2,
+          "probability": 0.2974
+        },
+        {
+          "word": "de",
+          "start": 409.2,
+          "end": 409.38,
+          "probability": 0.7437
+        },
+        {
+          "word": "hain",
+          "start": 409.38,
+          "end": 409.62,
+          "probability": 0.3239
+        },
+        {
+          "word": "o",
+          "start": 409.62,
+          "end": 409.74,
+          "probability": 0.3845
+        },
+        {
+          "word": "thoda",
+          "start": 409.74,
+          "end": 410.0,
+          "probability": 0.6766
+        },
+        {
+          "word": "jaa",
+          "start": 410.0,
+          "end": 410.2,
+          "probability": 0.054
+        },
+        {
+          "word": "samjhana",
+          "start": 410.2,
+          "end": 410.5,
+          "probability": 0.6436
+        },
+        {
+          "word": "complicated",
+          "start": 410.5,
+          "end": 410.86,
+          "probability": 0.9258
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "start": 410.86,
+      "end": 417.42,
+      "text": "ho jandha aapa physics nu alag-alag streams chi venda ge plus one to lai ke",
+      "language": "pa",
+      "avg_logprob": -1.0269,
+      "no_speech_prob": 0.0005,
+      "words": [
+        {
+          "word": "ho",
+          "start": 410.86,
+          "end": 411.22,
+          "probability": 0.4722
+        },
+        {
+          "word": "jandha",
+          "start": 411.22,
+          "end": 411.52,
+          "probability": 0.3776
+        },
+        {
+          "word": "aapa",
+          "start": 411.52,
+          "end": 412.68,
+          "probability": 0.183
+        },
+        {
+          "word": "physics",
+          "start": 412.68,
+          "end": 413.1,
+          "probability": 0.8848
+        },
+        {
+          "word": "nu",
+          "start": 413.1,
+          "end": 413.36,
+          "probability": 0.5127
+        },
+        {
+          "word": "alag",
+          "start": 413.36,
+          "end": 413.8,
+          "probability": 0.7554
+        },
+        {
+          "word": "-alag",
+          "start": 413.8,
+          "end": 414.08,
+          "probability": 0.6761
+        },
+        {
+          "word": "streams",
+          "start": 414.08,
+          "end": 414.7,
+          "probability": 0.6899
+        },
+        {
+          "word": "chi",
+          "start": 414.7,
+          "end": 415.12,
+          "probability": 0.0083
+        },
+        {
+          "word": "venda",
+          "start": 415.12,
+          "end": 415.38,
+          "probability": 0.1089
+        },
+        {
+          "word": "ge",
+          "start": 415.38,
+          "end": 415.58,
+          "probability": 0.1283
+        },
+        {
+          "word": "plus",
+          "start": 415.58,
+          "end": 416.22,
+          "probability": 0.2335
+        },
+        {
+          "word": "one",
+          "start": 416.22,
+          "end": 417.0,
+          "probability": 0.6831
+        },
+        {
+          "word": "to",
+          "start": 417.0,
+          "end": 417.12,
+          "probability": 0.7441
+        },
+        {
+          "word": "lai",
+          "start": 417.12,
+          "end": 417.28,
+          "probability": 0.4044
+        },
+        {
+          "word": "ke",
+          "start": 417.28,
+          "end": 417.42,
+          "probability": 0.7886
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "start": 417.42,
+      "end": 422.18,
+      "text": "plus two tak i do salane wech wide variety of nature badange jo ki",
+      "language": "pa",
+      "avg_logprob": -1.0269,
+      "no_speech_prob": 0.0005,
+      "words": [
+        {
+          "word": "plus",
+          "start": 417.42,
+          "end": 417.86,
+          "probability": 0.9609
+        },
+        {
+          "word": "two",
+          "start": 417.86,
+          "end": 418.08,
+          "probability": 0.9526
+        },
+        {
+          "word": "tak",
+          "start": 418.08,
+          "end": 418.26,
+          "probability": 0.6821
+        },
+        {
+          "word": "i",
+          "start": 418.26,
+          "end": 418.42,
+          "probability": 0.0909
+        },
+        {
+          "word": "do",
+          "start": 418.42,
+          "end": 418.56,
+          "probability": 0.0543
+        },
+        {
+          "word": "salane",
+          "start": 418.56,
+          "end": 419.04,
+          "probability": 0.274
+        },
+        {
+          "word": "wech",
+          "start": 419.04,
+          "end": 419.28,
+          "probability": 0.3405
+        },
+        {
+          "word": "wide",
+          "start": 419.28,
+          "end": 419.54,
+          "probability": 0.0179
+        },
+        {
+          "word": "variety",
+          "start": 419.54,
+          "end": 420.16,
+          "probability": 0.8618
+        },
+        {
+          "word": "of",
+          "start": 420.16,
+          "end": 420.48,
+          "probability": 0.9658
+        },
+        {
+          "word": "nature",
+          "start": 420.48,
+          "end": 420.82,
+          "probability": 0.9346
+        },
+        {
+          "word": "badange",
+          "start": 420.82,
+          "end": 421.48,
+          "probability": 0.1468
+        },
+        {
+          "word": "jo",
+          "start": 421.48,
+          "end": 422.08,
+          "probability": 0.5356
+        },
+        {
+          "word": "ki",
+          "start": 422.08,
+          "end": 422.18,
+          "probability": 0.8452
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "start": 422.18,
+      "end": 426.21,
+      "text": "ਕੇ ਵੈਸਿ ਆਪਨੀਂ ਆਸਪਾਸ ਹੀਏ ਜੇਮੇਂ ਏਕ ਪਾਟ਼ ਗੱਨ ਮੈਕਾਣੀਕਸ ।",
+      "language": "pa",
+      "avg_logprob": -0.8161,
+      "no_speech_prob": 0.0043,
+      "words": [
+        {
+          "word": "ਕੇ",
+          "start": 422.18,
+          "end": 422.18,
+          "probability": 0.6422
+        },
+        {
+          "word": "ਵੈਸਿ",
+          "start": 422.18,
+          "end": 422.46,
+          "probability": 0.7632
+        },
+        {
+          "word": "ਆਪਨੀਂ",
+          "start": 422.46,
+          "end": 422.82,
+          "probability": 0.7837
+        },
+        {
+          "word": "ਆਸਪਾਸ",
+          "start": 422.82,
+          "end": 423.2,
+          "probability": 0.9134
+        },
+        {
+          "word": "ਹੀਏ",
+          "start": 423.2,
+          "end": 423.4,
+          "probability": 0.8299
+        },
+        {
+          "word": "ਜੇਮੇਂ",
+          "start": 423.4,
+          "end": 424.3,
+          "probability": 0.7505
+        },
+        {
+          "word": "ਏਕ",
+          "start": 424.3,
+          "end": 424.72,
+          "probability": 0.8774
+        },
+        {
+          "word": "ਪਾਟ਼",
+          "start": 424.72,
+          "end": 425.08,
+          "probability": 0.7767
+        },
+        {
+          "word": "ਗੱੰ",
+          "start": 425.08,
+          "end": 425.26,
+          "probability": 0.4889
+        },
+        {
+          "word": "ਮেਖਾਣੀਕਸ",
+          "start": 425.26,
+          "end": 425.84,
+          "probability": 0.7406
+        },
+        {
+          "word": "।",
+          "start": 425.84,
+          "end": 426.21,
+          "probability": 0.5244
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "start": 427.63,
+      "end": 432.69,
+      "text": "ਬੋਡੀਸ ਆਪਨੇ ਆਸਪਾਸ ਦੀ ਬੋਡੀਸ ਮੋਸ਼ਿਂ ਸਮਝਦੇਹਾ ਕੈ ਬਾਡੀ ਸ ਰੋਵ ਗੇਮਿ ਗਰੁਤੀਹੇ",
+      "language": "pa",
+      "avg_logprob": -0.7311,
+      "no_speech_prob": 0.003,
+      "words": [
+        {
+          "word": "ਬੋਡੀਸ",
+          "start": 427.63,
+          "end": 428.35,
+          "probability": 0.8109
+        },
+        {
+          "word": "ਆਪਨੇ",
+          "start": 428.35,
+          "end": 428.77,
+          "probability": 0.8601
+        },
+        {
+          "word": "ਆਸਭਾਸ",
+          "start": 428.77,
+          "end": 429.15,
+          "probability": 0.745
+        },
+        {
+          "word": "ਦੀ",
+          "start": 429.15,
+          "end": 429.29,
+          "probability": 0.8968
+        },
+        {
+          "word": "ਬોਡীਸ",
+          "start": 429.29,
+          "end": 429.65,
+          "probability": 0.7763
+        },
+        {
+          "word": "ਮੋਸ਼ਿਂੰ",
+          "start": 429.65,
+          "end": 430.47,
+          "probability": 0.66
+        },
+        {
+          "word": "ਸਮਜ਼ਦੇਹਾ",
+          "start": 430.47,
+          "end": 430.99,
+          "probability": 0.7716
+        },
+        {
+          "word": "ਕੈ",
+          "start": 430.99,
+          "end": 431.35,
+          "probability": 0.5866
+        },
+        {
+          "word": "ਬॉਡ੍ਲੀ",
+          "start": 431.35,
+          "end": 431.65,
+          "probability": 0.7218
+        },
+        {
+          "word": "ਸ",
+          "start": 431.65,
+          "end": 431.77,
+          "probability": 0.3281
+        },
+        {
+          "word": "ਰੋਵ",
+          "start": 431.77,
+          "end": 431.99,
+          "probability": 0.6064
+        },
+        {
+          "word": "ਗੇਮਿ",
+          "start": 431.99,
+          "end": 432.25,
+          "probability": 0.6659
+        },
+        {
+          "word": "ਗਰੁਤੀਹੇ",
+          "start": 432.25,
+          "end": 432.69,
+          "probability": 0.6621
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "start": 432.69,
+      "end": 436.31,
+      "text": "ਅਚੇਲੇ mechanics ਭੀ ਆਪਣੁ ਪਾਵਰ ਦਿੰਦੇ, future predict ਕਰਨਥੀ",
+      "language": "pa",
+      "avg_logprob": -0.7311,
+      "no_speech_prob": 0.003,
+      "words": [
+        {
+          "word": "ਅਚੇਲੇ",
+          "start": 432.69,
+          "end": 433.37,
+          "probability": 0.6295
+        },
+        {
+          "word": "mechanics",
+          "start": 433.37,
+          "end": 433.49,
+          "probability": 0.0009
+        },
+        {
+          "word": "ਭੀ",
+          "start": 433.49,
+          "end": 434.09,
+          "probability": 0.9506
+        },
+        {
+          "word": "আਪਣੁ",
+          "start": 434.09,
+          "end": 434.41,
+          "probability": 0.7293
+        },
+        {
+          "word": "ਪਾਵਰ",
+          "start": 434.41,
+          "end": 434.77,
+          "probability": 0.866
+        },
+        {
+          "word": "ਦਿਂਦੈ,",
+          "start": 434.77,
+          "end": 435.07,
+          "probability": 0.7497
+        },
+        {
+          "word": "future",
+          "start": 435.11,
+          "end": 435.31,
+          "probability": 0.1418
+        },
+        {
+          "word": "predict",
+          "start": 435.31,
+          "end": 435.69,
+          "probability": 0.4158
+        },
+        {
+          "word": "ਕਰਨ੍ਥੀ",
+          "start": 435.69,
+          "end": 436.31,
+          "probability": 0.8202
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "start": 436.31,
+      "end": 439.99,
+      "text": "ਅੱਰ ਮੇਨੂ ਪਤਾ ਕੀ ਏਕ particular time ਥੇ",
+      "language": "pa",
+      "avg_logprob": -0.7386,
+      "no_speech_prob": 0.0007,
+      "words": [
+        {
+          "word": "ਅੱਰ",
+          "start": 436.31,
+          "end": 436.85,
+          "probability": 0.6431
+        },
+        {
+          "word": "ਮੇਨੂ",
+          "start": 436.85,
+          "end": 437.09,
+          "probability": 0.8637
+        },
+        {
+          "word": "ਪਤਾ",
+          "start": 437.09,
+          "end": 437.41,
+          "probability": 0.8134
+        },
+        {
+          "word": "ਕੀ",
+          "start": 437.41,
+          "end": 438.19,
+          "probability": 0.7351
+        },
+        {
+          "word": "ਏਕ",
+          "start": 438.19,
+          "end": 438.87,
+          "probability": 0.8866
+        },
+        {
+          "word": "particular",
+          "start": 438.87,
+          "end": 439.29,
+          "probability": 0.0193
+        },
+        {
+          "word": "time",
+          "start": 439.29,
+          "end": 439.67,
+          "probability": 0.7461
+        },
+        {
+          "word": "ਥੇ",
+          "start": 439.67,
+          "end": 439.99,
+          "probability": 0.8456
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "start": 439.99,
+      "end": 443.01,
+      "text": "ਮੰਨੁ ਅਗਰ ਉਦੀ acceleration particle ਦਾ",
+      "language": "pa",
+      "avg_logprob": -0.7386,
+      "no_speech_prob": 0.0007,
+      "words": [
+        {
+          "word": "ਮੰਨੁ",
+          "start": 439.99,
+          "end": 440.71,
+          "probability": 0.7168
+        },
+        {
+          "word": "ਅਗਰ",
+          "start": 440.71,
+          "end": 440.93,
+          "probability": 0.9113
+        },
+        {
+          "word": "ਉਦੀ",
+          "start": 440.93,
+          "end": 441.21,
+          "probability": 0.7188
+        },
+        {
+          "word": "acceleration",
+          "start": 441.21,
+          "end": 441.63,
+          "probability": 0.6812
+        },
+        {
+          "word": "particle",
+          "start": 441.63,
+          "end": 442.59,
+          "probability": 0.4016
+        },
+        {
+          "word": "ਦਾ",
+          "start": 442.59,
+          "end": 443.01,
+          "probability": 0.8848
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "start": 443.01,
+      "end": 444.85,
+      "text": "the velocity ਅਘਰ ਪਤਾ",
+      "language": "pa",
+      "avg_logprob": -0.7386,
+      "no_speech_prob": 0.0007,
+      "words": [
+        {
+          "word": "the",
+          "start": 443.01,
+          "end": 443.59,
+          "probability": 0.0332
+        },
+        {
+          "word": "velocity",
+          "start": 443.59,
+          "end": 444.15,
+          "probability": 0.9546
+        },
+        {
+          "word": "ਅਘਰ",
+          "start": 444.15,
+          "end": 444.53,
+          "probability": 0.8109
+        },
+        {
+          "word": "ਪ਼ਤਾ",
+          "start": 444.53,
+          "end": 444.85,
+          "probability": 0.8307
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "start": 444.85,
+      "end": 446.29,
+      "text": "ਅਗਰ force applied ਪਤਾ ਤਾ",
+      "language": "pa",
+      "avg_logprob": -0.7386,
+      "no_speech_prob": 0.0007,
+      "words": [
+        {
+          "word": "ਅ�گਰ",
+          "start": 444.85,
+          "end": 445.21,
+          "probability": 0.7351
+        },
+        {
+          "word": "force",
+          "start": 445.21,
+          "end": 445.51,
+          "probability": 0.4333
+        },
+        {
+          "word": "applied",
+          "start": 445.51,
+          "end": 445.79,
+          "probability": 0.1652
+        },
+        {
+          "word": "ਪਟਾ",
+          "start": 445.79,
+          "end": 446.11,
+          "probability": 0.8157
+        },
+        {
+          "word": "ਤਾ",
+          "start": 446.11,
+          "end": 446.29,
+          "probability": 0.9095
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "start": 446.29,
+      "end": 447.91,
+      "text": "ਮਹਿਆ ਬਹੁਤ ਚੀਜਾਂ ਦੇ ਦਸਖਲਾ",
+      "language": "pa",
+      "avg_logprob": -0.7386,
+      "no_speech_prob": 0.0007,
+      "words": [
+        {
+          "word": "ਮਹਿਆ",
+          "start": 446.29,
+          "end": 446.61,
+          "probability": 0.6526
+        },
+        {
+          "word": "ਬਹुਛ",
+          "start": 446.61,
+          "end": 446.91,
+          "probability": 0.6813
+        },
+        {
+          "word": "ਚੀਜਾਓਣ",
+          "start": 446.91,
+          "end": 447.33,
+          "probability": 0.725
+        },
+        {
+          "word": "ਦੇ",
+          "start": 447.33,
+          "end": 447.47,
+          "probability": 0.7791
+        },
+        {
+          "word": "ਦਸਖਲਾ",
+          "start": 447.47,
+          "end": 447.91,
+          "probability": 0.5896
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "start": 447.91,
+      "end": 453.33,
+      "text": "ਇੱਨੀ ਟਾਈਮ ਬਾਦ ਕਿਥੇ ਜਾਏਗਾ obviously ਗਾਲਾ ਬਹੁਤ ਸਾਰੀ conditions ਨੇ",
+      "language": "pa",
+      "avg_logprob": -0.6083,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "ਇੱਨੀ",
+          "start": 447.91,
+          "end": 448.89,
+          "probability": 0.6782
+        },
+        {
+          "word": "ਟਾਈਮ",
+          "start": 448.89,
+          "end": 449.19,
+          "probability": 0.7324
+        },
+        {
+          "word": "ਬਾਦ",
+          "start": 449.19,
+          "end": 449.37,
+          "probability": 0.9504
+        },
+        {
+          "word": "ਕਿਥੇ",
+          "start": 449.37,
+          "end": 449.71,
+          "probability": 0.8368
+        },
+        {
+          "word": "ਜਾਏਗਾ",
+          "start": 449.71,
+          "end": 450.17,
+          "probability": 0.9471
+        },
+        {
+          "word": "obviously",
+          "start": 450.17,
+          "end": 451.17,
+          "probability": 0.0054
+        },
+        {
+          "word": "ਗਾਲਾ",
+          "start": 451.55,
+          "end": 452.13,
+          "probability": 0.9275
+        },
+        {
+          "word": "ਬਹੋਤ",
+          "start": 452.13,
+          "end": 452.39,
+          "probability": 0.8524
+        },
+        {
+          "word": "ਸਾਰੀ",
+          "start": 452.39,
+          "end": 452.59,
+          "probability": 0.9735
+        },
+        {
+          "word": "conditions",
+          "start": 452.59,
+          "end": 452.89,
+          "probability": 0.7041
+        },
+        {
+          "word": "ਨੇ",
+          "start": 452.89,
+          "end": 453.33,
+          "probability": 0.9897
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "start": 453.33,
+      "end": 457.89,
+      "text": "but ਆਪਾ ਭੋਧ ਕੁਝ ਦਾਸ ਸਖ਼ਦੇਂ ਆ ਕੌਛ ਹਾਡ ਤਾਕ ਦੀ",
+      "language": "pa",
+      "avg_logprob": -0.6083,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "but",
+          "start": 453.33,
+          "end": 453.91,
+          "probability": 0.4363
+        },
+        {
+          "word": "ਆਪਾ",
+          "start": 453.91,
+          "end": 454.25,
+          "probability": 0.9551
+        },
+        {
+          "word": "ਭੋਧ",
+          "start": 454.25,
+          "end": 454.47,
+          "probability": 0.6977
+        },
+        {
+          "word": "ਕੁछ",
+          "start": 454.47,
+          "end": 454.69,
+          "probability": 0.8465
+        },
+        {
+          "word": "ਦਾਸ",
+          "start": 454.69,
+          "end": 454.93,
+          "probability": 0.8571
+        },
+        {
+          "word": "ਸਖ਼ਦੇਂ",
+          "start": 454.93,
+          "end": 455.33,
+          "probability": 0.7312
+        },
+        {
+          "word": "ਆ",
+          "start": 455.33,
+          "end": 455.57,
+          "probability": 0.8089
+        },
+        {
+          "word": "ਕોਛ",
+          "start": 455.57,
+          "end": 456.37,
+          "probability": 0.6784
+        },
+        {
+          "word": "ਹਾਡ",
+          "start": 456.37,
+          "end": 457.43,
+          "probability": 0.8333
+        },
+        {
+          "word": "ਤਾਕ",
+          "start": 457.43,
+          "end": 457.67,
+          "probability": 0.8617
+        },
+        {
+          "word": "ਦੀ",
+          "start": 457.67,
+          "end": 457.89,
+          "probability": 0.9561
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "start": 457.89,
+      "end": 461.85,
+      "text": "error ਦੰਨਾਲ ਅਪਾ 100% sure ਕਦੈ ਵੀ ਨੀ ਹੋ ਸਕਾਂਗੀ",
+      "language": "pa",
+      "avg_logprob": -0.6083,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "error",
+          "start": 457.89,
+          "end": 458.25,
+          "probability": 0.0925
+        },
+        {
+          "word": "ਦੰਨਾਲ",
+          "start": 458.25,
+          "end": 458.67,
+          "probability": 0.6868
+        },
+        {
+          "word": "ਅਪਾ",
+          "start": 458.67,
+          "end": 459.17,
+          "probability": 0.7955
+        },
+        {
+          "word": "100",
+          "start": 459.17,
+          "end": 459.79,
+          "probability": 0.3113
+        },
+        {
+          "word": "%",
+          "start": 459.79,
+          "end": 460.23,
+          "probability": 0.6538
+        },
+        {
+          "word": "sure",
+          "start": 460.23,
+          "end": 460.77,
+          "probability": 0.7793
+        },
+        {
+          "word": "ਕਦੈ",
+          "start": 460.77,
+          "end": 461.11,
+          "probability": 0.8602
+        },
+        {
+          "word": "ਵੀ",
+          "start": 461.11,
+          "end": 461.23,
+          "probability": 0.8472
+        },
+        {
+          "word": "नੀ",
+          "start": 461.23,
+          "end": 461.33,
+          "probability": 0.7918
+        },
+        {
+          "word": "हो",
+          "start": 461.33,
+          "end": 461.45,
+          "probability": 0.0073
+        },
+        {
+          "word": "सकਾਂਗੀ",
+          "start": 461.45,
+          "end": 461.85,
+          "probability": 0.7451
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "start": 461.85,
+      "end": 465.17,
+      "text": "but ਕੋਛ error ਜਰੂਰ ਹੋਗਾ ਆਪਣੀ predictions ਦੇ ਵੈਚ",
+      "language": "pa",
+      "avg_logprob": -0.6956,
+      "no_speech_prob": 0.0004,
+      "words": [
+        {
+          "word": "but",
+          "start": 461.85,
+          "end": 462.27,
+          "probability": 0.0234
+        },
+        {
+          "word": "ਕੋਛ",
+          "start": 462.27,
+          "end": 462.53,
+          "probability": 0.8246
+        },
+        {
+          "word": "error",
+          "start": 462.53,
+          "end": 462.85,
+          "probability": 0.0523
+        },
+        {
+          "word": "ਜਰੂੰਹੁਰ",
+          "start": 462.85,
+          "end": 463.35,
+          "probability": 0.6886
+        },
+        {
+          "word": "ਹੋਗਾ",
+          "start": 463.35,
+          "end": 463.61,
+          "probability": 0.9482
+        },
+        {
+          "word": "ਆਪਣੀ",
+          "start": 463.61,
+          "end": 463.89,
+          "probability": 0.9044
+        },
+        {
+          "word": "predictions",
+          "start": 463.89,
+          "end": 464.53,
+          "probability": 0.7383
+        },
+        {
+          "word": "ਦੇ",
+          "start": 464.53,
+          "end": 465.01,
+          "probability": 0.9918
+        },
+        {
+          "word": "ਵੈਚ",
+          "start": 465.01,
+          "end": 465.17,
+          "probability": 0.8267
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "start": 465.17,
+      "end": 469.39,
+      "text": "so physics ਅਗਰ ਮੈ summarize ਕਰਾ ਪੂਰੀ ਗਲ ਬਾਤ ਨੂਸ",
+      "language": "pa",
+      "avg_logprob": -0.6956,
+      "no_speech_prob": 0.0004,
+      "words": [
+        {
+          "word": "so",
+          "start": 465.17,
+          "end": 465.75,
+          "probability": 0.2886
+        },
+        {
+          "word": "physics",
+          "start": 465.75,
+          "end": 466.25,
+          "probability": 0.4446
+        },
+        {
+          "word": "ਅਗਿਰ",
+          "start": 466.25,
+          "end": 466.99,
+          "probability": 0.8237
+        },
+        {
+          "word": "ਮੈ",
+          "start": 466.99,
+          "end": 467.13,
+          "probability": 0.9452
+        },
+        {
+          "word": "summarize",
+          "start": 467.13,
+          "end": 467.55,
+          "probability": 0.2881
+        },
+        {
+          "word": "ਕਰਾ",
+          "start": 467.55,
+          "end": 467.97,
+          "probability": 0.9761
+        },
+        {
+          "word": "ਪੂਰੀ",
+          "start": 467.97,
+          "end": 468.29,
+          "probability": 0.885
+        },
+        {
+          "word": "ਗਲ",
+          "start": 468.29,
+          "end": 468.95,
+          "probability": 0.8358
+        },
+        {
+          "word": "ਬਾਤ",
+          "start": 468.95,
+          "end": 469.19,
+          "probability": 0.8901
+        },
+        {
+          "word": "ਨੂਸ",
+          "start": 469.19,
+          "end": 469.39,
+          "probability": 0.7263
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "start": 469.39,
+      "end": 472.05,
+      "text": "ਫਿਜ਼ਿਕਸ ਅਪਣੁ power ਦਿੰਦੀ ਹਹ",
+      "language": "pa",
+      "avg_logprob": -0.6956,
+      "no_speech_prob": 0.0004,
+      "words": [
+        {
+          "word": "फिजิक्स",
+          "start": 469.39,
+          "end": 470.11,
+          "probability": 0.1291
+        },
+        {
+          "word": "ਅਪਨੁ",
+          "start": 470.11,
+          "end": 470.81,
+          "probability": 0.8105
+        },
+        {
+          "word": "power",
+          "start": 470.81,
+          "end": 471.17,
+          "probability": 0.0098
+        },
+        {
+          "word": "ਦੰਦੀ",
+          "start": 471.17,
+          "end": 471.83,
+          "probability": 0.8771
+        },
+        {
+          "word": "ਹਹ",
+          "start": 471.83,
+          "end": 472.05,
+          "probability": 0.6789
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "start": 472.05,
+      "end": 474.24,
+      "text": "future predict ਕਰਨਦਾ",
+      "language": "pa",
+      "avg_logprob": -0.6956,
+      "no_speech_prob": 0.0004,
+      "words": [
+        {
+          "word": "future",
+          "start": 472.05,
+          "end": 472.95,
+          "probability": 0.1228
+        },
+        {
+          "word": "predict",
+          "start": 472.98,
+          "end": 473.5,
+          "probability": 0.2603
+        },
+        {
+          "word": "कਰਨਦਾ",
+          "start": 473.5,
+          "end": 474.24,
+          "probability": 0.758
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "start": 474.24,
+      "end": 477.86,
+      "text": "ਇਹਾਂ ਆਪਨੀ ਵਾਸਭਾਸ ਕੀ ਹੋਰੁੰ । ਉਣੋ ਸਮਝਿੰਦੇ",
+      "language": "pa",
+      "avg_logprob": -0.71,
+      "no_speech_prob": 0.0009,
+      "words": [
+        {
+          "word": "ਇਹਾਂ",
+          "start": 474.24,
+          "end": 474.64,
+          "probability": 0.7056
+        },
+        {
+          "word": "ਆਪਨੀ",
+          "start": 474.64,
+          "end": 474.92,
+          "probability": 0.8354
+        },
+        {
+          "word": "ਵਾਸਭਾਸ",
+          "start": 474.92,
+          "end": 475.34,
+          "probability": 0.6931
+        },
+        {
+          "word": "ਕੀ",
+          "start": 475.34,
+          "end": 475.6,
+          "probability": 0.9749
+        },
+        {
+          "word": "ਹੋਰੁੰ",
+          "start": 475.6,
+          "end": 476.02,
+          "probability": 0.7736
+        },
+        {
+          "word": "।",
+          "start": 476.02,
+          "end": 476.68,
+          "probability": 0.4848
+        },
+        {
+          "word": "ਉਣੋ",
+          "start": 476.78,
+          "end": 477.26,
+          "probability": 0.6701
+        },
+        {
+          "word": "ਸਮਝਿਂਦ੍ਦੈ",
+          "start": 477.26,
+          "end": 477.86,
+          "probability": 0.6933
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "start": 478.69,
+      "end": 482.15,
+      "text": "ਤੱ ਮਤਲਬ ਅਪਾਂ study ਕਰਰੇਏਂ nature ਦੀ",
+      "language": "pa",
+      "avg_logprob": -0.71,
+      "no_speech_prob": 0.0009,
+      "words": [
+        {
+          "word": "ਤੱ",
+          "start": 478.69,
+          "end": 479.11,
+          "probability": 0.4967
+        },
+        {
+          "word": "ਮਤਲਬ",
+          "start": 479.11,
+          "end": 479.47,
+          "probability": 0.7874
+        },
+        {
+          "word": "ਅਪਾਂ",
+          "start": 479.47,
+          "end": 479.79,
+          "probability": 0.8094
+        },
+        {
+          "word": "study",
+          "start": 479.79,
+          "end": 480.49,
+          "probability": 0.0026
+        },
+        {
+          "word": "ਕਰਰੇਏਂ",
+          "start": 480.49,
+          "end": 481.21,
+          "probability": 0.7653
+        },
+        {
+          "word": "nature",
+          "start": 481.21,
+          "end": 481.57,
+          "probability": 0.0184
+        },
+        {
+          "word": "ਦੀ",
+          "start": 481.57,
+          "end": 482.15,
+          "probability": 0.9777
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "start": 482.15,
+      "end": 485.13,
+      "text": "so physics is a science of nature",
+      "language": "pa",
+      "avg_logprob": -0.71,
+      "no_speech_prob": 0.0009,
+      "words": [
+        {
+          "word": "so",
+          "start": 482.15,
+          "end": 482.23,
+          "probability": 0.1581
+        },
+        {
+          "word": "physics",
+          "start": 482.23,
+          "end": 482.71,
+          "probability": 0.3401
+        },
+        {
+          "word": "is",
+          "start": 482.71,
+          "end": 483.05,
+          "probability": 0.8662
+        },
+        {
+          "word": "a",
+          "start": 483.05,
+          "end": 483.13,
+          "probability": 0.5205
+        },
+        {
+          "word": "science",
+          "start": 483.13,
+          "end": 483.53,
+          "probability": 0.915
+        },
+        {
+          "word": "of",
+          "start": 483.53,
+          "end": 484.37,
+          "probability": 0.9478
+        },
+        {
+          "word": "nature",
+          "start": 484.37,
+          "end": 485.13,
+          "probability": 0.9507
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "start": 485.61,
+      "end": 487.51,
+      "text": "ਕੀ nature ਕਾਮ ਕੇਮੇ ਗਾਰਦੇ",
+      "language": "pa",
+      "avg_logprob": -0.71,
+      "no_speech_prob": 0.0009,
+      "words": [
+        {
+          "word": "कੀ",
+          "start": 485.61,
+          "end": 486.03,
+          "probability": 0.7151
+        },
+        {
+          "word": "nature",
+          "start": 486.03,
+          "end": 486.29,
+          "probability": 0.6836
+        },
+        {
+          "word": "ਕਾਮ",
+          "start": 486.29,
+          "end": 486.81,
+          "probability": 0.9683
+        },
+        {
+          "word": "ਕেਮੇ",
+          "start": 486.81,
+          "end": 487.11,
+          "probability": 0.8254
+        },
+        {
+          "word": "ਗਾਰਦੇ",
+          "start": 487.11,
+          "end": 487.51,
+          "probability": 0.8712
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "start": 487.81,
+      "end": 488.89,
+      "text": "So, ਇਥੇ ਨਾਲੀ",
+      "language": "pa",
+      "avg_logprob": -0.71,
+      "no_speech_prob": 0.0009,
+      "words": [
+        {
+          "word": "So,",
+          "start": 487.81,
+          "end": 488.23,
+          "probability": 0.0271
+        },
+        {
+          "word": "ਇതੇਂ",
+          "start": 488.37,
+          "end": 488.61,
+          "probability": 0.6699
+        },
+        {
+          "word": "ਨਾਲੀ",
+          "start": 488.61,
+          "end": 488.89,
+          "probability": 0.8762
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "start": 489.49,
+      "end": 490.33,
+      "text": "ਆਜ ਤੋਂ",
+      "language": "pa",
+      "avg_logprob": -0.71,
+      "no_speech_prob": 0.0009,
+      "words": [
+        {
+          "word": "ਆਜ",
+          "start": 489.49,
+          "end": 489.91,
+          "probability": 0.9002
+        },
+        {
+          "word": "ਤોਂ",
+          "start": 489.91,
+          "end": 490.33,
+          "probability": 0.7438
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "start": 490.33,
+      "end": 493.99,
+      "text": "ਮੈ ਰੇਗੁਲਰਲੀ ਫਿਜ਼ਿਕਸ ਦੀ ਵਿੱਡ਼ੋਆਂ ਲੇਖੇ ਆਂਦਾ ਰਹੁਂਗਾ",
+      "language": "pa",
+      "avg_logprob": -0.6103,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "ਮੈ",
+          "start": 490.33,
+          "end": 490.89,
+          "probability": 0.9368
+        },
+        {
+          "word": "ਰੇਗੁਲਾਰਲੀ",
+          "start": 490.89,
+          "end": 492.29,
+          "probability": 0.847
+        },
+        {
+          "word": "ਫੇਸਿਕਸ",
+          "start": 492.29,
+          "end": 492.69,
+          "probability": 0.8609
+        },
+        {
+          "word": "ਦੀ",
+          "start": 492.69,
+          "end": 492.79,
+          "probability": 0.9476
+        },
+        {
+          "word": "वੀਡ਼ੋੰਸ",
+          "start": 492.79,
+          "end": 493.15,
+          "probability": 0.6184
+        },
+        {
+          "word": "ਲੇਖੇ",
+          "start": 493.15,
+          "end": 493.39,
+          "probability": 0.8366
+        },
+        {
+          "word": "ਆਂਦਾ",
+          "start": 493.39,
+          "end": 493.65,
+          "probability": 0.9433
+        },
+        {
+          "word": "ਰਹੁਂਗਾ",
+          "start": 493.65,
+          "end": 493.99,
+          "probability": 0.8343
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "start": 493.99,
+      "end": 500.64,
+      "text": "So make sure that if you want a plus one, then subscribe to my channel",
+      "language": "pa",
+      "avg_logprob": -0.6103,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "So",
+          "start": 493.99,
+          "end": 494.61,
+          "probability": 0.0539
+        },
+        {
+          "word": "make",
+          "start": 494.61,
+          "end": 494.83,
+          "probability": 0.709
+        },
+        {
+          "word": "sure",
+          "start": 494.83,
+          "end": 495.09,
+          "probability": 0.9907
+        },
+        {
+          "word": "that",
+          "start": 495.09,
+          "end": 495.17,
+          "probability": 0.103
+        },
+        {
+          "word": "if",
+          "start": 495.17,
+          "end": 495.39,
+          "probability": 0.6719
+        },
+        {
+          "word": "you",
+          "start": 495.39,
+          "end": 495.57,
+          "probability": 0.9761
+        },
+        {
+          "word": "want",
+          "start": 495.57,
+          "end": 495.77,
+          "probability": 0.7979
+        },
+        {
+          "word": "a",
+          "start": 495.77,
+          "end": 495.77,
+          "probability": 0.0556
+        },
+        {
+          "word": "plus",
+          "start": 495.77,
+          "end": 495.95,
+          "probability": 0.4995
+        },
+        {
+          "word": "one,",
+          "start": 495.95,
+          "end": 496.23,
+          "probability": 0.8237
+        },
+        {
+          "word": "then",
+          "start": 496.47,
+          "end": 497.89,
+          "probability": 0.729
+        },
+        {
+          "word": "subscribe",
+          "start": 498.08,
+          "end": 498.46,
+          "probability": 0.3884
+        },
+        {
+          "word": "to",
+          "start": 498.46,
+          "end": 498.94,
+          "probability": 0.9453
+        },
+        {
+          "word": "my",
+          "start": 498.94,
+          "end": 498.98,
+          "probability": 0.9619
+        },
+        {
+          "word": "channel",
+          "start": 498.98,
+          "end": 500.64,
+          "probability": 0.9292
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "start": 500.64,
+      "end": 507.22,
+      "text": "And if there are any other plus ones who need to understand physics, then share them as well",
+      "language": "pa",
+      "avg_logprob": -0.6103,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "And",
+          "start": 500.64,
+          "end": 501.38,
+          "probability": 0.2394
+        },
+        {
+          "word": "if",
+          "start": 501.38,
+          "end": 501.68,
+          "probability": 0.9512
+        },
+        {
+          "word": "there",
+          "start": 501.68,
+          "end": 502.18,
+          "probability": 0.1907
+        },
+        {
+          "word": "are",
+          "start": 502.18,
+          "end": 502.66,
+          "probability": 0.8252
+        },
+        {
+          "word": "any",
+          "start": 502.66,
+          "end": 502.66,
+          "probability": 0.4119
+        },
+        {
+          "word": "other",
+          "start": 502.66,
+          "end": 502.7,
+          "probability": 0.3706
+        },
+        {
+          "word": "plus",
+          "start": 502.7,
+          "end": 502.76,
+          "probability": 0.2686
+        },
+        {
+          "word": "ones",
+          "start": 502.76,
+          "end": 503.08,
+          "probability": 0.4968
+        },
+        {
+          "word": "who",
+          "start": 503.08,
+          "end": 503.26,
+          "probability": 0.139
+        },
+        {
+          "word": "need",
+          "start": 503.26,
+          "end": 504.04,
+          "probability": 0.8311
+        },
+        {
+          "word": "to",
+          "start": 504.04,
+          "end": 504.32,
+          "probability": 0.8364
+        },
+        {
+          "word": "understand",
+          "start": 504.32,
+          "end": 505.32,
+          "probability": 0.4451
+        },
+        {
+          "word": "physics,",
+          "start": 505.32,
+          "end": 505.72,
+          "probability": 0.5459
+        },
+        {
+          "word": "then",
+          "start": 505.78,
+          "end": 506.12,
+          "probability": 0.9307
+        },
+        {
+          "word": "share",
+          "start": 506.12,
+          "end": 506.56,
+          "probability": 0.6211
+        },
+        {
+          "word": "them",
+          "start": 506.56,
+          "end": 506.86,
+          "probability": 0.9077
+        },
+        {
+          "word": "as",
+          "start": 506.86,
+          "end": 507.06,
+          "probability": 0.1027
+        },
+        {
+          "word": "well",
+          "start": 507.06,
+          "end": 507.22,
+          "probability": 0.9976
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "start": 507.22,
+      "end": 509.02,
+      "text": "Thank you so much",
+      "language": "pa",
+      "avg_logprob": -0.6103,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "Thank",
+          "start": 507.22,
+          "end": 507.94,
+          "probability": 0.8057
+        },
+        {
+          "word": "you",
+          "start": 507.94,
+          "end": 508.18,
+          "probability": 0.9927
+        },
+        {
+          "word": "so",
+          "start": 508.18,
+          "end": 508.68,
+          "probability": 0.9883
+        },
+        {
+          "word": "much",
+          "start": 508.68,
+          "end": 509.02,
+          "probability": 0.9995
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "start": 509.02,
+      "end": 510.44,
+      "text": "The next videos will keep coming",
+      "language": "pa",
+      "avg_logprob": -0.6103,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "The",
+          "start": 509.02,
+          "end": 509.36,
+          "probability": 0.0287
+        },
+        {
+          "word": "next",
+          "start": 509.36,
+          "end": 509.6,
+          "probability": 0.645
+        },
+        {
+          "word": "videos",
+          "start": 509.6,
+          "end": 509.96,
+          "probability": 0.9409
+        },
+        {
+          "word": "will",
+          "start": 509.96,
+          "end": 510.04,
+          "probability": 0.9062
+        },
+        {
+          "word": "keep",
+          "start": 510.04,
+          "end": 510.24,
+          "probability": 0.2556
+        },
+        {
+          "word": "coming",
+          "start": 510.24,
+          "end": 510.44,
+          "probability": 0.8477
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "start": 510.44,
+      "end": 511.56,
+      "text": "Follow them",
+      "language": "pa",
+      "avg_logprob": -0.6103,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "Follow",
+          "start": 510.44,
+          "end": 511.2,
+          "probability": 0.0661
+        },
+        {
+          "word": "them",
+          "start": 511.2,
+          "end": 511.56,
+          "probability": 0.5908
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "start": 512.12,
+      "end": 512.88,
+      "text": "Thank you",
+      "language": "pa",
+      "avg_logprob": -0.6103,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "Thank",
+          "start": 512.12,
+          "end": 512.6,
+          "probability": 0.6934
+        },
+        {
+          "word": "you",
+          "start": 512.6,
+          "end": 512.88,
+          "probability": 0.9878
+        }
+      ]
+    }
+  ],
+  "full_text": "ਹੈ, ਆਜ ਮੈ ਤਾਨੂੰ ਏਕ ਕਾਣੀ ਸਨਾਲਨੇ ॥ scientific ਕ਼ਾਣੀ ਹੋਗੀ, ਬੋਰ ਨੀ ਹੋਙਗੇ. ਤੇ 1600 ਦੇ ਵਿੱਚ ਬਣਾਇਆ 1600 ਤੋਂ 1700 ਫੇ 1800 ਆਗਿਆ ਤਾ 18th century ਦੇ ਵਜ਼ ਕੀ ਹੁਯਾ ਇੱਕ debate ਛੇਡ਼ਗੀ scientist ਦੇਹੇ ਵਿੱਚ ਕੀ ਜਟੇ Saturn ਦੇਸ ring ਨੇ ਓ ਖੀਲੇਂ ਬਣੇਨੀ stone ਦੇ ਬਰਨਨੈਆ water ਦੇਨੇ ਕੀਹੋ ਅਪਣਾ ice ਦੇਨੰ ਤੇਨੈ possibilities ਹੁਸਗਦੀ ਆਯ੍ਸ ਦੇ ਭੀ ਹਹੱਸਕਡੇ stone ਦਹੀ ॥ ਵਾਟਰ ਦੇਬੀ ਉਹਸਖਦੈ ਆਘੱੱ ਕਹਿੰਦਾ ਕੀ ਸਕੋਹੰਦੇ ਸਟੋਨ ਦੇ ਅਗੋਂ ਸਤੋਂਡੇ ਆਖੋਰੋ ॥ ਸ਼ੋਣਧੇ ਕੇਮੇ, ਤੇਨੋਕੀ ਮੈ ਭਾਤਾ ਲਗਿਆ ? ਜਾਕੈ ਦੇਖਿਆ ਸੀ । ਕਹੋਏ ਨੈ । ਆਸਕਦੇਂ । ਅਗਰ ਜੇ ਕੋਈ ਕਹੁਵਗਾ ਖੀ ਆਂਸ ਦੇ ਨੀ ਹੈਗੇ, ਤਾ ਏਭੀ ਆਪਾਣੋ ਪੁਛਿਨਾ ਕੇਮੇ ਗੋਗਲ ਕਰੋ । ਦੋ ਮਿੰਟ ਚਾਂਸ਼ਾ ਰਹਿਏ ਆਪਣੇ, ਬੁਝ ਉਸ ਥੇਂਮ ਧਾ ਗੋਗਲ ਵੀ ਨੀ ਛੇਗਾ ਤੇਖਨੇਓਲੋਜੀ ਤੁੰਸੇ level ਸੋਚ ਸਾਗਦੇ । ਤਾਂ ਜੇ ਮੈ ਸੋਚਾਂ, ਅਗਰ ਆਪਨੀ ਉਹ ਸਟਾਇਮ ਥੁਂ ਲੈਕੇ ਜਾਵੰ ਆਤ੍ਤਾ ਮੈ ਅਘਰ ਇਮੇਝਿਣ ਕਰਦਾ ਤਾਂ ਮੇਭੀ ਕੈਂਦਾ ਕਹਿ ਬੈ । ਉੰਚੇ ਐਸ਼ਾ ਬਣਾਓ ਜਿਦੇਵੇਛ ਬੈਖੀਆ ਪਾ ਸੇਟਰਨ ਤਾਕ ਚਲੇਗਿਏ ਸੇਫਲੀ ਉਤਥੇ ਜਾਕੇ sample ਲੋ ਤੇ check ਕਰੋ ਕੀਡਾ ਭਨੇਯਾ ਆਸ ਹੋਗੀ, ਤਾ ਪ਼ਤਲਾਕਜੁਂ. ਸਟੋਨ ਹੋਗੰ, ਥਾਮੀ ਪਾਤਾਲਗਜੂ ਵਾਟਰ ਹੋਗ ਥਿਆਮੇ ਪਤਾੲਾਖਜ੍ਯੁਓਗੋ। ਜੋਕੀ rocket । ਰੋਕੇਟ ਬਣਾਂ ਆਪਵੁਗ ਅਪਾਣੁ ਟੈਲੀਸ਼ਕੋਪ ਹੈ ਨੀ ਗਾ ਰੋਕੇਟ ਬਣਨਾ ਲਗਿਨੇ ਏ ਪਾ ਪੋਸਿਭਾਲ ਇ ਨੀ ਹਹਾ ਸਾਨੇ ਕੋਸ਼ੀਂ ਹੈ । ਸੋਲਵ ਹੰਗਿਆ ਸੀਗਾ, ਓਸੇ ਸਣੇ ਬੁੰ ਸੌਟੇ ਸੇਡੀ ਸ਼ਾਲਾਂਦੇ ਬੇਛੀ ਏ ਹੋਗਿਹਾ ਸੀ ਸਨੇ ॥ ਕੀਮੇ ਸੋਚਿਆ । ਉਨਾ ਨੈ ? ਕਹੀ ਤੋ method ਹੋਗ਼ਾ ਤਾ ਖੀ ਹੋਇਆ, ਇੱਕ ਇੰਸਾਨ ਖੜਾ ਹੈ ਓਹਨੇ bundle ਲਿਆ ਇੱਕ papers ਦਾ ਔਣੇ candles ਲਿਆ ਵੱਧ ਸਰੀ ink ਲਈ ਥੇ ਪੈਨ ਲੈ ਇੱਕ ਕੰਰੀਂ ਚੱਲਾ ਗਿਆ । ਇੱਕ, ਦੋ ਮੀਨੇ ਹੋਣੇ ਕਮਰੇ ਵਿੱਚ ਬੇਟਾਏ। ਬਾਰ ਆਖਦਾ ਕਿ ਸੇਡ਼ਨ ਦੇ ਰੰਗ। ਨਾ ਆਈਸ ਦਹ ਵਣਿਆ। ਨੈ ਵਾਟਰ ਦੇ ਬਣੇਆਂ, ਏ ਬਝਿਆਂ ਸ਼ਤੋਨਸ ਦਹੀ। ਉਕੈਂਡਾ ਸਾਰੇ ਕੰਧੇ ''ਤੇਨੂੰ ਗਿਮੇਂ ਪਟਾ?'' ਉਖਾਂਦਾ ਦੇਖੋ, ਮੀਰਿਕੋਲ ਭਰੂਫ ਹੈ। ਕੋਲਾ prove ਕੀ ਸੀਗਾ ਕੁਝ pages ਜਿਦੇ ਉੱਤੇ ਕੁਝ mathematics ਲਿਖਾਇਆ ਸੀਗਾ ਕੋਛ ਲਿਖਿਆ ਹੱਸੂ ਅਵੱ ਕੀ ਸੀਗਾ ਓ equations ਸੀਂਗੇ match ਦੀਆਂ ਤੁਸੀ ਏਹ ਥੱਲ ਆਸੀ power ਰੇ ਕਿ ਜਦੋਂ ਉਹ ਹਜ਼ਾਰਾਂ ਕਲੋਮੀਟਰ ਦੂਰ ਇੱਕ planet ਦੇ rings ਬਾਲੇ ਹਨ ਡੇ ਗਿਯੋ ਕੁਝ ਚੀਜ਼ ਭਣੇ । ਕਨੀ ਹਿੰਖਾਲ ਦੀ ਚੀਜ਼ ਤੱਾ ਆਪਾ ਕੋਛ ਨਾ ਖੋਜ ਇੱਕਰ ਤਹੇ science ਲਈ ਥਾ, ਤੁਸੀਂ ਏਹੀ ਚੀਜ਼ ਅਪਣੀ ੧੦. ਐਹੁ ਮੈਜ਼ਿਕਲ ਪਾਵਰ ਟੰਜੀ ਸੇਖ ਰੇਓ ਕਿਉਂਕਿ, ਸਿੱਖਣ ਆਲੀਂ sorry ਦੱਸਣਾ ਚਾਰੇ ਕੀ ਜੋ ਏ ਟੂਲ ਉਨ੍ਹਾਂ ਨੇ ਯੂਸ ਕੀਤਾ By the way, ਉਹਨਾਂ ਨੇ James Clarke Maxwell ਬਡੇ ਹੀ great scientist । Great mathematician ਸਿੱਖੇ So Mathematics ਆਪਾਂ ਏਕ tool ਹੈ ਜਿਦੇਨਾ ਅਪਾ future predict ਕਰ ਸਕਦੇ ਹਾਂ Mathematical is a magical tool which can be used by those who know how to use it and they will make great discoveries. So from here we start with physics, in fact they have studied nature using mathematics As soon as you find out what's happening around us and this was about 1000 km away so ਅੱਰ ਮੈ ਇਨੂੰ ਡਿਫਾਇਨ ਕਰਾ, what is physics? So physics, ਆਪਾ ਏਵੇ ਦਿਫਾਇਨ ਕਰਸ਼ਤਹੁੰ। Great scientist and Professor Richard Feynman ਉਨਾਨੇ Physics ਨੋਂ ਕੁਛ ਇਸ ਤਰਾਂ ਦਾਲਿਖਿਆ ਗੀ ਮਾਨ ਲੋ ਦੋ ਬਡੇ ਹੀ intelligent player ਬੱਡੇ brilliant chess ਦੇ player ਏਕ chess ਦੇ game ਖੇਲ ਰਹੀ । ਦੇ ਇਕ ਭੰਦਾ, ਜੇਡ਼ਾ ਭੀ ਓ ਸੋਈ intelligent ਆ ਜਿਆਂ ਦਮਾਗ ਬਹਤ ਵਧੀਆ ਹਾਂ ਉਹੀ ਜਾਕੇ ਹੁਣਨੋ ਅਬਸਰਵ ਕਰ ਰਹੇ । ਦੇਰ ਤੱਕ ਬਹੁਤ ਅਚੀ ਤਰ੍ਹਾਂ keen observation ਕਰਦਾ, ਬੱਡੇ ਦਿਲ ਤੱਕ ਕਾਰਦਾ ਵਹੁਂ ਜ਼ਿਆਦਾ observation ਲਿਖਿਆ ॥ ਲਿਖਦਾ ਰਹਿੰਦਾ, ਲੰਗਦਾਰੇਂਦ੍ਦੇ, ਓ ਕੀ Observe ਕਰੀਏ? ਆਉਣੇ ਕੋਈ ਮਤਲਬ ॥ ਏਕ, ਦੂ ਹਫ਼ਤਿਆਂ ਬਾਦ ਅਗਰ ਆਪਾ ਉਸ ਨੌ ਸਿਖੀਏ ਜਿਡਾ ਚੇਸ ਦਾ ਨੈ ਸਿਖਿਆ ਕੋਨੂੰ ਪੁਛਾਂਗੇ, ਹਾਬੀ ਤੇਨੂੰ ਕੈ ਪਟਾ ਲਗਿਆ। ਤਾਂ ਓ ਦੱਸ ਸਕਦੇ ਕੇਡੇ... ...ਕੇਡੇ.. ..ਕੇਡੇ... ਮਲਰਭਕੀ player ਦਾ, bishop ਦਾ ਹਾਥੀ ਦਾ or Queen ਦਾ King ਦਾ ਕੀਡੇ ਮੂਵਨੇ । ਉਂਦੇ moves ਕੀ ਨੈ ਸੋ physics ਭੀ ਕੁਝ ਐਸ ਤਰਾਂ ਦੀਹੇ, ਆਪਾਣੋ ਬਡੇ ਹੀ keen observation ਕਰਨੀਏ ਪੈਂਧੀਆਂ । on observation basis ਦੇ ਆਪਾ ਕੋਛ theories ਲੀਖ ਦਹੇਂ ਅਕੀ ਹਾਂ ਬੈ nature image ਹੋਗੇ । ਹੋਗਾ ਚਾਨਸੀਜ ਹਿਰੀ ਓਣ ਨੈ ਭੀ ਹੋਵੇ but ਹਹੁਸਕਦੈ ਤੇ ਓ ਛੀਝ ਅਜੋ ਤਾਕ ਮਨਨੀ ਨੈ ਜਾਂਦੀ ਜੌ ਤਖ experimentally ਭੀਆ ਆਪਣੁਹੋਂ ਦੇ evidence ਨਾ ਮਿਲਜੇ ਜ਼ਧੋਨ experiment ਮੀਲਡਾ ਰੈਗਾ ਔਵੱ ਤਥਾਕਾ ਬਾਂ ਮੰਨ੃ ਜਨਾਗੀ ਜੇਦਾਨ ਮੀਲਗੇ ਆਪਾਣੋ ਕੈ experimentally ਕਹੁਂ ਵੈਲਿਡ ਕਰ ਰੇ । ਇਸ ਥੋਰੀ ਸਹੀ ਨੈ ਹੈਗੀ । ਐਮੇਂ ਨਹੀੰਦਾ ਤਾ ਆਭਾਂ ਉਸ ਛੀਝ ਦੂਂ ਗੱਲਧ ਠੇਰਾਮਾਂਗੈ ਛੈਸ ਵੀ, ਚੇਸ ਦੇ moves players ਤੋ ਹੁੰੰੰ ਸਿਖਨੇ ਬਹੁਤ easy ਨੈ but ਚਹੱੱਸ ਅਕਸ਼ਾ player ਬੁਣਾ ਬਹੁਤ ਮੁਸ਼ਖਿਲ ਆਹ because ਓ ਜਟਾ combination use ਉੰਦਾ ਸਕੱੰਲੀ practice skills so physics bilkul chess ਵਰਗੀ ਹੈ laws rules ਸਮਝਣੇ saukhi nai but akar chato apa collectively apply kar de hain o thoda jaa samjhana complicated ho jandha aapa physics nu alag-alag streams chi venda ge plus one to lai ke plus two tak i do salane wech wide variety of nature badange jo ki ਕੇ ਵੈਸਿ ਆਪਨੀਂ ਆਸਪਾਸ ਹੀਏ ਜੇਮੇਂ ਏਕ ਪਾਟ਼ ਗੱਨ ਮੈਕਾਣੀਕਸ । ਬੋਡੀਸ ਆਪਨੇ ਆਸਪਾਸ ਦੀ ਬੋਡੀਸ ਮੋਸ਼ਿਂ ਸਮਝਦੇਹਾ ਕੈ ਬਾਡੀ ਸ ਰੋਵ ਗੇਮਿ ਗਰੁਤੀਹੇ ਅਚੇਲੇ mechanics ਭੀ ਆਪਣੁ ਪਾਵਰ ਦਿੰਦੇ, future predict ਕਰਨਥੀ ਅੱਰ ਮੇਨੂ ਪਤਾ ਕੀ ਏਕ particular time ਥੇ ਮੰਨੁ ਅਗਰ ਉਦੀ acceleration particle ਦਾ the velocity ਅਘਰ ਪਤਾ ਅਗਰ force applied ਪਤਾ ਤਾ ਮਹਿਆ ਬਹੁਤ ਚੀਜਾਂ ਦੇ ਦਸਖਲਾ ਇੱਨੀ ਟਾਈਮ ਬਾਦ ਕਿਥੇ ਜਾਏਗਾ obviously ਗਾਲਾ ਬਹੁਤ ਸਾਰੀ conditions ਨੇ but ਆਪਾ ਭੋਧ ਕੁਝ ਦਾਸ ਸਖ਼ਦੇਂ ਆ ਕੌਛ ਹਾਡ ਤਾਕ ਦੀ error ਦੰਨਾਲ ਅਪਾ 100% sure ਕਦੈ ਵੀ ਨੀ ਹੋ ਸਕਾਂਗੀ but ਕੋਛ error ਜਰੂਰ ਹੋਗਾ ਆਪਣੀ predictions ਦੇ ਵੈਚ so physics ਅਗਰ ਮੈ summarize ਕਰਾ ਪੂਰੀ ਗਲ ਬਾਤ ਨੂਸ ਫਿਜ਼ਿਕਸ ਅਪਣੁ power ਦਿੰਦੀ ਹਹ future predict ਕਰਨਦਾ ਇਹਾਂ ਆਪਨੀ ਵਾਸਭਾਸ ਕੀ ਹੋਰੁੰ । ਉਣੋ ਸਮਝਿੰਦੇ ਤੱ ਮਤਲਬ ਅਪਾਂ study ਕਰਰੇਏਂ nature ਦੀ so physics is a science of nature ਕੀ nature ਕਾਮ ਕੇਮੇ ਗਾਰਦੇ So, ਇਥੇ ਨਾਲੀ ਆਜ ਤੋਂ ਮੈ ਰੇਗੁਲਰਲੀ ਫਿਜ਼ਿਕਸ ਦੀ ਵਿੱਡ਼ੋਆਂ ਲੇਖੇ ਆਂਦਾ ਰਹੁਂਗਾ So make sure that if you want a plus one, then subscribe to my channel And if there are any other plus ones who need to understand physics, then share them as well Thank you so much The next videos will keep coming Follow them Thank you"
+}

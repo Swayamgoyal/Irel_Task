@@ -1,0 +1,101 @@
+{
+  "dependencies": [
+    {
+      "from_concept": "concept_1",
+      "to_concept": "concept_2",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture explicitly states that growth involves cell division, indicating that understanding growth is necessary before delving into cell division."
+    },
+    {
+      "from_concept": "concept_2",
+      "to_concept": "concept_3",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture explains that growth results from cell division and differentiation, implying that cell division must be understood before differentiation."
+    },
+    {
+      "from_concept": "concept_2",
+      "to_concept": "concept_7",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "Reproduction is described as involving cell division, indicating that understanding cell division is necessary before understanding reproduction."
+    },
+    {
+      "from_concept": "concept_7",
+      "to_concept": "concept_8",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture states that reproduction involves the fusion of gametes, indicating that understanding reproduction is necessary before understanding gametes."
+    },
+    {
+      "from_concept": "concept_1",
+      "to_concept": "concept_4",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.8,
+      "justification": "The lecture discusses the growth of plant cells and the role of the vacuole, implying that understanding growth is necessary before understanding the vacuole's role."
+    },
+    {
+      "from_concept": "concept_1",
+      "to_concept": "concept_5",
+      "relationship_type": "SOFT_PREREQUISITE",
+      "strength": 0.7,
+      "justification": "The lecture mentions that genetic makeup influences growth, suggesting that understanding growth helps in understanding genetic influences, but it is not strictly required."
+    },
+    {
+      "from_concept": "concept_1",
+      "to_concept": "concept_6",
+      "relationship_type": "SOFT_PREREQUISITE",
+      "strength": 0.7,
+      "justification": "The lecture notes that environmental factors contribute to growth, indicating that understanding growth helps in understanding environmental influences, but it is not strictly required."
+    }
+  ],
+  "learning_path": [
+    "concept_1",
+    "concept_2",
+    "concept_3",
+    "concept_7",
+    "concept_8",
+    "concept_4",
+    "concept_5",
+    "concept_6"
+  ],
+  "concept_clusters": [
+    {
+      "cluster_name": "Growth and Development",
+      "concept_ids": [
+        "concept_1",
+        "concept_2",
+        "concept_3",
+        "concept_4"
+      ],
+      "description": "These concepts are grouped together as they all relate to the growth and development of organisms, focusing on cellular processes and structural changes."
+    },
+    {
+      "cluster_name": "Reproduction",
+      "concept_ids": [
+        "concept_7",
+        "concept_8"
+      ],
+      "description": "These concepts are grouped together as they pertain to the reproductive processes involving cell division and gametes."
+    },
+    {
+      "cluster_name": "Influences on Growth",
+      "concept_ids": [
+        "concept_5",
+        "concept_6"
+      ],
+      "description": "These concepts are grouped together as they discuss factors that influence the growth of organisms, including genetic and environmental aspects."
+    }
+  ],
+  "root_concepts": [
+    "concept_1"
+  ],
+  "leaf_concepts": [
+    "concept_3",
+    "concept_4",
+    "concept_5",
+    "concept_6",
+    "concept_8"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "dependencies": [
+    {
+      "from_concept": "concept_1",
+      "to_concept": "concept_2",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture begins with an introduction to lists, establishing them as a fundamental concept before discussing their mutability."
+    },
+    {
+      "from_concept": "concept_2",
+      "to_concept": "concept_3",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "Mutability is explained before indexing, indicating that understanding mutability is necessary to grasp how indexing works on mutable lists."
+    },
+    {
+      "from_concept": "concept_3",
+      "to_concept": "concept_4",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "Indexing is introduced before slicing, suggesting that understanding how to access elements by index is crucial for learning how to slice lists."
+    },
+    {
+      "from_concept": "concept_4",
+      "to_concept": "concept_5",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "Slicing is discussed before CRUD operations, implying that slicing is a foundational operation that supports CRUD functionalities."
+    },
+    {
+      "from_concept": "concept_5",
+      "to_concept": "concept_6",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "CRUD operations are introduced before the append method, indicating that understanding CRUD is necessary to comprehend how append fits into these operations."
+    },
+    {
+      "from_concept": "concept_6",
+      "to_concept": "concept_7",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The append method is explained before the extend method, suggesting a sequential learning path where append is understood first."
+    },
+    {
+      "from_concept": "concept_7",
+      "to_concept": "concept_8",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The extend method is discussed before the pop method, indicating that understanding how to add elements is necessary before learning how to remove them."
+    },
+    {
+      "from_concept": "concept_8",
+      "to_concept": "concept_9",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The pop method is introduced before the remove method, suggesting a logical progression from removing by index to removing by value."
+    },
+    {
+      "from_concept": "concept_9",
+      "to_concept": "concept_10",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The remove method is explained before the for loop, indicating that understanding element removal is necessary before iterating over a list."
+    }
+  ],
+  "learning_path": [
+    "concept_1",
+    "concept_2",
+    "concept_3",
+    "concept_4",
+    "concept_5",
+    "concept_6",
+    "concept_7",
+    "concept_8",
+    "concept_9",
+    "concept_10"
+  ],
+  "concept_clusters": [
+    {
+      "cluster_name": "List Basics",
+      "concept_ids": [
+        "concept_1",
+        "concept_2",
+        "concept_3",
+        "concept_4"
+      ],
+      "description": "These concepts form the foundational understanding of lists, including their structure, mutability, and basic operations like indexing and slicing."
+    },
+    {
+      "cluster_name": "List Operations",
+      "concept_ids": [
+        "concept_5",
+        "concept_6",
+        "concept_7",
+        "concept_8",
+        "concept_9"
+      ],
+      "description": "These concepts cover the CRUD operations and specific methods for manipulating lists, such as append, extend, pop, and remove."
+    },
+    {
+      "cluster_name": "Iteration",
+      "concept_ids": [
+        "concept_10"
+      ],
+      "description": "This concept focuses on iterating over lists using for loops, which is essential for processing list elements."
+    }
+  ],
+  "root_concepts": [
+    "concept_1"
+  ],
+  "leaf_concepts": [
+    "concept_10"
+  ]
+}

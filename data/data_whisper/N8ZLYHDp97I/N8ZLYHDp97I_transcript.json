@@ -1,0 +1,3076 @@
+{
+  "audio_file": "/home/swayam/Desktop/irel_task/data_whisper/N8ZLYHDp97I/N8ZLYHDp97I.wav",
+  "model": "large-v3",
+  "language": "gu",
+  "language_probability": 1,
+  "duration_seconds": 455.62,
+  "transcription_time_seconds": 144.52,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.24,
+      "end": 5.22,
+      "text": "હેલો student, સુનચ્છું અઈરેન રજીગૃહણે આજા એપડે જોવાનો શે become same 1 નુ business accounting1",
+      "language": "gu",
+      "avg_logprob": -0.3365,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "હેલો",
+          "start": 0.24,
+          "end": 0.7,
+          "probability": 0.867
+        },
+        {
+          "word": "student,",
+          "start": 0.7,
+          "end": 0.9,
+          "probability": 0.019
+        },
+        {
+          "word": "સુનચ્છું",
+          "start": 1.06,
+          "end": 1.32,
+          "probability": 0.8542
+        },
+        {
+          "word": "અઈરેન",
+          "start": 1.32,
+          "end": 1.52,
+          "probability": 0.7865
+        },
+        {
+          "word": "રજીગૃુઅણે",
+          "start": 1.52,
+          "end": 2.16,
+          "probability": 0.8142
+        },
+        {
+          "word": "આજા",
+          "start": 2.16,
+          "end": 2.32,
+          "probability": 0.8904
+        },
+        {
+          "word": "એપડે",
+          "start": 2.32,
+          "end": 2.58,
+          "probability": 0.8527
+        },
+        {
+          "word": "জોવાનો",
+          "start": 2.58,
+          "end": 2.84,
+          "probability": 0.8817
+        },
+        {
+          "word": "શે",
+          "start": 2.84,
+          "end": 2.98,
+          "probability": 0.8577
+        },
+        {
+          "word": "become",
+          "start": 2.98,
+          "end": 3.16,
+          "probability": 0.1627
+        },
+        {
+          "word": "same",
+          "start": 3.16,
+          "end": 3.6,
+          "probability": 0.1129
+        },
+        {
+          "word": "1",
+          "start": 3.6,
+          "end": 4.16,
+          "probability": 0.4897
+        },
+        {
+          "word": "નુ",
+          "start": 4.16,
+          "end": 4.32,
+          "probability": 0.9275
+        },
+        {
+          "word": "business",
+          "start": 4.32,
+          "end": 4.44,
+          "probability": 0.0173
+        },
+        {
+          "word": "accounting1",
+          "start": 4.44,
+          "end": 5.22,
+          "probability": 0.451
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "start": 6.62,
+      "end": 10.38,
+      "text": "f5 જોયરાહીએ છે અન્દ ગુંત આલેકે સૌફર ના ઈશા�ુ આ જ આ 2,024 માન પૂચાણ નો એકડમ નનુન અવધ ઘસાણની ગ ગણત�",
+      "language": "gu",
+      "avg_logprob": -0.4914,
+      "no_speech_prob": 0.0004,
+      "words": [
+        {
+          "word": "f5",
+          "start": 6.62,
+          "end": 7.46,
+          "probability": 0.4572
+        },
+        {
+          "word": "જોયરાહીએ",
+          "start": 7.46,
+          "end": 7.9,
+          "probability": 0.7805
+        },
+        {
+          "word": "છે",
+          "start": 7.9,
+          "end": 8.12,
+          "probability": 0.9119
+        },
+        {
+          "word": "અન્દ",
+          "start": 8.12,
+          "end": 8.88,
+          "probability": 0.6643
+        },
+        {
+          "word": "ગુંત",
+          "start": 8.88,
+          "end": 9.2,
+          "probability": 0.6538
+        },
+        {
+          "word": "આલેકે",
+          "start": 9.2,
+          "end": 9.86,
+          "probability": 0.7578
+        },
+        {
+          "word": "সૌફર",
+          "start": 9.86,
+          "end": 10.26,
+          "probability": 0.7894
+        },
+        {
+          "word": "ના",
+          "start": 10.26,
+          "end": 10.38,
+          "probability": 0.8293
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 16.98,
+      "end": 32.04,
+      "text": "અહ્રણ સમય ગાળો 146 દિવશ્વ છે તો સફર ખાની આણો 2400 અને 1,123 ના રોજ જહાંચ નૌ ઘસારા�ાઅધ કીમત 7,80,000 હનુ થારી",
+      "language": "gu",
+      "avg_logprob": -0.4842,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "અહ્રન",
+          "start": 16.98,
+          "end": 18.34,
+          "probability": 0.6917
+        },
+        {
+          "word": "સમય",
+          "start": 18.34,
+          "end": 19.52,
+          "probability": 0.8076
+        },
+        {
+          "word": "ગાળો",
+          "start": 19.52,
+          "end": 21.0,
+          "probability": 0.9329
+        },
+        {
+          "word": "146",
+          "start": 21.0,
+          "end": 21.0,
+          "probability": 0.8572
+        },
+        {
+          "word": "દિવશું",
+          "start": 21.0,
+          "end": 21.66,
+          "probability": 0.8531
+        },
+        {
+          "word": "છે",
+          "start": 21.66,
+          "end": 21.82,
+          "probability": 0.9782
+        },
+        {
+          "word": "તો",
+          "start": 21.82,
+          "end": 24.46,
+          "probability": 0.9851
+        },
+        {
+          "word": "સफર",
+          "start": 24.46,
+          "end": 25.14,
+          "probability": 0.8465
+        },
+        {
+          "word": "ખાની",
+          "start": 25.14,
+          "end": 26.06,
+          "probability": 0.7999
+        },
+        {
+          "word": "આણો",
+          "start": 26.06,
+          "end": 26.26,
+          "probability": 0.7434
+        },
+        {
+          "word": "2400",
+          "start": 26.26,
+          "end": 26.34,
+          "probability": 0.0482
+        },
+        {
+          "word": "અને",
+          "start": 26.34,
+          "end": 28.7,
+          "probability": 0.7523
+        },
+        {
+          "word": "1",
+          "start": 28.7,
+          "end": 29.38,
+          "probability": 0.0207
+        },
+        {
+          "word": ",123",
+          "start": 29.38,
+          "end": 30.34,
+          "probability": 0.4048
+        },
+        {
+          "word": "ના",
+          "start": 30.34,
+          "end": 30.88,
+          "probability": 0.831
+        },
+        {
+          "word": "રોજ",
+          "start": 30.88,
+          "end": 31.32,
+          "probability": 0.945
+        },
+        {
+          "word": "જહાૂચ",
+          "start": 31.32,
+          "end": 31.84,
+          "probability": 0.8077
+        },
+        {
+          "word": "નૌ",
+          "start": 31.84,
+          "end": 32.04,
+          "probability": 0.7015
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 33.92,
+      "end": 42.54,
+      "text": "ગ્રણ સમય ગાળો 146 દિવશ્વ છે તો સફર ખાતે ફાળવની ઘસારો ચોડહ આટલી",
+      "language": "gu",
+      "avg_logprob": -0.386,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "ગ્રન",
+          "start": 33.92,
+          "end": 35.32,
+          "probability": 0.6601
+        },
+        {
+          "word": "સમય",
+          "start": 35.32,
+          "end": 36.1,
+          "probability": 0.7981
+        },
+        {
+          "word": "ગাળો",
+          "start": 36.1,
+          "end": 36.38,
+          "probability": 0.8518
+        },
+        {
+          "word": "146",
+          "start": 36.38,
+          "end": 37.12,
+          "probability": 0.9155
+        },
+        {
+          "word": "દિવશું",
+          "start": 37.12,
+          "end": 37.48,
+          "probability": 0.8883
+        },
+        {
+          "word": "છે",
+          "start": 37.48,
+          "end": 37.7,
+          "probability": 0.9926
+        },
+        {
+          "word": "તો",
+          "start": 37.7,
+          "end": 37.9,
+          "probability": 0.9849
+        },
+        {
+          "word": "સफર",
+          "start": 37.9,
+          "end": 38.24,
+          "probability": 0.8527
+        },
+        {
+          "word": "ખાતে",
+          "start": 38.24,
+          "end": 38.54,
+          "probability": 0.8983
+        },
+        {
+          "word": "ફા��લવની",
+          "start": 38.54,
+          "end": 39.34,
+          "probability": 0.7818
+        },
+        {
+          "word": "ઘસ્અરૌ",
+          "start": 39.34,
+          "end": 40.1,
+          "probability": 0.7539
+        },
+        {
+          "word": "ચોડહ",
+          "start": 40.1,
+          "end": 40.86,
+          "probability": 0.7303
+        },
+        {
+          "word": "આટલી",
+          "start": 40.86,
+          "end": 42.54,
+          "probability": 0.7914
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 43.54,
+      "end": 46.68,
+      "text": "તેની અહ્યાં આમદુ કરોચે ઘસારો ઘોથવાનો એટલે ૨.",
+      "language": "gu",
+      "avg_logprob": -0.7952,
+      "no_speech_prob": 0.0002,
+      "words": [
+        {
+          "word": "તેની",
+          "start": 43.54,
+          "end": 43.86,
+          "probability": 0.6313
+        },
+        {
+          "word": "અહ્યાં",
+          "start": 43.86,
+          "end": 44.02,
+          "probability": 0.7879
+        },
+        {
+          "word": "આમદુ",
+          "start": 44.02,
+          "end": 44.14,
+          "probability": 0.5538
+        },
+        {
+          "word": "કરોચે",
+          "start": 44.14,
+          "end": 44.8,
+          "probability": 0.6155
+        },
+        {
+          "word": "ગસાরો",
+          "start": 44.8,
+          "end": 45.52,
+          "probability": 0.7537
+        },
+        {
+          "word": "ઘો્અથવાનો",
+          "start": 45.52,
+          "end": 46.0,
+          "probability": 0.7379
+        },
+        {
+          "word": "এટલે",
+          "start": 46.0,
+          "end": 46.68,
+          "probability": 0.7018
+        },
+        {
+          "word": "२.",
+          "start": 46.68,
+          "end": 46.68,
+          "probability": 0.3248
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 46.68,
+      "end": 55.14,
+      "text": "તમે શોન્ન જોવણ છે ખાઉડે ધિષે ગ હશાર ગ",
+      "language": "gu",
+      "avg_logprob": -0.7952,
+      "no_speech_prob": 0.0002,
+      "words": [
+        {
+          "word": "ત�",
+          "start": 46.68,
+          "end": 46.86,
+          "probability": 0.6219
+        },
+        {
+          "word": "શોન્ન",
+          "start": 46.86,
+          "end": 47.3,
+          "probability": 0.6097
+        },
+        {
+          "word": "જોবણ",
+          "start": 47.3,
+          "end": 48.58,
+          "probability": 0.6072
+        },
+        {
+          "word": "છે",
+          "start": 48.58,
+          "end": 48.88,
+          "probability": 0.7349
+        },
+        {
+          "word": "खાૌડે",
+          "start": 48.88,
+          "end": 49.68,
+          "probability": 0.5311
+        },
+        {
+          "word": "֪ધિષે",
+          "start": 49.68,
+          "end": 51.94,
+          "probability": 0.5662
+        },
+        {
+          "word": "ગ",
+          "start": 51.94,
+          "end": 55.14,
+          "probability": 0.4524
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 55.14,
+      "end": 65.34,
+      "text": "દરેક વરશ્યસ જે ઘાસાનો છે એટલી અહું આપણે direct સૌમત ચળુ ગરના થારોકે",
+      "language": "gu",
+      "avg_logprob": -0.3927,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "દરેક",
+          "start": 55.14,
+          "end": 55.32,
+          "probability": 0.9032
+        },
+        {
+          "word": "વરશ્યસ",
+          "start": 55.32,
+          "end": 55.76,
+          "probability": 0.8783
+        },
+        {
+          "word": "જે",
+          "start": 55.76,
+          "end": 56.12,
+          "probability": 0.9456
+        },
+        {
+          "word": "ઘાસાનો",
+          "start": 56.12,
+          "end": 56.58,
+          "probability": 0.8727
+        },
+        {
+          "word": "છે",
+          "start": 56.58,
+          "end": 56.8,
+          "probability": 0.9682
+        },
+        {
+          "word": "এટલી",
+          "start": 56.8,
+          "end": 58.56,
+          "probability": 0.7235
+        },
+        {
+          "word": "અહું",
+          "start": 58.56,
+          "end": 59.74,
+          "probability": 0.7707
+        },
+        {
+          "word": "આપણે",
+          "start": 59.74,
+          "end": 61.82,
+          "probability": 0.9042
+        },
+        {
+          "word": "direct",
+          "start": 61.82,
+          "end": 62.36,
+          "probability": 0.0007
+        },
+        {
+          "word": "સૌમત",
+          "start": 62.36,
+          "end": 62.82,
+          "probability": 0.7064
+        },
+        {
+          "word": "ચળુ",
+          "start": 62.82,
+          "end": 63.02,
+          "probability": 0.8478
+        },
+        {
+          "word": "ગરના",
+          "start": 63.02,
+          "end": 63.32,
+          "probability": 0.7658
+        },
+        {
+          "word": "થાরોકે",
+          "start": 63.32,
+          "end": 65.34,
+          "probability": 0.8005
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 66.78,
+      "end": 72.4,
+      "text": "મીલ્કતની અથવા જહાંજને બરોબર છે?",
+      "language": "gu",
+      "avg_logprob": -0.3556,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "મીલ્કતની",
+          "start": 66.78,
+          "end": 68.38,
+          "probability": 0.9121
+        },
+        {
+          "word": "અથવા",
+          "start": 69.4,
+          "end": 71.12,
+          "probability": 0.937
+        },
+        {
+          "word": "જહાંજને",
+          "start": 71.12,
+          "end": 71.74,
+          "probability": 0.8679
+        },
+        {
+          "word": "બરોભર",
+          "start": 71.74,
+          "end": 72.22,
+          "probability": 0.8814
+        },
+        {
+          "word": "છે?",
+          "start": 72.22,
+          "end": 72.4,
+          "probability": 0.9768
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 74.19,
+      "end": 79.42,
+      "text": "મૂળ કીમત સૌ ચે",
+      "language": "gu",
+      "avg_logprob": -0.3556,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "મुળ",
+          "start": 74.19,
+          "end": 75.13,
+          "probability": 0.7758
+        },
+        {
+          "word": "કીનત",
+          "start": 75.13,
+          "end": 75.51,
+          "probability": 0.7633
+        },
+        {
+          "word": "સૌ",
+          "start": 76.92,
+          "end": 79.1,
+          "probability": 0.6896
+        },
+        {
+          "word": "ચે",
+          "start": 79.1,
+          "end": 79.42,
+          "probability": 0.8253
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 81.56,
+      "end": 85.94,
+      "text": "આપણે જાણશા મૂળખિયમત IP નથીઅનો આ પ્નૈ મ",
+      "language": "gu",
+      "avg_logprob": -0.3556,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "આપણે",
+          "start": 81.56,
+          "end": 82.5,
+          "probability": 0.9043
+        },
+        {
+          "word": "��ાનશા",
+          "start": 82.5,
+          "end": 82.7,
+          "probability": 0.61
+        },
+        {
+          "word": "มુળખિયમત",
+          "start": 82.7,
+          "end": 83.18,
+          "probability": 0.7768
+        },
+        {
+          "word": "IP",
+          "start": 83.18,
+          "end": 83.34,
+          "probability": 0.1698
+        },
+        {
+          "word": "નથીઅનો",
+          "start": 83.34,
+          "end": 83.8,
+          "probability": 0.7932
+        },
+        {
+          "word": "આ",
+          "start": 83.8,
+          "end": 83.86,
+          "probability": 0.9214
+        },
+        {
+          "word": "પ્નૈ",
+          "start": 83.86,
+          "end": 84.24,
+          "probability": 0.5977
+        },
+        {
+          "word": "મ�",
+          "start": 84.24,
+          "end": 85.94,
+          "probability": 0.7249
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 87.94,
+      "end": 106.42,
+      "text": "મૂર કીમત ઉપરજ સિધીન લેટીઅન અહ્યા ગણવાનો છે દરેક વરષે 12% ઘસારનું એટલઈ આપ્ને 1,00,000 નૌ આ બખતે અભ",
+      "language": "gu",
+      "avg_logprob": -0.4117,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "મૂર",
+          "start": 87.94,
+          "end": 88.24,
+          "probability": 0.8311
+        },
+        {
+          "word": "કીમત",
+          "start": 88.24,
+          "end": 88.62,
+          "probability": 0.8662
+        },
+        {
+          "word": "ઉપરજ",
+          "start": 88.62,
+          "end": 89.16,
+          "probability": 0.8847
+        },
+        {
+          "word": "સિધીન",
+          "start": 89.16,
+          "end": 89.56,
+          "probability": 0.8263
+        },
+        {
+          "word": "લેટીઅન",
+          "start": 89.56,
+          "end": 89.82,
+          "probability": 0.782
+        },
+        {
+          "word": "અહ્યા",
+          "start": 89.82,
+          "end": 90.16,
+          "probability": 0.7528
+        },
+        {
+          "word": "ગણવાનો",
+          "start": 90.16,
+          "end": 91.22,
+          "probability": 0.7996
+        },
+        {
+          "word": "છે",
+          "start": 91.22,
+          "end": 91.64,
+          "probability": 0.9129
+        },
+        {
+          "word": "દરેઅક",
+          "start": 91.64,
+          "end": 97.28,
+          "probability": 0.8479
+        },
+        {
+          "word": "વ੃ષે",
+          "start": 97.28,
+          "end": 97.58,
+          "probability": 0.7973
+        },
+        {
+          "word": "12",
+          "start": 97.58,
+          "end": 97.74,
+          "probability": 0.4138
+        },
+        {
+          "word": "%",
+          "start": 97.74,
+          "end": 98.18,
+          "probability": 0.17
+        },
+        {
+          "word": "ઘશારનું",
+          "start": 98.18,
+          "end": 98.84,
+          "probability": 0.8064
+        },
+        {
+          "word": "એટલઈ",
+          "start": 98.84,
+          "end": 101.02,
+          "probability": 0.7555
+        },
+        {
+          "word": "આપ્ને",
+          "start": 101.02,
+          "end": 103.14,
+          "probability": 0.686
+        },
+        {
+          "word": "1",
+          "start": 103.14,
+          "end": 103.3,
+          "probability": 0.0301
+        },
+        {
+          "word": ",00",
+          "start": 103.3,
+          "end": 103.66,
+          "probability": 0.4089
+        },
+        {
+          "word": ",000",
+          "start": 103.66,
+          "end": 103.76,
+          "probability": 0.9629
+        },
+        {
+          "word": "નૌ",
+          "start": 103.76,
+          "end": 103.9,
+          "probability": 0.747
+        },
+        {
+          "word": "આ",
+          "start": 103.9,
+          "end": 104.38,
+          "probability": 0.7509
+        },
+        {
+          "word": "બખતે",
+          "start": 104.38,
+          "end": 106.42,
+          "probability": 0.7014
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 106.42,
+      "end": 136.4,
+      "text": "તે દરેક વરશ્ય આપણે 12-12,000 સું કરના છે ઘસારઅ ત લિખીએ માનડી ગળવનચે",
+      "language": "gu",
+      "avg_logprob": -0.3931,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "તે",
+          "start": 106.42,
+          "end": 106.46,
+          "probability": 0.9342
+        },
+        {
+          "word": "દરેક",
+          "start": 106.46,
+          "end": 107.34,
+          "probability": 0.9699
+        },
+        {
+          "word": "વરશ્ય",
+          "start": 107.34,
+          "end": 107.72,
+          "probability": 0.8543
+        },
+        {
+          "word": "આપણે",
+          "start": 107.72,
+          "end": 108.0,
+          "probability": 0.9429
+        },
+        {
+          "word": "12",
+          "start": 108.0,
+          "end": 108.26,
+          "probability": 0.1647
+        },
+        {
+          "word": "-12",
+          "start": 108.26,
+          "end": 108.42,
+          "probability": 0.5514
+        },
+        {
+          "word": ",000",
+          "start": 108.42,
+          "end": 108.76,
+          "probability": 0.6722
+        },
+        {
+          "word": "સું",
+          "start": 108.76,
+          "end": 109.38,
+          "probability": 0.9205
+        },
+        {
+          "word": "કરના",
+          "start": 109.38,
+          "end": 109.78,
+          "probability": 0.9136
+        },
+        {
+          "word": "છે",
+          "start": 109.78,
+          "end": 109.96,
+          "probability": 0.9817
+        },
+        {
+          "word": "ঘસારઅ",
+          "start": 109.96,
+          "end": 110.46,
+          "probability": 0.7957
+        },
+        {
+          "word": "ત",
+          "start": 110.46,
+          "end": 110.6,
+          "probability": 0.8971
+        },
+        {
+          "word": "લિખીએ",
+          "start": 110.6,
+          "end": 124.4,
+          "probability": 0.6171
+        },
+        {
+          "word": "માનડી",
+          "start": 124.4,
+          "end": 125.16,
+          "probability": 0.8524
+        },
+        {
+          "word": "ગળવનચે",
+          "start": 125.16,
+          "end": 136.4,
+          "probability": 0.805
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 136.4,
+      "end": 166.2,
+      "text": "બરોબર પછી આપને પાછા 2020 મા ગેણું અસે । બ એક 30 દાવા 2021 મ ઘસારો ગ જેનુન અન્ની 1-1 2023 ન રોજ આ બાખિ અહયાન નૈ",
+      "language": "gu",
+      "avg_logprob": -0.4853,
+      "no_speech_prob": 0.0007,
+      "words": [
+        {
+          "word": "બરોભર",
+          "start": 136.4,
+          "end": 137.24,
+          "probability": 0.8355
+        },
+        {
+          "word": "પછી",
+          "start": 137.24,
+          "end": 137.92,
+          "probability": 0.9655
+        },
+        {
+          "word": "આપને",
+          "start": 137.92,
+          "end": 138.2,
+          "probability": 0.9102
+        },
+        {
+          "word": "પाચ્છા",
+          "start": 138.2,
+          "end": 138.66,
+          "probability": 0.7323
+        },
+        {
+          "word": "2020",
+          "start": 138.66,
+          "end": 138.84,
+          "probability": 0.0785
+        },
+        {
+          "word": "મા",
+          "start": 138.84,
+          "end": 139.72,
+          "probability": 0.9056
+        },
+        {
+          "word": "ગેણું",
+          "start": 139.72,
+          "end": 140.34,
+          "probability": 0.7832
+        },
+        {
+          "word": "અસે",
+          "start": 140.34,
+          "end": 140.54,
+          "probability": 0.8445
+        },
+        {
+          "word": "।",
+          "start": 140.54,
+          "end": 141.32,
+          "probability": 0.3859
+        },
+        {
+          "word": "બ",
+          "start": 141.32,
+          "end": 141.7,
+          "probability": 0.8953
+        },
+        {
+          "word": "એક",
+          "start": 141.7,
+          "end": 142.32,
+          "probability": 0.7123
+        },
+        {
+          "word": "30",
+          "start": 142.32,
+          "end": 142.54,
+          "probability": 0.0134
+        },
+        {
+          "word": "દાવા",
+          "start": 142.54,
+          "end": 142.88,
+          "probability": 0.803
+        },
+        {
+          "word": "2021",
+          "start": 142.88,
+          "end": 143.08,
+          "probability": 0.0583
+        },
+        {
+          "word": "મ",
+          "start": 143.08,
+          "end": 143.6,
+          "probability": 0.9148
+        },
+        {
+          "word": "ઘશાরો",
+          "start": 143.6,
+          "end": 144.0,
+          "probability": 0.7269
+        },
+        {
+          "word": "ગ",
+          "start": 144.0,
+          "end": 144.1,
+          "probability": 0.9479
+        },
+        {
+          "word": "જેનુન",
+          "start": 144.1,
+          "end": 144.28,
+          "probability": 0.6849
+        },
+        {
+          "word": "અન્ની",
+          "start": 144.28,
+          "end": 148.38,
+          "probability": 0.6055
+        },
+        {
+          "word": "1",
+          "start": 148.38,
+          "end": 149.2,
+          "probability": 0.049
+        },
+        {
+          "word": "-1",
+          "start": 149.2,
+          "end": 149.44,
+          "probability": 0.4295
+        },
+        {
+          "word": "2023",
+          "start": 149.44,
+          "end": 149.82,
+          "probability": 0.6069
+        },
+        {
+          "word": "ન",
+          "start": 149.82,
+          "end": 150.24,
+          "probability": 0.9173
+        },
+        {
+          "word": "રੋજ",
+          "start": 150.24,
+          "end": 150.5,
+          "probability": 0.7613
+        },
+        {
+          "word": "આ",
+          "start": 150.5,
+          "end": 150.68,
+          "probability": 0.9655
+        },
+        {
+          "word": "બাખિ",
+          "start": 150.68,
+          "end": 151.4,
+          "probability": 0.591
+        },
+        {
+          "word": "અઅહયાન",
+          "start": 151.4,
+          "end": 151.88,
+          "probability": 0.6058
+        },
+        {
+          "word": "નૈ",
+          "start": 151.88,
+          "end": 166.04,
+          "probability": 0.5313
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 166.2,
+      "end": 171.81,
+      "text": "4 ઘસારની અકડિગયા છે બરભર છ તો આપણે 100 રૂપીયું થઈલી હશે",
+      "language": "gu",
+      "avg_logprob": -0.3761,
+      "no_speech_prob": 0.0006,
+      "words": [
+        {
+          "word": "4",
+          "start": 166.2,
+          "end": 166.48,
+          "probability": 0.0056
+        },
+        {
+          "word": "ગ્સારની",
+          "start": 166.48,
+          "end": 167.28,
+          "probability": 0.8243
+        },
+        {
+          "word": "અકડિગયા",
+          "start": 167.28,
+          "end": 167.72,
+          "probability": 0.7972
+        },
+        {
+          "word": "છે",
+          "start": 167.72,
+          "end": 167.94,
+          "probability": 0.9595
+        },
+        {
+          "word": "બરભર",
+          "start": 167.94,
+          "end": 168.4,
+          "probability": 0.8313
+        },
+        {
+          "word": "છ",
+          "start": 168.4,
+          "end": 168.5,
+          "probability": 0.9756
+        },
+        {
+          "word": "તો",
+          "start": 168.5,
+          "end": 169.12,
+          "probability": 0.8459
+        },
+        {
+          "word": "આપણે",
+          "start": 169.12,
+          "end": 169.44,
+          "probability": 0.9764
+        },
+        {
+          "word": "100",
+          "start": 169.44,
+          "end": 170.72,
+          "probability": 0.6353
+        },
+        {
+          "word": "રૂપીયું",
+          "start": 170.72,
+          "end": 171.1,
+          "probability": 0.8212
+        },
+        {
+          "word": "થઈલી",
+          "start": 171.1,
+          "end": 171.4,
+          "probability": 0.7934
+        },
+        {
+          "word": "হશે",
+          "start": 171.4,
+          "end": 171.81,
+          "probability": 0.6458
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 177.09,
+      "end": 194.93,
+      "text": "વાર્શિક ઘસાનો તે 10 અહીં 12 ટકા લેખે ગણવનું છે",
+      "language": "gu",
+      "avg_logprob": -0.4102,
+      "no_speech_prob": 0.0009,
+      "words": [
+        {
+          "word": "વાર્શિક",
+          "start": 177.09,
+          "end": 177.65,
+          "probability": 0.9279
+        },
+        {
+          "word": "ઘસાનો",
+          "start": 177.65,
+          "end": 178.09,
+          "probability": 0.8891
+        },
+        {
+          "word": "તે",
+          "start": 178.09,
+          "end": 179.11,
+          "probability": 0.735
+        },
+        {
+          "word": "10",
+          "start": 183.05,
+          "end": 183.31,
+          "probability": 0.1604
+        },
+        {
+          "word": "અહીં",
+          "start": 183.31,
+          "end": 184.01,
+          "probability": 0.7737
+        },
+        {
+          "word": "12",
+          "start": 184.01,
+          "end": 185.47,
+          "probability": 0.0071
+        },
+        {
+          "word": "ટકા",
+          "start": 185.47,
+          "end": 186.61,
+          "probability": 0.837
+        },
+        {
+          "word": "લેખે",
+          "start": 186.61,
+          "end": 187.49,
+          "probability": 0.8117
+        },
+        {
+          "word": "ગણવનું",
+          "start": 187.49,
+          "end": 193.17,
+          "probability": 0.7873
+        },
+        {
+          "word": "છે",
+          "start": 193.17,
+          "end": 194.93,
+          "probability": 0.8712
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 194.93,
+      "end": 198.03,
+      "text": "તો 12 રૂપ્યા કેટલી વખત થાક અહે 4 વખત",
+      "language": "gu",
+      "avg_logprob": -0.3397,
+      "no_speech_prob": 0.0011,
+      "words": [
+        {
+          "word": "તો",
+          "start": 194.93,
+          "end": 195.17,
+          "probability": 0.9171
+        },
+        {
+          "word": "12",
+          "start": 195.17,
+          "end": 195.37,
+          "probability": 0.3804
+        },
+        {
+          "word": "રૂપ્યા",
+          "start": 195.37,
+          "end": 195.91,
+          "probability": 0.9572
+        },
+        {
+          "word": "કેટલી",
+          "start": 195.91,
+          "end": 196.61,
+          "probability": 0.976
+        },
+        {
+          "word": "વખત",
+          "start": 196.61,
+          "end": 196.91,
+          "probability": 0.9816
+        },
+        {
+          "word": "થાક",
+          "start": 196.91,
+          "end": 197.15,
+          "probability": 0.884
+        },
+        {
+          "word": "અહે",
+          "start": 197.15,
+          "end": 197.39,
+          "probability": 0.7927
+        },
+        {
+          "word": "4",
+          "start": 197.39,
+          "end": 197.59,
+          "probability": 0.2139
+        },
+        {
+          "word": "વখત",
+          "start": 197.59,
+          "end": 198.03,
+          "probability": 0.8832
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 198.03,
+      "end": 224.97,
+      "text": "આપણે ઘસાનું ગહિળેનો તૌ દરએક વખત 12 બાર",
+      "language": "gu",
+      "avg_logprob": -0.3397,
+      "no_speech_prob": 0.0011,
+      "words": [
+        {
+          "word": "આપણે",
+          "start": 198.03,
+          "end": 198.33,
+          "probability": 0.9786
+        },
+        {
+          "word": "ઘસાનું",
+          "start": 198.33,
+          "end": 198.71,
+          "probability": 0.8763
+        },
+        {
+          "word": "ગહિળેનો",
+          "start": 198.71,
+          "end": 198.99,
+          "probability": 0.7938
+        },
+        {
+          "word": "તौ",
+          "start": 198.99,
+          "end": 206.59,
+          "probability": 0.6838
+        },
+        {
+          "word": "દરએક",
+          "start": 206.59,
+          "end": 216.29,
+          "probability": 0.8598
+        },
+        {
+          "word": "วખ્અથે",
+          "start": 216.29,
+          "end": 216.83,
+          "probability": 0.7567
+        },
+        {
+          "word": "12",
+          "start": 216.83,
+          "end": 216.83,
+          "probability": 0.7148
+        },
+        {
+          "word": "બાর",
+          "start": 216.89,
+          "end": 224.97,
+          "probability": 0.7369
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 229.51,
+      "end": 244.45,
+      "text": "ક્ષારબાદની 1,1-2023 ને ભાખી આપણનો 52 રૂપીયા મળે",
+      "language": "gu",
+      "avg_logprob": -0.4563,
+      "no_speech_prob": 0.0002,
+      "words": [
+        {
+          "word": "ક્ષારબા��દની",
+          "start": 229.51,
+          "end": 230.51,
+          "probability": 0.8172
+        },
+        {
+          "word": "1",
+          "start": 230.51,
+          "end": 231.51,
+          "probability": 0.3535
+        },
+        {
+          "word": ",1",
+          "start": 235.0,
+          "end": 235.44,
+          "probability": 0.3839
+        },
+        {
+          "word": "-2023",
+          "start": 235.44,
+          "end": 236.26,
+          "probability": 0.2826
+        },
+        {
+          "word": "ને",
+          "start": 236.26,
+          "end": 236.72,
+          "probability": 0.7459
+        },
+        {
+          "word": "ભાઅખી",
+          "start": 236.72,
+          "end": 237.58,
+          "probability": 0.7927
+        },
+        {
+          "word": "આપણનો",
+          "start": 239.79,
+          "end": 243.61,
+          "probability": 0.7978
+        },
+        {
+          "word": "52",
+          "start": 243.61,
+          "end": 243.87,
+          "probability": 0.1642
+        },
+        {
+          "word": "રૂપીયા",
+          "start": 243.87,
+          "end": 244.29,
+          "probability": 0.8888
+        },
+        {
+          "word": "મળે",
+          "start": 244.29,
+          "end": 244.45,
+          "probability": 0.9419
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 245.51,
+      "end": 265.75,
+      "text": "એક ,2,013 નિ હવું સૌથવી છે",
+      "language": "gu",
+      "avg_logprob": -0.4563,
+      "no_speech_prob": 0.0002,
+      "words": [
+        {
+          "word": "એક",
+          "start": 245.51,
+          "end": 246.51,
+          "probability": 0.8323
+        },
+        {
+          "word": ",2",
+          "start": 246.51,
+          "end": 246.77,
+          "probability": 0.0697
+        },
+        {
+          "word": ",013",
+          "start": 246.77,
+          "end": 247.09,
+          "probability": 0.3114
+        },
+        {
+          "word": "નિ",
+          "start": 247.09,
+          "end": 247.43,
+          "probability": 0.7413
+        },
+        {
+          "word": "હવું",
+          "start": 247.43,
+          "end": 247.93,
+          "probability": 0.7107
+        },
+        {
+          "word": "સૌથવੀ",
+          "start": 247.93,
+          "end": 260.71,
+          "probability": 0.6733
+        },
+        {
+          "word": "છે",
+          "start": 261.93,
+          "end": 265.75,
+          "probability": 0.8562
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 265.77,
+      "end": 277.52,
+      "text": "અરોબર છે તો મૂળ કિંમાથ છ આપડી 100 રુપ્યા તો 100 લોન જશ્ન અને 70,000 ગુણીયન 60 ભેહેનગા 52",
+      "language": "gu",
+      "avg_logprob": -0.4558,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "અરોબર",
+          "start": 265.77,
+          "end": 266.77,
+          "probability": 0.7945
+        },
+        {
+          "word": "છે",
+          "start": 266.77,
+          "end": 266.91,
+          "probability": 0.9754
+        },
+        {
+          "word": "તો",
+          "start": 266.91,
+          "end": 267.01,
+          "probability": 0.9789
+        },
+        {
+          "word": "મૂળ",
+          "start": 267.01,
+          "end": 267.21,
+          "probability": 0.961
+        },
+        {
+          "word": "કિંમાથ",
+          "start": 267.21,
+          "end": 267.59,
+          "probability": 0.8394
+        },
+        {
+          "word": "છ",
+          "start": 267.59,
+          "end": 267.77,
+          "probability": 0.9922
+        },
+        {
+          "word": "આપડી",
+          "start": 267.77,
+          "end": 268.09,
+          "probability": 0.8768
+        },
+        {
+          "word": "100",
+          "start": 268.09,
+          "end": 269.15,
+          "probability": 0.3518
+        },
+        {
+          "word": "રੁપ્યા",
+          "start": 269.15,
+          "end": 269.61,
+          "probability": 0.8752
+        },
+        {
+          "word": "તो",
+          "start": 269.61,
+          "end": 270.11,
+          "probability": 0.7625
+        },
+        {
+          "word": "100",
+          "start": 270.11,
+          "end": 270.27,
+          "probability": 0.8828
+        },
+        {
+          "word": "લોન",
+          "start": 270.27,
+          "end": 270.63,
+          "probability": 0.6863
+        },
+        {
+          "word": "જશ્ન",
+          "start": 270.63,
+          "end": 271.83,
+          "probability": 0.5225
+        },
+        {
+          "word": "અને",
+          "start": 271.83,
+          "end": 272.35,
+          "probability": 0.6721
+        },
+        {
+          "word": "70",
+          "start": 272.35,
+          "end": 272.37,
+          "probability": 0.0088
+        },
+        {
+          "word": ",000",
+          "start": 272.37,
+          "end": 273.25,
+          "probability": 0.7437
+        },
+        {
+          "word": "ગુણીયન",
+          "start": 274.4,
+          "end": 276.02,
+          "probability": 0.8556
+        },
+        {
+          "word": "60",
+          "start": 276.02,
+          "end": 276.66,
+          "probability": 0.1731
+        },
+        {
+          "word": "ભેહેનગા",
+          "start": 276.66,
+          "end": 277.34,
+          "probability": 0.7415
+        },
+        {
+          "word": "52",
+          "start": 277.34,
+          "end": 277.52,
+          "probability": 0.8281
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 283.95,
+      "end": 290.19,
+      "text": "હેન્ગા 22 અને 15 લાખ છે એ ની શું થઈ જાનો મૂળ કિંમત",
+      "language": "gu",
+      "avg_logprob": -0.4414,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "હેન્ગા",
+          "start": 283.95,
+          "end": 284.29,
+          "probability": 0.825
+        },
+        {
+          "word": "22",
+          "start": 284.29,
+          "end": 284.63,
+          "probability": 0.1932
+        },
+        {
+          "word": "અને",
+          "start": 284.63,
+          "end": 285.13,
+          "probability": 0.835
+        },
+        {
+          "word": "15",
+          "start": 285.13,
+          "end": 285.87,
+          "probability": 0.2109
+        },
+        {
+          "word": "લાખ",
+          "start": 285.87,
+          "end": 286.81,
+          "probability": 0.9439
+        },
+        {
+          "word": "છે",
+          "start": 286.81,
+          "end": 288.07,
+          "probability": 0.9041
+        },
+        {
+          "word": "એ",
+          "start": 288.07,
+          "end": 288.33,
+          "probability": 0.8063
+        },
+        {
+          "word": "ની",
+          "start": 288.33,
+          "end": 288.55,
+          "probability": 0.8347
+        },
+        {
+          "word": "શું",
+          "start": 288.55,
+          "end": 288.69,
+          "probability": 0.9111
+        },
+        {
+          "word": "થઈ",
+          "start": 288.69,
+          "end": 288.89,
+          "probability": 0.7933
+        },
+        {
+          "word": "જાનો",
+          "start": 288.89,
+          "end": 289.23,
+          "probability": 0.7947
+        },
+        {
+          "word": "મૂળ",
+          "start": 289.23,
+          "end": 289.53,
+          "probability": 0.9196
+        },
+        {
+          "word": "કિંમત",
+          "start": 289.53,
+          "end": 290.19,
+          "probability": 0.9555
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 290.98,
+      "end": 293.1,
+      "text": "આયા આ પણે લોખ્નૌ દરીસુન મૂળ",
+      "language": "gu",
+      "avg_logprob": -0.4414,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "આયા",
+          "start": 290.98,
+          "end": 291.46,
+          "probability": 0.7421
+        },
+        {
+          "word": "આ",
+          "start": 291.46,
+          "end": 291.64,
+          "probability": 0.8757
+        },
+        {
+          "word": "પણે",
+          "start": 291.64,
+          "end": 291.8,
+          "probability": 0.7848
+        },
+        {
+          "word": "লોખ્નૌ",
+          "start": 291.8,
+          "end": 292.18,
+          "probability": 0.7011
+        },
+        {
+          "word": "દરીસુન",
+          "start": 292.18,
+          "end": 292.42,
+          "probability": 0.604
+        },
+        {
+          "word": "મूળ",
+          "start": 292.42,
+          "end": 293.1,
+          "probability": 0.7493
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 294.94,
+      "end": 299.74,
+      "text": "કિંનમન ૧૫ લ ચલો",
+      "language": "gu",
+      "avg_logprob": -0.4414,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "કिંનમન",
+          "start": 294.94,
+          "end": 295.42,
+          "probability": 0.7116
+        },
+        {
+          "word": "૧૫",
+          "start": 295.42,
+          "end": 296.8,
+          "probability": 0.5408
+        },
+        {
+          "word": "લ",
+          "start": 297.05,
+          "end": 297.71,
+          "probability": 0.9441
+        },
+        {
+          "word": "ચલો",
+          "start": 297.84,
+          "end": 299.74,
+          "probability": 0.7388
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 300.51,
+      "end": 302.97,
+      "text": "કેલું કામ આપડો પૂરી થેન્ગી ।",
+      "language": "gu",
+      "avg_logprob": -0.4174,
+      "no_speech_prob": 0.0002,
+      "words": [
+        {
+          "word": "કેલું",
+          "start": 300.51,
+          "end": 301.61,
+          "probability": 0.8943
+        },
+        {
+          "word": "કाમ",
+          "start": 301.61,
+          "end": 301.81,
+          "probability": 0.8684
+        },
+        {
+          "word": "આપડો",
+          "start": 301.81,
+          "end": 302.09,
+          "probability": 0.9027
+        },
+        {
+          "word": "પૂરી",
+          "start": 302.09,
+          "end": 302.55,
+          "probability": 0.912
+        },
+        {
+          "word": "થેન્ગી",
+          "start": 302.55,
+          "end": 302.91,
+          "probability": 0.7989
+        },
+        {
+          "word": "।",
+          "start": 302.91,
+          "end": 302.97,
+          "probability": 0.4357
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 302.97,
+      "end": 304.53,
+      "text": "અવે આ બીજુને કામ રિએ",
+      "language": "gu",
+      "avg_logprob": -0.4174,
+      "no_speech_prob": 0.0002,
+      "words": [
+        {
+          "word": "અવે",
+          "start": 302.97,
+          "end": 303.33,
+          "probability": 0.8135
+        },
+        {
+          "word": "આ",
+          "start": 303.33,
+          "end": 303.49,
+          "probability": 0.9789
+        },
+        {
+          "word": "બીજુને",
+          "start": 303.49,
+          "end": 304.11,
+          "probability": 0.7973
+        },
+        {
+          "word": "কામ",
+          "start": 304.11,
+          "end": 304.19,
+          "probability": 0.8208
+        },
+        {
+          "word": "֪�રિએ",
+          "start": 304.19,
+          "end": 304.53,
+          "probability": 0.7527
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 304.53,
+      "end": 305.27,
+      "text": "તૌકે મૂકીણત ઉપનો �",
+      "language": "gu",
+      "avg_logprob": -0.4174,
+      "no_speech_prob": 0.0002,
+      "words": [
+        {
+          "word": "તૌકে",
+          "start": 304.53,
+          "end": 305.27,
+          "probability": 0.7904
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 305.27,
+      "end": 323.85,
+      "text": "મૂળ કીમત ઉપર આપને ખેલા ટકાનો ઘસારો ગણવાનું છે 12 ટક અન્ય આ બન્ની એટલું વૈધારિ લોખવડું થોડીકહે",
+      "language": "gu",
+      "avg_logprob": -0.3275,
+      "no_speech_prob": 0.0002,
+      "words": [
+        {
+          "word": "મૂળ",
+          "start": 305.27,
+          "end": 305.49,
+          "probability": 0.8671
+        },
+        {
+          "word": "કીમત",
+          "start": 305.49,
+          "end": 305.85,
+          "probability": 0.8853
+        },
+        {
+          "word": "ઉપર",
+          "start": 305.85,
+          "end": 306.13,
+          "probability": 0.9819
+        },
+        {
+          "word": "આપને",
+          "start": 306.13,
+          "end": 306.41,
+          "probability": 0.9037
+        },
+        {
+          "word": "ખેલા",
+          "start": 306.41,
+          "end": 306.65,
+          "probability": 0.8759
+        },
+        {
+          "word": "ટકઅ",
+          "start": 306.65,
+          "end": 306.89,
+          "probability": 0.822
+        },
+        {
+          "word": "ઘસારો",
+          "start": 306.89,
+          "end": 307.27,
+          "probability": 0.9586
+        },
+        {
+          "word": "ગણવાનું",
+          "start": 307.27,
+          "end": 307.69,
+          "probability": 0.9127
+        },
+        {
+          "word": "છે",
+          "start": 307.69,
+          "end": 307.79,
+          "probability": 0.9782
+        },
+        {
+          "word": "12",
+          "start": 307.79,
+          "end": 307.95,
+          "probability": 0.1675
+        },
+        {
+          "word": "ટ",
+          "start": 307.95,
+          "end": 308.17,
+          "probability": 0.9834
+        },
+        {
+          "word": "ક",
+          "start": 308.17,
+          "end": 308.27,
+          "probability": 0.3753
+        },
+        {
+          "word": "અન્ય",
+          "start": 308.27,
+          "end": 308.75,
+          "probability": 0.8048
+        },
+        {
+          "word": "આ",
+          "start": 308.75,
+          "end": 308.89,
+          "probability": 0.9259
+        },
+        {
+          "word": "બંની",
+          "start": 309.63,
+          "end": 323.85,
+          "probability": 0.6444
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 323.85,
+      "end": 327.85,
+      "text": "જેમાં, તમને બન્ની અટલું વધારવા લખવું છે, લક્ષણ વ્યાખ્યા કોરિંગ.",
+      "language": "gu",
+      "avg_logprob": -0.3294,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "જેમાં,",
+          "start": 323.85,
+          "end": 324.23,
+          "probability": 0.9863
+        },
+        {
+          "word": "તમને",
+          "start": 324.33,
+          "end": 324.93,
+          "probability": 0.879
+        },
+        {
+          "word": "બંની",
+          "start": 324.93,
+          "end": 325.47,
+          "probability": 0.868
+        },
+        {
+          "word": "અટલું",
+          "start": 325.47,
+          "end": 325.85,
+          "probability": 0.9158
+        },
+        {
+          "word": "વધાઅરે",
+          "start": 325.85,
+          "end": 326.15,
+          "probability": 0.9329
+        },
+        {
+          "word": "লખવુન્દ,",
+          "start": 326.15,
+          "end": 326.77,
+          "probability": 0.7637
+        },
+        {
+          "word": "લકહણ",
+          "start": 326.79,
+          "end": 327.11,
+          "probability": 0.8355
+        },
+        {
+          "word": "વᪧયાর",
+          "start": 327.11,
+          "end": 327.47,
+          "probability": 0.791
+        },
+        {
+          "word": "કોરિંગ.",
+          "start": 327.47,
+          "end": 327.85,
+          "probability": 0.7545
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 327.85,
+      "end": 337.39,
+      "text": "થોડુક explanation વધારી ને લખું બરબર જેથિ 10 marks મા આપણે 5 marks છ્યાન એ પૂરું પૂરો મળી છે",
+      "language": "gu",
+      "avg_logprob": -0.3312,
+      "no_speech_prob": 0.005,
+      "words": [
+        {
+          "word": "થોડુક",
+          "start": 327.85,
+          "end": 328.65,
+          "probability": 0.9048
+        },
+        {
+          "word": "explanation",
+          "start": 328.65,
+          "end": 328.95,
+          "probability": 0.1902
+        },
+        {
+          "word": "વધારી",
+          "start": 328.95,
+          "end": 329.93,
+          "probability": 0.881
+        },
+        {
+          "word": "ને",
+          "start": 329.93,
+          "end": 330.13,
+          "probability": 0.8658
+        },
+        {
+          "word": "લખુઅં",
+          "start": 330.13,
+          "end": 330.55,
+          "probability": 0.8302
+        },
+        {
+          "word": "બરભર",
+          "start": 330.55,
+          "end": 331.29,
+          "probability": 0.8401
+        },
+        {
+          "word": "જેથિ",
+          "start": 331.29,
+          "end": 331.61,
+          "probability": 0.9017
+        },
+        {
+          "word": "10",
+          "start": 331.61,
+          "end": 331.91,
+          "probability": 0.0249
+        },
+        {
+          "word": "marks",
+          "start": 331.91,
+          "end": 332.47,
+          "probability": 0.3735
+        },
+        {
+          "word": "મા",
+          "start": 332.47,
+          "end": 333.03,
+          "probability": 0.9515
+        },
+        {
+          "word": "આપણે",
+          "start": 333.03,
+          "end": 333.73,
+          "probability": 0.8914
+        },
+        {
+          "word": "5",
+          "start": 333.73,
+          "end": 333.87,
+          "probability": 0.4102
+        },
+        {
+          "word": "marks",
+          "start": 333.87,
+          "end": 334.29,
+          "probability": 0.9087
+        },
+        {
+          "word": "છ્યાન",
+          "start": 334.29,
+          "end": 334.73,
+          "probability": 0.8667
+        },
+        {
+          "word": "એ",
+          "start": 334.73,
+          "end": 335.19,
+          "probability": 0.5653
+        },
+        {
+          "word": "પૂરੀ",
+          "start": 335.19,
+          "end": 336.25,
+          "probability": 0.7868
+        },
+        {
+          "word": "પूરा",
+          "start": 336.25,
+          "end": 336.59,
+          "probability": 0.7678
+        },
+        {
+          "word": "મळી",
+          "start": 336.59,
+          "end": 337.27,
+          "probability": 0.8649
+        },
+        {
+          "word": "জે",
+          "start": 337.27,
+          "end": 337.39,
+          "probability": 0.7442
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 337.42,
+      "end": 355.46,
+      "text": "તોડું અટલું વધારે લખ્યું બરબર છે થોડીક explanation થોડીક દહારીને",
+      "language": "gu",
+      "avg_logprob": -0.3736,
+      "no_speech_prob": 0.0294,
+      "words": [
+        {
+          "word": "તોડુન",
+          "start": 337.42,
+          "end": 338.82,
+          "probability": 0.7228
+        },
+        {
+          "word": "અટલું",
+          "start": 338.82,
+          "end": 338.82,
+          "probability": 0.8002
+        },
+        {
+          "word": "વધારે",
+          "start": 338.82,
+          "end": 339.1,
+          "probability": 0.965
+        },
+        {
+          "word": "લખ્યમી",
+          "start": 339.1,
+          "end": 339.48,
+          "probability": 0.7049
+        },
+        {
+          "word": "બરભર",
+          "start": 339.48,
+          "end": 340.66,
+          "probability": 0.8156
+        },
+        {
+          "word": "છે",
+          "start": 340.66,
+          "end": 341.66,
+          "probability": 0.9254
+        },
+        {
+          "word": "থો��ડક",
+          "start": 341.66,
+          "end": 342.28,
+          "probability": 0.7284
+        },
+        {
+          "word": "explanation",
+          "start": 342.28,
+          "end": 342.82,
+          "probability": 0.0705
+        },
+        {
+          "word": "થો",
+          "start": 342.82,
+          "end": 343.64,
+          "probability": 0.9362
+        },
+        {
+          "word": "દહાরીને",
+          "start": 343.64,
+          "end": 355.46,
+          "probability": 0.7503
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 355.46,
+      "end": 359.74,
+      "text": "4-4 વોરસનું એડ કાર્શૂ બહાર તમે એ દીગીને 132 બરોબર",
+      "language": "gu",
+      "avg_logprob": -0.5094,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "4",
+          "start": 355.46,
+          "end": 355.6,
+          "probability": 0.1372
+        },
+        {
+          "word": "-4",
+          "start": 355.6,
+          "end": 355.82,
+          "probability": 0.5412
+        },
+        {
+          "word": "વોરસનુઅ",
+          "start": 355.82,
+          "end": 356.3,
+          "probability": 0.746
+        },
+        {
+          "word": "એડ",
+          "start": 356.3,
+          "end": 356.42,
+          "probability": 0.9551
+        },
+        {
+          "word": "કાર્શૂ",
+          "start": 356.42,
+          "end": 356.76,
+          "probability": 0.7521
+        },
+        {
+          "word": "બહાর",
+          "start": 356.76,
+          "end": 357.0,
+          "probability": 0.7908
+        },
+        {
+          "word": "તમે",
+          "start": 357.0,
+          "end": 357.98,
+          "probability": 0.854
+        },
+        {
+          "word": "એ",
+          "start": 357.98,
+          "end": 358.1,
+          "probability": 0.9857
+        },
+        {
+          "word": "દીગીને",
+          "start": 358.1,
+          "end": 358.5,
+          "probability": 0.6751
+        },
+        {
+          "word": "१૩૨",
+          "start": 358.5,
+          "end": 359.5,
+          "probability": 0.5275
+        },
+        {
+          "word": "બ",
+          "start": 359.5,
+          "end": 359.74,
+          "probability": 0.9071
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 359.74,
+      "end": 370.14,
+      "text": "અરોબર તે એવી જીતને કરશો તો વતયારે ચાલું આહ્યન સૌભળ ખાનો ઘસારો 1500000 મૂડ કિંમત થી",
+      "language": "gu",
+      "avg_logprob": -0.4433,
+      "no_speech_prob": 0.0002,
+      "words": [
+        {
+          "word": "અરોબર",
+          "start": 359.74,
+          "end": 359.96,
+          "probability": 0.7826
+        },
+        {
+          "word": "તે",
+          "start": 359.96,
+          "end": 360.4,
+          "probability": 0.7816
+        },
+        {
+          "word": "એવી",
+          "start": 360.4,
+          "end": 360.52,
+          "probability": 0.8885
+        },
+        {
+          "word": "જીતને",
+          "start": 360.52,
+          "end": 360.9,
+          "probability": 0.8194
+        },
+        {
+          "word": "কરઓ",
+          "start": 360.9,
+          "end": 361.24,
+          "probability": 0.632
+        },
+        {
+          "word": "તो",
+          "start": 361.24,
+          "end": 361.38,
+          "probability": 0.7765
+        },
+        {
+          "word": "વતયારে",
+          "start": 361.38,
+          "end": 361.74,
+          "probability": 0.8425
+        },
+        {
+          "word": "ચલું",
+          "start": 361.74,
+          "end": 362.32,
+          "probability": 0.783
+        },
+        {
+          "word": "આહ્યન",
+          "start": 362.51,
+          "end": 364.65,
+          "probability": 0.7279
+        },
+        {
+          "word": "સૌભળ",
+          "start": 364.65,
+          "end": 365.69,
+          "probability": 0.651
+        },
+        {
+          "word": "ખાનો",
+          "start": 365.69,
+          "end": 365.91,
+          "probability": 0.765
+        },
+        {
+          "word": "ગસાরો",
+          "start": 365.91,
+          "end": 366.33,
+          "probability": 0.8333
+        },
+        {
+          "word": "1500000",
+          "start": 366.33,
+          "end": 368.29,
+          "probability": 0.2296
+        },
+        {
+          "word": "મૂડ",
+          "start": 368.74,
+          "end": 369.38,
+          "probability": 0.7669
+        },
+        {
+          "word": "કિંમત",
+          "start": 369.38,
+          "end": 369.72,
+          "probability": 0.8941
+        },
+        {
+          "word": "થી",
+          "start": 369.72,
+          "end": 370.14,
+          "probability": 0.8308
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 360.26,
+      "end": 364.15,
+      "text": "તો યેવિજીતે તમ આણે ઉતેરાની ચા�o",
+      "language": "gu",
+      "avg_logprob": -0.5094,
+      "no_speech_prob": 0.0003,
+      "words": []
+    },
+    {
+      "id": 33,
+      "start": 370.14,
+      "end": 377.43,
+      "text": "અહેન્દા આણો તુલ કીમત 12% અને ગૂણિયા",
+      "language": "gu",
+      "avg_logprob": -0.7557,
+      "no_speech_prob": 0.0011,
+      "words": [
+        {
+          "word": "અહેન્દા",
+          "start": 370.14,
+          "end": 370.82,
+          "probability": 0.6148
+        },
+        {
+          "word": "આણો",
+          "start": 370.82,
+          "end": 371.04,
+          "probability": 0.6571
+        },
+        {
+          "word": "તુલ",
+          "start": 371.04,
+          "end": 371.08,
+          "probability": 0.6692
+        },
+        {
+          "word": "કીમત",
+          "start": 371.08,
+          "end": 372.16,
+          "probability": 0.7077
+        },
+        {
+          "word": "12",
+          "start": 372.93,
+          "end": 374.37,
+          "probability": 0.0193
+        },
+        {
+          "word": "%",
+          "start": 374.37,
+          "end": 375.13,
+          "probability": 0.1825
+        },
+        {
+          "word": "અને",
+          "start": 375.13,
+          "end": 376.55,
+          "probability": 0.8412
+        },
+        {
+          "word": "ગૂણિયા",
+          "start": 376.99,
+          "end": 377.43,
+          "probability": 0.8219
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 377.43,
+      "end": 384.75,
+      "text": "એટલા થકે 146 દીનુનો 165",
+      "language": "gu",
+      "avg_logprob": -0.7557,
+      "no_speech_prob": 0.0011,
+      "words": [
+        {
+          "word": "એટલા",
+          "start": 377.43,
+          "end": 378.81,
+          "probability": 0.7729
+        },
+        {
+          "word": "থકে",
+          "start": 378.81,
+          "end": 379.15,
+          "probability": 0.5957
+        },
+        {
+          "word": "146",
+          "start": 379.15,
+          "end": 381.35,
+          "probability": 0.5714
+        },
+        {
+          "word": "દીનુનો",
+          "start": 381.35,
+          "end": 382.39,
+          "probability": 0.63
+        },
+        {
+          "word": "165",
+          "start": 382.39,
+          "end": 384.75,
+          "probability": 0.4188
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 384.75,
+      "end": 400.46,
+      "text": "ક આ ભારી તોડે 15,000,000",
+      "language": "gu",
+      "avg_logprob": -0.7557,
+      "no_speech_prob": 0.0011,
+      "words": [
+        {
+          "word": "ક",
+          "start": 384.75,
+          "end": 384.89,
+          "probability": 0.6608
+        },
+        {
+          "word": "આ",
+          "start": 384.89,
+          "end": 385.15,
+          "probability": 0.5184
+        },
+        {
+          "word": "ભારી",
+          "start": 385.15,
+          "end": 385.35,
+          "probability": 0.6558
+        },
+        {
+          "word": "તौડે",
+          "start": 385.35,
+          "end": 387.51,
+          "probability": 0.5565
+        },
+        {
+          "word": "15",
+          "start": 387.51,
+          "end": 389.25,
+          "probability": 0.0346
+        },
+        {
+          "word": ",000",
+          "start": 389.54,
+          "end": 397.88,
+          "probability": 0.4199
+        },
+        {
+          "word": ",000",
+          "start": 397.88,
+          "end": 400.46,
+          "probability": 0.8711
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 410.78,
+      "end": 413.1,
+      "text": "તેન અહ્ર કાટે ફાડવાનો ઘસારો થઈ જયશે 32,000 બરોબર છીએ ચલો 5 માર્ક્સમાં સમ કૂછયી આખીન એકમ",
+      "language": "gu",
+      "avg_logprob": -0.4251,
+      "no_speech_prob": 0.0007,
+      "words": [
+        {
+          "word": "તેન",
+          "start": 410.78,
+          "end": 412.14,
+          "probability": 0.605
+        },
+        {
+          "word": "અહ્ર",
+          "start": 412.14,
+          "end": 412.42,
+          "probability": 0.6267
+        },
+        {
+          "word": "કાટે",
+          "start": 412.42,
+          "end": 413.1,
+          "probability": 0.6378
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 413.1,
+      "end": 420.22,
+      "text": "હેન્થી અનુક સારો થઈ જયશે 32,000 બરબર છે ચલો 5 માર્ક્સમાં સમ ઉચેગીઓ એકદમ",
+      "language": "gu",
+      "avg_logprob": -0.4208,
+      "no_speech_prob": 0.0031,
+      "words": [
+        {
+          "word": "હેન્થી",
+          "start": 413.1,
+          "end": 413.36,
+          "probability": 0.6033
+        },
+        {
+          "word": "અનુક",
+          "start": 413.36,
+          "end": 413.8,
+          "probability": 0.6528
+        },
+        {
+          "word": "સારો",
+          "start": 413.8,
+          "end": 414.22,
+          "probability": 0.7531
+        },
+        {
+          "word": "થઈ",
+          "start": 414.22,
+          "end": 414.42,
+          "probability": 0.7959
+        },
+        {
+          "word": "જયશે",
+          "start": 414.42,
+          "end": 414.74,
+          "probability": 0.8189
+        },
+        {
+          "word": "32",
+          "start": 414.74,
+          "end": 415.12,
+          "probability": 0.226
+        },
+        {
+          "word": ",000",
+          "start": 415.12,
+          "end": 416.14,
+          "probability": 0.6166
+        },
+        {
+          "word": "બરભર",
+          "start": 416.3,
+          "end": 417.66,
+          "probability": 0.7879
+        },
+        {
+          "word": "છે",
+          "start": 417.66,
+          "end": 417.82,
+          "probability": 0.966
+        },
+        {
+          "word": "ચલો",
+          "start": 417.82,
+          "end": 418.28,
+          "probability": 0.8384
+        },
+        {
+          "word": "5",
+          "start": 418.28,
+          "end": 418.58,
+          "probability": 0.5347
+        },
+        {
+          "word": "માૂક્૷મે",
+          "start": 418.58,
+          "end": 419.08,
+          "probability": 0.7612
+        },
+        {
+          "word": "সમ",
+          "start": 419.08,
+          "end": 419.26,
+          "probability": 0.6757
+        },
+        {
+          "word": "ઉચેગીઓ",
+          "start": 419.26,
+          "end": 419.72,
+          "probability": 0.722
+        },
+        {
+          "word": "એકદમ",
+          "start": 419.72,
+          "end": 420.22,
+          "probability": 0.8732
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 423.78,
+      "end": 442.1,
+      "text": "કેન્થાવતી આહીં જયો બરબર છે ચાટાના શસાઈ ગહણતે એમદે 4",
+      "language": "gu",
+      "avg_logprob": -0.9318,
+      "no_speech_prob": 0.001,
+      "words": [
+        {
+          "word": "કેન્થાઅવતિ",
+          "start": 423.78,
+          "end": 425.18,
+          "probability": 0.6023
+        },
+        {
+          "word": "આહીં",
+          "start": 425.18,
+          "end": 425.18,
+          "probability": 0.6783
+        },
+        {
+          "word": "જયો",
+          "start": 425.18,
+          "end": 425.68,
+          "probability": 0.6049
+        },
+        {
+          "word": "બરુભર",
+          "start": 425.68,
+          "end": 432.14,
+          "probability": 0.6881
+        },
+        {
+          "word": "છે",
+          "start": 432.14,
+          "end": 432.28,
+          "probability": 0.7945
+        },
+        {
+          "word": "ચાટાના",
+          "start": 432.28,
+          "end": 432.9,
+          "probability": 0.6741
+        },
+        {
+          "word": "શસાੀ",
+          "start": 432.9,
+          "end": 434.1,
+          "probability": 0.5609
+        },
+        {
+          "word": "ગહણતે",
+          "start": 434.1,
+          "end": 438.44,
+          "probability": 0.5926
+        },
+        {
+          "word": "এમદે",
+          "start": 438.44,
+          "end": 441.92,
+          "probability": 0.5435
+        },
+        {
+          "word": "४",
+          "start": 441.92,
+          "end": 442.1,
+          "probability": 0.522
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 442.1,
+      "end": 445.62,
+      "text": "ખાને લોડબાકાર ઉપધે �",
+      "language": "gu",
+      "avg_logprob": -0.9318,
+      "no_speech_prob": 0.001,
+      "words": [
+        {
+          "word": "ખા્ને",
+          "start": 442.1,
+          "end": 442.1,
+          "probability": 0.5456
+        },
+        {
+          "word": "֪લોડ્বા��કાর",
+          "start": 442.1,
+          "end": 443.58,
+          "probability": 0.5063
+        },
+        {
+          "word": "ઉપધે",
+          "start": 443.58,
+          "end": 443.82,
+          "probability": 0.6394
+        },
+        {
+          "word": "�",
+          "start": 443.82,
+          "end": 445.62,
+          "probability": 0.3884
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 445.62,
+      "end": 450.69,
+      "text": "તો like કરજું, share કરજું ને અન્ના subscribe ચેનલની ઝડપથીક આણીનગ જયો",
+      "language": "gu",
+      "avg_logprob": -0.4514,
+      "no_speech_prob": 0.0026,
+      "words": [
+        {
+          "word": "તો",
+          "start": 445.62,
+          "end": 446.1,
+          "probability": 0.9724
+        },
+        {
+          "word": "like",
+          "start": 446.1,
+          "end": 446.46,
+          "probability": 0.1979
+        },
+        {
+          "word": "કરજું,",
+          "start": 446.46,
+          "end": 446.9,
+          "probability": 0.8758
+        },
+        {
+          "word": "share",
+          "start": 446.94,
+          "end": 447.14,
+          "probability": 0.5835
+        },
+        {
+          "word": "કাર્જੁં",
+          "start": 447.14,
+          "end": 447.54,
+          "probability": 0.7902
+        },
+        {
+          "word": "ને",
+          "start": 447.54,
+          "end": 447.7,
+          "probability": 0.7209
+        },
+        {
+          "word": "અન્ના",
+          "start": 447.7,
+          "end": 448.76,
+          "probability": 0.6953
+        },
+        {
+          "word": "subscribe",
+          "start": 448.76,
+          "end": 448.9,
+          "probability": 0.4089
+        },
+        {
+          "word": "ચેનલની",
+          "start": 448.9,
+          "end": 449.62,
+          "probability": 0.8184
+        },
+        {
+          "word": "ઝડ઼ુઅ",
+          "start": 449.62,
+          "end": 449.96,
+          "probability": 0.7018
+        },
+        {
+          "word": "થીક",
+          "start": 449.96,
+          "end": 450.1,
+          "probability": 0.8676
+        },
+        {
+          "word": "આણીનગ",
+          "start": 450.1,
+          "end": 450.34,
+          "probability": 0.6005
+        },
+        {
+          "word": "જયો",
+          "start": 450.34,
+          "end": 450.69,
+          "probability": 0.7378
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 450.69,
+      "end": 454.93,
+      "text": "જેતી કરીના આવતા videos તામને શળટથાં છીએ મળ્તનરહે thank you all the best for exams",
+      "language": "gu",
+      "avg_logprob": -0.344,
+      "no_speech_prob": 0.0336,
+      "words": [
+        {
+          "word": "જેતી",
+          "start": 450.69,
+          "end": 450.85,
+          "probability": 0.7979
+        },
+        {
+          "word": "કરીના",
+          "start": 450.85,
+          "end": 451.17,
+          "probability": 0.9159
+        },
+        {
+          "word": "આવતા",
+          "start": 451.17,
+          "end": 451.41,
+          "probability": 0.8937
+        },
+        {
+          "word": "videos",
+          "start": 451.41,
+          "end": 451.61,
+          "probability": 0.0307
+        },
+        {
+          "word": "તઅમને",
+          "start": 451.61,
+          "end": 452.03,
+          "probability": 0.9171
+        },
+        {
+          "word": "શળટથાં",
+          "start": 452.03,
+          "end": 452.45,
+          "probability": 0.764
+        },
+        {
+          "word": "છીએ",
+          "start": 452.45,
+          "end": 452.57,
+          "probability": 0.685
+        },
+        {
+          "word": "મળ્તનરહે",
+          "start": 452.57,
+          "end": 452.99,
+          "probability": 0.7573
+        },
+        {
+          "word": "thank",
+          "start": 452.99,
+          "end": 453.45,
+          "probability": 0.2551
+        },
+        {
+          "word": "you",
+          "start": 453.45,
+          "end": 453.71,
+          "probability": 0.9351
+        },
+        {
+          "word": "all",
+          "start": 453.71,
+          "end": 454.25,
+          "probability": 0.5796
+        },
+        {
+          "word": "the",
+          "start": 454.25,
+          "end": 454.39,
+          "probability": 0.9849
+        },
+        {
+          "word": "best",
+          "start": 454.39,
+          "end": 454.55,
+          "probability": 0.9941
+        },
+        {
+          "word": "for",
+          "start": 454.55,
+          "end": 454.69,
+          "probability": 0.7891
+        },
+        {
+          "word": "exams",
+          "start": 454.69,
+          "end": 454.93,
+          "probability": 0.7007
+        }
+      ]
+    }
+  ],
+  "full_text": "હેલો student, સુનચ્છું અઈરેન રજીગૃહણે આજા એપડે જોવાનો શે become same 1 નુ business accounting1 f5 જોયરાહીએ છે અન્દ ગુંત આલેકે સૌફર ના ઈશા�ુ આ જ આ 2,024 માન પૂચાણ નો એકડમ નનુન અવધ ઘસાણની ગ ગણત� અહ્રણ સમય ગાળો 146 દિવશ્વ છે તો સફર ખાની આણો 2400 અને 1,123 ના રોજ જહાંચ નૌ ઘસારા�ાઅધ કીમત 7,80,000 હનુ થારી ગ્રણ સમય ગાળો 146 દિવશ્વ છે તો સફર ખાતે ફાળવની ઘસારો ચોડહ આટલી તેની અહ્યાં આમદુ કરોચે ઘસારો ઘોથવાનો એટલે ૨. તમે શોન્ન જોવણ છે ખાઉડે ધિષે ગ હશાર ગ દરેક વરશ્યસ જે ઘાસાનો છે એટલી અહું આપણે direct સૌમત ચળુ ગરના થારોકે મીલ્કતની અથવા જહાંજને બરોબર છે? મૂળ કીમત સૌ ચે આપણે જાણશા મૂળખિયમત IP નથીઅનો આ પ્નૈ મ મૂર કીમત ઉપરજ સિધીન લેટીઅન અહ્યા ગણવાનો છે દરેક વરષે 12% ઘસારનું એટલઈ આપ્ને 1,00,000 નૌ આ બખતે અભ તે દરેક વરશ્ય આપણે 12-12,000 સું કરના છે ઘસારઅ ત લિખીએ માનડી ગળવનચે બરોબર પછી આપને પાછા 2020 મા ગેણું અસે । બ એક 30 દાવા 2021 મ ઘસારો ગ જેનુન અન્ની 1-1 2023 ન રોજ આ બાખિ અહયાન નૈ 4 ઘસારની અકડિગયા છે બરભર છ તો આપણે 100 રૂપીયું થઈલી હશે વાર્શિક ઘસાનો તે 10 અહીં 12 ટકા લેખે ગણવનું છે તો 12 રૂપ્યા કેટલી વખત થાક અહે 4 વખત આપણે ઘસાનું ગહિળેનો તૌ દરએક વખત 12 બાર ક્ષારબાદની 1,1-2023 ને ભાખી આપણનો 52 રૂપીયા મળે એક ,2,013 નિ હવું સૌથવી છે અરોબર છે તો મૂળ કિંમાથ છ આપડી 100 રુપ્યા તો 100 લોન જશ્ન અને 70,000 ગુણીયન 60 ભેહેનગા 52 હેન્ગા 22 અને 15 લાખ છે એ ની શું થઈ જાનો મૂળ કિંમત આયા આ પણે લોખ્નૌ દરીસુન મૂળ કિંનમન ૧૫ લ ચલો કેલું કામ આપડો પૂરી થેન્ગી । અવે આ બીજુને કામ રિએ તૌકે મૂકીણત ઉપનો � મૂળ કીમત ઉપર આપને ખેલા ટકાનો ઘસારો ગણવાનું છે 12 ટક અન્ય આ બન્ની એટલું વૈધારિ લોખવડું થોડીકહે જેમાં, તમને બન્ની અટલું વધારવા લખવું છે, લક્ષણ વ્યાખ્યા કોરિંગ. થોડુક explanation વધારી ને લખું બરબર જેથિ 10 marks મા આપણે 5 marks છ્યાન એ પૂરું પૂરો મળી છે તોડું અટલું વધારે લખ્યું બરબર છે થોડીક explanation થોડીક દહારીને 4-4 વોરસનું એડ કાર્શૂ બહાર તમે એ દીગીને 132 બરોબર અરોબર તે એવી જીતને કરશો તો વતયારે ચાલું આહ્યન સૌભળ ખાનો ઘસારો 1500000 મૂડ કિંમત થી તો યેવિજીતે તમ આણે ઉતેરાની ચા�o અહેન્દા આણો તુલ કીમત 12% અને ગૂણિયા એટલા થકે 146 દીનુનો 165 ક આ ભારી તોડે 15,000,000 તેન અહ્ર કાટે ફાડવાનો ઘસારો થઈ જયશે 32,000 બરોબર છીએ ચલો 5 માર્ક્સમાં સમ કૂછયી આખીન એકમ હેન્થી અનુક સારો થઈ જયશે 32,000 બરબર છે ચલો 5 માર્ક્સમાં સમ ઉચેગીઓ એકદમ કેન્થાવતી આહીં જયો બરબર છે ચાટાના શસાઈ ગહણતે એમદે 4 ખાને લોડબાકાર ઉપધે � તો like કરજું, share કરજું ને અન્ના subscribe ચેનલની ઝડપથીક આણીનગ જયો જેતી કરીના આવતા videos તામને શળટથાં છીએ મળ્તનરહે thank you all the best for exams"
+}

@@ -1,0 +1,98 @@
+{
+  "dependencies": [
+    {
+      "from_concept": "concept_1",
+      "to_concept": "concept_2",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture begins with the historical debate (concept_1) and then moves to the importance of observation (concept_2) to gather data and form hypotheses, indicating a necessary progression."
+    },
+    {
+      "from_concept": "concept_2",
+      "to_concept": "concept_3",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "Observation (concept_2) is used to form theories (concept_3), as explicitly stated in the lecture."
+    },
+    {
+      "from_concept": "concept_3",
+      "to_concept": "concept_4",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "Theories (concept_3) are tested through experimentation (concept_4), as described in the lecture."
+    },
+    {
+      "from_concept": "concept_4",
+      "to_concept": "concept_5",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "Experimentation (concept_4) leads to understanding physics (concept_5), as the lecture transitions from testing theories to discussing physics."
+    },
+    {
+      "from_concept": "concept_5",
+      "to_concept": "concept_6",
+      "relationship_type": "USES",
+      "strength": 0.9,
+      "justification": "Physics (concept_5) uses mathematics (concept_6) as a tool to make predictions and understand phenomena, as explicitly mentioned."
+    },
+    {
+      "from_concept": "concept_6",
+      "to_concept": "concept_7",
+      "relationship_type": "BUILDS_UPON",
+      "strength": 0.9,
+      "justification": "Mechanics (concept_7) is a branch of physics (concept_5) that uses mathematics (concept_6) to study motion, indicating a direct extension."
+    },
+    {
+      "from_concept": "concept_7",
+      "to_concept": "concept_8",
+      "relationship_type": "SOFT_PREREQUISITE",
+      "strength": 0.7,
+      "justification": "Chess (concept_8) is used as an analogy to explain the complexity of physics (concept_5) and mechanics (concept_7), suggesting a helpful but not essential understanding."
+    }
+  ],
+  "learning_path": [
+    "concept_1",
+    "concept_2",
+    "concept_3",
+    "concept_4",
+    "concept_5",
+    "concept_6",
+    "concept_7",
+    "concept_8"
+  ],
+  "concept_clusters": [
+    {
+      "cluster_name": "Scientific Method",
+      "concept_ids": [
+        "concept_1",
+        "concept_2",
+        "concept_3",
+        "concept_4"
+      ],
+      "description": "These concepts form the foundational steps of the scientific method, from debate to experimentation."
+    },
+    {
+      "cluster_name": "Physics and Mathematics",
+      "concept_ids": [
+        "concept_5",
+        "concept_6",
+        "concept_7"
+      ],
+      "description": "These concepts are grouped together as they represent the core disciplines of physics and its reliance on mathematics."
+    },
+    {
+      "cluster_name": "Analogy and Complexity",
+      "concept_ids": [
+        "concept_7",
+        "concept_8"
+      ],
+      "description": "Mechanics and chess are used to illustrate the complexity and rules within physics."
+    }
+  ],
+  "root_concepts": [
+    "concept_1"
+  ],
+  "leaf_concepts": [
+    "concept_8"
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "lecture_topic": "Introduction to financial statements and sales calculation, Calculation of depreciation",
+  "lecture_summary": "The lecture covers the examination of financial statements for a specific year, calculation of sales, and depreciation over several years. It also includes instructions on how to allocate marks for calculations and concludes with a call to action.",
+  "concepts": [
+    {
+      "id": "concept_1",
+      "name": "Financial Statements",
+      "aliases": [
+        "financial reports"
+      ],
+      "description": "Documents that provide an overview of a company's financial condition, including revenue and expenses.",
+      "type": "core",
+      "explanation_method": "Formal definition and example calculation",
+      "key_points": [
+        "Includes total sales and revenue",
+        "Examined for the year 2024"
+      ],
+      "complexity_note": "N/A"
+    },
+    {
+      "id": "concept_2",
+      "name": "Sales Calculation",
+      "aliases": [
+        "total sales",
+        "average sales per day"
+      ],
+      "description": "The process of determining total sales and average sales per day over a specified period.",
+      "type": "core",
+      "explanation_method": "Example calculation",
+      "key_points": [
+        "Total sales amount to 2400 and 1123 per day",
+        "Average sales calculated over 146 days"
+      ],
+      "complexity_note": "N/A"
+    },
+    {
+      "id": "concept_3",
+      "name": "Depreciation",
+      "aliases": [
+        "depreciation calculation"
+      ],
+      "description": "The reduction in the value of an asset over time, calculated as a percentage of the original cost.",
+      "type": "core",
+      "explanation_method": "Formal definition and example calculation",
+      "key_points": [
+        "Depreciation is 12% of the original cost annually",
+        "Depreciation calculated for specific years"
+      ],
+      "complexity_note": "N/A"
+    },
+    {
+      "id": "concept_4",
+      "name": "Depreciation Ledger",
+      "aliases": [
+        "ledger entry"
+      ],
+      "description": "Recording depreciation in financial records.",
+      "type": "supporting",
+      "explanation_method": "Instructional",
+      "key_points": [
+        "Depreciation written in the ledger",
+        "Used for equalizing calculations"
+      ],
+      "complexity_note": "N/A"
+    },
+    {
+      "id": "concept_5",
+      "name": "Marks Allocation",
+      "aliases": [
+        "marks for calculations"
+      ],
+      "description": "Guidelines on how marks are allocated for correct calculation and explanation.",
+      "type": "supporting",
+      "explanation_method": "Instructional",
+      "key_points": [
+        "5 marks for writing increased amounts with explanation"
+      ],
+      "complexity_note": "N/A"
+    },
+    {
+      "id": "concept_6",
+      "name": "Profit Calculation",
+      "aliases": [
+        "profit from original cost"
+      ],
+      "description": "Determining profit based on the original cost and depreciation.",
+      "type": "core",
+      "explanation_method": "Example calculation",
+      "key_points": [
+        "Profit calculated as 1,500,000 from original cost",
+        "Total depreciation considered"
+      ],
+      "complexity_note": "N/A"
+    }
+  ],
+  "teaching_flow": [
+    "concept_1 -> concept_2",
+    "concept_2 -> concept_3",
+    "concept_3 -> concept_4",
+    "concept_4 -> concept_5",
+    "concept_5 -> concept_6"
+  ],
+  "analogies_used": [
+    {
+      "concept": "concept_3",
+      "analogy": "Depreciation is explained as a percentage of the original cost, similar to calculating interest."
+    }
+  ]
+}

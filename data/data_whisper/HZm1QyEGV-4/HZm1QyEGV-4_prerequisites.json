@@ -1,0 +1,87 @@
+{
+  "dependencies": [
+    {
+      "from_concept": "concept_1",
+      "to_concept": "concept_3",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture explains using 'break' within a 'for loop', indicating that understanding 'for loop' is necessary before 'break'."
+    },
+    {
+      "from_concept": "concept_1",
+      "to_concept": "concept_4",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture discusses using 'continue' in a 'for loop', showing that 'for loop' must be understood before 'continue'."
+    },
+    {
+      "from_concept": "concept_3",
+      "to_concept": "concept_5",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture mentions using 'if, else, elif' with 'break', implying that 'conditional statements' are needed to understand 'break'."
+    },
+    {
+      "from_concept": "concept_4",
+      "to_concept": "concept_5",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture discusses using 'if, else, elif' with 'continue', indicating that 'conditional statements' are necessary to understand 'continue'."
+    },
+    {
+      "from_concept": "concept_5",
+      "to_concept": "concept_6",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture transitions from 'conditional statements' to using a 'list', suggesting that understanding 'conditional statements' is required before working with 'list'."
+    },
+    {
+      "from_concept": "concept_5",
+      "to_concept": "concept_7",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture moves from 'conditional statements' to using a 'string', indicating that 'conditional statements' must be understood before 'string'."
+    }
+  ],
+  "learning_path": [
+    "concept_1",
+    "concept_3",
+    "concept_4",
+    "concept_5",
+    "concept_6",
+    "concept_7"
+  ],
+  "concept_clusters": [
+    {
+      "cluster_name": "Loop Control Statements",
+      "concept_ids": [
+        "concept_1",
+        "concept_3",
+        "concept_4"
+      ],
+      "description": "These concepts are grouped together as they deal with loop structures and control mechanisms within loops."
+    },
+    {
+      "cluster_name": "Conditional Logic",
+      "concept_ids": [
+        "concept_5"
+      ],
+      "description": "This concept is grouped with loop control statements as it is essential for making decisions within loops."
+    },
+    {
+      "cluster_name": "Data Structures",
+      "concept_ids": [
+        "concept_6",
+        "concept_7"
+      ],
+      "description": "These concepts are grouped as they represent basic data structures used in programming."
+    }
+  ],
+  "root_concepts": [
+    "concept_1"
+  ],
+  "leaf_concepts": [
+    "concept_6",
+    "concept_7"
+  ]
+}

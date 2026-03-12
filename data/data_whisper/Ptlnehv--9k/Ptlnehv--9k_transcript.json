@@ -1,0 +1,5816 @@
+{
+  "audio_file": "/home/swayam/Desktop/irel_task/data_whisper/Ptlnehv--9k/Ptlnehv--9k.wav",
+  "model": "large-v3",
+  "language": "bn",
+  "language_probability": 1,
+  "duration_seconds": 585.68,
+  "transcription_time_seconds": 232.48,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.74,
+      "end": 5.38,
+      "text": "হেলো এবরিয়ান, Welcome to Learn With Yasmeen.",
+      "language": "bn",
+      "avg_logprob": -0.3644,
+      "no_speech_prob": 0.0002,
+      "words": [
+        {
+          "word": "হেলু",
+          "start": 2.74,
+          "end": 3.28,
+          "probability": 0.7689
+        },
+        {
+          "word": "এবরিয়ান,",
+          "start": 3.28,
+          "end": 3.8,
+          "probability": 0.8426
+        },
+        {
+          "word": "Welcome",
+          "start": 3.86,
+          "end": 4.14,
+          "probability": 0.007
+        },
+        {
+          "word": "to",
+          "start": 4.14,
+          "end": 4.4,
+          "probability": 0.9517
+        },
+        {
+          "word": "Learn",
+          "start": 4.4,
+          "end": 4.66,
+          "probability": 0.9785
+        },
+        {
+          "word": "With",
+          "start": 4.66,
+          "end": 4.84,
+          "probability": 0.8086
+        },
+        {
+          "word": "Yasmeen.",
+          "start": 4.84,
+          "end": 5.38,
+          "probability": 0.728
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "start": 5.42,
+      "end": 10.18,
+      "text": "আজি ভিডিওত আমি পূরীম Class 11-0 Biology Chapter 1 জীবজগত",
+      "language": "bn",
+      "avg_logprob": -0.3644,
+      "no_speech_prob": 0.0002,
+      "words": [
+        {
+          "word": "আজি",
+          "start": 5.42,
+          "end": 5.7,
+          "probability": 0.9814
+        },
+        {
+          "word": "঵িডিওত",
+          "start": 5.7,
+          "end": 6.14,
+          "probability": 0.873
+        },
+        {
+          "word": "আমি",
+          "start": 6.14,
+          "end": 6.34,
+          "probability": 0.972
+        },
+        {
+          "word": "পূরীম",
+          "start": 6.34,
+          "end": 6.72,
+          "probability": 0.7376
+        },
+        {
+          "word": "Class",
+          "start": 6.72,
+          "end": 7.02,
+          "probability": 0.1026
+        },
+        {
+          "word": "11",
+          "start": 7.02,
+          "end": 7.5,
+          "probability": 0.9956
+        },
+        {
+          "word": "-0",
+          "start": 7.5,
+          "end": 7.86,
+          "probability": 0.3522
+        },
+        {
+          "word": "Biology",
+          "start": 7.86,
+          "end": 8.16,
+          "probability": 0.6968
+        },
+        {
+          "word": "Chapter",
+          "start": 8.16,
+          "end": 8.66,
+          "probability": 0.332
+        },
+        {
+          "word": "1",
+          "start": 8.66,
+          "end": 9.2,
+          "probability": 0.9941
+        },
+        {
+          "word": "জীবজগত",
+          "start": 9.2,
+          "end": 10.18,
+          "probability": 0.759
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 10.18,
+      "end": 14.96,
+      "text": "আর্গু বিফিন্ন বইখণ্ডের বহিঃপ্রকাশ শিলো আজি হব হক্কল সিবরে",
+      "language": "bn",
+      "avg_logprob": -0.5794,
+      "no_speech_prob": 0.0006,
+      "words": [
+        {
+          "word": "আর্গু",
+          "start": 10.18,
+          "end": 10.44,
+          "probability": 0.5856
+        },
+        {
+          "word": "বিফিন্য",
+          "start": 10.44,
+          "end": 11.26,
+          "probability": 0.6846
+        },
+        {
+          "word": "বইখিষ্টার",
+          "start": 11.26,
+          "end": 12.0,
+          "probability": 0.8213
+        },
+        {
+          "word": "বহীয়",
+          "start": 12.0,
+          "end": 12.34,
+          "probability": 0.6504
+        },
+        {
+          "word": "পরিয়া",
+          "start": 12.34,
+          "end": 12.9,
+          "probability": 0.7802
+        },
+        {
+          "word": "শিলো",
+          "start": 12.9,
+          "end": 13.14,
+          "probability": 0.8113
+        },
+        {
+          "word": "আজি",
+          "start": 13.14,
+          "end": 13.56,
+          "probability": 0.8483
+        },
+        {
+          "word": "হব",
+          "start": 13.56,
+          "end": 13.78,
+          "probability": 0.9041
+        },
+        {
+          "word": "হক্কল",
+          "start": 13.78,
+          "end": 14.38,
+          "probability": 0.8072
+        },
+        {
+          "word": "সিবরে",
+          "start": 14.38,
+          "end": 14.96,
+          "probability": 0.7962
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 14.96,
+      "end": 18.16,
+      "text": "বৃদ্ধি হয়, জিতু সীবর এঁটা বৈশিষ্ট্য",
+      "language": "bn",
+      "avg_logprob": -0.5794,
+      "no_speech_prob": 0.0006,
+      "words": [
+        {
+          "word": "বৃদ্ধী",
+          "start": 14.96,
+          "end": 15.42,
+          "probability": 0.8222
+        },
+        {
+          "word": "হয়,",
+          "start": 15.42,
+          "end": 15.72,
+          "probability": 0.9802
+        },
+        {
+          "word": "জিতু",
+          "start": 15.74,
+          "end": 16.08,
+          "probability": 0.7944
+        },
+        {
+          "word": "সীবর",
+          "start": 16.08,
+          "end": 16.56,
+          "probability": 0.8501
+        },
+        {
+          "word": "এঁটা",
+          "start": 16.56,
+          "end": 16.9,
+          "probability": 0.8081
+        },
+        {
+          "word": "বৈইখেষৎ",
+          "start": 16.9,
+          "end": 18.16,
+          "probability": 0.7008
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 26.0,
+      "end": 34.94,
+      "text": "বার্তী বুলি রে, ছটা-বৃদ্ধি রইবে?",
+      "language": "bn",
+      "avg_logprob": -1.0596,
+      "no_speech_prob": 0.001,
+      "words": [
+        {
+          "word": "বার্তী",
+          "start": 26.0,
+          "end": 27.4,
+          "probability": 0.4427
+        },
+        {
+          "word": "বুলি",
+          "start": 27.4,
+          "end": 28.36,
+          "probability": 0.8297
+        },
+        {
+          "word": "রে,",
+          "start": 28.36,
+          "end": 28.62,
+          "probability": 0.5234
+        },
+        {
+          "word": "ुছটা",
+          "start": 28.78,
+          "end": 31.04,
+          "probability": 0.5454
+        },
+        {
+          "word": "-বৃদ়ী",
+          "start": 31.04,
+          "end": 32.74,
+          "probability": 0.651
+        },
+        {
+          "word": "রৈো?",
+          "start": 32.74,
+          "end": 34.94,
+          "probability": 0.4086
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 36.7,
+      "end": 41.08,
+      "text": "আর্গ হমুহর বৃদ্ধি ওয়া কে তুমার কারণে বুলিকো আ হয়",
+      "language": "bn",
+      "avg_logprob": -0.5386,
+      "no_speech_prob": 0.0004,
+      "words": [
+        {
+          "word": "আর্গ",
+          "start": 36.7,
+          "end": 37.5,
+          "probability": 0.5612
+        },
+        {
+          "word": "হমুহর",
+          "start": 37.5,
+          "end": 38.26,
+          "probability": 0.6354
+        },
+        {
+          "word": "বৃদী",
+          "start": 38.26,
+          "end": 38.76,
+          "probability": 0.8166
+        },
+        {
+          "word": "ওয়া",
+          "start": 38.76,
+          "end": 39.02,
+          "probability": 0.7611
+        },
+        {
+          "word": "কে",
+          "start": 39.02,
+          "end": 39.22,
+          "probability": 0.8503
+        },
+        {
+          "word": "তুমার",
+          "start": 39.22,
+          "end": 39.6,
+          "probability": 0.9778
+        },
+        {
+          "word": "কারণে",
+          "start": 39.6,
+          "end": 40.04,
+          "probability": 0.9718
+        },
+        {
+          "word": "বুলিকো",
+          "start": 40.04,
+          "end": 40.66,
+          "probability": 0.7308
+        },
+        {
+          "word": "আ",
+          "start": 40.66,
+          "end": 40.86,
+          "probability": 0.8048
+        },
+        {
+          "word": "হয়",
+          "start": 40.86,
+          "end": 41.08,
+          "probability": 0.8083
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 42.58,
+      "end": 45.18,
+      "text": "এটু আমার মনে অমি visualize করূছে",
+      "language": "bn",
+      "avg_logprob": -0.5386,
+      "no_speech_prob": 0.0004,
+      "words": [
+        {
+          "word": "এটু",
+          "start": 42.58,
+          "end": 42.98,
+          "probability": 0.5554
+        },
+        {
+          "word": "আমাր",
+          "start": 42.98,
+          "end": 43.3,
+          "probability": 0.8624
+        },
+        {
+          "word": "মনত",
+          "start": 43.3,
+          "end": 43.7,
+          "probability": 0.8961
+        },
+        {
+          "word": "অমি",
+          "start": 43.7,
+          "end": 43.94,
+          "probability": 0.8396
+        },
+        {
+          "word": "visualize",
+          "start": 43.94,
+          "end": 44.36,
+          "probability": 0.0005
+        },
+        {
+          "word": "করূছে",
+          "start": 44.36,
+          "end": 45.18,
+          "probability": 0.8431
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 45.18,
+      "end": 46.94,
+      "text": "কিবা এঁটা ব্যবস্থা বৃদ্ধি হয়েছে",
+      "language": "bn",
+      "avg_logprob": -0.5386,
+      "no_speech_prob": 0.0004,
+      "words": [
+        {
+          "word": "কিবা",
+          "start": 45.18,
+          "end": 45.48,
+          "probability": 0.8985
+        },
+        {
+          "word": "এঁটা",
+          "start": 45.48,
+          "end": 45.66,
+          "probability": 0.8312
+        },
+        {
+          "word": "বস্থ",
+          "start": 45.66,
+          "end": 46.02,
+          "probability": 0.8151
+        },
+        {
+          "word": "বরীদ্ধি",
+          "start": 46.02,
+          "end": 46.5,
+          "probability": 0.6774
+        },
+        {
+          "word": "হোয়েশে",
+          "start": 46.5,
+          "end": 46.94,
+          "probability": 0.8165
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 46.94,
+      "end": 53.56,
+      "text": "আর গাস এটা বৃদ্ধি হয়েছে, তার মানে ঈ গুঠির পরা কি হচ্ছো ডাঙর ঘষলোয়কে বরিণোত হয়েছে",
+      "language": "bn",
+      "avg_logprob": -0.5283,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "আর",
+          "start": 46.94,
+          "end": 47.02,
+          "probability": 0.5652
+        },
+        {
+          "word": "গাস",
+          "start": 47.02,
+          "end": 47.12,
+          "probability": 0.6113
+        },
+        {
+          "word": "এটা",
+          "start": 47.12,
+          "end": 47.46,
+          "probability": 0.8991
+        },
+        {
+          "word": "বৃদী",
+          "start": 47.46,
+          "end": 47.82,
+          "probability": 0.8376
+        },
+        {
+          "word": "হয়েছে,",
+          "start": 47.82,
+          "end": 48.26,
+          "probability": 0.8724
+        },
+        {
+          "word": "তার",
+          "start": 48.34,
+          "end": 48.48,
+          "probability": 0.9616
+        },
+        {
+          "word": "মানে",
+          "start": 48.48,
+          "end": 48.68,
+          "probability": 0.9584
+        },
+        {
+          "word": "ঈ",
+          "start": 48.68,
+          "end": 48.86,
+          "probability": 0.6458
+        },
+        {
+          "word": "গুঠির",
+          "start": 48.86,
+          "end": 50.16,
+          "probability": 0.749
+        },
+        {
+          "word": "পরা",
+          "start": 50.16,
+          "end": 50.44,
+          "probability": 0.9708
+        },
+        {
+          "word": "কি",
+          "start": 50.44,
+          "end": 50.64,
+          "probability": 0.9104
+        },
+        {
+          "word": "হচ্ছো",
+          "start": 50.64,
+          "end": 51.12,
+          "probability": 0.7436
+        },
+        {
+          "word": "ডাঙর",
+          "start": 51.12,
+          "end": 51.52,
+          "probability": 0.7427
+        },
+        {
+          "word": "ঘ্ষলোয়কে",
+          "start": 51.52,
+          "end": 52.32,
+          "probability": 0.7304
+        },
+        {
+          "word": "বরিণোত",
+          "start": 52.32,
+          "end": 53.08,
+          "probability": 0.7462
+        },
+        {
+          "word": "হ঺েশে",
+          "start": 53.08,
+          "end": 53.56,
+          "probability": 0.7704
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 56.68,
+      "end": 71.06,
+      "text": "আর্যা কুনে সিতবী গোলে বৃদ্ধি হৈর এটা জুরীয়া বৈশিষ্ট্য বুলী ঝাগ কূয",
+      "language": "bn",
+      "avg_logprob": -0.9082,
+      "no_speech_prob": 0.0002,
+      "words": [
+        {
+          "word": "আর্যা",
+          "start": 56.68,
+          "end": 58.08,
+          "probability": 0.5515
+        },
+        {
+          "word": "কুনে",
+          "start": 58.08,
+          "end": 59.2,
+          "probability": 0.512
+        },
+        {
+          "word": "সিতবী",
+          "start": 59.2,
+          "end": 60.42,
+          "probability": 0.4116
+        },
+        {
+          "word": "গোলে",
+          "start": 60.42,
+          "end": 61.74,
+          "probability": 0.5421
+        },
+        {
+          "word": "বৃদ়্ধি",
+          "start": 61.74,
+          "end": 64.8,
+          "probability": 0.5597
+        },
+        {
+          "word": "হৈর",
+          "start": 64.8,
+          "end": 66.64,
+          "probability": 0.5557
+        },
+        {
+          "word": "এটা",
+          "start": 66.64,
+          "end": 66.9,
+          "probability": 0.5706
+        },
+        {
+          "word": "জুরীয়া",
+          "start": 66.9,
+          "end": 69.12,
+          "probability": 0.759
+        },
+        {
+          "word": "বৌখেষ্ঠ",
+          "start": 69.12,
+          "end": 69.62,
+          "probability": 0.7423
+        },
+        {
+          "word": "বুলী",
+          "start": 69.62,
+          "end": 70.06,
+          "probability": 0.6914
+        },
+        {
+          "word": "ঝাগ",
+          "start": 70.06,
+          "end": 70.36,
+          "probability": 0.7431
+        },
+        {
+          "word": "কূয",
+          "start": 70.36,
+          "end": 71.06,
+          "probability": 0.7304
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 71.06,
+      "end": 76.34,
+      "text": "আমার দেহটু কখেরে গোঠিত হয়",
+      "language": "bn",
+      "avg_logprob": -0.5,
+      "no_speech_prob": 0.0013,
+      "words": [
+        {
+          "word": "আ্মার",
+          "start": 71.06,
+          "end": 73.24,
+          "probability": 0.7028
+        },
+        {
+          "word": "দেহটু",
+          "start": 73.24,
+          "end": 74.04,
+          "probability": 0.8005
+        },
+        {
+          "word": "কখেরে",
+          "start": 74.04,
+          "end": 75.24,
+          "probability": 0.9608
+        },
+        {
+          "word": "গোঠিত",
+          "start": 75.24,
+          "end": 75.64,
+          "probability": 0.9141
+        },
+        {
+          "word": "হয়",
+          "start": 75.64,
+          "end": 76.34,
+          "probability": 0.8992
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 76.34,
+      "end": 81.32,
+      "text": "গুতিকে আমার হরীর টিষ্য পরিবর্তন হয়, অমাঁ এপিয়েরেন্স ছেটা হোরুর",
+      "language": "bn",
+      "avg_logprob": -0.5728,
+      "no_speech_prob": 0.0008,
+      "words": [
+        {
+          "word": "গুতিকে",
+          "start": 76.34,
+          "end": 76.66,
+          "probability": 0.8518
+        },
+        {
+          "word": "আমার",
+          "start": 76.66,
+          "end": 77.14,
+          "probability": 0.9852
+        },
+        {
+          "word": "হরীর",
+          "start": 77.14,
+          "end": 78.02,
+          "probability": 0.7724
+        },
+        {
+          "word": "টুষ্য",
+          "start": 78.02,
+          "end": 78.36,
+          "probability": 0.6722
+        },
+        {
+          "word": "পরিবর্তন",
+          "start": 78.36,
+          "end": 79.22,
+          "probability": 0.9161
+        },
+        {
+          "word": "হয়,",
+          "start": 79.22,
+          "end": 79.54,
+          "probability": 0.9518
+        },
+        {
+          "word": "অমাঁ",
+          "start": 79.56,
+          "end": 79.8,
+          "probability": 0.6964
+        },
+        {
+          "word": "এপিয়েরেন্স",
+          "start": 79.8,
+          "end": 80.44,
+          "probability": 0.8945
+        },
+        {
+          "word": "ছেটা",
+          "start": 80.44,
+          "end": 80.84,
+          "probability": 0.8509
+        },
+        {
+          "word": "হোরুর",
+          "start": 80.84,
+          "end": 81.32,
+          "probability": 0.8875
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 81.32,
+      "end": 84.56,
+      "text": "বস্তুর ফরা ডাঙর বৈশিষ্ট্য লয়ক্কে পূর্ণত হয়",
+      "language": "bn",
+      "avg_logprob": -0.5728,
+      "no_speech_prob": 0.0008,
+      "words": [
+        {
+          "word": "বোশ্থুর",
+          "start": 81.32,
+          "end": 82.3,
+          "probability": 0.7953
+        },
+        {
+          "word": "ফরা",
+          "start": 82.3,
+          "end": 82.52,
+          "probability": 0.8075
+        },
+        {
+          "word": "ডাঙর",
+          "start": 82.52,
+          "end": 82.84,
+          "probability": 0.8392
+        },
+        {
+          "word": "বৈস্ঠল",
+          "start": 82.84,
+          "end": 83.32,
+          "probability": 0.7508
+        },
+        {
+          "word": "লয়ক্ক৆",
+          "start": 83.32,
+          "end": 83.6,
+          "probability": 0.6858
+        },
+        {
+          "word": "পূরিণত",
+          "start": 83.6,
+          "end": 84.12,
+          "probability": 0.7423
+        },
+        {
+          "word": "হঈ",
+          "start": 84.12,
+          "end": 84.56,
+          "probability": 0.7437
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 85.54,
+      "end": 93.62,
+      "text": "কোখর কারণে হয় আমার হরির জিবুর গ্লী তাকে, এই গৈ ঘূমোহর অকা বৃদ্ধি হয়",
+      "language": "bn",
+      "avg_logprob": -0.6083,
+      "no_speech_prob": 0.0004,
+      "words": [
+        {
+          "word": "কোখর",
+          "start": 85.54,
+          "end": 86.46,
+          "probability": 0.7146
+        },
+        {
+          "word": "কারণে",
+          "start": 86.46,
+          "end": 86.92,
+          "probability": 0.9206
+        },
+        {
+          "word": "হয়",
+          "start": 86.92,
+          "end": 87.18,
+          "probability": 0.9556
+        },
+        {
+          "word": "আমার",
+          "start": 87.18,
+          "end": 87.52,
+          "probability": 0.9076
+        },
+        {
+          "word": "হরির",
+          "start": 87.52,
+          "end": 87.84,
+          "probability": 0.9469
+        },
+        {
+          "word": "জিবুর",
+          "start": 87.84,
+          "end": 88.38,
+          "probability": 0.825
+        },
+        {
+          "word": "গ্লী",
+          "start": 88.38,
+          "end": 88.76,
+          "probability": 0.53
+        },
+        {
+          "word": "তাকে,",
+          "start": 88.76,
+          "end": 89.02,
+          "probability": 0.8087
+        },
+        {
+          "word": "এই",
+          "start": 89.08,
+          "end": 89.38,
+          "probability": 0.7873
+        },
+        {
+          "word": "গৈ",
+          "start": 89.38,
+          "end": 90.0,
+          "probability": 0.7343
+        },
+        {
+          "word": "ঘূমোহর",
+          "start": 90.0,
+          "end": 90.64,
+          "probability": 0.6579
+        },
+        {
+          "word": "অকা",
+          "start": 90.64,
+          "end": 92.2,
+          "probability": 0.8074
+        },
+        {
+          "word": "বৃদ্ধি",
+          "start": 92.2,
+          "end": 93.16,
+          "probability": 0.8737
+        },
+        {
+          "word": "হোয়",
+          "start": 93.16,
+          "end": 93.62,
+          "probability": 0.87
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 93.62,
+      "end": 103.3,
+      "text": "কোখুর সেতিয়া আকার বৃদ্ধি হবে, তেটিয়া আমার hori-r বিদ্যৎ হয় কারণ আমার জিটু dehyo, hetu dehyo কোখেরে গোঠি তাজক মৌলিক একগ buligwa হয়",
+      "language": "bn",
+      "avg_logprob": -0.605,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "কোখুর",
+          "start": 93.62,
+          "end": 93.88,
+          "probability": 0.831
+        },
+        {
+          "word": "সেতিয়া",
+          "start": 93.88,
+          "end": 94.38,
+          "probability": 0.8757
+        },
+        {
+          "word": "আকার",
+          "start": 94.38,
+          "end": 94.74,
+          "probability": 0.9896
+        },
+        {
+          "word": "বৃদ্ধি",
+          "start": 94.74,
+          "end": 95.2,
+          "probability": 0.9469
+        },
+        {
+          "word": "হোবো,",
+          "start": 95.2,
+          "end": 95.52,
+          "probability": 0.9343
+        },
+        {
+          "word": "তেটিযা",
+          "start": 95.52,
+          "end": 95.94,
+          "probability": 0.8681
+        },
+        {
+          "word": "অমার",
+          "start": 95.94,
+          "end": 96.14,
+          "probability": 0.8857
+        },
+        {
+          "word": "hori",
+          "start": 96.14,
+          "end": 96.42,
+          "probability": 0.0102
+        },
+        {
+          "word": "-r",
+          "start": 96.42,
+          "end": 96.6,
+          "probability": 0.6111
+        },
+        {
+          "word": "বীদৎ",
+          "start": 96.6,
+          "end": 96.94,
+          "probability": 0.7598
+        },
+        {
+          "word": "হoi",
+          "start": 96.94,
+          "end": 97.2,
+          "probability": 0.7038
+        },
+        {
+          "word": "কাրণ",
+          "start": 97.2,
+          "end": 97.54,
+          "probability": 0.7747
+        },
+        {
+          "word": "আমা",
+          "start": 97.54,
+          "end": 97.86,
+          "probability": 0.9499
+        },
+        {
+          "word": "'র",
+          "start": 97.86,
+          "end": 98.34,
+          "probability": 0.5918
+        },
+        {
+          "word": "জিটু",
+          "start": 98.34,
+          "end": 98.62,
+          "probability": 0.8183
+        },
+        {
+          "word": "dehyo,",
+          "start": 98.62,
+          "end": 99.14,
+          "probability": 0.2279
+        },
+        {
+          "word": "hetu",
+          "start": 99.14,
+          "end": 99.4,
+          "probability": 0.2264
+        },
+        {
+          "word": "dehyo",
+          "start": 99.4,
+          "end": 99.84,
+          "probability": 0.9938
+        },
+        {
+          "word": "কોখেরে",
+          "start": 99.84,
+          "end": 100.32,
+          "probability": 0.8842
+        },
+        {
+          "word": "gothi",
+          "start": 100.32,
+          "end": 100.64,
+          "probability": 0.3018
+        },
+        {
+          "word": "tajak",
+          "start": 100.64,
+          "end": 101.08,
+          "probability": 0.3335
+        },
+        {
+          "word": "molik",
+          "start": 101.08,
+          "end": 101.62,
+          "probability": 0.1785
+        },
+        {
+          "word": "ekog",
+          "start": 101.62,
+          "end": 102.44,
+          "probability": 0.1359
+        },
+        {
+          "word": "buligwa",
+          "start": 102.44,
+          "end": 102.96,
+          "probability": 0.2647
+        },
+        {
+          "word": "hoi",
+          "start": 102.96,
+          "end": 103.3,
+          "probability": 0.4939
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 103.3,
+      "end": 109.34,
+      "text": "aroon ahole jyudhi kofhe bifazan kore, bifazan korii jyudhi iar hoinxia vriddhi core",
+      "language": "bn",
+      "avg_logprob": -0.605,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "aroon",
+          "start": 103.3,
+          "end": 103.92,
+          "probability": 0.3817
+        },
+        {
+          "word": "ahole",
+          "start": 103.92,
+          "end": 104.24,
+          "probability": 0.1575
+        },
+        {
+          "word": "jyudhi",
+          "start": 104.24,
+          "end": 104.62,
+          "probability": 0.3649
+        },
+        {
+          "word": "kofhe",
+          "start": 104.62,
+          "end": 105.1,
+          "probability": 0.2025
+        },
+        {
+          "word": "bifazan",
+          "start": 105.1,
+          "end": 105.76,
+          "probability": 0.6578
+        },
+        {
+          "word": "kore,",
+          "start": 105.76,
+          "end": 106.22,
+          "probability": 0.6865
+        },
+        {
+          "word": "bifazan",
+          "start": 106.26,
+          "end": 107.04,
+          "probability": 0.9122
+        },
+        {
+          "word": "korii",
+          "start": 107.04,
+          "end": 107.44,
+          "probability": 0.1068
+        },
+        {
+          "word": "jyudhi",
+          "start": 107.44,
+          "end": 107.76,
+          "probability": 0.8914
+        },
+        {
+          "word": "iar",
+          "start": 107.76,
+          "end": 108.04,
+          "probability": 0.2602
+        },
+        {
+          "word": "hoinxia",
+          "start": 108.04,
+          "end": 108.6,
+          "probability": 0.3413
+        },
+        {
+          "word": "vriddhi",
+          "start": 108.6,
+          "end": 109.02,
+          "probability": 0.619
+        },
+        {
+          "word": "core",
+          "start": 109.02,
+          "end": 109.34,
+          "probability": 0.007
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 109.34,
+      "end": 115.82,
+      "text": "এর যার, চদি হন্খা বিদ্য়িকরে, তেটিআ কি আমার হুরীর ভীদি।",
+      "language": "bn",
+      "avg_logprob": -0.5331,
+      "no_speech_prob": 0.0012,
+      "words": [
+        {
+          "word": "এর",
+          "start": 109.34,
+          "end": 109.88,
+          "probability": 0.6664
+        },
+        {
+          "word": "যার,",
+          "start": 109.88,
+          "end": 110.02,
+          "probability": 0.7934
+        },
+        {
+          "word": "চদি",
+          "start": 110.04,
+          "end": 110.24,
+          "probability": 0.684
+        },
+        {
+          "word": "হন্খা",
+          "start": 110.24,
+          "end": 110.6,
+          "probability": 0.8333
+        },
+        {
+          "word": "বীদ্দিকরে,",
+          "start": 110.6,
+          "end": 111.4,
+          "probability": 0.819
+        },
+        {
+          "word": "তেটিআ",
+          "start": 111.4,
+          "end": 111.94,
+          "probability": 0.8071
+        },
+        {
+          "word": "কি",
+          "start": 111.94,
+          "end": 112.22,
+          "probability": 0.8283
+        },
+        {
+          "word": "অমার",
+          "start": 112.22,
+          "end": 113.0,
+          "probability": 0.8175
+        },
+        {
+          "word": "হুরীর",
+          "start": 113.0,
+          "end": 113.38,
+          "probability": 0.8247
+        },
+        {
+          "word": "ভীদি।",
+          "start": 113.86,
+          "end": 115.82,
+          "probability": 0.641
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 115.82,
+      "end": 128.16,
+      "text": "বা হকল জির এক-কোখি ঝীব, বহ-কৈণু যা সৌর্থন আরে পরূত়ার উরুগ্ষান্দে ।",
+      "language": "bn",
+      "avg_logprob": -0.9433,
+      "no_speech_prob": 0.0034,
+      "words": [
+        {
+          "word": "বা",
+          "start": 115.82,
+          "end": 115.94,
+          "probability": 0.4867
+        },
+        {
+          "word": "হকল",
+          "start": 115.94,
+          "end": 116.44,
+          "probability": 0.7435
+        },
+        {
+          "word": "জির",
+          "start": 116.44,
+          "end": 116.88,
+          "probability": 0.5925
+        },
+        {
+          "word": "এক",
+          "start": 116.88,
+          "end": 117.98,
+          "probability": 0.6537
+        },
+        {
+          "word": "-কোখি",
+          "start": 117.98,
+          "end": 118.18,
+          "probability": 0.7286
+        },
+        {
+          "word": "ঝীব,",
+          "start": 118.18,
+          "end": 118.56,
+          "probability": 0.6991
+        },
+        {
+          "word": "বহ",
+          "start": 118.56,
+          "end": 118.82,
+          "probability": 0.8606
+        },
+        {
+          "word": "-কৈণু",
+          "start": 118.82,
+          "end": 119.28,
+          "probability": 0.554
+        },
+        {
+          "word": "যা",
+          "start": 119.28,
+          "end": 119.54,
+          "probability": 0.5844
+        },
+        {
+          "word": "সৌর্থন",
+          "start": 119.54,
+          "end": 120.18,
+          "probability": 0.5028
+        },
+        {
+          "word": "আরে",
+          "start": 120.18,
+          "end": 120.5,
+          "probability": 0.5521
+        },
+        {
+          "word": "পরূত়ার",
+          "start": 120.5,
+          "end": 126.66,
+          "probability": 0.4634
+        },
+        {
+          "word": "উরুগ্ষান্দে",
+          "start": 126.66,
+          "end": 128.16,
+          "probability": 0.5258
+        },
+        {
+          "word": "।",
+          "start": 128.16,
+          "end": 128.16,
+          "probability": 0.495
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 128.18,
+      "end": 133.78,
+      "text": "বক্ষুরী বিদ্য় বলি গৈ হবো তার মানে আর দেখ গঠন কাড়ি জিবর কঁ কসে",
+      "language": "bn",
+      "avg_logprob": -0.6017,
+      "no_speech_prob": 0.0005,
+      "words": [
+        {
+          "word": "বক্ষুরী",
+          "start": 128.18,
+          "end": 128.82,
+          "probability": 0.5189
+        },
+        {
+          "word": "বিদ্য়",
+          "start": 128.82,
+          "end": 129.46,
+          "probability": 0.5989
+        },
+        {
+          "word": "বলি",
+          "start": 129.46,
+          "end": 129.62,
+          "probability": 0.6669
+        },
+        {
+          "word": "গৈ",
+          "start": 129.62,
+          "end": 129.86,
+          "probability": 0.6001
+        },
+        {
+          "word": "হবো",
+          "start": 129.86,
+          "end": 130.16,
+          "probability": 0.8313
+        },
+        {
+          "word": "তার",
+          "start": 130.16,
+          "end": 130.46,
+          "probability": 0.9104
+        },
+        {
+          "word": "মানে",
+          "start": 130.46,
+          "end": 130.68,
+          "probability": 0.9443
+        },
+        {
+          "word": "আর",
+          "start": 130.68,
+          "end": 131.1,
+          "probability": 0.7599
+        },
+        {
+          "word": "দেখ",
+          "start": 131.1,
+          "end": 131.42,
+          "probability": 0.937
+        },
+        {
+          "word": "গঠণ",
+          "start": 131.42,
+          "end": 132.44,
+          "probability": 0.752
+        },
+        {
+          "word": "কাড়ি",
+          "start": 132.44,
+          "end": 132.7,
+          "probability": 0.8412
+        },
+        {
+          "word": "জিবর",
+          "start": 132.7,
+          "end": 133.16,
+          "probability": 0.8974
+        },
+        {
+          "word": "কોঁ",
+          "start": 133.16,
+          "end": 133.46,
+          "probability": 0.7179
+        },
+        {
+          "word": "কসে",
+          "start": 133.46,
+          "end": 133.78,
+          "probability": 0.723
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 133.78,
+      "end": 137.18,
+      "text": "কোউ খোমূ আকার ভা হঙ্খাট বৃদ্ধি হয়েছে",
+      "language": "bn",
+      "avg_logprob": -0.6017,
+      "no_speech_prob": 0.0005,
+      "words": [
+        {
+          "word": "কোউ",
+          "start": 133.78,
+          "end": 134.24,
+          "probability": 0.8452
+        },
+        {
+          "word": "খোমূ",
+          "start": 134.24,
+          "end": 134.48,
+          "probability": 0.7259
+        },
+        {
+          "word": "আকার",
+          "start": 134.48,
+          "end": 135.06,
+          "probability": 0.9957
+        },
+        {
+          "word": "भা",
+          "start": 135.06,
+          "end": 135.36,
+          "probability": 0.6655
+        },
+        {
+          "word": "হঙ্খাট",
+          "start": 135.36,
+          "end": 136.26,
+          "probability": 0.7567
+        },
+        {
+          "word": "বৃদী",
+          "start": 136.26,
+          "end": 136.64,
+          "probability": 0.7931
+        },
+        {
+          "word": "হয়েছে",
+          "start": 136.64,
+          "end": 137.18,
+          "probability": 0.8526
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 137.18,
+      "end": 141.32,
+      "text": "হে কারণ এ যাগ বৃতী বাবুলি কৈ হয় আর হকল জিবিত সিবোর",
+      "language": "bn",
+      "avg_logprob": -0.6161,
+      "no_speech_prob": 0.0013,
+      "words": [
+        {
+          "word": "হে",
+          "start": 137.18,
+          "end": 137.32,
+          "probability": 0.8468
+        },
+        {
+          "word": "কারণ",
+          "start": 137.32,
+          "end": 137.68,
+          "probability": 0.8851
+        },
+        {
+          "word": "এ",
+          "start": 137.68,
+          "end": 138.18,
+          "probability": 0.5835
+        },
+        {
+          "word": "যাগ",
+          "start": 138.18,
+          "end": 138.34,
+          "probability": 0.8515
+        },
+        {
+          "word": "বৃতী",
+          "start": 138.34,
+          "end": 138.72,
+          "probability": 0.7338
+        },
+        {
+          "word": "বাবুলি",
+          "start": 138.72,
+          "end": 139.3,
+          "probability": 0.7937
+        },
+        {
+          "word": "কৈ",
+          "start": 139.3,
+          "end": 139.56,
+          "probability": 0.7763
+        },
+        {
+          "word": "হয়",
+          "start": 139.56,
+          "end": 139.86,
+          "probability": 0.9061
+        },
+        {
+          "word": "আর",
+          "start": 139.86,
+          "end": 139.94,
+          "probability": 0.7225
+        },
+        {
+          "word": "হকল",
+          "start": 139.94,
+          "end": 140.32,
+          "probability": 0.8546
+        },
+        {
+          "word": "জিবিত",
+          "start": 140.32,
+          "end": 140.82,
+          "probability": 0.9077
+        },
+        {
+          "word": "সিবোর",
+          "start": 140.82,
+          "end": 141.32,
+          "probability": 0.8032
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 141.32,
+      "end": 145.18,
+      "text": "খ্যত্রত একে role apply হয় এটিয়া cock জে bifazon",
+      "language": "bn",
+      "avg_logprob": -0.6161,
+      "no_speech_prob": 0.0013,
+      "words": [
+        {
+          "word": "খ্যত্রত",
+          "start": 141.32,
+          "end": 141.8,
+          "probability": 0.8565
+        },
+        {
+          "word": "একে",
+          "start": 141.8,
+          "end": 142.26,
+          "probability": 0.9143
+        },
+        {
+          "word": "role",
+          "start": 142.26,
+          "end": 142.46,
+          "probability": 0.0009
+        },
+        {
+          "word": "apply",
+          "start": 142.46,
+          "end": 143.06,
+          "probability": 0.2405
+        },
+        {
+          "word": "হoi",
+          "start": 143.06,
+          "end": 143.58,
+          "probability": 0.7491
+        },
+        {
+          "word": "এটিয়া",
+          "start": 143.58,
+          "end": 144.0,
+          "probability": 0.848
+        },
+        {
+          "word": "cock",
+          "start": 144.0,
+          "end": 144.14,
+          "probability": 0.0156
+        },
+        {
+          "word": "জে",
+          "start": 144.14,
+          "end": 144.6,
+          "probability": 0.9179
+        },
+        {
+          "word": "bifazon",
+          "start": 144.6,
+          "end": 145.18,
+          "probability": 0.5845
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 145.18,
+      "end": 148.54,
+      "text": "হয় cock bifazon হোকাল o thayit-e হয় n e নিচ্ছ যে",
+      "language": "bn",
+      "avg_logprob": -0.6161,
+      "no_speech_prob": 0.0013,
+      "words": [
+        {
+          "word": "হoi",
+          "start": 145.18,
+          "end": 145.54,
+          "probability": 0.6018
+        },
+        {
+          "word": "cock",
+          "start": 145.54,
+          "end": 145.82,
+          "probability": 0.4685
+        },
+        {
+          "word": "bifazon",
+          "start": 145.82,
+          "end": 146.44,
+          "probability": 0.6389
+        },
+        {
+          "word": "হocal",
+          "start": 146.44,
+          "end": 146.9,
+          "probability": 0.6067
+        },
+        {
+          "word": "o",
+          "start": 146.9,
+          "end": 147.04,
+          "probability": 0.0722
+        },
+        {
+          "word": "thayit",
+          "start": 147.04,
+          "end": 147.38,
+          "probability": 0.3334
+        },
+        {
+          "word": "-e",
+          "start": 147.38,
+          "end": 147.46,
+          "probability": 0.4552
+        },
+        {
+          "word": "hoy",
+          "start": 147.46,
+          "end": 147.62,
+          "probability": 0.4293
+        },
+        {
+          "word": "n",
+          "start": 147.62,
+          "end": 147.74,
+          "probability": 0.0479
+        },
+        {
+          "word": "e",
+          "start": 147.74,
+          "end": 147.88,
+          "probability": 0.0081
+        },
+        {
+          "word": "নিচ্ছ",
+          "start": 147.88,
+          "end": 148.44,
+          "probability": 0.8892
+        },
+        {
+          "word": "যে",
+          "start": 148.44,
+          "end": 148.54,
+          "probability": 0.6197
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 148.54,
+      "end": 150.64,
+      "text": "ন হয় cock bifason কিসুমান নির্দিষ্ট",
+      "language": "bn",
+      "avg_logprob": -0.6161,
+      "no_speech_prob": 0.0013,
+      "words": [
+        {
+          "word": "ন",
+          "start": 148.54,
+          "end": 148.62,
+          "probability": 0.9546
+        },
+        {
+          "word": "hoi",
+          "start": 148.62,
+          "end": 148.78,
+          "probability": 0.4892
+        },
+        {
+          "word": "cock",
+          "start": 148.78,
+          "end": 149.06,
+          "probability": 0.7324
+        },
+        {
+          "word": "bifason",
+          "start": 149.06,
+          "end": 149.58,
+          "probability": 0.6627
+        },
+        {
+          "word": "kisuman",
+          "start": 149.58,
+          "end": 150.12,
+          "probability": 0.5098
+        },
+        {
+          "word": "nirdist",
+          "start": 150.12,
+          "end": 150.64,
+          "probability": 0.5719
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 150.64,
+      "end": 155.72,
+      "text": "কোলা থে হয় হরীর ওর কিসুমার নির্দিষ্ট কল আঠে বিফাজণ হবো পারে",
+      "language": "bn",
+      "avg_logprob": -0.5519,
+      "no_speech_prob": 0.0002,
+      "words": [
+        {
+          "word": "কোলা",
+          "start": 150.64,
+          "end": 151.2,
+          "probability": 0.7855
+        },
+        {
+          "word": "থে",
+          "start": 151.2,
+          "end": 151.48,
+          "probability": 0.8696
+        },
+        {
+          "word": "হয়",
+          "start": 151.48,
+          "end": 151.8,
+          "probability": 0.909
+        },
+        {
+          "word": "হরীর",
+          "start": 151.8,
+          "end": 152.14,
+          "probability": 0.7696
+        },
+        {
+          "word": "ওর",
+          "start": 152.14,
+          "end": 152.34,
+          "probability": 0.6074
+        },
+        {
+          "word": "কিসুমার",
+          "start": 152.34,
+          "end": 152.78,
+          "probability": 0.8828
+        },
+        {
+          "word": "নির্দিষ্ট",
+          "start": 152.78,
+          "end": 153.28,
+          "probability": 0.9566
+        },
+        {
+          "word": "কল",
+          "start": 153.28,
+          "end": 153.94,
+          "probability": 0.8287
+        },
+        {
+          "word": "আঠে",
+          "start": 153.94,
+          "end": 154.22,
+          "probability": 0.619
+        },
+        {
+          "word": "বিফাজণ",
+          "start": 154.22,
+          "end": 155.0,
+          "probability": 0.6789
+        },
+        {
+          "word": "হবো",
+          "start": 155.0,
+          "end": 155.44,
+          "probability": 0.9235
+        },
+        {
+          "word": "পারে",
+          "start": 155.44,
+          "end": 155.72,
+          "probability": 0.9922
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 155.72,
+      "end": 162.16,
+      "text": "হকূল ও ঠাইতে খবর 9 এ তিখা কখোর ভিখে টমা লোগে class9 class8-odd",
+      "language": "bn",
+      "avg_logprob": -0.5519,
+      "no_speech_prob": 0.0002,
+      "words": [
+        {
+          "word": "হকূল",
+          "start": 155.72,
+          "end": 156.34,
+          "probability": 0.7987
+        },
+        {
+          "word": "ও",
+          "start": 156.34,
+          "end": 156.54,
+          "probability": 0.5172
+        },
+        {
+          "word": "ঠাইতে",
+          "start": 156.54,
+          "end": 156.86,
+          "probability": 0.9103
+        },
+        {
+          "word": "χবে",
+          "start": 156.86,
+          "end": 157.38,
+          "probability": 0.6772
+        },
+        {
+          "word": "9",
+          "start": 157.38,
+          "end": 157.84,
+          "probability": 0.0246
+        },
+        {
+          "word": "এ",
+          "start": 157.84,
+          "end": 158.5,
+          "probability": 0.6991
+        },
+        {
+          "word": "তিখা",
+          "start": 158.5,
+          "end": 158.86,
+          "probability": 0.6487
+        },
+        {
+          "word": "কখোর",
+          "start": 158.86,
+          "end": 159.24,
+          "probability": 0.8562
+        },
+        {
+          "word": "ভিখে",
+          "start": 159.24,
+          "end": 159.64,
+          "probability": 0.6963
+        },
+        {
+          "word": "トমা",
+          "start": 159.64,
+          "end": 160.0,
+          "probability": 0.7884
+        },
+        {
+          "word": "লোগে",
+          "start": 160.0,
+          "end": 160.22,
+          "probability": 0.8199
+        },
+        {
+          "word": "class9",
+          "start": 160.22,
+          "end": 161.02,
+          "probability": 0.034
+        },
+        {
+          "word": "class8",
+          "start": 161.02,
+          "end": 161.88,
+          "probability": 0.5819
+        },
+        {
+          "word": "-odd",
+          "start": 161.88,
+          "end": 162.16,
+          "probability": 0.4748
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 163.16,
+      "end": 170.16,
+      "text": "পরিশা জে কুগ বিফাসন হদায় হিমা বদ্ধ খুগ বিফাসন এণেকৱা ন আহয়",
+      "language": "bn",
+      "avg_logprob": -0.5597,
+      "no_speech_prob": 0.0008,
+      "words": [
+        {
+          "word": "পরিশা",
+          "start": 163.16,
+          "end": 164.14,
+          "probability": 0.9047
+        },
+        {
+          "word": "জে",
+          "start": 164.14,
+          "end": 164.5,
+          "probability": 0.8687
+        },
+        {
+          "word": "কুগ",
+          "start": 164.5,
+          "end": 164.78,
+          "probability": 0.7558
+        },
+        {
+          "word": "বিফাসন",
+          "start": 164.78,
+          "end": 165.44,
+          "probability": 0.831
+        },
+        {
+          "word": "হদায়",
+          "start": 165.44,
+          "end": 166.32,
+          "probability": 0.858
+        },
+        {
+          "word": "হিমা",
+          "start": 166.32,
+          "end": 167.26,
+          "probability": 0.9948
+        },
+        {
+          "word": "বদ্ধ",
+          "start": 167.26,
+          "end": 167.64,
+          "probability": 0.8989
+        },
+        {
+          "word": "খুग",
+          "start": 167.64,
+          "end": 168.0,
+          "probability": 0.6242
+        },
+        {
+          "word": "বীফাसন",
+          "start": 168.0,
+          "end": 168.62,
+          "probability": 0.8076
+        },
+        {
+          "word": "এণেক঵া",
+          "start": 168.62,
+          "end": 169.2,
+          "probability": 0.7356
+        },
+        {
+          "word": "ন",
+          "start": 169.2,
+          "end": 169.28,
+          "probability": 0.8306
+        },
+        {
+          "word": "আহয়",
+          "start": 169.28,
+          "end": 170.16,
+          "probability": 0.7542
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 170.16,
+      "end": 173.94,
+      "text": "হোয়ে থাকিবু এনি কৈ ন হয় আরু কোগ বিফাজণ এ নিকো অন্য",
+      "language": "bn",
+      "avg_logprob": -0.5689,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "হোয়ে",
+          "start": 170.16,
+          "end": 170.56,
+          "probability": 0.8673
+        },
+        {
+          "word": "থাকিবু",
+          "start": 170.56,
+          "end": 171.02,
+          "probability": 0.895
+        },
+        {
+          "word": "এনি",
+          "start": 171.02,
+          "end": 171.72,
+          "probability": 0.8584
+        },
+        {
+          "word": "কৈ",
+          "start": 171.72,
+          "end": 171.86,
+          "probability": 0.6295
+        },
+        {
+          "word": "ন",
+          "start": 171.86,
+          "end": 171.98,
+          "probability": 0.6648
+        },
+        {
+          "word": "হয়",
+          "start": 171.98,
+          "end": 172.24,
+          "probability": 0.8689
+        },
+        {
+          "word": "আরু",
+          "start": 172.24,
+          "end": 172.46,
+          "probability": 0.8316
+        },
+        {
+          "word": "কੋগ্বিফাজণ",
+          "start": 172.46,
+          "end": 173.24,
+          "probability": 0.8154
+        },
+        {
+          "word": "এ",
+          "start": 173.24,
+          "end": 173.46,
+          "probability": 0.9924
+        },
+        {
+          "word": "নিকো",
+          "start": 173.46,
+          "end": 173.72,
+          "probability": 0.7775
+        },
+        {
+          "word": "অন্য",
+          "start": 173.72,
+          "end": 173.94,
+          "probability": 0.7324
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 173.94,
+      "end": 177.42,
+      "text": "হরীরোর ঝিক কূন অঙ্ঘর পরা হই ঠাকে ।",
+      "language": "bn",
+      "avg_logprob": -0.5689,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "হরীরোর",
+          "start": 173.94,
+          "end": 174.82,
+          "probability": 0.7368
+        },
+        {
+          "word": "ঝিক",
+          "start": 174.82,
+          "end": 175.18,
+          "probability": 0.8244
+        },
+        {
+          "word": "কূন",
+          "start": 175.18,
+          "end": 175.36,
+          "probability": 0.6843
+        },
+        {
+          "word": "অঙ্ঘর",
+          "start": 175.36,
+          "end": 175.82,
+          "probability": 0.7839
+        },
+        {
+          "word": "পরা",
+          "start": 175.82,
+          "end": 176.12,
+          "probability": 0.9739
+        },
+        {
+          "word": "হoi",
+          "start": 176.12,
+          "end": 176.72,
+          "probability": 0.7467
+        },
+        {
+          "word": "ঠাকে",
+          "start": 176.72,
+          "end": 177.06,
+          "probability": 0.8881
+        },
+        {
+          "word": "।",
+          "start": 177.06,
+          "end": 177.42,
+          "probability": 0.6275
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 177.42,
+      "end": 181.94,
+      "text": "কোগ বিফাজন proportional হয় আরু কৈ বই ভাঝণ কি হল লিমিটেত হওয়",
+      "language": "bn",
+      "avg_logprob": -0.5617,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "কোগ",
+          "start": 177.42,
+          "end": 177.56,
+          "probability": 0.8544
+        },
+        {
+          "word": "বিফাজন",
+          "start": 177.56,
+          "end": 178.12,
+          "probability": 0.8527
+        },
+        {
+          "word": "proportional",
+          "start": 178.12,
+          "end": 178.5,
+          "probability": 0.0117
+        },
+        {
+          "word": "হয়",
+          "start": 178.5,
+          "end": 179.26,
+          "probability": 0.9562
+        },
+        {
+          "word": "আরু",
+          "start": 179.26,
+          "end": 179.54,
+          "probability": 0.7906
+        },
+        {
+          "word": "কৈ",
+          "start": 179.54,
+          "end": 179.82,
+          "probability": 0.7818
+        },
+        {
+          "word": "বই",
+          "start": 179.82,
+          "end": 180.02,
+          "probability": 0.6102
+        },
+        {
+          "word": "ভাঝণ",
+          "start": 180.02,
+          "end": 180.36,
+          "probability": 0.5826
+        },
+        {
+          "word": "কি",
+          "start": 180.36,
+          "end": 180.62,
+          "probability": 0.9193
+        },
+        {
+          "word": "হল",
+          "start": 180.62,
+          "end": 180.86,
+          "probability": 0.7785
+        },
+        {
+          "word": "লিমিটেত",
+          "start": 180.86,
+          "end": 181.68,
+          "probability": 0.8471
+        },
+        {
+          "word": "হওয়",
+          "start": 181.68,
+          "end": 181.94,
+          "probability": 0.877
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 181.94,
+      "end": 185.04,
+      "text": "উদীদর কর্থরত উধীদ হমু হে গুট্ডেই জিবং-ধরি",
+      "language": "bn",
+      "avg_logprob": -0.5617,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "উদীদর",
+          "start": 181.94,
+          "end": 182.48,
+          "probability": 0.6946
+        },
+        {
+          "word": "কর্থরত",
+          "start": 182.48,
+          "end": 182.98,
+          "probability": 0.6669
+        },
+        {
+          "word": "উধীদ",
+          "start": 182.98,
+          "end": 183.46,
+          "probability": 0.7858
+        },
+        {
+          "word": "হমু",
+          "start": 183.46,
+          "end": 183.62,
+          "probability": 0.9066
+        },
+        {
+          "word": "হে",
+          "start": 183.62,
+          "end": 183.78,
+          "probability": 0.9169
+        },
+        {
+          "word": "গুট্ডেই",
+          "start": 183.78,
+          "end": 184.3,
+          "probability": 0.8243
+        },
+        {
+          "word": "জিবং",
+          "start": 184.3,
+          "end": 184.68,
+          "probability": 0.8531
+        },
+        {
+          "word": "-ধরি",
+          "start": 184.68,
+          "end": 185.04,
+          "probability": 0.7838
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 185.04,
+      "end": 186.82,
+      "text": "হতর বৃদ্ধী হবো পারে",
+      "language": "bn",
+      "avg_logprob": -0.5617,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "হতর",
+          "start": 185.04,
+          "end": 185.48,
+          "probability": 0.8471
+        },
+        {
+          "word": "বৃদ্ধী",
+          "start": 185.48,
+          "end": 186.16,
+          "probability": 0.8777
+        },
+        {
+          "word": "হবো",
+          "start": 186.16,
+          "end": 186.44,
+          "probability": 0.8233
+        },
+        {
+          "word": "পারে",
+          "start": 186.44,
+          "end": 186.82,
+          "probability": 0.9167
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 186.82,
+      "end": 190.72,
+      "text": "প্রানীর কেতুরট এটা নির্দিষ্ট বয়খোর বিশত কি হয় জায়",
+      "language": "bn",
+      "avg_logprob": -0.4808,
+      "no_speech_prob": 0.0009,
+      "words": [
+        {
+          "word": "প্রানীর",
+          "start": 186.82,
+          "end": 187.54,
+          "probability": 0.8908
+        },
+        {
+          "word": "কেতুরট",
+          "start": 187.54,
+          "end": 188.08,
+          "probability": 0.787
+        },
+        {
+          "word": "এটা",
+          "start": 188.08,
+          "end": 188.38,
+          "probability": 0.9415
+        },
+        {
+          "word": "নির্দিষ্ঠ",
+          "start": 188.38,
+          "end": 188.94,
+          "probability": 0.9169
+        },
+        {
+          "word": "বয়খোর",
+          "start": 188.94,
+          "end": 189.6,
+          "probability": 0.8166
+        },
+        {
+          "word": "বিশত",
+          "start": 189.6,
+          "end": 190.02,
+          "probability": 0.8291
+        },
+        {
+          "word": "কি",
+          "start": 190.02,
+          "end": 190.24,
+          "probability": 0.9506
+        },
+        {
+          "word": "হয়",
+          "start": 190.24,
+          "end": 190.48,
+          "probability": 0.9578
+        },
+        {
+          "word": "জায়",
+          "start": 190.48,
+          "end": 190.72,
+          "probability": 0.8093
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 190.72,
+      "end": 193.91,
+      "text": "এই জিবর রৃদ্ধি থাক্যে ররূ-রী হমু হেক হলে আয়",
+      "language": "bn",
+      "avg_logprob": -0.4808,
+      "no_speech_prob": 0.0009,
+      "words": [
+        {
+          "word": "এই",
+          "start": 190.72,
+          "end": 190.98,
+          "probability": 0.8146
+        },
+        {
+          "word": "জিবর",
+          "start": 190.98,
+          "end": 191.28,
+          "probability": 0.8896
+        },
+        {
+          "word": "রৃদ্ধি",
+          "start": 191.28,
+          "end": 191.78,
+          "probability": 0.755
+        },
+        {
+          "word": "থাক্যে",
+          "start": 191.78,
+          "end": 192.12,
+          "probability": 0.844
+        },
+        {
+          "word": "ররূ",
+          "start": 192.12,
+          "end": 192.52,
+          "probability": 0.7329
+        },
+        {
+          "word": "-রী",
+          "start": 192.52,
+          "end": 192.52,
+          "probability": 0.6285
+        },
+        {
+          "word": "হমু",
+          "start": 192.52,
+          "end": 192.88,
+          "probability": 0.8257
+        },
+        {
+          "word": "হেক",
+          "start": 192.88,
+          "end": 193.16,
+          "probability": 0.9445
+        },
+        {
+          "word": "হলে",
+          "start": 193.16,
+          "end": 193.54,
+          "probability": 0.7748
+        },
+        {
+          "word": "আয়",
+          "start": 193.54,
+          "end": 193.91,
+          "probability": 0.7214
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 193.91,
+      "end": 198.91,
+      "text": "এ্যা আমি জুদি অমার হাত খন দেখু তেটিয় হলে অঙুলি আছে",
+      "language": "bn",
+      "avg_logprob": -0.3729,
+      "no_speech_prob": 0.0019,
+      "words": [
+        {
+          "word": "এ্যা",
+          "start": 193.91,
+          "end": 194.29,
+          "probability": 0.8098
+        },
+        {
+          "word": "আমি",
+          "start": 194.29,
+          "end": 194.61,
+          "probability": 0.9605
+        },
+        {
+          "word": "জুদি",
+          "start": 194.61,
+          "end": 194.93,
+          "probability": 0.9042
+        },
+        {
+          "word": "অমার",
+          "start": 194.93,
+          "end": 195.25,
+          "probability": 0.8859
+        },
+        {
+          "word": "হাত",
+          "start": 195.25,
+          "end": 195.55,
+          "probability": 0.9899
+        },
+        {
+          "word": "খন",
+          "start": 195.55,
+          "end": 195.83,
+          "probability": 0.9577
+        },
+        {
+          "word": "দেখু",
+          "start": 195.83,
+          "end": 196.19,
+          "probability": 0.9738
+        },
+        {
+          "word": "তেটিয়",
+          "start": 196.19,
+          "end": 196.87,
+          "probability": 0.8232
+        },
+        {
+          "word": "হলে",
+          "start": 196.87,
+          "end": 197.09,
+          "probability": 0.9316
+        },
+        {
+          "word": "অঙুলি",
+          "start": 197.09,
+          "end": 198.45,
+          "probability": 0.789
+        },
+        {
+          "word": "আছে",
+          "start": 198.45,
+          "end": 198.91,
+          "probability": 0.8757
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 198.91,
+      "end": 203.13,
+      "text": "আরো এ আমার জিপুর অঙুলি আসে অংগুলী হবুহর বৃদ্ধি হয়",
+      "language": "bn",
+      "avg_logprob": -0.3794,
+      "no_speech_prob": 0.0018,
+      "words": [
+        {
+          "word": "আরো",
+          "start": 198.91,
+          "end": 199.43,
+          "probability": 0.967
+        },
+        {
+          "word": "এ",
+          "start": 199.43,
+          "end": 199.65,
+          "probability": 0.9434
+        },
+        {
+          "word": "আমার",
+          "start": 199.65,
+          "end": 200.11,
+          "probability": 0.9266
+        },
+        {
+          "word": "জিপুর",
+          "start": 200.11,
+          "end": 200.47,
+          "probability": 0.8839
+        },
+        {
+          "word": "অঙুলি",
+          "start": 200.47,
+          "end": 200.93,
+          "probability": 0.8504
+        },
+        {
+          "word": "আসে",
+          "start": 200.93,
+          "end": 201.17,
+          "probability": 0.9304
+        },
+        {
+          "word": "অংগুলী",
+          "start": 201.17,
+          "end": 201.69,
+          "probability": 0.7795
+        },
+        {
+          "word": "হবুহর",
+          "start": 201.69,
+          "end": 202.15,
+          "probability": 0.7746
+        },
+        {
+          "word": "বৃদ্ধি",
+          "start": 202.15,
+          "end": 202.67,
+          "probability": 0.93
+        },
+        {
+          "word": "হয়",
+          "start": 202.67,
+          "end": 203.13,
+          "probability": 0.9276
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 203.13,
+      "end": 206.63,
+      "text": "তুমি সেটিয়া one year old আশিল এবসর বয়োখ আছিল",
+      "language": "bn",
+      "avg_logprob": -0.4203,
+      "no_speech_prob": 0.005,
+      "words": [
+        {
+          "word": "তুমি",
+          "start": 203.13,
+          "end": 203.41,
+          "probability": 0.9307
+        },
+        {
+          "word": "সেটিয়া",
+          "start": 203.41,
+          "end": 203.85,
+          "probability": 0.825
+        },
+        {
+          "word": "one",
+          "start": 203.85,
+          "end": 204.03,
+          "probability": 0.0493
+        },
+        {
+          "word": "year",
+          "start": 204.03,
+          "end": 204.35,
+          "probability": 0.8706
+        },
+        {
+          "word": "old",
+          "start": 204.35,
+          "end": 204.69,
+          "probability": 0.936
+        },
+        {
+          "word": "আশিল",
+          "start": 204.69,
+          "end": 205.11,
+          "probability": 0.8585
+        },
+        {
+          "word": "এবসর",
+          "start": 205.11,
+          "end": 205.83,
+          "probability": 0.6641
+        },
+        {
+          "word": "বয়োখ",
+          "start": 205.83,
+          "end": 206.25,
+          "probability": 0.8083
+        },
+        {
+          "word": "আছিল",
+          "start": 206.25,
+          "end": 206.63,
+          "probability": 0.8492
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 206.63,
+      "end": 209.37,
+      "text": "তেথিযা তৌমার হাত অঙুলী জেনেকো আসিল",
+      "language": "bn",
+      "avg_logprob": -0.4203,
+      "no_speech_prob": 0.005,
+      "words": [
+        {
+          "word": "তেথিযা",
+          "start": 206.63,
+          "end": 207.35,
+          "probability": 0.8357
+        },
+        {
+          "word": "তৌমার",
+          "start": 207.35,
+          "end": 207.73,
+          "probability": 0.8975
+        },
+        {
+          "word": "হাত্র",
+          "start": 207.73,
+          "end": 208.11,
+          "probability": 0.882
+        },
+        {
+          "word": "অঙুলী",
+          "start": 208.11,
+          "end": 208.53,
+          "probability": 0.7762
+        },
+        {
+          "word": "জেনেকো",
+          "start": 208.53,
+          "end": 209.01,
+          "probability": 0.9151
+        },
+        {
+          "word": "আসিল",
+          "start": 209.01,
+          "end": 209.37,
+          "probability": 0.8781
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 209.37,
+      "end": 211.09,
+      "text": "এথি আ তোমার হাত অণুলির",
+      "language": "bn",
+      "avg_logprob": -0.4203,
+      "no_speech_prob": 0.005,
+      "words": [
+        {
+          "word": "এথি",
+          "start": 209.37,
+          "end": 209.71,
+          "probability": 0.9233
+        },
+        {
+          "word": "আ",
+          "start": 209.71,
+          "end": 209.85,
+          "probability": 0.4528
+        },
+        {
+          "word": "ত��মা",
+          "start": 209.85,
+          "end": 210.07,
+          "probability": 0.848
+        },
+        {
+          "word": "'র",
+          "start": 210.07,
+          "end": 210.19,
+          "probability": 0.6276
+        },
+        {
+          "word": "঱াত",
+          "start": 210.19,
+          "end": 210.41,
+          "probability": 0.8353
+        },
+        {
+          "word": "অণুলির",
+          "start": 210.41,
+          "end": 211.09,
+          "probability": 0.7404
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 214.85,
+      "end": 219.09,
+      "text": "আর্গুলী হাতোর অঙুলি হমুখুর বৃদ্য়েসে এটি আ সপোষ এঁটু অংঘুল হয়",
+      "language": "bn",
+      "avg_logprob": -0.6144,
+      "no_speech_prob": 0.0008,
+      "words": [
+        {
+          "word": "আর্গুলী",
+          "start": 214.85,
+          "end": 215.11,
+          "probability": 0.5125
+        },
+        {
+          "word": "হাতোর",
+          "start": 215.11,
+          "end": 215.63,
+          "probability": 0.7625
+        },
+        {
+          "word": "অঙুলি",
+          "start": 215.63,
+          "end": 215.99,
+          "probability": 0.8159
+        },
+        {
+          "word": "হমুখুর",
+          "start": 215.99,
+          "end": 216.41,
+          "probability": 0.7478
+        },
+        {
+          "word": "বৃদ্য়েসে",
+          "start": 216.41,
+          "end": 217.19,
+          "probability": 0.8036
+        },
+        {
+          "word": "এটি",
+          "start": 217.19,
+          "end": 217.71,
+          "probability": 0.8001
+        },
+        {
+          "word": "আ",
+          "start": 217.71,
+          "end": 217.85,
+          "probability": 0.7965
+        },
+        {
+          "word": "সপোষ",
+          "start": 217.85,
+          "end": 218.17,
+          "probability": 0.7796
+        },
+        {
+          "word": "এঁটু",
+          "start": 218.17,
+          "end": 218.45,
+          "probability": 0.7517
+        },
+        {
+          "word": "অংঘুল",
+          "start": 218.45,
+          "end": 218.79,
+          "probability": 0.7758
+        },
+        {
+          "word": "হয়",
+          "start": 218.79,
+          "end": 219.09,
+          "probability": 0.8211
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 219.09,
+      "end": 244.89,
+      "text": "আংঝলি tu sari-o ফালর পরা বরিদৎ হনে",
+      "language": "bn",
+      "avg_logprob": -0.6144,
+      "no_speech_prob": 0.0008,
+      "words": [
+        {
+          "word": "আংঝলি",
+          "start": 219.09,
+          "end": 219.53,
+          "probability": 0.7013
+        },
+        {
+          "word": "tu",
+          "start": 219.53,
+          "end": 219.63,
+          "probability": 0.0
+        },
+        {
+          "word": "sari",
+          "start": 219.63,
+          "end": 219.93,
+          "probability": 0.2912
+        },
+        {
+          "word": "-o",
+          "start": 219.93,
+          "end": 220.05,
+          "probability": 0.5764
+        },
+        {
+          "word": "ফালর",
+          "start": 220.05,
+          "end": 220.31,
+          "probability": 0.8396
+        },
+        {
+          "word": "পরা",
+          "start": 220.31,
+          "end": 220.53,
+          "probability": 0.9201
+        },
+        {
+          "word": "বরিদৎ",
+          "start": 220.53,
+          "end": 223.13,
+          "probability": 0.7685
+        },
+        {
+          "word": "হনে",
+          "start": 223.19,
+          "end": 244.89,
+          "probability": 0.8119
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 246.05,
+      "end": 251.73,
+      "text": "আর পিশত অংগুলীর বৃদ্ধি হয় যাসে এটা হমার ভিষত বরিধ্থি রওয়",
+      "language": "bn",
+      "avg_logprob": -0.569,
+      "no_speech_prob": 0.0023,
+      "words": [
+        {
+          "word": "আর",
+          "start": 246.05,
+          "end": 246.97,
+          "probability": 0.6669
+        },
+        {
+          "word": "পিশত",
+          "start": 246.97,
+          "end": 247.37,
+          "probability": 0.7296
+        },
+        {
+          "word": "অংগুলীর",
+          "start": 247.37,
+          "end": 248.19,
+          "probability": 0.7621
+        },
+        {
+          "word": "বৃদ্ধি",
+          "start": 248.19,
+          "end": 248.59,
+          "probability": 0.8873
+        },
+        {
+          "word": "হoi",
+          "start": 248.59,
+          "end": 248.83,
+          "probability": 0.7162
+        },
+        {
+          "word": "যাসে",
+          "start": 248.83,
+          "end": 249.05,
+          "probability": 0.7666
+        },
+        {
+          "word": "এটা",
+          "start": 249.05,
+          "end": 250.11,
+          "probability": 0.7607
+        },
+        {
+          "word": "হমার",
+          "start": 250.11,
+          "end": 250.45,
+          "probability": 0.8483
+        },
+        {
+          "word": "ভিষত",
+          "start": 250.45,
+          "end": 250.91,
+          "probability": 0.7136
+        },
+        {
+          "word": "বরিধ্থি",
+          "start": 250.91,
+          "end": 251.41,
+          "probability": 0.776
+        },
+        {
+          "word": "রওয়",
+          "start": 251.41,
+          "end": 251.73,
+          "probability": 0.8031
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 251.73,
+      "end": 256.89,
+      "text": "কিন্তু উত্বিদোর খ্যতুর বৃধী ঘুটের জিবণ চৈরি যোর",
+      "language": "bn",
+      "avg_logprob": -0.569,
+      "no_speech_prob": 0.0023,
+      "words": [
+        {
+          "word": "কিন্তু",
+          "start": 251.73,
+          "end": 252.25,
+          "probability": 0.844
+        },
+        {
+          "word": "উত্বিদোর",
+          "start": 252.25,
+          "end": 252.81,
+          "probability": 0.8978
+        },
+        {
+          "word": "খ্যতুর",
+          "start": 252.81,
+          "end": 253.17,
+          "probability": 0.8001
+        },
+        {
+          "word": "বৃধী",
+          "start": 253.17,
+          "end": 253.79,
+          "probability": 0.6888
+        },
+        {
+          "word": "ঘুটের",
+          "start": 253.79,
+          "end": 255.23,
+          "probability": 0.8525
+        },
+        {
+          "word": "জিবণ",
+          "start": 255.23,
+          "end": 255.53,
+          "probability": 0.873
+        },
+        {
+          "word": "চৈরি",
+          "start": 255.53,
+          "end": 255.87,
+          "probability": 0.7368
+        },
+        {
+          "word": "যোর",
+          "start": 255.87,
+          "end": 256.89,
+          "probability": 0.7193
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 256.89,
+      "end": 288.6,
+      "text": "আরো অমি এটু হয় জে নির্দিষ্ট থাই থে রূ তাঁ কোগ বিভাঝণ হায়",
+      "language": "bn",
+      "avg_logprob": -0.5217,
+      "no_speech_prob": 0.001,
+      "words": [
+        {
+          "word": "আরো",
+          "start": 256.89,
+          "end": 259.07,
+          "probability": 0.8012
+        },
+        {
+          "word": "অমি",
+          "start": 260.8,
+          "end": 261.14,
+          "probability": 0.8212
+        },
+        {
+          "word": "এটু",
+          "start": 261.14,
+          "end": 262.2,
+          "probability": 0.8457
+        },
+        {
+          "word": "হয়",
+          "start": 262.2,
+          "end": 262.56,
+          "probability": 0.9699
+        },
+        {
+          "word": "জে",
+          "start": 262.56,
+          "end": 262.74,
+          "probability": 0.7569
+        },
+        {
+          "word": "নির্দিষ্ঠ",
+          "start": 262.74,
+          "end": 263.74,
+          "probability": 0.8721
+        },
+        {
+          "word": "থাই",
+          "start": 263.74,
+          "end": 264.08,
+          "probability": 0.924
+        },
+        {
+          "word": "থে",
+          "start": 264.08,
+          "end": 264.42,
+          "probability": 0.906
+        },
+        {
+          "word": "রূ",
+          "start": 264.42,
+          "end": 264.8,
+          "probability": 0.497
+        },
+        {
+          "word": "তাঁ",
+          "start": 264.8,
+          "end": 267.02,
+          "probability": 0.6193
+        },
+        {
+          "word": "কোগ",
+          "start": 267.02,
+          "end": 280.04,
+          "probability": 0.657
+        },
+        {
+          "word": "বিভাঝণ",
+          "start": 280.04,
+          "end": 280.9,
+          "probability": 0.7462
+        },
+        {
+          "word": "হায়",
+          "start": 280.9,
+          "end": 288.6,
+          "probability": 0.8338
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 288.6,
+      "end": 292.9,
+      "text": "আরু কোগ বিভাজন হওয়ার পিশত এই জিবোর নতুণ কখর স্রিষ্টি হয়",
+      "language": "bn",
+      "avg_logprob": -0.4994,
+      "no_speech_prob": 0.0004,
+      "words": [
+        {
+          "word": "আরু",
+          "start": 288.6,
+          "end": 288.88,
+          "probability": 0.8706
+        },
+        {
+          "word": "কোগ",
+          "start": 288.88,
+          "end": 289.12,
+          "probability": 0.7718
+        },
+        {
+          "word": "বিভাজন",
+          "start": 289.12,
+          "end": 289.64,
+          "probability": 0.8692
+        },
+        {
+          "word": "হoয়ার",
+          "start": 289.64,
+          "end": 289.96,
+          "probability": 0.8051
+        },
+        {
+          "word": "পিশত",
+          "start": 289.96,
+          "end": 290.34,
+          "probability": 0.837
+        },
+        {
+          "word": "এই",
+          "start": 290.34,
+          "end": 290.68,
+          "probability": 0.9327
+        },
+        {
+          "word": "জিবোর",
+          "start": 290.68,
+          "end": 291.46,
+          "probability": 0.8981
+        },
+        {
+          "word": "নতুণ",
+          "start": 291.46,
+          "end": 291.82,
+          "probability": 0.8322
+        },
+        {
+          "word": "কখর",
+          "start": 291.82,
+          "end": 292.18,
+          "probability": 0.794
+        },
+        {
+          "word": "স্রিষ্টি",
+          "start": 292.18,
+          "end": 292.7,
+          "probability": 0.91
+        },
+        {
+          "word": "হoi",
+          "start": 292.7,
+          "end": 292.9,
+          "probability": 0.7474
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 292.9,
+      "end": 297.44,
+      "text": "এ নথুং কল্মু হে পুরাণা কঘর ঠাই হমু loy-loy",
+      "language": "bn",
+      "avg_logprob": -0.4994,
+      "no_speech_prob": 0.0004,
+      "words": [
+        {
+          "word": "এ",
+          "start": 292.9,
+          "end": 293.06,
+          "probability": 0.7147
+        },
+        {
+          "word": "নথুং",
+          "start": 293.06,
+          "end": 293.42,
+          "probability": 0.6605
+        },
+        {
+          "word": "কল্মु",
+          "start": 293.42,
+          "end": 293.94,
+          "probability": 0.6786
+        },
+        {
+          "word": "হe",
+          "start": 293.94,
+          "end": 294.1,
+          "probability": 0.5719
+        },
+        {
+          "word": "পুরাণা",
+          "start": 294.1,
+          "end": 294.92,
+          "probability": 0.8477
+        },
+        {
+          "word": "কঘর",
+          "start": 294.92,
+          "end": 295.36,
+          "probability": 0.7968
+        },
+        {
+          "word": "ঠাই",
+          "start": 295.36,
+          "end": 295.64,
+          "probability": 0.8822
+        },
+        {
+          "word": "হomu",
+          "start": 295.64,
+          "end": 296.78,
+          "probability": 0.6726
+        },
+        {
+          "word": "loy",
+          "start": 296.78,
+          "end": 297.12,
+          "probability": 0.3997
+        },
+        {
+          "word": "-loy",
+          "start": 297.12,
+          "end": 297.44,
+          "probability": 0.7841
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 298.48,
+      "end": 303.32,
+      "text": "গোতিকে কব্রভাজন যিটু প্রকলিযাসে, হেটু এক-কোখি ঝীবর খেতৃর তো হয়।",
+      "language": "bn",
+      "avg_logprob": -0.4286,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "গোতিকে",
+          "start": 298.48,
+          "end": 299.22,
+          "probability": 0.9133
+        },
+        {
+          "word": "কব্রভাজন",
+          "start": 299.22,
+          "end": 300.0,
+          "probability": 0.8186
+        },
+        {
+          "word": "যিটু",
+          "start": 300.0,
+          "end": 300.32,
+          "probability": 0.7665
+        },
+        {
+          "word": "প্�رক্লিযাসে,",
+          "start": 300.32,
+          "end": 301.06,
+          "probability": 0.8946
+        },
+        {
+          "word": "হেটু",
+          "start": 301.14,
+          "end": 301.38,
+          "probability": 0.7962
+        },
+        {
+          "word": "এক",
+          "start": 301.38,
+          "end": 301.76,
+          "probability": 0.9933
+        },
+        {
+          "word": "-কোখি",
+          "start": 301.76,
+          "end": 302.08,
+          "probability": 0.8542
+        },
+        {
+          "word": "ঝীবর",
+          "start": 302.08,
+          "end": 302.4,
+          "probability": 0.7277
+        },
+        {
+          "word": "খেতৃর",
+          "start": 302.4,
+          "end": 302.78,
+          "probability": 0.8235
+        },
+        {
+          "word": "তো",
+          "start": 302.78,
+          "end": 303.0,
+          "probability": 0.8943
+        },
+        {
+          "word": "হয়।",
+          "start": 303.0,
+          "end": 303.32,
+          "probability": 0.8355
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 303.32,
+      "end": 304.26,
+      "text": "এদি কূখি-ঝী",
+      "language": "bn",
+      "avg_logprob": -0.4286,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "এদি",
+          "start": 303.32,
+          "end": 303.7,
+          "probability": 0.7468
+        },
+        {
+          "word": "কূখি",
+          "start": 303.7,
+          "end": 303.86,
+          "probability": 0.7251
+        },
+        {
+          "word": "-ঝী�",
+          "start": 303.86,
+          "end": 304.26,
+          "probability": 0.6555
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 304.26,
+      "end": 310.54,
+      "text": "কর্খনুর দারা কব বিভাসণ কোরিব পরাছায়",
+      "language": "bn",
+      "avg_logprob": -0.6045,
+      "no_speech_prob": 0.0016,
+      "words": [
+        {
+          "word": "কর্খনুর",
+          "start": 304.26,
+          "end": 306.22,
+          "probability": 0.6936
+        },
+        {
+          "word": "দারা",
+          "start": 306.22,
+          "end": 306.52,
+          "probability": 0.9092
+        },
+        {
+          "word": "কব",
+          "start": 306.52,
+          "end": 307.1,
+          "probability": 0.7884
+        },
+        {
+          "word": "বিভাসণ",
+          "start": 307.1,
+          "end": 307.66,
+          "probability": 0.7409
+        },
+        {
+          "word": "কোরিব",
+          "start": 307.66,
+          "end": 308.04,
+          "probability": 0.8678
+        },
+        {
+          "word": "পরাছায়",
+          "start": 308.04,
+          "end": 310.54,
+          "probability": 0.8339
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 310.56,
+      "end": 317.84,
+      "text": "বার্তুর বস্থুর bifazan oise, kuna zibor bifazon hoise tarmane etu n-o haize hi jibi to hoy.",
+      "language": "bn",
+      "avg_logprob": -0.8885,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "বার্তুর",
+          "start": 310.56,
+          "end": 310.76,
+          "probability": 0.5572
+        },
+        {
+          "word": "বস্থুর",
+          "start": 310.76,
+          "end": 311.66,
+          "probability": 0.7528
+        },
+        {
+          "word": "bifazan",
+          "start": 311.66,
+          "end": 312.3,
+          "probability": 0.4222
+        },
+        {
+          "word": "oise,",
+          "start": 312.3,
+          "end": 312.72,
+          "probability": 0.1728
+        },
+        {
+          "word": "kuna",
+          "start": 312.84,
+          "end": 313.04,
+          "probability": 0.3699
+        },
+        {
+          "word": "zibor",
+          "start": 313.04,
+          "end": 313.7,
+          "probability": 0.3862
+        },
+        {
+          "word": "bifazon",
+          "start": 313.7,
+          "end": 314.26,
+          "probability": 0.6201
+        },
+        {
+          "word": "hoise",
+          "start": 314.26,
+          "end": 314.62,
+          "probability": 0.4993
+        },
+        {
+          "word": "tarmane",
+          "start": 314.62,
+          "end": 315.2,
+          "probability": 0.4664
+        },
+        {
+          "word": "etu",
+          "start": 315.2,
+          "end": 315.44,
+          "probability": 0.4389
+        },
+        {
+          "word": "n",
+          "start": 315.44,
+          "end": 315.56,
+          "probability": 0.5752
+        },
+        {
+          "word": "-o",
+          "start": 315.56,
+          "end": 315.64,
+          "probability": 0.3523
+        },
+        {
+          "word": "haize",
+          "start": 315.64,
+          "end": 315.9,
+          "probability": 0.0782
+        },
+        {
+          "word": "hi",
+          "start": 315.9,
+          "end": 316.42,
+          "probability": 0.163
+        },
+        {
+          "word": "jibi",
+          "start": 316.42,
+          "end": 317.3,
+          "probability": 0.0747
+        },
+        {
+          "word": "to",
+          "start": 317.3,
+          "end": 317.52,
+          "probability": 0.2551
+        },
+        {
+          "word": "hoy.",
+          "start": 317.52,
+          "end": 317.84,
+          "probability": 0.1504
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 317.92,
+      "end": 323.1,
+      "text": "হইনে গতি কে কারণ আমি কর্কন মাঝদো মতো জিপেটা কি করিবো পারুম।",
+      "language": "bn",
+      "avg_logprob": -0.8885,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "Hoine",
+          "start": 317.92,
+          "end": 318.6,
+          "probability": 0.0388
+        },
+        {
+          "word": "goti",
+          "start": 318.6,
+          "end": 319.12,
+          "probability": 0.0836
+        },
+        {
+          "word": "ke",
+          "start": 319.12,
+          "end": 319.24,
+          "probability": 0.186
+        },
+        {
+          "word": "karon",
+          "start": 319.24,
+          "end": 319.64,
+          "probability": 0.4185
+        },
+        {
+          "word": "amii",
+          "start": 319.64,
+          "end": 319.9,
+          "probability": 0.2814
+        },
+        {
+          "word": "corkhon",
+          "start": 319.9,
+          "end": 320.44,
+          "probability": 0.4475
+        },
+        {
+          "word": "madhdo",
+          "start": 320.44,
+          "end": 320.8,
+          "probability": 0.1465
+        },
+        {
+          "word": "motoo",
+          "start": 320.8,
+          "end": 321.12,
+          "probability": 0.0947
+        },
+        {
+          "word": "zipeta",
+          "start": 321.12,
+          "end": 321.92,
+          "probability": 0.2365
+        },
+        {
+          "word": "ki",
+          "start": 321.92,
+          "end": 322.2,
+          "probability": 0.6099
+        },
+        {
+          "word": "koribo",
+          "start": 322.2,
+          "end": 322.64,
+          "probability": 0.2741
+        },
+        {
+          "word": "parum",
+          "start": 322.64,
+          "end": 323.02,
+          "probability": 0.237
+        },
+        {
+          "word": ".",
+          "start": 323.02,
+          "end": 323.1,
+          "probability": 0.0339
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 326.55,
+      "end": 333.79,
+      "text": "জীবর উসসোখা পর প্রাণী বা উদ্ভিদ থাকে হে হোমুহার ক্ষেত্রত কি হয় প্রজনন প্রক্রিয়া পরস্পরিক",
+      "language": "bn",
+      "avg_logprob": -0.8885,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "Zibor",
+          "start": 326.55,
+          "end": 327.31,
+          "probability": 0.6948
+        },
+        {
+          "word": "ussokha",
+          "start": 327.31,
+          "end": 327.89,
+          "probability": 0.521
+        },
+        {
+          "word": "por",
+          "start": 327.89,
+          "end": 328.17,
+          "probability": 0.3367
+        },
+        {
+          "word": "prani",
+          "start": 328.17,
+          "end": 328.67,
+          "probability": 0.7776
+        },
+        {
+          "word": "ba",
+          "start": 328.67,
+          "end": 328.81,
+          "probability": 0.2666
+        },
+        {
+          "word": "udbit",
+          "start": 328.81,
+          "end": 329.13,
+          "probability": 0.4199
+        },
+        {
+          "word": "thake",
+          "start": 329.13,
+          "end": 329.47,
+          "probability": 0.4159
+        },
+        {
+          "word": "hei",
+          "start": 329.47,
+          "end": 329.85,
+          "probability": 0.1988
+        },
+        {
+          "word": "homuhar",
+          "start": 329.85,
+          "end": 330.41,
+          "probability": 0.2386
+        },
+        {
+          "word": "khetrat",
+          "start": 330.41,
+          "end": 330.89,
+          "probability": 0.4792
+        },
+        {
+          "word": "ki",
+          "start": 330.89,
+          "end": 331.11,
+          "probability": 0.6943
+        },
+        {
+          "word": "hoy",
+          "start": 331.11,
+          "end": 331.33,
+          "probability": 0.6772
+        },
+        {
+          "word": "prozonant",
+          "start": 331.33,
+          "end": 332.49,
+          "probability": 0.1397
+        },
+        {
+          "word": "procriya",
+          "start": 332.49,
+          "end": 333.05,
+          "probability": 0.3162
+        },
+        {
+          "word": "paraşparik",
+          "start": 333.05,
+          "end": 333.79,
+          "probability": 0.3377
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 333.79,
+      "end": 338.67,
+      "text": "কোষপর্দা, আসুতিয়া প্রকৃদ্ধির দেহর ভরর বরণকে দীহর",
+      "language": "bn",
+      "avg_logprob": -0.3919,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "কোষপর্দা,",
+          "start": 333.79,
+          "end": 334.35,
+          "probability": 0.4482
+        },
+        {
+          "word": "আসুতিয়া",
+          "start": 334.43,
+          "end": 335.59,
+          "probability": 0.7465
+        },
+        {
+          "word": "প্রক্ডিযারু",
+          "start": 335.59,
+          "end": 336.27,
+          "probability": 0.8206
+        },
+        {
+          "word": "দেহর",
+          "start": 336.27,
+          "end": 336.67,
+          "probability": 0.9245
+        },
+        {
+          "word": "ভরর",
+          "start": 336.67,
+          "end": 337.21,
+          "probability": 0.8448
+        },
+        {
+          "word": "বরণকে",
+          "start": 337.21,
+          "end": 338.23,
+          "probability": 0.8931
+        },
+        {
+          "word": "দীহর",
+          "start": 338.23,
+          "end": 338.67,
+          "probability": 0.8733
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 338.67,
+      "end": 341.51,
+      "text": "বৃথিবুলি গইন্ন করিবু কোৰাজায়।",
+      "language": "bn",
+      "avg_logprob": -0.3919,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "বৃথিবুলি",
+          "start": 338.67,
+          "end": 339.67,
+          "probability": 0.8064
+        },
+        {
+          "word": "গৈন্ন",
+          "start": 339.67,
+          "end": 340.19,
+          "probability": 0.8108
+        },
+        {
+          "word": "করিবु",
+          "start": 340.19,
+          "end": 340.69,
+          "probability": 0.7707
+        },
+        {
+          "word": "ক੉রাজায়।",
+          "start": 340.69,
+          "end": 341.51,
+          "probability": 0.7285
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 354.99,
+      "end": 374.07,
+      "text": "পর্ভূত পাহার বা ডাঙর হিলাখনে আরো বলি ঠিব অদির রীড়ী থি হয়",
+      "language": "bn",
+      "avg_logprob": -0.6193,
+      "no_speech_prob": 0.001,
+      "words": [
+        {
+          "word": "পর্ভুত",
+          "start": 354.99,
+          "end": 356.19,
+          "probability": 0.6159
+        },
+        {
+          "word": "পাহার",
+          "start": 356.19,
+          "end": 356.79,
+          "probability": 0.9617
+        },
+        {
+          "word": "বা",
+          "start": 356.79,
+          "end": 357.05,
+          "probability": 0.9442
+        },
+        {
+          "word": "ডাঙর",
+          "start": 357.05,
+          "end": 357.67,
+          "probability": 0.746
+        },
+        {
+          "word": "হিলাখনে",
+          "start": 357.67,
+          "end": 358.67,
+          "probability": 0.8929
+        },
+        {
+          "word": "আরো",
+          "start": 358.67,
+          "end": 359.41,
+          "probability": 0.9155
+        },
+        {
+          "word": "বলি",
+          "start": 359.41,
+          "end": 359.95,
+          "probability": 0.8324
+        },
+        {
+          "word": "ঠিব",
+          "start": 359.95,
+          "end": 360.35,
+          "probability": 0.6686
+        },
+        {
+          "word": "অদির",
+          "start": 360.35,
+          "end": 360.85,
+          "probability": 0.788
+        },
+        {
+          "word": "র",
+          "start": 360.85,
+          "end": 360.99,
+          "probability": 0.323
+        },
+        {
+          "word": "ীরী",
+          "start": 360.99,
+          "end": 361.37,
+          "probability": 0.541
+        },
+        {
+          "word": "থি",
+          "start": 361.37,
+          "end": 363.11,
+          "probability": 0.7082
+        },
+        {
+          "word": "হয়",
+          "start": 363.11,
+          "end": 374.07,
+          "probability": 0.8459
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 374.15,
+      "end": 391.81,
+      "text": "বক্ষুরী। বালির থিপ বুলি গই হয়, জেটিয়া বলিদ থারণ আখার বৃদ্ধি হোবলোয় ধরে, কিও বরিদৎ হয় কারো নিযাতে ব’লি আহি পেলায়",
+      "language": "bn",
+      "avg_logprob": -0.5899,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "বক্ষুরী।",
+          "start": 374.15,
+          "end": 374.91,
+          "probability": 0.4963
+        },
+        {
+          "word": "বালির",
+          "start": 374.91,
+          "end": 375.27,
+          "probability": 0.6758
+        },
+        {
+          "word": "থিপ",
+          "start": 375.27,
+          "end": 375.61,
+          "probability": 0.7405
+        },
+        {
+          "word": "বুলি",
+          "start": 375.61,
+          "end": 375.83,
+          "probability": 0.8
+        },
+        {
+          "word": "গৈ",
+          "start": 375.83,
+          "end": 376.11,
+          "probability": 0.5378
+        },
+        {
+          "word": "হয়,",
+          "start": 376.11,
+          "end": 376.39,
+          "probability": 0.8659
+        },
+        {
+          "word": "জেটিয়া",
+          "start": 376.47,
+          "end": 377.25,
+          "probability": 0.8145
+        },
+        {
+          "word": "বলিদ",
+          "start": 377.25,
+          "end": 377.65,
+          "probability": 0.643
+        },
+        {
+          "word": "থারণ",
+          "start": 377.65,
+          "end": 381.03,
+          "probability": 0.6045
+        },
+        {
+          "word": "আখার",
+          "start": 381.03,
+          "end": 383.89,
+          "probability": 0.7778
+        },
+        {
+          "word": "বৃদ্ধি",
+          "start": 383.89,
+          "end": 387.55,
+          "probability": 0.8286
+        },
+        {
+          "word": "হোবলোয়",
+          "start": 387.55,
+          "end": 388.19,
+          "probability": 0.8024
+        },
+        {
+          "word": "ধরে,",
+          "start": 388.19,
+          "end": 388.65,
+          "probability": 0.8891
+        },
+        {
+          "word": "কিও",
+          "start": 388.73,
+          "end": 388.93,
+          "probability": 0.8544
+        },
+        {
+          "word": "বরিদৎ",
+          "start": 388.93,
+          "end": 389.31,
+          "probability": 0.7141
+        },
+        {
+          "word": "হoi",
+          "start": 389.31,
+          "end": 389.61,
+          "probability": 0.6566
+        },
+        {
+          "word": "কারো",
+          "start": 389.61,
+          "end": 389.95,
+          "probability": 0.8123
+        },
+        {
+          "word": "নিযাতে",
+          "start": 389.95,
+          "end": 390.37,
+          "probability": 0.7742
+        },
+        {
+          "word": "ব঳ি",
+          "start": 390.37,
+          "end": 391.07,
+          "probability": 0.8298
+        },
+        {
+          "word": "আহি",
+          "start": 391.07,
+          "end": 391.41,
+          "probability": 0.9206
+        },
+        {
+          "word": "পেলায়",
+          "start": 391.41,
+          "end": 391.81,
+          "probability": 0.8965
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 416.21,
+      "end": 419.01,
+      "text": "বার আকার",
+      "language": "bn",
+      "avg_logprob": -0.9247,
+      "no_speech_prob": 0.0004,
+      "words": [
+        {
+          "word": "বার",
+          "start": 416.21,
+          "end": 417.61,
+          "probability": 0.5754
+        },
+        {
+          "word": "আকার",
+          "start": 417.61,
+          "end": 419.01,
+          "probability": 0.6431
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 419.05,
+      "end": 421.85,
+      "text": "বার আকার",
+      "language": "bn",
+      "avg_logprob": -0.9237,
+      "no_speech_prob": 0.0006,
+      "words": [
+        {
+          "word": "বার",
+          "start": 419.05,
+          "end": 420.45,
+          "probability": 0.581
+        },
+        {
+          "word": "আকার",
+          "start": 420.45,
+          "end": 421.85,
+          "probability": 0.6509
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 421.85,
+      "end": 428.05,
+      "text": "বক্ষুরী। বালির ঢিপ্টুর আকার বৃদ্ধি হয়েছে, তারমানে বলি ঢিপটু জিবিত হয়ণে নিচ্ছোএ নহয়।",
+      "language": "bn",
+      "avg_logprob": -0.6,
+      "no_speech_prob": 0.0007,
+      "words": [
+        {
+          "word": "বক্ষুরী",
+          "start": 421.85,
+          "end": 422.27,
+          "probability": 0.5593
+        },
+        {
+          "word": "।",
+          "start": 422.27,
+          "end": 422.27,
+          "probability": 0.4761
+        },
+        {
+          "word": "বালির",
+          "start": 422.27,
+          "end": 422.55,
+          "probability": 0.7656
+        },
+        {
+          "word": "ঢিপ্টুর",
+          "start": 422.55,
+          "end": 422.99,
+          "probability": 0.7985
+        },
+        {
+          "word": "আকার",
+          "start": 422.99,
+          "end": 423.51,
+          "probability": 0.9451
+        },
+        {
+          "word": "বৃদ্য়",
+          "start": 423.51,
+          "end": 424.03,
+          "probability": 0.808
+        },
+        {
+          "word": "হোয়েছে,",
+          "start": 424.03,
+          "end": 424.31,
+          "probability": 0.8636
+        },
+        {
+          "word": "তারমানে",
+          "start": 424.39,
+          "end": 424.89,
+          "probability": 0.9054
+        },
+        {
+          "word": "বলি",
+          "start": 424.89,
+          "end": 425.25,
+          "probability": 0.8102
+        },
+        {
+          "word": "ঢ়িপটু",
+          "start": 425.25,
+          "end": 425.73,
+          "probability": 0.7263
+        },
+        {
+          "word": "জিবিত",
+          "start": 425.73,
+          "end": 426.21,
+          "probability": 0.9198
+        },
+        {
+          "word": "হয়ণে",
+          "start": 426.21,
+          "end": 426.75,
+          "probability": 0.8166
+        },
+        {
+          "word": "নিচ্ছোএ",
+          "start": 426.75,
+          "end": 427.71,
+          "probability": 0.8045
+        },
+        {
+          "word": "নহয।",
+          "start": 427.71,
+          "end": 428.05,
+          "probability": 0.843
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 428.05,
+      "end": 433.64,
+      "text": "যদি বালির ঠিপ্তু জিবিতন হয়, তেটিয়া হলে যেতিয়া ঝিবোর-খরীর বৃদ্ধি হওয়,",
+      "language": "bn",
+      "avg_logprob": -0.3555,
+      "no_speech_prob": 0.002,
+      "words": [
+        {
+          "word": "যুদি",
+          "start": 428.05,
+          "end": 428.45,
+          "probability": 0.8295
+        },
+        {
+          "word": "বালির",
+          "start": 428.45,
+          "end": 428.89,
+          "probability": 0.9424
+        },
+        {
+          "word": "ঠিপ্তু",
+          "start": 428.89,
+          "end": 429.17,
+          "probability": 0.845
+        },
+        {
+          "word": "জিবিতন",
+          "start": 429.17,
+          "end": 429.81,
+          "probability": 0.9195
+        },
+        {
+          "word": "হয,",
+          "start": 429.81,
+          "end": 430.13,
+          "probability": 0.8922
+        },
+        {
+          "word": "তেটিয়া",
+          "start": 430.21,
+          "end": 430.83,
+          "probability": 0.8648
+        },
+        {
+          "word": "হলে",
+          "start": 430.83,
+          "end": 431.07,
+          "probability": 0.9846
+        },
+        {
+          "word": "যেতিযা",
+          "start": 431.07,
+          "end": 431.55,
+          "probability": 0.8296
+        },
+        {
+          "word": "ঝিবোর",
+          "start": 431.55,
+          "end": 432.03,
+          "probability": 0.8178
+        },
+        {
+          "word": "-খরীর",
+          "start": 432.03,
+          "end": 432.49,
+          "probability": 0.6695
+        },
+        {
+          "word": "বৃদ্ধি",
+          "start": 432.49,
+          "end": 433.19,
+          "probability": 0.9274
+        },
+        {
+          "word": "হওয়,",
+          "start": 433.19,
+          "end": 433.64,
+          "probability": 0.8313
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 436.02,
+      "end": 439.4,
+      "text": "বক্ষুরী বিদ্য়",
+      "language": "bn",
+      "avg_logprob": -0.8532,
+      "no_speech_prob": 0.0002,
+      "words": [
+        {
+          "word": "বক্ষুরী",
+          "start": 436.02,
+          "end": 437.42,
+          "probability": 0.5071
+        },
+        {
+          "word": "বিদ্য়",
+          "start": 438.06,
+          "end": 439.4,
+          "probability": 0.6122
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 440.51,
+      "end": 451.55,
+      "text": "হেটু কী হয়স্য ভাজিগ ফাবে হরো পরা বালি আখে বলা লোগ লাগি বিদ্ডি হব্তু এটু",
+      "language": "bn",
+      "avg_logprob": -0.7241,
+      "no_speech_prob": 0.0008,
+      "words": [
+        {
+          "word": "হেটু",
+          "start": 440.51,
+          "end": 441.27,
+          "probability": 0.7763
+        },
+        {
+          "word": "কী",
+          "start": 441.27,
+          "end": 441.45,
+          "probability": 0.6635
+        },
+        {
+          "word": "হৈস্য",
+          "start": 441.45,
+          "end": 441.83,
+          "probability": 0.6383
+        },
+        {
+          "word": "ভাজিগ",
+          "start": 441.83,
+          "end": 442.51,
+          "probability": 0.5166
+        },
+        {
+          "word": "ফাবে",
+          "start": 442.51,
+          "end": 442.85,
+          "probability": 0.9017
+        },
+        {
+          "word": "হরো",
+          "start": 442.85,
+          "end": 443.43,
+          "probability": 0.6238
+        },
+        {
+          "word": "পরা",
+          "start": 443.43,
+          "end": 445.51,
+          "probability": 0.6154
+        },
+        {
+          "word": "বালি",
+          "start": 445.51,
+          "end": 445.89,
+          "probability": 0.9167
+        },
+        {
+          "word": "আখে",
+          "start": 445.89,
+          "end": 446.17,
+          "probability": 0.7579
+        },
+        {
+          "word": "বলা",
+          "start": 446.17,
+          "end": 446.47,
+          "probability": 0.6111
+        },
+        {
+          "word": "লোগ",
+          "start": 446.47,
+          "end": 446.75,
+          "probability": 0.6021
+        },
+        {
+          "word": "লাগি",
+          "start": 446.75,
+          "end": 447.07,
+          "probability": 0.7467
+        },
+        {
+          "word": "বিদ্ডি",
+          "start": 447.07,
+          "end": 448.59,
+          "probability": 0.6833
+        },
+        {
+          "word": "হব্তু",
+          "start": 448.59,
+          "end": 450.77,
+          "probability": 0.578
+        },
+        {
+          "word": "এটু",
+          "start": 450.77,
+          "end": 451.55,
+          "probability": 0.713
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 451.55,
+      "end": 459.89,
+      "text": "প্রিতু বালির দীবা সে, তাক আমি জিবিত বলি নকৈ কারণ যার অখার",
+      "language": "bn",
+      "avg_logprob": -0.5356,
+      "no_speech_prob": 0.0004,
+      "words": [
+        {
+          "word": "প্রিতু",
+          "start": 451.55,
+          "end": 452.63,
+          "probability": 0.6593
+        },
+        {
+          "word": "বালির",
+          "start": 452.63,
+          "end": 453.27,
+          "probability": 0.7677
+        },
+        {
+          "word": "দীবা",
+          "start": 453.27,
+          "end": 453.57,
+          "probability": 0.7702
+        },
+        {
+          "word": "সে,",
+          "start": 453.57,
+          "end": 453.79,
+          "probability": 0.7825
+        },
+        {
+          "word": "তাক",
+          "start": 453.85,
+          "end": 454.09,
+          "probability": 0.9521
+        },
+        {
+          "word": "আমি",
+          "start": 454.09,
+          "end": 454.31,
+          "probability": 0.9003
+        },
+        {
+          "word": "জিবিত",
+          "start": 454.31,
+          "end": 456.87,
+          "probability": 0.9094
+        },
+        {
+          "word": "বলি",
+          "start": 457.09,
+          "end": 457.45,
+          "probability": 0.811
+        },
+        {
+          "word": "নকৈ",
+          "start": 457.45,
+          "end": 457.83,
+          "probability": 0.7691
+        },
+        {
+          "word": "কারণ",
+          "start": 457.83,
+          "end": 458.25,
+          "probability": 0.8133
+        },
+        {
+          "word": "যার",
+          "start": 458.25,
+          "end": 459.13,
+          "probability": 0.8415
+        },
+        {
+          "word": "অখার",
+          "start": 459.13,
+          "end": 459.89,
+          "probability": 0.7763
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 459.89,
+      "end": 464.27,
+      "text": "বৃদ্ধি হোঁর কারণ হয়েছে কি বহিরোর পরা material আ হি ভেলায় log হঙ্চে",
+      "language": "bn",
+      "avg_logprob": -0.5356,
+      "no_speech_prob": 0.0004,
+      "words": [
+        {
+          "word": "বৃদ্ধি",
+          "start": 459.89,
+          "end": 460.31,
+          "probability": 0.9084
+        },
+        {
+          "word": "হোঁর",
+          "start": 460.31,
+          "end": 460.51,
+          "probability": 0.7457
+        },
+        {
+          "word": "করণ",
+          "start": 460.51,
+          "end": 460.87,
+          "probability": 0.8052
+        },
+        {
+          "word": "হয়েছে",
+          "start": 460.87,
+          "end": 461.29,
+          "probability": 0.8494
+        },
+        {
+          "word": "কি",
+          "start": 461.29,
+          "end": 461.47,
+          "probability": 0.9524
+        },
+        {
+          "word": "বহিরোর",
+          "start": 461.47,
+          "end": 461.93,
+          "probability": 0.8442
+        },
+        {
+          "word": "পরা",
+          "start": 461.93,
+          "end": 462.15,
+          "probability": 0.9573
+        },
+        {
+          "word": "material",
+          "start": 462.15,
+          "end": 462.57,
+          "probability": 0.0316
+        },
+        {
+          "word": "আ",
+          "start": 462.57,
+          "end": 462.93,
+          "probability": 0.9839
+        },
+        {
+          "word": "হি",
+          "start": 462.93,
+          "end": 462.99,
+          "probability": 0.7419
+        },
+        {
+          "word": "ভেলায়",
+          "start": 462.99,
+          "end": 463.41,
+          "probability": 0.7447
+        },
+        {
+          "word": "log",
+          "start": 463.41,
+          "end": 463.79,
+          "probability": 0.0217
+        },
+        {
+          "word": "হঙ্চে",
+          "start": 463.79,
+          "end": 464.27,
+          "probability": 0.7787
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 465.13,
+      "end": 469.73,
+      "text": "প্রাণীর কুলো বিদ্য় হয়, এই বৃতি আভ্যন্তরিণ হওয়।",
+      "language": "bn",
+      "avg_logprob": -0.6283,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "প্রানীর",
+          "start": 465.13,
+          "end": 465.97,
+          "probability": 0.8269
+        },
+        {
+          "word": "কুলো",
+          "start": 465.97,
+          "end": 466.33,
+          "probability": 0.5695
+        },
+        {
+          "word": "বিদ্য়",
+          "start": 466.33,
+          "end": 466.71,
+          "probability": 0.5726
+        },
+        {
+          "word": "হয়,",
+          "start": 466.71,
+          "end": 466.93,
+          "probability": 0.6997
+        },
+        {
+          "word": "এই",
+          "start": 466.97,
+          "end": 467.23,
+          "probability": 0.7077
+        },
+        {
+          "word": "বৃতি",
+          "start": 467.23,
+          "end": 467.67,
+          "probability": 0.6609
+        },
+        {
+          "word": "আয়্ভাণ্তরিন",
+          "start": 467.67,
+          "end": 469.39,
+          "probability": 0.804
+        },
+        {
+          "word": "হওয়।",
+          "start": 469.39,
+          "end": 469.73,
+          "probability": 0.8243
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 469.73,
+      "end": 472.07,
+      "text": "ইহতর ভিতরের পরা বরির্থি হয়",
+      "language": "bn",
+      "avg_logprob": -0.6283,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "ইহতর",
+          "start": 469.73,
+          "end": 470.37,
+          "probability": 0.7872
+        },
+        {
+          "word": "ভিতরর",
+          "start": 470.37,
+          "end": 470.99,
+          "probability": 0.9021
+        },
+        {
+          "word": "পরা",
+          "start": 470.99,
+          "end": 471.35,
+          "probability": 0.943
+        },
+        {
+          "word": "বরির্থি",
+          "start": 471.35,
+          "end": 471.77,
+          "probability": 0.7071
+        },
+        {
+          "word": "হোয়",
+          "start": 471.77,
+          "end": 472.07,
+          "probability": 0.8952
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 472.07,
+      "end": 473.77,
+      "text": "এটিয়া উদূর ক্ষেত্রত",
+      "language": "bn",
+      "avg_logprob": -0.6283,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "এটিয়া",
+          "start": 472.07,
+          "end": 472.63,
+          "probability": 0.68
+        },
+        {
+          "word": "উুদূর",
+          "start": 472.63,
+          "end": 473.07,
+          "probability": 0.6389
+        },
+        {
+          "word": "খেত্�رত",
+          "start": 473.07,
+          "end": 473.77,
+          "probability": 0.8082
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 473.77,
+      "end": 477.45,
+      "text": "আর্মি বেলে কেটা উদ্বিদুর পরা কংড়, ডাল, পাত, আনি পেয়",
+      "language": "bn",
+      "avg_logprob": -0.4686,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "আর্মি",
+          "start": 473.77,
+          "end": 473.95,
+          "probability": 0.6425
+        },
+        {
+          "word": "বেলে",
+          "start": 473.95,
+          "end": 474.33,
+          "probability": 0.9612
+        },
+        {
+          "word": "কেটা",
+          "start": 474.33,
+          "end": 474.63,
+          "probability": 0.9039
+        },
+        {
+          "word": "উদ্বিদুর",
+          "start": 474.63,
+          "end": 475.21,
+          "probability": 0.8926
+        },
+        {
+          "word": "পরা",
+          "start": 475.21,
+          "end": 475.47,
+          "probability": 0.9756
+        },
+        {
+          "word": "কংড়,",
+          "start": 475.47,
+          "end": 476.01,
+          "probability": 0.7489
+        },
+        {
+          "word": "ডাল,",
+          "start": 476.09,
+          "end": 476.45,
+          "probability": 0.9819
+        },
+        {
+          "word": "পাত,",
+          "start": 476.57,
+          "end": 476.79,
+          "probability": 0.9275
+        },
+        {
+          "word": "আনি",
+          "start": 476.89,
+          "end": 477.05,
+          "probability": 0.9524
+        },
+        {
+          "word": "পেয়",
+          "start": 477.05,
+          "end": 477.45,
+          "probability": 0.8664
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 477.45,
+      "end": 479.97,
+      "text": "এঠ করি নিদিও, লখ-লগাই নিদির",
+      "language": "bn",
+      "avg_logprob": -0.4686,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "এঠ",
+          "start": 477.45,
+          "end": 478.27,
+          "probability": 0.4923
+        },
+        {
+          "word": "করি",
+          "start": 478.27,
+          "end": 478.55,
+          "probability": 0.9649
+        },
+        {
+          "word": "নিদিও,",
+          "start": 478.55,
+          "end": 478.97,
+          "probability": 0.8401
+        },
+        {
+          "word": "লখ",
+          "start": 479.03,
+          "end": 479.23,
+          "probability": 0.7942
+        },
+        {
+          "word": "-লগাই",
+          "start": 479.23,
+          "end": 479.59,
+          "probability": 0.8748
+        },
+        {
+          "word": "ন�िদির",
+          "start": 479.59,
+          "end": 479.97,
+          "probability": 0.7539
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 479.97,
+      "end": 503.75,
+      "text": "জার কারণে উদোপিদ র বিদৎ হয়",
+      "language": "bn",
+      "avg_logprob": -0.4686,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "জার",
+          "start": 479.97,
+          "end": 480.23,
+          "probability": 0.8327
+        },
+        {
+          "word": "কারণে",
+          "start": 480.23,
+          "end": 480.63,
+          "probability": 0.934
+        },
+        {
+          "word": "ुদোপিদ",
+          "start": 480.63,
+          "end": 480.99,
+          "probability": 0.689
+        },
+        {
+          "word": "র",
+          "start": 480.99,
+          "end": 481.19,
+          "probability": 0.2333
+        },
+        {
+          "word": "বীদৎ",
+          "start": 481.19,
+          "end": 483.25,
+          "probability": 0.7049
+        },
+        {
+          "word": "হয়",
+          "start": 483.25,
+          "end": 503.75,
+          "probability": 0.9224
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 503.75,
+      "end": 510.49,
+      "text": "বার্থুরী। রিন ভাবে হয়, হেবর রোগ সিবিট বলি কৈ হয়। ঠিখে, তেনে",
+      "language": "bn",
+      "avg_logprob": -0.8239,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "বার্থুরী",
+          "start": 503.75,
+          "end": 504.11,
+          "probability": 0.4821
+        },
+        {
+          "word": "।",
+          "start": 504.11,
+          "end": 504.77,
+          "probability": 0.3905
+        },
+        {
+          "word": "রিন",
+          "start": 504.77,
+          "end": 505.25,
+          "probability": 0.4392
+        },
+        {
+          "word": "ভাবে",
+          "start": 505.25,
+          "end": 505.67,
+          "probability": 0.8515
+        },
+        {
+          "word": "হয়,",
+          "start": 505.67,
+          "end": 506.07,
+          "probability": 0.8938
+        },
+        {
+          "word": "হেবর",
+          "start": 506.11,
+          "end": 506.73,
+          "probability": 0.913
+        },
+        {
+          "word": "রোগ",
+          "start": 506.73,
+          "end": 506.93,
+          "probability": 0.692
+        },
+        {
+          "word": "সিবিট",
+          "start": 506.93,
+          "end": 507.29,
+          "probability": 0.7813
+        },
+        {
+          "word": "বলি",
+          "start": 507.29,
+          "end": 507.73,
+          "probability": 0.7037
+        },
+        {
+          "word": "কৈ",
+          "start": 507.73,
+          "end": 508.19,
+          "probability": 0.7262
+        },
+        {
+          "word": "হওয়",
+          "start": 508.19,
+          "end": 508.59,
+          "probability": 0.8328
+        },
+        {
+          "word": "।",
+          "start": 508.59,
+          "end": 508.91,
+          "probability": 0.638
+        },
+        {
+          "word": "ঠিখে,",
+          "start": 508.91,
+          "end": 509.37,
+          "probability": 0.7857
+        },
+        {
+          "word": "তেনে",
+          "start": 509.39,
+          "end": 510.49,
+          "probability": 0.9673
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 510.49,
+      "end": 516.15,
+      "text": "দরে জিবর মৃ-তো উদ্ভিদ বা প্রাণী থাকে, হেবর-ও র কিন্তু বৃদ্ধি না হয়। কারণ",
+      "language": "bn",
+      "avg_logprob": -0.8239,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "দরে",
+          "start": 510.49,
+          "end": 510.75,
+          "probability": 0.8558
+        },
+        {
+          "word": "zibor",
+          "start": 510.75,
+          "end": 511.21,
+          "probability": 0.3175
+        },
+        {
+          "word": "mri",
+          "start": 511.21,
+          "end": 511.77,
+          "probability": 0.1618
+        },
+        {
+          "word": "-to",
+          "start": 511.77,
+          "end": 511.99,
+          "probability": 0.4008
+        },
+        {
+          "word": "utbid",
+          "start": 511.99,
+          "end": 512.43,
+          "probability": 0.3581
+        },
+        {
+          "word": "bā",
+          "start": 512.43,
+          "end": 512.65,
+          "probability": 0.0813
+        },
+        {
+          "word": "prani",
+          "start": 512.65,
+          "end": 512.95,
+          "probability": 0.4344
+        },
+        {
+          "word": "thakē,",
+          "start": 512.95,
+          "end": 513.31,
+          "probability": 0.1618
+        },
+        {
+          "word": "hėbor",
+          "start": 513.47,
+          "end": 513.77,
+          "probability": 0.1022
+        },
+        {
+          "word": "-o",
+          "start": 513.77,
+          "end": 514.01,
+          "probability": 0.3444
+        },
+        {
+          "word": "r",
+          "start": 514.01,
+          "end": 514.01,
+          "probability": 0.0986
+        },
+        {
+          "word": "kintu",
+          "start": 514.01,
+          "end": 514.45,
+          "probability": 0.8081
+        },
+        {
+          "word": "brīddi",
+          "start": 514.45,
+          "end": 515.13,
+          "probability": 0.2981
+        },
+        {
+          "word": "nă",
+          "start": 515.13,
+          "end": 515.31,
+          "probability": 0.1949
+        },
+        {
+          "word": "hoi",
+          "start": 515.31,
+          "end": 515.51,
+          "probability": 0.205
+        },
+        {
+          "word": "।",
+          "start": 515.51,
+          "end": 515.91,
+          "probability": 0.703
+        },
+        {
+          "word": "Қারণ",
+          "start": 515.91,
+          "end": 516.15,
+          "probability": 0.7795
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "start": 516.15,
+      "end": 520.95,
+      "text": "আমি হোতার internally আভ্যন্তরীণ ইন ফাবে আমি হোতার বৃদ্ধি হবে না।",
+      "language": "bn",
+      "avg_logprob": -0.8239,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "i",
+          "start": 516.15,
+          "end": 516.27,
+          "probability": 0.0005
+        },
+        {
+          "word": "hotar",
+          "start": 516.27,
+          "end": 516.59,
+          "probability": 0.0226
+        },
+        {
+          "word": "internally",
+          "start": 516.59,
+          "end": 517.09,
+          "probability": 0.5142
+        },
+        {
+          "word": "aiphantari",
+          "start": 517.09,
+          "end": 517.99,
+          "probability": 0.1429
+        },
+        {
+          "word": "în",
+          "start": 517.99,
+          "end": 518.17,
+          "probability": 0.0075
+        },
+        {
+          "word": "fàbe",
+          "start": 518.17,
+          "end": 518.35,
+          "probability": 0.0438
+        },
+        {
+          "word": "i",
+          "start": 518.35,
+          "end": 518.55,
+          "probability": 0.6016
+        },
+        {
+          "word": "hotar",
+          "start": 518.55,
+          "end": 518.97,
+          "probability": 0.9875
+        },
+        {
+          "word": "brîddhi",
+          "start": 518.97,
+          "end": 519.67,
+          "probability": 0.3279
+        },
+        {
+          "word": "həbo",
+          "start": 519.67,
+          "end": 519.93,
+          "probability": 0.1092
+        },
+        {
+          "word": "nware",
+          "start": 519.93,
+          "end": 520.41,
+          "probability": 0.3646
+        },
+        {
+          "word": "।",
+          "start": 520.41,
+          "end": 520.95,
+          "probability": 0.759
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "start": 521.69,
+      "end": 529.69,
+      "text": "অবশ্য জর পদার্থুর এনে ধরণোর বৃতী হিহতৎ-র, বাহিরোর প্রিষ্ঠ জমা হয়া পড়ার তরপর কারণ এ হঙে",
+      "language": "bn",
+      "avg_logprob": -0.5211,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "অবশ্য",
+          "start": 521.69,
+          "end": 522.57,
+          "probability": 0.8344
+        },
+        {
+          "word": "জর",
+          "start": 522.57,
+          "end": 522.87,
+          "probability": 0.8915
+        },
+        {
+          "word": "পদার্থুর",
+          "start": 522.87,
+          "end": 523.53,
+          "probability": 0.8498
+        },
+        {
+          "word": "এনে",
+          "start": 523.53,
+          "end": 523.93,
+          "probability": 0.9863
+        },
+        {
+          "word": "ধরণোর",
+          "start": 523.93,
+          "end": 524.37,
+          "probability": 0.8143
+        },
+        {
+          "word": "বৃতী",
+          "start": 524.37,
+          "end": 524.79,
+          "probability": 0.724
+        },
+        {
+          "word": "হিহতৎ",
+          "start": 524.79,
+          "end": 525.33,
+          "probability": 0.8406
+        },
+        {
+          "word": "-র,",
+          "start": 525.33,
+          "end": 525.53,
+          "probability": 0.5405
+        },
+        {
+          "word": "বাহিরওর",
+          "start": 525.57,
+          "end": 526.11,
+          "probability": 0.8757
+        },
+        {
+          "word": "प্রিষ্ঠ",
+          "start": 526.11,
+          "end": 526.57,
+          "probability": 0.8712
+        },
+        {
+          "word": "জমা",
+          "start": 526.57,
+          "end": 527.11,
+          "probability": 0.8698
+        },
+        {
+          "word": "হয়া",
+          "start": 527.11,
+          "end": 527.45,
+          "probability": 0.8229
+        },
+        {
+          "word": "পঢার",
+          "start": 527.45,
+          "end": 527.77,
+          "probability": 0.8741
+        },
+        {
+          "word": "তরপর",
+          "start": 527.77,
+          "end": 528.57,
+          "probability": 0.753
+        },
+        {
+          "word": "কারণ",
+          "start": 528.57,
+          "end": 528.97,
+          "probability": 0.945
+        },
+        {
+          "word": "এ",
+          "start": 528.97,
+          "end": 529.13,
+          "probability": 0.5698
+        },
+        {
+          "word": "হঙে",
+          "start": 529.13,
+          "end": 529.69,
+          "probability": 0.8192
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "start": 529.69,
+      "end": 533.55,
+      "text": "জীবর ক্ষেত্রথ বৃদ্ধি হোডা আভ্যন্তরিণ ওর পরা হয়",
+      "language": "bn",
+      "avg_logprob": -0.5083,
+      "no_speech_prob": 0.0002,
+      "words": [
+        {
+          "word": "জীবর",
+          "start": 529.69,
+          "end": 530.49,
+          "probability": 0.8021
+        },
+        {
+          "word": "ক্ষেত্রথ",
+          "start": 530.49,
+          "end": 531.01,
+          "probability": 0.8459
+        },
+        {
+          "word": "ব��দ্ধি",
+          "start": 531.01,
+          "end": 531.45,
+          "probability": 0.8825
+        },
+        {
+          "word": "হোডা",
+          "start": 531.45,
+          "end": 531.71,
+          "probability": 0.8073
+        },
+        {
+          "word": "আয়্ভন্তরিণ",
+          "start": 531.71,
+          "end": 532.77,
+          "probability": 0.8186
+        },
+        {
+          "word": "ওর",
+          "start": 532.77,
+          "end": 532.99,
+          "probability": 0.7673
+        },
+        {
+          "word": "পরা",
+          "start": 532.99,
+          "end": 533.21,
+          "probability": 0.9747
+        },
+        {
+          "word": "হয়",
+          "start": 533.21,
+          "end": 533.55,
+          "probability": 0.9358
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "start": 536.13,
+      "end": 539.05,
+      "text": "বুলি গাইন করিবো নৱাৰী",
+      "language": "bn",
+      "avg_logprob": -0.5083,
+      "no_speech_prob": 0.0002,
+      "words": [
+        {
+          "word": "বুলি",
+          "start": 536.13,
+          "end": 537.13,
+          "probability": 0.7029
+        },
+        {
+          "word": "গৈণ্ঞ",
+          "start": 537.13,
+          "end": 538.13,
+          "probability": 0.6225
+        },
+        {
+          "word": "করিবো",
+          "start": 538.13,
+          "end": 538.63,
+          "probability": 0.9115
+        },
+        {
+          "word": "ন঵ারি",
+          "start": 538.63,
+          "end": 539.05,
+          "probability": 0.8251
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "start": 539.05,
+      "end": 540.45,
+      "text": "সামি কবূ নাৰোছে",
+      "language": "bn",
+      "avg_logprob": -0.5083,
+      "no_speech_prob": 0.0002,
+      "words": [
+        {
+          "word": "সামি",
+          "start": 539.05,
+          "end": 539.49,
+          "probability": 0.8691
+        },
+        {
+          "word": "কবূ",
+          "start": 539.49,
+          "end": 539.85,
+          "probability": 0.7046
+        },
+        {
+          "word": "নারোছে",
+          "start": 539.85,
+          "end": 540.45,
+          "probability": 0.8025
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "start": 540.45,
+      "end": 541.65,
+      "text": "বৃদ্ধি খল্বলি",
+      "language": "bn",
+      "avg_logprob": -0.5083,
+      "no_speech_prob": 0.0002,
+      "words": [
+        {
+          "word": "বৃধ্থি",
+          "start": 540.45,
+          "end": 541.07,
+          "probability": 0.8301
+        },
+        {
+          "word": "খল্বলি",
+          "start": 541.07,
+          "end": 541.65,
+          "probability": 0.8331
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "start": 541.65,
+      "end": 545.69,
+      "text": "হেতু জিপ হয় কারণ বেলেগ বস্তুর বীথি হবৈ বাৰে",
+      "language": "bn",
+      "avg_logprob": -0.5433,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "হেটু",
+          "start": 541.65,
+          "end": 541.97,
+          "probability": 0.8109
+        },
+        {
+          "word": "জিপ",
+          "start": 541.97,
+          "end": 542.69,
+          "probability": 0.9037
+        },
+        {
+          "word": "হয়",
+          "start": 542.69,
+          "end": 543.03,
+          "probability": 0.941
+        },
+        {
+          "word": "কারণ",
+          "start": 543.03,
+          "end": 543.67,
+          "probability": 0.9081
+        },
+        {
+          "word": "বেলেগ",
+          "start": 543.67,
+          "end": 544.03,
+          "probability": 0.9101
+        },
+        {
+          "word": "বস্তুর",
+          "start": 544.03,
+          "end": 544.47,
+          "probability": 0.8913
+        },
+        {
+          "word": "বীথি",
+          "start": 544.47,
+          "end": 545.01,
+          "probability": 0.6468
+        },
+        {
+          "word": "হবৈ",
+          "start": 545.01,
+          "end": 545.45,
+          "probability": 0.6964
+        },
+        {
+          "word": "বারে",
+          "start": 545.45,
+          "end": 545.69,
+          "probability": 0.8932
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "start": 545.69,
+      "end": 548.05,
+      "text": "গোতিকা আদ্ভান্দৰিং ফাব্যে শুধি বৃদ্ধি",
+      "language": "bn",
+      "avg_logprob": -0.5433,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "গোতিকা",
+          "start": 545.69,
+          "end": 546.23,
+          "probability": 0.9237
+        },
+        {
+          "word": "আদ্भান্দরিং",
+          "start": 546.23,
+          "end": 546.97,
+          "probability": 0.8293
+        },
+        {
+          "word": "ফাব্যে",
+          "start": 546.97,
+          "end": 547.33,
+          "probability": 0.8029
+        },
+        {
+          "word": "শুধি",
+          "start": 547.33,
+          "end": 547.51,
+          "probability": 0.7904
+        },
+        {
+          "word": "বরি্ধি",
+          "start": 547.51,
+          "end": 548.05,
+          "probability": 0.7655
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "start": 548.05,
+      "end": 571.63,
+      "text": "হল্লো হড়া এঠু কি ঝিপ",
+      "language": "bn",
+      "avg_logprob": -0.5433,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "হল্লো",
+          "start": 548.05,
+          "end": 548.89,
+          "probability": 0.673
+        },
+        {
+          "word": "হড়া",
+          "start": 548.89,
+          "end": 549.33,
+          "probability": 0.7067
+        },
+        {
+          "word": "এঠু",
+          "start": 549.33,
+          "end": 566.83,
+          "probability": 0.4888
+        },
+        {
+          "word": "কি",
+          "start": 566.83,
+          "end": 571.63,
+          "probability": 0.8743
+        },
+        {
+          "word": "ঝিপ",
+          "start": 571.63,
+          "end": 571.63,
+          "probability": 0.7731
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "start": 572.63,
+      "end": 574.53,
+      "text": "বার্ডু এপোৰ গুচিবে নুআৰে",
+      "language": "bn",
+      "avg_logprob": -0.6887,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "বার্ডু",
+          "start": 572.63,
+          "end": 572.77,
+          "probability": 0.549
+        },
+        {
+          "word": "এপোর",
+          "start": 572.77,
+          "end": 573.13,
+          "probability": 0.7897
+        },
+        {
+          "word": "গুসিবে",
+          "start": 573.13,
+          "end": 573.99,
+          "probability": 0.7501
+        },
+        {
+          "word": "নুআরে",
+          "start": 573.99,
+          "end": 574.53,
+          "probability": 0.8587
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "start": 574.53,
+      "end": 577.03,
+      "text": "so azi video ati man ki niy",
+      "language": "bn",
+      "avg_logprob": -0.6887,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "so",
+          "start": 574.53,
+          "end": 575.41,
+          "probability": 0.0079
+        },
+        {
+          "word": "azi",
+          "start": 575.73,
+          "end": 576.01,
+          "probability": 0.288
+        },
+        {
+          "word": "video",
+          "start": 576.01,
+          "end": 576.23,
+          "probability": 0.3945
+        },
+        {
+          "word": "ati",
+          "start": 576.23,
+          "end": 576.51,
+          "probability": 0.5594
+        },
+        {
+          "word": "man",
+          "start": 576.51,
+          "end": 576.65,
+          "probability": 0.3088
+        },
+        {
+          "word": "ki",
+          "start": 576.65,
+          "end": 576.83,
+          "probability": 0.1765
+        },
+        {
+          "word": "niy",
+          "start": 576.83,
+          "end": 577.03,
+          "probability": 0.1284
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "start": 577.03,
+      "end": 578.55,
+      "text": "video kene qe apalaz jona bha",
+      "language": "bn",
+      "avg_logprob": -0.6887,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "video",
+          "start": 577.03,
+          "end": 577.17,
+          "probability": 0.3213
+        },
+        {
+          "word": "kene",
+          "start": 577.17,
+          "end": 577.51,
+          "probability": 0.2425
+        },
+        {
+          "word": "qe",
+          "start": 577.51,
+          "end": 577.73,
+          "probability": 0.1983
+        },
+        {
+          "word": "apalaz",
+          "start": 577.73,
+          "end": 577.97,
+          "probability": 0.3662
+        },
+        {
+          "word": "jona",
+          "start": 577.97,
+          "end": 578.23,
+          "probability": 0.2045
+        },
+        {
+          "word": "bha",
+          "start": 578.23,
+          "end": 578.55,
+          "probability": 0.4407
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "start": 578.55,
+      "end": 579.81,
+      "text": "bhalla gile like koriba",
+      "language": "bn",
+      "avg_logprob": -0.6887,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "bhalla",
+          "start": 578.55,
+          "end": 578.81,
+          "probability": 0.3701
+        },
+        {
+          "word": "gile",
+          "start": 578.81,
+          "end": 579.07,
+          "probability": 0.4161
+        },
+        {
+          "word": "like",
+          "start": 579.07,
+          "end": 579.37,
+          "probability": 0.9058
+        },
+        {
+          "word": "koriba",
+          "start": 579.37,
+          "end": 579.81,
+          "probability": 0.245
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "start": 579.81,
+      "end": 581.65,
+      "text": "friends o hote video share koriba",
+      "language": "bn",
+      "avg_logprob": -0.6887,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "friends",
+          "start": 579.81,
+          "end": 580.15,
+          "probability": 0.3347
+        },
+        {
+          "word": "o",
+          "start": 580.15,
+          "end": 580.35,
+          "probability": 0.2317
+        },
+        {
+          "word": "hote",
+          "start": 580.35,
+          "end": 580.59,
+          "probability": 0.5341
+        },
+        {
+          "word": "video",
+          "start": 580.59,
+          "end": 580.85,
+          "probability": 0.9595
+        },
+        {
+          "word": "share",
+          "start": 580.85,
+          "end": 581.15,
+          "probability": 0.8657
+        },
+        {
+          "word": "koriba",
+          "start": 581.15,
+          "end": 581.65,
+          "probability": 0.9185
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "start": 581.65,
+      "end": 583.21,
+      "text": "ruz channel subscribe koriba",
+      "language": "bn",
+      "avg_logprob": -0.6887,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "ruz",
+          "start": 581.65,
+          "end": 581.87,
+          "probability": 0.1979
+        },
+        {
+          "word": "channel",
+          "start": 581.87,
+          "end": 582.09,
+          "probability": 0.5088
+        },
+        {
+          "word": "subscribe",
+          "start": 582.09,
+          "end": 582.55,
+          "probability": 0.9653
+        },
+        {
+          "word": "koriba",
+          "start": 582.55,
+          "end": 583.21,
+          "probability": 0.8979
+        }
+      ]
+    }
+  ],
+  "full_text": "হেলো এবরিয়ান, Welcome to Learn With Yasmeen. আজি ভিডিওত আমি পূরীম Class 11-0 Biology Chapter 1 জীবজগত আর্গু বিফিন্ন বইখণ্ডের বহিঃপ্রকাশ শিলো আজি হব হক্কল সিবরে বৃদ্ধি হয়, জিতু সীবর এঁটা বৈশিষ্ট্য বার্তী বুলি রে, ছটা-বৃদ্ধি রইবে? আর্গ হমুহর বৃদ্ধি ওয়া কে তুমার কারণে বুলিকো আ হয় এটু আমার মনে অমি visualize করূছে কিবা এঁটা ব্যবস্থা বৃদ্ধি হয়েছে আর গাস এটা বৃদ্ধি হয়েছে, তার মানে ঈ গুঠির পরা কি হচ্ছো ডাঙর ঘষলোয়কে বরিণোত হয়েছে আর্যা কুনে সিতবী গোলে বৃদ্ধি হৈর এটা জুরীয়া বৈশিষ্ট্য বুলী ঝাগ কূয আমার দেহটু কখেরে গোঠিত হয় গুতিকে আমার হরীর টিষ্য পরিবর্তন হয়, অমাঁ এপিয়েরেন্স ছেটা হোরুর বস্তুর ফরা ডাঙর বৈশিষ্ট্য লয়ক্কে পূর্ণত হয় কোখর কারণে হয় আমার হরির জিবুর গ্লী তাকে, এই গৈ ঘূমোহর অকা বৃদ্ধি হয় কোখুর সেতিয়া আকার বৃদ্ধি হবে, তেটিয়া আমার hori-r বিদ্যৎ হয় কারণ আমার জিটু dehyo, hetu dehyo কোখেরে গোঠি তাজক মৌলিক একগ buligwa হয় aroon ahole jyudhi kofhe bifazan kore, bifazan korii jyudhi iar hoinxia vriddhi core এর যার, চদি হন্খা বিদ্য়িকরে, তেটিআ কি আমার হুরীর ভীদি। বা হকল জির এক-কোখি ঝীব, বহ-কৈণু যা সৌর্থন আরে পরূত়ার উরুগ্ষান্দে । বক্ষুরী বিদ্য় বলি গৈ হবো তার মানে আর দেখ গঠন কাড়ি জিবর কঁ কসে কোউ খোমূ আকার ভা হঙ্খাট বৃদ্ধি হয়েছে হে কারণ এ যাগ বৃতী বাবুলি কৈ হয় আর হকল জিবিত সিবোর খ্যত্রত একে role apply হয় এটিয়া cock জে bifazon হয় cock bifazon হোকাল o thayit-e হয় n e নিচ্ছ যে ন হয় cock bifason কিসুমান নির্দিষ্ট কোলা থে হয় হরীর ওর কিসুমার নির্দিষ্ট কল আঠে বিফাজণ হবো পারে হকূল ও ঠাইতে খবর 9 এ তিখা কখোর ভিখে টমা লোগে class9 class8-odd পরিশা জে কুগ বিফাসন হদায় হিমা বদ্ধ খুগ বিফাসন এণেকৱা ন আহয় হোয়ে থাকিবু এনি কৈ ন হয় আরু কোগ বিফাজণ এ নিকো অন্য হরীরোর ঝিক কূন অঙ্ঘর পরা হই ঠাকে । কোগ বিফাজন proportional হয় আরু কৈ বই ভাঝণ কি হল লিমিটেত হওয় উদীদর কর্থরত উধীদ হমু হে গুট্ডেই জিবং-ধরি হতর বৃদ্ধী হবো পারে প্রানীর কেতুরট এটা নির্দিষ্ট বয়খোর বিশত কি হয় জায় এই জিবর রৃদ্ধি থাক্যে ররূ-রী হমু হেক হলে আয় এ্যা আমি জুদি অমার হাত খন দেখু তেটিয় হলে অঙুলি আছে আরো এ আমার জিপুর অঙুলি আসে অংগুলী হবুহর বৃদ্ধি হয় তুমি সেটিয়া one year old আশিল এবসর বয়োখ আছিল তেথিযা তৌমার হাত অঙুলী জেনেকো আসিল এথি আ তোমার হাত অণুলির আর্গুলী হাতোর অঙুলি হমুখুর বৃদ্য়েসে এটি আ সপোষ এঁটু অংঘুল হয় আংঝলি tu sari-o ফালর পরা বরিদৎ হনে আর পিশত অংগুলীর বৃদ্ধি হয় যাসে এটা হমার ভিষত বরিধ্থি রওয় কিন্তু উত্বিদোর খ্যতুর বৃধী ঘুটের জিবণ চৈরি যোর আরো অমি এটু হয় জে নির্দিষ্ট থাই থে রূ তাঁ কোগ বিভাঝণ হায় আরু কোগ বিভাজন হওয়ার পিশত এই জিবোর নতুণ কখর স্রিষ্টি হয় এ নথুং কল্মু হে পুরাণা কঘর ঠাই হমু loy-loy গোতিকে কব্রভাজন যিটু প্রকলিযাসে, হেটু এক-কোখি ঝীবর খেতৃর তো হয়। এদি কূখি-ঝী কর্খনুর দারা কব বিভাসণ কোরিব পরাছায় বার্তুর বস্থুর bifazan oise, kuna zibor bifazon hoise tarmane etu n-o haize hi jibi to hoy. হইনে গতি কে কারণ আমি কর্কন মাঝদো মতো জিপেটা কি করিবো পারুম। জীবর উসসোখা পর প্রাণী বা উদ্ভিদ থাকে হে হোমুহার ক্ষেত্রত কি হয় প্রজনন প্রক্রিয়া পরস্পরিক কোষপর্দা, আসুতিয়া প্রকৃদ্ধির দেহর ভরর বরণকে দীহর বৃথিবুলি গইন্ন করিবু কোৰাজায়। পর্ভূত পাহার বা ডাঙর হিলাখনে আরো বলি ঠিব অদির রীড়ী থি হয় বক্ষুরী। বালির থিপ বুলি গই হয়, জেটিয়া বলিদ থারণ আখার বৃদ্ধি হোবলোয় ধরে, কিও বরিদৎ হয় কারো নিযাতে ব’লি আহি পেলায় বার আকার বার আকার বক্ষুরী। বালির ঢিপ্টুর আকার বৃদ্ধি হয়েছে, তারমানে বলি ঢিপটু জিবিত হয়ণে নিচ্ছোএ নহয়। যদি বালির ঠিপ্তু জিবিতন হয়, তেটিয়া হলে যেতিয়া ঝিবোর-খরীর বৃদ্ধি হওয়, বক্ষুরী বিদ্য় হেটু কী হয়স্য ভাজিগ ফাবে হরো পরা বালি আখে বলা লোগ লাগি বিদ্ডি হব্তু এটু প্রিতু বালির দীবা সে, তাক আমি জিবিত বলি নকৈ কারণ যার অখার বৃদ্ধি হোঁর কারণ হয়েছে কি বহিরোর পরা material আ হি ভেলায় log হঙ্চে প্রাণীর কুলো বিদ্য় হয়, এই বৃতি আভ্যন্তরিণ হওয়। ইহতর ভিতরের পরা বরির্থি হয় এটিয়া উদূর ক্ষেত্রত আর্মি বেলে কেটা উদ্বিদুর পরা কংড়, ডাল, পাত, আনি পেয় এঠ করি নিদিও, লখ-লগাই নিদির জার কারণে উদোপিদ র বিদৎ হয় বার্থুরী। রিন ভাবে হয়, হেবর রোগ সিবিট বলি কৈ হয়। ঠিখে, তেনে দরে জিবর মৃ-তো উদ্ভিদ বা প্রাণী থাকে, হেবর-ও র কিন্তু বৃদ্ধি না হয়। কারণ আমি হোতার internally আভ্যন্তরীণ ইন ফাবে আমি হোতার বৃদ্ধি হবে না। অবশ্য জর পদার্থুর এনে ধরণোর বৃতী হিহতৎ-র, বাহিরোর প্রিষ্ঠ জমা হয়া পড়ার তরপর কারণ এ হঙে জীবর ক্ষেত্রথ বৃদ্ধি হোডা আভ্যন্তরিণ ওর পরা হয় বুলি গাইন করিবো নৱাৰী সামি কবূ নাৰোছে বৃদ্ধি খল্বলি হেতু জিপ হয় কারণ বেলেগ বস্তুর বীথি হবৈ বাৰে গোতিকা আদ্ভান্দৰিং ফাব্যে শুধি বৃদ্ধি হল্লো হড়া এঠু কি ঝিপ বার্ডু এপোৰ গুচিবে নুআৰে so azi video ati man ki niy video kene qe apalaz jona bha bhalla gile like koriba friends o hote video share koriba ruz channel subscribe koriba"
+}

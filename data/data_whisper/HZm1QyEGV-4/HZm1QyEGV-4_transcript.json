@@ -1,0 +1,4732 @@
+{
+  "audio_file": "/home/swayam/Desktop/irel_task/data_whisper/HZm1QyEGV-4/HZm1QyEGV-4.wav",
+  "model": "large-v3",
+  "language": "kn",
+  "language_probability": 1,
+  "duration_seconds": 461.4,
+  "transcription_time_seconds": 150.58,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 1.42,
+      "text": "ಗಾಯ್ಸು, ವೆಲ್ಕಮ್ ತೋ ಪೈತನ್ ಶಿರಿಸ್.",
+      "language": "kn",
+      "avg_logprob": -0.7001,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "ಗಾಯ್ಸು,",
+          "start": 0.0,
+          "end": 0.46,
+          "probability": 0.6508
+        },
+        {
+          "word": "ವೆಲ್ಕಮ್",
+          "start": 0.48,
+          "end": 0.84,
+          "probability": 0.8585
+        },
+        {
+          "word": "ತೋ",
+          "start": 0.84,
+          "end": 0.92,
+          "probability": 0.5896
+        },
+        {
+          "word": "ಪೈತನ್",
+          "start": 0.92,
+          "end": 1.2,
+          "probability": 0.8359
+        },
+        {
+          "word": "ಶಿರಿಸ್.",
+          "start": 1.2,
+          "end": 1.42,
+          "probability": 0.8837
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "start": 7.46,
+      "end": 17.66,
+      "text": "in this loop topic sometimes the requirement will be for example if i use a for-loop 10 20 30 40",
+      "language": "kn",
+      "avg_logprob": -0.9209,
+      "no_speech_prob": 0.0017,
+      "words": [
+        {
+          "word": "in",
+          "start": 7.46,
+          "end": 8.38,
+          "probability": 0.0056
+        },
+        {
+          "word": "this",
+          "start": 8.38,
+          "end": 8.88,
+          "probability": 0.1884
+        },
+        {
+          "word": "loop",
+          "start": 8.88,
+          "end": 8.96,
+          "probability": 0.6636
+        },
+        {
+          "word": "topic",
+          "start": 8.96,
+          "end": 9.36,
+          "probability": 0.4194
+        },
+        {
+          "word": "sometimes",
+          "start": 9.36,
+          "end": 9.78,
+          "probability": 0.2795
+        },
+        {
+          "word": "the",
+          "start": 9.78,
+          "end": 10.38,
+          "probability": 0.3069
+        },
+        {
+          "word": "requirement",
+          "start": 10.38,
+          "end": 10.74,
+          "probability": 0.7847
+        },
+        {
+          "word": "will",
+          "start": 10.74,
+          "end": 10.98,
+          "probability": 0.1261
+        },
+        {
+          "word": "be",
+          "start": 10.98,
+          "end": 11.58,
+          "probability": 0.9087
+        },
+        {
+          "word": "for",
+          "start": 11.58,
+          "end": 11.8,
+          "probability": 0.2368
+        },
+        {
+          "word": "example",
+          "start": 11.8,
+          "end": 12.08,
+          "probability": 0.4993
+        },
+        {
+          "word": "if",
+          "start": 12.08,
+          "end": 12.82,
+          "probability": 0.2153
+        },
+        {
+          "word": "i",
+          "start": 12.82,
+          "end": 12.82,
+          "probability": 0.3013
+        },
+        {
+          "word": "use",
+          "start": 12.82,
+          "end": 13.06,
+          "probability": 0.5176
+        },
+        {
+          "word": "a",
+          "start": 13.06,
+          "end": 13.06,
+          "probability": 0.153
+        },
+        {
+          "word": "for",
+          "start": 13.06,
+          "end": 14.0,
+          "probability": 0.8403
+        },
+        {
+          "word": "-loop",
+          "start": 14.0,
+          "end": 14.0,
+          "probability": 0.5187
+        },
+        {
+          "word": "10",
+          "start": 14.0,
+          "end": 14.7,
+          "probability": 0.1863
+        },
+        {
+          "word": "20",
+          "start": 14.7,
+          "end": 15.64,
+          "probability": 0.4021
+        },
+        {
+          "word": "30",
+          "start": 15.64,
+          "end": 16.68,
+          "probability": 0.9932
+        },
+        {
+          "word": "40",
+          "start": 16.68,
+          "end": 17.66,
+          "probability": 0.9863
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 17.66,
+      "end": 25.46,
+      "text": "now when I print this list in for-loops it comes as 10,20 ,30 and 40",
+      "language": "kn",
+      "avg_logprob": -0.9209,
+      "no_speech_prob": 0.0017,
+      "words": [
+        {
+          "word": "now",
+          "start": 17.66,
+          "end": 18.44,
+          "probability": 0.0982
+        },
+        {
+          "word": "when",
+          "start": 18.44,
+          "end": 19.8,
+          "probability": 0.0947
+        },
+        {
+          "word": "I",
+          "start": 19.8,
+          "end": 19.88,
+          "probability": 0.1157
+        },
+        {
+          "word": "print",
+          "start": 19.88,
+          "end": 19.94,
+          "probability": 0.5615
+        },
+        {
+          "word": "this",
+          "start": 19.94,
+          "end": 19.94,
+          "probability": 0.8027
+        },
+        {
+          "word": "list",
+          "start": 19.94,
+          "end": 20.24,
+          "probability": 0.8848
+        },
+        {
+          "word": "in",
+          "start": 20.24,
+          "end": 20.58,
+          "probability": 0.6377
+        },
+        {
+          "word": "for",
+          "start": 20.58,
+          "end": 20.8,
+          "probability": 0.4001
+        },
+        {
+          "word": "-loops",
+          "start": 20.8,
+          "end": 21.3,
+          "probability": 0.5816
+        },
+        {
+          "word": "it",
+          "start": 21.3,
+          "end": 21.98,
+          "probability": 0.3616
+        },
+        {
+          "word": "comes",
+          "start": 21.98,
+          "end": 22.18,
+          "probability": 0.022
+        },
+        {
+          "word": "as",
+          "start": 22.18,
+          "end": 22.56,
+          "probability": 0.2886
+        },
+        {
+          "word": "10",
+          "start": 22.56,
+          "end": 22.86,
+          "probability": 0.8618
+        },
+        {
+          "word": ",20",
+          "start": 22.86,
+          "end": 23.56,
+          "probability": 0.1645
+        },
+        {
+          "word": ",30",
+          "start": 23.56,
+          "end": 24.34,
+          "probability": 0.491
+        },
+        {
+          "word": "and",
+          "start": 24.34,
+          "end": 24.62,
+          "probability": 0.1383
+        },
+        {
+          "word": "40",
+          "start": 24.62,
+          "end": 25.46,
+          "probability": 0.9858
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 36.46,
+      "end": 39.58,
+      "text": "10,20 ,30 and 40",
+      "language": "kn",
+      "avg_logprob": -0.8341,
+      "no_speech_prob": 0.0004,
+      "words": [
+        {
+          "word": "10",
+          "start": 36.46,
+          "end": 36.84,
+          "probability": 0.1815
+        },
+        {
+          "word": ",20",
+          "start": 36.84,
+          "end": 37.74,
+          "probability": 0.4838
+        },
+        {
+          "word": ",30",
+          "start": 37.74,
+          "end": 38.74,
+          "probability": 0.4873
+        },
+        {
+          "word": "and",
+          "start": 38.74,
+          "end": 38.98,
+          "probability": 0.0075
+        },
+        {
+          "word": "40",
+          "start": 38.98,
+          "end": 39.58,
+          "probability": 0.9814
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 39.58,
+      "end": 40.82,
+      "text": "we need to print like this",
+      "language": "kn",
+      "avg_logprob": -0.8341,
+      "no_speech_prob": 0.0004,
+      "words": [
+        {
+          "word": "we",
+          "start": 39.58,
+          "end": 40.18,
+          "probability": 0.0255
+        },
+        {
+          "word": "need",
+          "start": 40.18,
+          "end": 40.44,
+          "probability": 0.1946
+        },
+        {
+          "word": "to",
+          "start": 40.44,
+          "end": 40.44,
+          "probability": 0.6045
+        },
+        {
+          "word": "print",
+          "start": 40.44,
+          "end": 40.5,
+          "probability": 0.6655
+        },
+        {
+          "word": "like",
+          "start": 40.5,
+          "end": 40.8,
+          "probability": 0.1078
+        },
+        {
+          "word": "this",
+          "start": 40.8,
+          "end": 40.82,
+          "probability": 0.8252
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 40.82,
+      "end": 42.78,
+      "text": "in between 40 should not come",
+      "language": "kn",
+      "avg_logprob": -0.8341,
+      "no_speech_prob": 0.0004,
+      "words": [
+        {
+          "word": "in",
+          "start": 40.82,
+          "end": 40.94,
+          "probability": 0.0406
+        },
+        {
+          "word": "between",
+          "start": 40.94,
+          "end": 41.54,
+          "probability": 0.5449
+        },
+        {
+          "word": "40",
+          "start": 41.54,
+          "end": 42.16,
+          "probability": 0.6318
+        },
+        {
+          "word": "should",
+          "start": 42.16,
+          "end": 42.78,
+          "probability": 0.0388
+        },
+        {
+          "word": "not",
+          "start": 42.78,
+          "end": 42.78,
+          "probability": 0.4299
+        },
+        {
+          "word": "come",
+          "start": 42.78,
+          "end": 42.78,
+          "probability": 0.3101
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 42.78,
+      "end": 44.56,
+      "text": "40 must be skipped",
+      "language": "kn",
+      "avg_logprob": -0.8341,
+      "no_speech_prob": 0.0004,
+      "words": [
+        {
+          "word": "40",
+          "start": 42.78,
+          "end": 43.36,
+          "probability": 0.0814
+        },
+        {
+          "word": "must",
+          "start": 43.36,
+          "end": 43.82,
+          "probability": 0.1299
+        },
+        {
+          "word": "be",
+          "start": 43.82,
+          "end": 43.82,
+          "probability": 0.8047
+        },
+        {
+          "word": "skipped",
+          "start": 43.82,
+          "end": 44.56,
+          "probability": 0.9175
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 44.56,
+      "end": 48.58,
+      "text": "first requirement is",
+      "language": "kn",
+      "avg_logprob": -0.8341,
+      "no_speech_prob": 0.0004,
+      "words": [
+        {
+          "word": "first",
+          "start": 44.56,
+          "end": 45.66,
+          "probability": 0.0006
+        },
+        {
+          "word": "requirement",
+          "start": 45.66,
+          "end": 48.34,
+          "probability": 0.9761
+        },
+        {
+          "word": "is",
+          "start": 48.34,
+          "end": 48.58,
+          "probability": 0.4407
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 48.58,
+      "end": 51.48,
+      "text": "code should only be printed with certain elements",
+      "language": "kn",
+      "avg_logprob": -0.8341,
+      "no_speech_prob": 0.0004,
+      "words": [
+        {
+          "word": "code",
+          "start": 48.58,
+          "end": 49.08,
+          "probability": 0.14
+        },
+        {
+          "word": "should",
+          "start": 49.08,
+          "end": 49.54,
+          "probability": 0.4353
+        },
+        {
+          "word": "only",
+          "start": 49.54,
+          "end": 49.54,
+          "probability": 0.1388
+        },
+        {
+          "word": "be",
+          "start": 49.54,
+          "end": 49.54,
+          "probability": 0.6338
+        },
+        {
+          "word": "printed",
+          "start": 49.54,
+          "end": 49.54,
+          "probability": 0.958
+        },
+        {
+          "word": "with",
+          "start": 49.54,
+          "end": 49.54,
+          "probability": 0.1071
+        },
+        {
+          "word": "certain",
+          "start": 49.54,
+          "end": 49.76,
+          "probability": 0.9658
+        },
+        {
+          "word": "elements",
+          "start": 49.76,
+          "end": 51.48,
+          "probability": 0.9756
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 51.48,
+      "end": 52.58,
+      "text": "it shouldn't be fully printed",
+      "language": "kn",
+      "avg_logprob": -0.8341,
+      "no_speech_prob": 0.0004,
+      "words": [
+        {
+          "word": "it",
+          "start": 51.48,
+          "end": 51.82,
+          "probability": 0.1114
+        },
+        {
+          "word": "shouldn't",
+          "start": 51.82,
+          "end": 51.96,
+          "probability": 0.5529
+        },
+        {
+          "word": "be",
+          "start": 51.96,
+          "end": 51.96,
+          "probability": 0.9272
+        },
+        {
+          "word": "fully",
+          "start": 51.96,
+          "end": 52.06,
+          "probability": 0.1691
+        },
+        {
+          "word": "printed",
+          "start": 52.06,
+          "end": 52.58,
+          "probability": 0.9922
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 52.58,
+      "end": 54.78,
+      "text": "second requirement",
+      "language": "kn",
+      "avg_logprob": -0.8341,
+      "no_speech_prob": 0.0004,
+      "words": [
+        {
+          "word": "second",
+          "start": 52.58,
+          "end": 53.64,
+          "probability": 0.4392
+        },
+        {
+          "word": "requirement",
+          "start": 53.64,
+          "end": 54.78,
+          "probability": 0.9878
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 54.78,
+      "end": 58.8,
+      "text": "even if I don't have any number",
+      "language": "kn",
+      "avg_logprob": -0.8341,
+      "no_speech_prob": 0.0004,
+      "words": [
+        {
+          "word": "even",
+          "start": 54.78,
+          "end": 55.26,
+          "probability": 0.0026
+        },
+        {
+          "word": "if",
+          "start": 55.26,
+          "end": 57.04,
+          "probability": 0.8081
+        },
+        {
+          "word": "I",
+          "start": 57.04,
+          "end": 57.84,
+          "probability": 0.0442
+        },
+        {
+          "word": "don't",
+          "start": 57.84,
+          "end": 58.42,
+          "probability": 0.702
+        },
+        {
+          "word": "have",
+          "start": 58.42,
+          "end": 58.42,
+          "probability": 0.5024
+        },
+        {
+          "word": "any",
+          "start": 58.42,
+          "end": 58.42,
+          "probability": 0.4563
+        },
+        {
+          "word": "number",
+          "start": 58.42,
+          "end": 58.8,
+          "probability": 0.6631
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 58.8,
+      "end": 59.42,
+      "text": "in-between",
+      "language": "kn",
+      "avg_logprob": -0.8341,
+      "no_speech_prob": 0.0004,
+      "words": [
+        {
+          "word": "in",
+          "start": 58.8,
+          "end": 59.26,
+          "probability": 0.3416
+        },
+        {
+          "word": "-between",
+          "start": 59.26,
+          "end": 59.42,
+          "probability": 0.4983
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 59.42,
+      "end": 62.58,
+      "text": "for these two options",
+      "language": "kn",
+      "avg_logprob": -0.8341,
+      "no_speech_prob": 0.0004,
+      "words": [
+        {
+          "word": "for",
+          "start": 59.42,
+          "end": 59.68,
+          "probability": 0.0025
+        },
+        {
+          "word": "these",
+          "start": 59.68,
+          "end": 60.8,
+          "probability": 0.0046
+        },
+        {
+          "word": "two",
+          "start": 60.8,
+          "end": 62.16,
+          "probability": 0.6836
+        },
+        {
+          "word": "options",
+          "start": 62.16,
+          "end": 62.58,
+          "probability": 0.9097
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 62.58,
+      "end": 83.26,
+      "text": "if else elif break continue return list tuple dict set function variable string integer boolean loop condition index append range class",
+      "language": "kn",
+      "avg_logprob": -0.6029,
+      "no_speech_prob": 0.0013,
+      "words": [
+        {
+          "word": "if",
+          "start": 62.58,
+          "end": 63.7,
+          "probability": 0.0035
+        },
+        {
+          "word": "else",
+          "start": 63.7,
+          "end": 63.7,
+          "probability": 0.0001
+        },
+        {
+          "word": "elif",
+          "start": 63.7,
+          "end": 63.7,
+          "probability": 0.0005
+        },
+        {
+          "word": "break",
+          "start": 63.7,
+          "end": 63.7,
+          "probability": 0.0032
+        },
+        {
+          "word": "continue",
+          "start": 63.7,
+          "end": 64.64,
+          "probability": 0.0464
+        },
+        {
+          "word": "return",
+          "start": 64.64,
+          "end": 65.12,
+          "probability": 0.0001
+        },
+        {
+          "word": "list",
+          "start": 65.12,
+          "end": 65.88,
+          "probability": 0.0001
+        },
+        {
+          "word": "tuple",
+          "start": 65.88,
+          "end": 66.28,
+          "probability": 0.0055
+        },
+        {
+          "word": "dict",
+          "start": 66.28,
+          "end": 67.02,
+          "probability": 0.0
+        },
+        {
+          "word": "set",
+          "start": 67.02,
+          "end": 68.12,
+          "probability": 0.0
+        },
+        {
+          "word": "function",
+          "start": 68.12,
+          "end": 68.72,
+          "probability": 0.0002
+        },
+        {
+          "word": "variable",
+          "start": 68.72,
+          "end": 69.3,
+          "probability": 0.0008
+        },
+        {
+          "word": "string",
+          "start": 69.3,
+          "end": 69.32,
+          "probability": 0.0004
+        },
+        {
+          "word": "integer",
+          "start": 69.32,
+          "end": 73.0,
+          "probability": 0.0002
+        },
+        {
+          "word": "boolean",
+          "start": 73.0,
+          "end": 74.36,
+          "probability": 0.3232
+        },
+        {
+          "word": "loop",
+          "start": 74.36,
+          "end": 80.92,
+          "probability": 0.0029
+        },
+        {
+          "word": "condition",
+          "start": 80.92,
+          "end": 80.96,
+          "probability": 0.0003
+        },
+        {
+          "word": "index",
+          "start": 80.96,
+          "end": 81.58,
+          "probability": 0.0003
+        },
+        {
+          "word": "append",
+          "start": 81.58,
+          "end": 82.84,
+          "probability": 0.0
+        },
+        {
+          "word": "range",
+          "start": 82.84,
+          "end": 83.1,
+          "probability": 0.0003
+        },
+        {
+          "word": "class",
+          "start": 83.1,
+          "end": 83.26,
+          "probability": 0.0003
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 83.26,
+      "end": 84.58,
+      "text": "if else elif break continue",
+      "language": "kn",
+      "avg_logprob": -0.9922,
+      "no_speech_prob": 0.3337,
+      "words": [
+        {
+          "word": "if",
+          "start": 83.26,
+          "end": 83.54,
+          "probability": 0.0
+        },
+        {
+          "word": "else",
+          "start": 83.54,
+          "end": 83.78,
+          "probability": 0.0001
+        },
+        {
+          "word": "elif",
+          "start": 83.78,
+          "end": 84.38,
+          "probability": 0.0004
+        },
+        {
+          "word": "break",
+          "start": 84.38,
+          "end": 84.4,
+          "probability": 0.0
+        },
+        {
+          "word": "continue",
+          "start": 84.4,
+          "end": 84.58,
+          "probability": 0.0022
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 85.0,
+      "end": 96.28,
+      "text": "if there is no particular value in the loop, then you will use 10 or 20 print and 30 to continue only 40",
+      "language": "kn",
+      "avg_logprob": -1.055,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "if",
+          "start": 85.0,
+          "end": 85.18,
+          "probability": 0.0231
+        },
+        {
+          "word": "there",
+          "start": 85.18,
+          "end": 85.64,
+          "probability": 0.0282
+        },
+        {
+          "word": "is",
+          "start": 85.64,
+          "end": 85.64,
+          "probability": 0.6694
+        },
+        {
+          "word": "no",
+          "start": 85.64,
+          "end": 85.64,
+          "probability": 0.731
+        },
+        {
+          "word": "particular",
+          "start": 85.64,
+          "end": 86.12,
+          "probability": 0.1952
+        },
+        {
+          "word": "value",
+          "start": 86.12,
+          "end": 86.66,
+          "probability": 0.8208
+        },
+        {
+          "word": "in",
+          "start": 86.66,
+          "end": 86.66,
+          "probability": 0.5005
+        },
+        {
+          "word": "the",
+          "start": 86.66,
+          "end": 87.0,
+          "probability": 0.7139
+        },
+        {
+          "word": "loop,",
+          "start": 87.0,
+          "end": 87.28,
+          "probability": 0.9004
+        },
+        {
+          "word": "then",
+          "start": 87.34,
+          "end": 87.7,
+          "probability": 0.2903
+        },
+        {
+          "word": "you",
+          "start": 87.7,
+          "end": 87.72,
+          "probability": 0.3962
+        },
+        {
+          "word": "will",
+          "start": 87.72,
+          "end": 88.08,
+          "probability": 0.5688
+        },
+        {
+          "word": "use",
+          "start": 88.08,
+          "end": 89.96,
+          "probability": 0.5972
+        },
+        {
+          "word": "10",
+          "start": 89.96,
+          "end": 90.04,
+          "probability": 0.0342
+        },
+        {
+          "word": "or",
+          "start": 90.04,
+          "end": 90.54,
+          "probability": 0.0859
+        },
+        {
+          "word": "20",
+          "start": 90.54,
+          "end": 91.2,
+          "probability": 0.9736
+        },
+        {
+          "word": "print",
+          "start": 91.2,
+          "end": 91.44,
+          "probability": 0.2228
+        },
+        {
+          "word": "and",
+          "start": 91.44,
+          "end": 91.74,
+          "probability": 0.0811
+        },
+        {
+          "word": "30",
+          "start": 91.74,
+          "end": 92.32,
+          "probability": 0.1547
+        },
+        {
+          "word": "to",
+          "start": 92.32,
+          "end": 92.64,
+          "probability": 0.0404
+        },
+        {
+          "word": "continue",
+          "start": 92.64,
+          "end": 93.04,
+          "probability": 0.3096
+        },
+        {
+          "word": "only",
+          "start": 93.04,
+          "end": 93.5,
+          "probability": 0.0255
+        },
+        {
+          "word": "40",
+          "start": 93.5,
+          "end": 96.28,
+          "probability": 0.7349
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 97.02,
+      "end": 104.38,
+      "text": "so if you want to skip a particular value in your loop at that time what do u need?",
+      "language": "kn",
+      "avg_logprob": -1.055,
+      "no_speech_prob": 0.0003,
+      "words": [
+        {
+          "word": "so",
+          "start": 97.02,
+          "end": 97.74,
+          "probability": 0.022
+        },
+        {
+          "word": "if",
+          "start": 97.74,
+          "end": 98.22,
+          "probability": 0.5508
+        },
+        {
+          "word": "you",
+          "start": 98.22,
+          "end": 98.42,
+          "probability": 0.854
+        },
+        {
+          "word": "want",
+          "start": 98.42,
+          "end": 99.34,
+          "probability": 0.3945
+        },
+        {
+          "word": "to",
+          "start": 99.34,
+          "end": 99.6,
+          "probability": 0.959
+        },
+        {
+          "word": "skip",
+          "start": 99.6,
+          "end": 99.6,
+          "probability": 0.647
+        },
+        {
+          "word": "a",
+          "start": 99.6,
+          "end": 99.8,
+          "probability": 0.3381
+        },
+        {
+          "word": "particular",
+          "start": 99.8,
+          "end": 99.96,
+          "probability": 0.8931
+        },
+        {
+          "word": "value",
+          "start": 99.96,
+          "end": 100.82,
+          "probability": 0.9307
+        },
+        {
+          "word": "in",
+          "start": 100.82,
+          "end": 101.74,
+          "probability": 0.5098
+        },
+        {
+          "word": "your",
+          "start": 101.74,
+          "end": 101.82,
+          "probability": 0.0097
+        },
+        {
+          "word": "loop",
+          "start": 101.82,
+          "end": 102.6,
+          "probability": 0.8354
+        },
+        {
+          "word": "at",
+          "start": 102.6,
+          "end": 103.24,
+          "probability": 0.0389
+        },
+        {
+          "word": "that",
+          "start": 103.24,
+          "end": 103.36,
+          "probability": 0.9082
+        },
+        {
+          "word": "time",
+          "start": 103.36,
+          "end": 103.58,
+          "probability": 0.9229
+        },
+        {
+          "word": "what",
+          "start": 103.58,
+          "end": 103.86,
+          "probability": 0.0289
+        },
+        {
+          "word": "do",
+          "start": 103.86,
+          "end": 104.02,
+          "probability": 0.0914
+        },
+        {
+          "word": "u",
+          "start": 104.02,
+          "end": 104.38,
+          "probability": 0.0443
+        },
+        {
+          "word": "need?",
+          "start": 104.38,
+          "end": 104.38,
+          "probability": 0.1375
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 107.74,
+      "end": 117.9,
+      "text": "for example i have a list of 10, 20, 30, 40 and 50",
+      "language": "kn",
+      "avg_logprob": -0.8395,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "for",
+          "start": 107.74,
+          "end": 108.7,
+          "probability": 0.0049
+        },
+        {
+          "word": "example",
+          "start": 108.7,
+          "end": 109.66,
+          "probability": 0.8921
+        },
+        {
+          "word": "i",
+          "start": 109.66,
+          "end": 110.02,
+          "probability": 0.2428
+        },
+        {
+          "word": "have",
+          "start": 110.02,
+          "end": 110.34,
+          "probability": 0.7817
+        },
+        {
+          "word": "a",
+          "start": 110.34,
+          "end": 110.48,
+          "probability": 0.5298
+        },
+        {
+          "word": "list",
+          "start": 110.48,
+          "end": 110.96,
+          "probability": 0.8535
+        },
+        {
+          "word": "of",
+          "start": 110.96,
+          "end": 112.42,
+          "probability": 0.1592
+        },
+        {
+          "word": "10,",
+          "start": 112.42,
+          "end": 113.48,
+          "probability": 0.4619
+        },
+        {
+          "word": "20,",
+          "start": 113.76,
+          "end": 114.58,
+          "probability": 0.7451
+        },
+        {
+          "word": "30,",
+          "start": 114.94,
+          "end": 115.72,
+          "probability": 0.9644
+        },
+        {
+          "word": "40",
+          "start": 116.04,
+          "end": 116.8,
+          "probability": 0.9771
+        },
+        {
+          "word": "and",
+          "start": 116.8,
+          "end": 117.12,
+          "probability": 0.1163
+        },
+        {
+          "word": "50",
+          "start": 117.12,
+          "end": 117.9,
+          "probability": 0.9844
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 117.9,
+      "end": 120.7,
+      "text": "now lets check the break",
+      "language": "kn",
+      "avg_logprob": -0.8395,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "now",
+          "start": 117.9,
+          "end": 118.66,
+          "probability": 0.0069
+        },
+        {
+          "word": "lets",
+          "start": 118.66,
+          "end": 119.78,
+          "probability": 0.0849
+        },
+        {
+          "word": "check",
+          "start": 119.78,
+          "end": 120.08,
+          "probability": 0.7339
+        },
+        {
+          "word": "the",
+          "start": 120.08,
+          "end": 120.34,
+          "probability": 0.7515
+        },
+        {
+          "word": "break",
+          "start": 120.34,
+          "end": 120.7,
+          "probability": 0.6748
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 120.7,
+      "end": 126.5,
+      "text": "at which point should we stop the code",
+      "language": "kn",
+      "avg_logprob": -0.8395,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "at",
+          "start": 120.7,
+          "end": 122.12,
+          "probability": 0.0481
+        },
+        {
+          "word": "which",
+          "start": 122.12,
+          "end": 123.06,
+          "probability": 0.3708
+        },
+        {
+          "word": "point",
+          "start": 123.06,
+          "end": 124.12,
+          "probability": 0.9072
+        },
+        {
+          "word": "should",
+          "start": 124.12,
+          "end": 124.42,
+          "probability": 0.252
+        },
+        {
+          "word": "we",
+          "start": 124.42,
+          "end": 124.44,
+          "probability": 0.1204
+        },
+        {
+          "word": "stop",
+          "start": 124.44,
+          "end": 125.34,
+          "probability": 0.603
+        },
+        {
+          "word": "the",
+          "start": 125.34,
+          "end": 126.38,
+          "probability": 0.6602
+        },
+        {
+          "word": "code",
+          "start": 126.38,
+          "end": 126.5,
+          "probability": 0.8892
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 126.5,
+      "end": 130.9,
+      "text": "ಅನ್ಯುವಾಗಿ 10, 20, 30 ಪ್ರಿಂಟಾಗ್ಬೇಕು. 40 ಪ್ರಿಂಟಾಗಬೇಕು.",
+      "language": "kn",
+      "avg_logprob": -0.6811,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "ಅನ್ಯುವಾಗಿ",
+          "start": 126.5,
+          "end": 128.12,
+          "probability": 0.5395
+        },
+        {
+          "word": "10,",
+          "start": 128.12,
+          "end": 128.4,
+          "probability": 0.0102
+        },
+        {
+          "word": "20,",
+          "start": 128.72,
+          "end": 128.9,
+          "probability": 0.4744
+        },
+        {
+          "word": "30",
+          "start": 128.9,
+          "end": 129.38,
+          "probability": 0.812
+        },
+        {
+          "word": "ಪ್ರಿಂಟಾಗ್ಬೇಕ್ಕು.",
+          "start": 129.38,
+          "end": 130.1,
+          "probability": 0.8322
+        },
+        {
+          "word": "40",
+          "start": 130.16,
+          "end": 130.52,
+          "probability": 0.0789
+        },
+        {
+          "word": "ಪ್ಲಿಂ�",
+          "start": 130.52,
+          "end": 130.9,
+          "probability": 0.7727
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 131.0,
+      "end": 137.7,
+      "text": "50 ಪ್ರಿಂಟಾದೆಗ್ಭರತು. ಅಣ್ಧರೆ ನಾನಿ 40 ಬಂಡಾವಾಗ ಬ್ರೇಕರ್ನ ಯೂಸ್ಮಾಡತ್ತಿನೀ.",
+      "language": "kn",
+      "avg_logprob": -0.6811,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "50",
+          "start": 131.0,
+          "end": 131.7,
+          "probability": 0.0022
+        },
+        {
+          "word": "ಪ್ಳಿಂटಾದೆಗ್ಭರತು.",
+          "start": 131.7,
+          "end": 133.6,
+          "probability": 0.6674
+        },
+        {
+          "word": "ಅಣ್ಧರೆ",
+          "start": 133.64,
+          "end": 134.1,
+          "probability": 0.7351
+        },
+        {
+          "word": "ನಾನಿ",
+          "start": 134.1,
+          "end": 135.48,
+          "probability": 0.808
+        },
+        {
+          "word": "40",
+          "start": 135.48,
+          "end": 135.48,
+          "probability": 0.5591
+        },
+        {
+          "word": "ಬಂಡಾವಗ",
+          "start": 135.48,
+          "end": 136.18,
+          "probability": 0.7956
+        },
+        {
+          "word": "ಬ್ರೇಕರ್ನ",
+          "start": 136.18,
+          "end": 136.92,
+          "probability": 0.8386
+        },
+        {
+          "word": "ಯೂಸ್ಮಾಡತ್ತಿನೀ.",
+          "start": 136.92,
+          "end": 137.7,
+          "probability": 0.7302
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 139.16,
+      "end": 143.42,
+      "text": "4x in list ಬರಿಯೇತಿ.",
+      "language": "kn",
+      "avg_logprob": -0.6811,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "4x",
+          "start": 139.16,
+          "end": 140.56,
+          "probability": 0.1734
+        },
+        {
+          "word": "in",
+          "start": 140.56,
+          "end": 141.52,
+          "probability": 0.5938
+        },
+        {
+          "word": "list",
+          "start": 141.52,
+          "end": 142.44,
+          "probability": 0.9434
+        },
+        {
+          "word": "ಬರಿಈತಿ.",
+          "start": 142.44,
+          "end": 143.42,
+          "probability": 0.6816
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 143.42,
+      "end": 159.26,
+      "text": "for while if else elif break continue return list tuple dict set function variable string integer boolean loop condition index append range class",
+      "language": "kn",
+      "avg_logprob": -0.5026,
+      "no_speech_prob": 0.0018,
+      "words": [
+        {
+          "word": "for",
+          "start": 143.42,
+          "end": 144.12,
+          "probability": 0.0004
+        },
+        {
+          "word": "while",
+          "start": 144.12,
+          "end": 144.6,
+          "probability": 0.0001
+        },
+        {
+          "word": "if",
+          "start": 144.6,
+          "end": 144.6,
+          "probability": 0.0104
+        },
+        {
+          "word": "else",
+          "start": 144.6,
+          "end": 144.6,
+          "probability": 0.0001
+        },
+        {
+          "word": "elif",
+          "start": 144.6,
+          "end": 144.6,
+          "probability": 0.0022
+        },
+        {
+          "word": "break",
+          "start": 144.6,
+          "end": 144.6,
+          "probability": 0.0001
+        },
+        {
+          "word": "continue",
+          "start": 144.6,
+          "end": 144.6,
+          "probability": 0.0001
+        },
+        {
+          "word": "return",
+          "start": 144.6,
+          "end": 144.6,
+          "probability": 0.0004
+        },
+        {
+          "word": "list",
+          "start": 144.6,
+          "end": 144.6,
+          "probability": 0.0008
+        },
+        {
+          "word": "tuple",
+          "start": 144.6,
+          "end": 145.24,
+          "probability": 0.0037
+        },
+        {
+          "word": "dict",
+          "start": 145.24,
+          "end": 145.92,
+          "probability": 0.0
+        },
+        {
+          "word": "set",
+          "start": 145.92,
+          "end": 147.74,
+          "probability": 0.0
+        },
+        {
+          "word": "function",
+          "start": 147.74,
+          "end": 150.16,
+          "probability": 0.0002
+        },
+        {
+          "word": "variable",
+          "start": 150.16,
+          "end": 150.16,
+          "probability": 0.0026
+        },
+        {
+          "word": "string",
+          "start": 150.16,
+          "end": 150.16,
+          "probability": 0.0004
+        },
+        {
+          "word": "integer",
+          "start": 150.16,
+          "end": 150.16,
+          "probability": 0.0001
+        },
+        {
+          "word": "boolean",
+          "start": 150.16,
+          "end": 150.62,
+          "probability": 0.3079
+        },
+        {
+          "word": "loop",
+          "start": 150.62,
+          "end": 150.62,
+          "probability": 0.0004
+        },
+        {
+          "word": "condition",
+          "start": 150.62,
+          "end": 152.72,
+          "probability": 0.0005
+        },
+        {
+          "word": "index",
+          "start": 152.72,
+          "end": 154.16,
+          "probability": 0.0005
+        },
+        {
+          "word": "append",
+          "start": 154.16,
+          "end": 155.64,
+          "probability": 0.0
+        },
+        {
+          "word": "range",
+          "start": 155.64,
+          "end": 156.46,
+          "probability": 0.0001
+        },
+        {
+          "word": "class",
+          "start": 156.46,
+          "end": 159.26,
+          "probability": 0.0006
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 159.72,
+      "end": 163.78,
+      "text": "x is equal to 40",
+      "language": "kn",
+      "avg_logprob": -1.0505,
+      "no_speech_prob": 0.0296,
+      "words": [
+        {
+          "word": "x",
+          "start": 159.72,
+          "end": 161.12,
+          "probability": 0.0804
+        },
+        {
+          "word": "is",
+          "start": 161.12,
+          "end": 161.82,
+          "probability": 0.0261
+        },
+        {
+          "word": "equal",
+          "start": 161.82,
+          "end": 162.82,
+          "probability": 0.8457
+        },
+        {
+          "word": "to",
+          "start": 162.82,
+          "end": 162.94,
+          "probability": 0.9766
+        },
+        {
+          "word": "40",
+          "start": 162.94,
+          "end": 163.78,
+          "probability": 0.8818
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 163.78,
+      "end": 171.0,
+      "text": "when the value of x reaches 40 i will write a break in my code",
+      "language": "kn",
+      "avg_logprob": -1.0505,
+      "no_speech_prob": 0.0296,
+      "words": [
+        {
+          "word": "when",
+          "start": 163.78,
+          "end": 165.42,
+          "probability": 0.0483
+        },
+        {
+          "word": "the",
+          "start": 165.42,
+          "end": 166.34,
+          "probability": 0.1625
+        },
+        {
+          "word": "value",
+          "start": 166.34,
+          "end": 167.14,
+          "probability": 0.8525
+        },
+        {
+          "word": "of",
+          "start": 167.14,
+          "end": 167.42,
+          "probability": 0.7021
+        },
+        {
+          "word": "x",
+          "start": 167.42,
+          "end": 167.42,
+          "probability": 0.9502
+        },
+        {
+          "word": "reaches",
+          "start": 167.42,
+          "end": 167.42,
+          "probability": 0.1146
+        },
+        {
+          "word": "40",
+          "start": 167.42,
+          "end": 168.12,
+          "probability": 0.9619
+        },
+        {
+          "word": "i",
+          "start": 168.12,
+          "end": 168.3,
+          "probability": 0.251
+        },
+        {
+          "word": "will",
+          "start": 168.3,
+          "end": 168.86,
+          "probability": 0.6196
+        },
+        {
+          "word": "write",
+          "start": 168.86,
+          "end": 168.96,
+          "probability": 0.119
+        },
+        {
+          "word": "a",
+          "start": 168.96,
+          "end": 169.0,
+          "probability": 0.2715
+        },
+        {
+          "word": "break",
+          "start": 169.0,
+          "end": 170.06,
+          "probability": 0.5244
+        },
+        {
+          "word": "in",
+          "start": 170.06,
+          "end": 171.0,
+          "probability": 0.5015
+        },
+        {
+          "word": "my",
+          "start": 171.0,
+          "end": 171.0,
+          "probability": 0.0464
+        },
+        {
+          "word": "code",
+          "start": 171.0,
+          "end": 171.0,
+          "probability": 0.8623
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 182.54,
+      "end": 189.76,
+      "text": "If this code block is true, then only 40 and 50 will not be printed.",
+      "language": "kn",
+      "avg_logprob": -0.7492,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "If",
+          "start": 182.54,
+          "end": 183.22,
+          "probability": 0.0055
+        },
+        {
+          "word": "this",
+          "start": 183.22,
+          "end": 183.82,
+          "probability": 0.3157
+        },
+        {
+          "word": "code",
+          "start": 183.82,
+          "end": 184.18,
+          "probability": 0.9482
+        },
+        {
+          "word": "block",
+          "start": 184.18,
+          "end": 184.6,
+          "probability": 0.5068
+        },
+        {
+          "word": "is",
+          "start": 184.6,
+          "end": 184.9,
+          "probability": 0.875
+        },
+        {
+          "word": "true,",
+          "start": 184.9,
+          "end": 185.18,
+          "probability": 0.9473
+        },
+        {
+          "word": "then",
+          "start": 185.76,
+          "end": 186.08,
+          "probability": 0.3979
+        },
+        {
+          "word": "only",
+          "start": 186.08,
+          "end": 186.08,
+          "probability": 0.2791
+        },
+        {
+          "word": "40",
+          "start": 186.08,
+          "end": 187.78,
+          "probability": 0.4568
+        },
+        {
+          "word": "and",
+          "start": 187.78,
+          "end": 188.24,
+          "probability": 0.603
+        },
+        {
+          "word": "50",
+          "start": 188.24,
+          "end": 189.02,
+          "probability": 0.5278
+        },
+        {
+          "word": "will",
+          "start": 189.02,
+          "end": 189.58,
+          "probability": 0.5552
+        },
+        {
+          "word": "not",
+          "start": 189.58,
+          "end": 189.7,
+          "probability": 0.8784
+        },
+        {
+          "word": "be",
+          "start": 189.7,
+          "end": 189.7,
+          "probability": 0.3401
+        },
+        {
+          "word": "printed.",
+          "start": 189.7,
+          "end": 189.76,
+          "probability": 0.9468
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 190.2,
+      "end": 195.08,
+      "text": "If the code is false, 10, 20 or 30 will get printed.",
+      "language": "kn",
+      "avg_logprob": -0.7492,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "If",
+          "start": 190.2,
+          "end": 190.42,
+          "probability": 0.8457
+        },
+        {
+          "word": "the",
+          "start": 190.42,
+          "end": 190.66,
+          "probability": 0.0742
+        },
+        {
+          "word": "code",
+          "start": 190.66,
+          "end": 190.78,
+          "probability": 0.9448
+        },
+        {
+          "word": "is",
+          "start": 190.78,
+          "end": 190.94,
+          "probability": 0.7275
+        },
+        {
+          "word": "false,",
+          "start": 190.94,
+          "end": 191.76,
+          "probability": 0.9062
+        },
+        {
+          "word": "10,",
+          "start": 192.1,
+          "end": 193.3,
+          "probability": 0.0463
+        },
+        {
+          "word": "20",
+          "start": 193.58,
+          "end": 194.0,
+          "probability": 0.834
+        },
+        {
+          "word": "or",
+          "start": 194.0,
+          "end": 194.32,
+          "probability": 0.0323
+        },
+        {
+          "word": "30",
+          "start": 194.32,
+          "end": 194.7,
+          "probability": 0.9907
+        },
+        {
+          "word": "will",
+          "start": 194.7,
+          "end": 195.02,
+          "probability": 0.9355
+        },
+        {
+          "word": "get",
+          "start": 195.02,
+          "end": 195.08,
+          "probability": 0.0454
+        },
+        {
+          "word": "printed.",
+          "start": 195.08,
+          "end": 195.08,
+          "probability": 0.9883
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 230.4,
+      "end": 244.06,
+      "text": "if else elif break continue return list tuple dict set function variable string integer boolean loop condition index append range class import module error exception",
+      "language": "kn",
+      "avg_logprob": -0.5562,
+      "no_speech_prob": 0.0063,
+      "words": [
+        {
+          "word": "if",
+          "start": 230.4,
+          "end": 231.14,
+          "probability": 0.0052
+        },
+        {
+          "word": "else",
+          "start": 231.14,
+          "end": 232.36,
+          "probability": 0.0
+        },
+        {
+          "word": "elif",
+          "start": 232.36,
+          "end": 233.66,
+          "probability": 0.001
+        },
+        {
+          "word": "break",
+          "start": 233.66,
+          "end": 233.66,
+          "probability": 0.0078
+        },
+        {
+          "word": "continue",
+          "start": 233.66,
+          "end": 234.06,
+          "probability": 0.0002
+        },
+        {
+          "word": "return",
+          "start": 234.06,
+          "end": 234.9,
+          "probability": 0.0001
+        },
+        {
+          "word": "list",
+          "start": 234.9,
+          "end": 237.72,
+          "probability": 0.0
+        },
+        {
+          "word": "tuple",
+          "start": 237.72,
+          "end": 238.44,
+          "probability": 0.0015
+        },
+        {
+          "word": "dict",
+          "start": 238.44,
+          "end": 239.62,
+          "probability": 0.0
+        },
+        {
+          "word": "set",
+          "start": 239.62,
+          "end": 239.74,
+          "probability": 0.0001
+        },
+        {
+          "word": "function",
+          "start": 239.74,
+          "end": 239.74,
+          "probability": 0.0001
+        },
+        {
+          "word": "variable",
+          "start": 239.74,
+          "end": 239.74,
+          "probability": 0.001
+        },
+        {
+          "word": "string",
+          "start": 239.74,
+          "end": 239.74,
+          "probability": 0.002
+        },
+        {
+          "word": "integer",
+          "start": 239.74,
+          "end": 240.44,
+          "probability": 0.0001
+        },
+        {
+          "word": "boolean",
+          "start": 240.44,
+          "end": 240.76,
+          "probability": 0.3338
+        },
+        {
+          "word": "loop",
+          "start": 240.76,
+          "end": 243.28,
+          "probability": 0.0005
+        },
+        {
+          "word": "condition",
+          "start": 243.28,
+          "end": 243.72,
+          "probability": 0.0004
+        },
+        {
+          "word": "index",
+          "start": 243.72,
+          "end": 243.86,
+          "probability": 0.0017
+        },
+        {
+          "word": "append",
+          "start": 243.86,
+          "end": 244.04,
+          "probability": 0.0
+        },
+        {
+          "word": "range",
+          "start": 244.04,
+          "end": 244.04,
+          "probability": 0.0002
+        },
+        {
+          "word": "class",
+          "start": 244.04,
+          "end": 244.04,
+          "probability": 0.0005
+        },
+        {
+          "word": "import",
+          "start": 244.04,
+          "end": 244.04,
+          "probability": 0.0002
+        },
+        {
+          "word": "module",
+          "start": 244.04,
+          "end": 244.04,
+          "probability": 0.0
+        },
+        {
+          "word": "error",
+          "start": 244.04,
+          "end": 244.04,
+          "probability": 0.0004
+        },
+        {
+          "word": "exception",
+          "start": 244.04,
+          "end": 244.06,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 244.34,
+      "end": 246.4,
+      "text": "list 10 to 50",
+      "language": "kn",
+      "avg_logprob": -0.8683,
+      "no_speech_prob": 0.0011,
+      "words": [
+        {
+          "word": "list",
+          "start": 244.34,
+          "end": 244.48,
+          "probability": 0.0069
+        },
+        {
+          "word": "10",
+          "start": 244.48,
+          "end": 245.6,
+          "probability": 0.0798
+        },
+        {
+          "word": "to",
+          "start": 245.6,
+          "end": 246.18,
+          "probability": 0.3391
+        },
+        {
+          "word": "50",
+          "start": 246.18,
+          "end": 246.4,
+          "probability": 0.8442
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 246.4,
+      "end": 251.52,
+      "text": "for loop x is equal to 40",
+      "language": "kn",
+      "avg_logprob": -0.8683,
+      "no_speech_prob": 0.0011,
+      "words": [
+        {
+          "word": "for",
+          "start": 246.4,
+          "end": 246.86,
+          "probability": 0.0201
+        },
+        {
+          "word": "loop",
+          "start": 246.86,
+          "end": 248.5,
+          "probability": 0.5386
+        },
+        {
+          "word": "x",
+          "start": 248.5,
+          "end": 249.72,
+          "probability": 0.4556
+        },
+        {
+          "word": "is",
+          "start": 249.72,
+          "end": 250.62,
+          "probability": 0.0872
+        },
+        {
+          "word": "equal",
+          "start": 250.62,
+          "end": 250.96,
+          "probability": 0.813
+        },
+        {
+          "word": "to",
+          "start": 250.96,
+          "end": 251.08,
+          "probability": 0.9688
+        },
+        {
+          "word": "40",
+          "start": 251.08,
+          "end": 251.52,
+          "probability": 0.7524
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 252.05,
+      "end": 254.76,
+      "text": "if true it will break or else print",
+      "language": "kn",
+      "avg_logprob": -0.8683,
+      "no_speech_prob": 0.0011,
+      "words": [
+        {
+          "word": "if",
+          "start": 252.05,
+          "end": 252.52,
+          "probability": 0.0561
+        },
+        {
+          "word": "true",
+          "start": 252.52,
+          "end": 253.08,
+          "probability": 0.3035
+        },
+        {
+          "word": "it",
+          "start": 253.08,
+          "end": 253.24,
+          "probability": 0.3606
+        },
+        {
+          "word": "will",
+          "start": 253.24,
+          "end": 253.48,
+          "probability": 0.6279
+        },
+        {
+          "word": "break",
+          "start": 253.48,
+          "end": 253.92,
+          "probability": 0.5928
+        },
+        {
+          "word": "or",
+          "start": 253.92,
+          "end": 254.2,
+          "probability": 0.4573
+        },
+        {
+          "word": "else",
+          "start": 254.2,
+          "end": 254.3,
+          "probability": 0.2568
+        },
+        {
+          "word": "print",
+          "start": 254.3,
+          "end": 254.76,
+          "probability": 0.0722
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 255.34,
+      "end": 256.6,
+      "text": "letters run",
+      "language": "kn",
+      "avg_logprob": -0.8683,
+      "no_speech_prob": 0.0011,
+      "words": [
+        {
+          "word": "letters",
+          "start": 255.34,
+          "end": 255.86,
+          "probability": 0.139
+        },
+        {
+          "word": "run",
+          "start": 255.86,
+          "end": 256.6,
+          "probability": 0.1958
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 257.25,
+      "end": 263.2,
+      "text": "now code has been broken",
+      "language": "kn",
+      "avg_logprob": -0.8683,
+      "no_speech_prob": 0.0011,
+      "words": [
+        {
+          "word": "now",
+          "start": 257.25,
+          "end": 257.72,
+          "probability": 0.0178
+        },
+        {
+          "word": "code",
+          "start": 257.72,
+          "end": 259.22,
+          "probability": 0.2627
+        },
+        {
+          "word": "has",
+          "start": 259.22,
+          "end": 262.22,
+          "probability": 0.2327
+        },
+        {
+          "word": "been",
+          "start": 262.22,
+          "end": 262.44,
+          "probability": 0.7988
+        },
+        {
+          "word": "broken",
+          "start": 262.44,
+          "end": 263.2,
+          "probability": 0.2651
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 263.2,
+      "end": 264.58,
+      "text": "there is no condition that i have only numbers",
+      "language": "kn",
+      "avg_logprob": -0.8683,
+      "no_speech_prob": 0.0011,
+      "words": [
+        {
+          "word": "there",
+          "start": 263.2,
+          "end": 263.34,
+          "probability": 0.0688
+        },
+        {
+          "word": "is",
+          "start": 263.34,
+          "end": 263.64,
+          "probability": 0.8525
+        },
+        {
+          "word": "no",
+          "start": 263.64,
+          "end": 263.74,
+          "probability": 0.9561
+        },
+        {
+          "word": "condition",
+          "start": 263.74,
+          "end": 263.74,
+          "probability": 0.7471
+        },
+        {
+          "word": "that",
+          "start": 263.74,
+          "end": 263.74,
+          "probability": 0.1488
+        },
+        {
+          "word": "i",
+          "start": 263.74,
+          "end": 263.74,
+          "probability": 0.4839
+        },
+        {
+          "word": "have",
+          "start": 263.74,
+          "end": 263.8,
+          "probability": 0.3943
+        },
+        {
+          "word": "only",
+          "start": 263.8,
+          "end": 263.88,
+          "probability": 0.023
+        },
+        {
+          "word": "numbers",
+          "start": 263.88,
+          "end": 264.58,
+          "probability": 0.5913
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 265.96,
+      "end": 269.54,
+      "text": "here I can take string",
+      "language": "kn",
+      "avg_logprob": -0.8683,
+      "no_speech_prob": 0.0011,
+      "words": [
+        {
+          "word": "here",
+          "start": 265.96,
+          "end": 266.9,
+          "probability": 0.0857
+        },
+        {
+          "word": "I",
+          "start": 266.9,
+          "end": 267.84,
+          "probability": 0.0299
+        },
+        {
+          "word": "can",
+          "start": 267.84,
+          "end": 269.06,
+          "probability": 0.7402
+        },
+        {
+          "word": "take",
+          "start": 269.06,
+          "end": 269.06,
+          "probability": 0.2935
+        },
+        {
+          "word": "string",
+          "start": 269.06,
+          "end": 269.54,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 275.88,
+      "end": 280.82,
+      "text": "ಇಗ್ಯ ಏನು ಅಪ್ಪಳಿ ನಾಂದೆ code, l ಈವರೋ break ಬಿಕ್ಕೊ.",
+      "language": "kn",
+      "avg_logprob": -0.8745,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "ಇಗ್ಯ",
+          "start": 275.88,
+          "end": 276.52,
+          "probability": 0.5736
+        },
+        {
+          "word": "ಎಲು",
+          "start": 276.52,
+          "end": 277.16,
+          "probability": 0.4491
+        },
+        {
+          "word": "ಅಪ್ಪಳಿ",
+          "start": 277.16,
+          "end": 277.64,
+          "probability": 0.6183
+        },
+        {
+          "word": "ನಾಂದೆ",
+          "start": 277.64,
+          "end": 278.06,
+          "probability": 0.5092
+        },
+        {
+          "word": "code,",
+          "start": 278.06,
+          "end": 278.34,
+          "probability": 0.0113
+        },
+        {
+          "word": "l",
+          "start": 278.72,
+          "end": 279.22,
+          "probability": 0.4336
+        },
+        {
+          "word": "ಈವರೋ",
+          "start": 279.22,
+          "end": 280.06,
+          "probability": 0.3331
+        },
+        {
+          "word": "break",
+          "start": 280.06,
+          "end": 280.14,
+          "probability": 0.0087
+        },
+        {
+          "word": "ಬಿಕ್ಕೊ.",
+          "start": 280.14,
+          "end": 280.82,
+          "probability": 0.7061
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 280.86,
+      "end": 281.88,
+      "text": "ನಾ ನು this place",
+      "language": "kn",
+      "avg_logprob": -0.8745,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "ನಾ",
+          "start": 280.86,
+          "end": 281.18,
+          "probability": 0.7757
+        },
+        {
+          "word": "ನು",
+          "start": 281.18,
+          "end": 281.38,
+          "probability": 0.5014
+        },
+        {
+          "word": "this",
+          "start": 281.38,
+          "end": 281.6,
+          "probability": 0.0542
+        },
+        {
+          "word": "place",
+          "start": 281.6,
+          "end": 281.88,
+          "probability": 0.147
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 281.88,
+      "end": 283.52,
+      "text": "remove a little bit",
+      "language": "kn",
+      "avg_logprob": -0.8745,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "remove",
+          "start": 281.88,
+          "end": 282.64,
+          "probability": 0.0823
+        },
+        {
+          "word": "a",
+          "start": 282.64,
+          "end": 282.66,
+          "probability": 0.2047
+        },
+        {
+          "word": "little",
+          "start": 282.66,
+          "end": 283.0,
+          "probability": 0.234
+        },
+        {
+          "word": "bit",
+          "start": 283.0,
+          "end": 283.52,
+          "probability": 0.3889
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 283.52,
+      "end": 285.44,
+      "text": "in single or double quote",
+      "language": "kn",
+      "avg_logprob": -0.8745,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "in",
+          "start": 283.52,
+          "end": 284.0,
+          "probability": 0.0735
+        },
+        {
+          "word": "single",
+          "start": 284.0,
+          "end": 284.44,
+          "probability": 0.0478
+        },
+        {
+          "word": "or",
+          "start": 284.44,
+          "end": 284.9,
+          "probability": 0.5703
+        },
+        {
+          "word": "double",
+          "start": 284.9,
+          "end": 285.2,
+          "probability": 0.9043
+        },
+        {
+          "word": "quote",
+          "start": 285.2,
+          "end": 285.44,
+          "probability": 0.197
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 285.44,
+      "end": 285.94,
+      "text": "you will get the condition of L",
+      "language": "kn",
+      "avg_logprob": -0.8745,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "you",
+          "start": 285.44,
+          "end": 285.72,
+          "probability": 0.0859
+        },
+        {
+          "word": "will",
+          "start": 285.72,
+          "end": 285.78,
+          "probability": 0.6152
+        },
+        {
+          "word": "get",
+          "start": 285.78,
+          "end": 285.82,
+          "probability": 0.6128
+        },
+        {
+          "word": "the",
+          "start": 285.82,
+          "end": 285.86,
+          "probability": 0.0431
+        },
+        {
+          "word": "condition",
+          "start": 285.86,
+          "end": 285.94,
+          "probability": 0.3401
+        },
+        {
+          "word": "of",
+          "start": 285.94,
+          "end": 285.94,
+          "probability": 0.1573
+        },
+        {
+          "word": "L",
+          "start": 285.94,
+          "end": 285.94,
+          "probability": 0.0485
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 285.94,
+      "end": 287.34,
+      "text": "now if i run",
+      "language": "kn",
+      "avg_logprob": -0.8745,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "now",
+          "start": 285.94,
+          "end": 286.72,
+          "probability": 0.1293
+        },
+        {
+          "word": "if",
+          "start": 286.72,
+          "end": 287.0,
+          "probability": 0.9116
+        },
+        {
+          "word": "i",
+          "start": 287.0,
+          "end": 287.04,
+          "probability": 0.6733
+        },
+        {
+          "word": "run",
+          "start": 287.04,
+          "end": 287.34,
+          "probability": 0.604
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 287.34,
+      "end": 288.04,
+      "text": "it becomes A",
+      "language": "kn",
+      "avg_logprob": -0.8745,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "it",
+          "start": 287.34,
+          "end": 287.46,
+          "probability": 0.0192
+        },
+        {
+          "word": "becomes",
+          "start": 287.46,
+          "end": 288.0,
+          "probability": 0.0196
+        },
+        {
+          "word": "A",
+          "start": 288.0,
+          "end": 288.04,
+          "probability": 0.1129
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 288.04,
+      "end": 289.0,
+      "text": "then B",
+      "language": "kn",
+      "avg_logprob": -0.8745,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "then",
+          "start": 288.04,
+          "end": 288.42,
+          "probability": 0.0028
+        },
+        {
+          "word": "B",
+          "start": 288.42,
+          "end": 289.0,
+          "probability": 0.2549
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 289.0,
+      "end": 290.08,
+      "text": "and so on",
+      "language": "kn",
+      "avg_logprob": -0.8745,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "and",
+          "start": 289.0,
+          "end": 289.44,
+          "probability": 0.1232
+        },
+        {
+          "word": "so",
+          "start": 289.44,
+          "end": 289.92,
+          "probability": 0.2261
+        },
+        {
+          "word": "on",
+          "start": 289.92,
+          "end": 290.08,
+          "probability": 0.8359
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 290.08,
+      "end": 291.24,
+      "text": "when L comes",
+      "language": "kn",
+      "avg_logprob": -0.8745,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "when",
+          "start": 290.08,
+          "end": 290.62,
+          "probability": 0.0254
+        },
+        {
+          "word": "L",
+          "start": 290.62,
+          "end": 290.88,
+          "probability": 0.0778
+        },
+        {
+          "word": "comes",
+          "start": 290.88,
+          "end": 291.24,
+          "probability": 0.3723
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 291.24,
+      "end": 292.28,
+      "text": "then it is equal",
+      "language": "kn",
+      "avg_logprob": -0.8745,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "then",
+          "start": 291.24,
+          "end": 291.44,
+          "probability": 0.3389
+        },
+        {
+          "word": "it",
+          "start": 291.44,
+          "end": 291.66,
+          "probability": 0.4272
+        },
+        {
+          "word": "is",
+          "start": 291.66,
+          "end": 291.74,
+          "probability": 0.1587
+        },
+        {
+          "word": "equal",
+          "start": 291.74,
+          "end": 292.28,
+          "probability": 0.8823
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 292.64,
+      "end": 293.6,
+      "text": "that's your condition",
+      "language": "kn",
+      "avg_logprob": -0.8745,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "that's",
+          "start": 292.64,
+          "end": 292.96,
+          "probability": 0.1109
+        },
+        {
+          "word": "your",
+          "start": 292.96,
+          "end": 293.14,
+          "probability": 0.4226
+        },
+        {
+          "word": "condition",
+          "start": 293.14,
+          "end": 293.6,
+          "probability": 0.9448
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 294.0,
+      "end": 299.7,
+      "text": "set a, b and c",
+      "language": "kn",
+      "avg_logprob": -1.8226,
+      "no_speech_prob": 0.0024,
+      "words": [
+        {
+          "word": "set",
+          "start": 294.0,
+          "end": 295.4,
+          "probability": 0.0001
+        },
+        {
+          "word": "a,",
+          "start": 295.4,
+          "end": 296.8,
+          "probability": 0.0637
+        },
+        {
+          "word": "b",
+          "start": 297.62,
+          "end": 298.12,
+          "probability": 0.3765
+        },
+        {
+          "word": "and",
+          "start": 298.12,
+          "end": 298.38,
+          "probability": 0.2651
+        },
+        {
+          "word": "c",
+          "start": 298.38,
+          "end": 299.7,
+          "probability": 0.5273
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 322.72,
+      "end": 328.88,
+      "text": "ಇದು ಮ್ರೂಟಿಪಲ್ ಸ್ಟ್ರಿಂಗ್ ನಾಕೋಡೆ.",
+      "language": "kn",
+      "avg_logprob": -0.6221,
+      "no_speech_prob": 0.0031,
+      "words": [
+        {
+          "word": "ಇದು",
+          "start": 322.72,
+          "end": 324.12,
+          "probability": 0.562
+        },
+        {
+          "word": "ಮ್ರೂಟಿಪಲ್",
+          "start": 324.12,
+          "end": 325.52,
+          "probability": 0.6788
+        },
+        {
+          "word": "ಸ್ತ್ರಿಂಗ",
+          "start": 325.52,
+          "end": 327.96,
+          "probability": 0.8525
+        },
+        {
+          "word": "ನಾಕೊಡೆ.",
+          "start": 327.96,
+          "end": 328.88,
+          "probability": 0.5555
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 328.88,
+      "end": 329.32,
+      "text": "if else elif break continue return list tuple dict set function variable string index append range class",
+      "language": "kn",
+      "avg_logprob": -0.674,
+      "no_speech_prob": 0.385,
+      "words": [
+        {
+          "word": "if",
+          "start": 328.88,
+          "end": 328.9,
+          "probability": 0.0
+        },
+        {
+          "word": "else",
+          "start": 328.9,
+          "end": 328.9,
+          "probability": 0.0
+        },
+        {
+          "word": "elif",
+          "start": 328.9,
+          "end": 328.98,
+          "probability": 0.0002
+        },
+        {
+          "word": "break",
+          "start": 328.98,
+          "end": 328.98,
+          "probability": 0.0001
+        },
+        {
+          "word": "continue",
+          "start": 328.98,
+          "end": 328.98,
+          "probability": 0.0
+        },
+        {
+          "word": "return",
+          "start": 328.98,
+          "end": 328.98,
+          "probability": 0.0
+        },
+        {
+          "word": "list",
+          "start": 328.98,
+          "end": 329.06,
+          "probability": 0.0
+        },
+        {
+          "word": "tuple",
+          "start": 329.06,
+          "end": 329.32,
+          "probability": 0.0005
+        },
+        {
+          "word": "dict",
+          "start": 329.32,
+          "end": 329.32,
+          "probability": 0.0
+        },
+        {
+          "word": "set",
+          "start": 329.32,
+          "end": 329.32,
+          "probability": 0.0001
+        },
+        {
+          "word": "function",
+          "start": 329.32,
+          "end": 329.32,
+          "probability": 0.0001
+        },
+        {
+          "word": "variable",
+          "start": 329.32,
+          "end": 329.32,
+          "probability": 0.0014
+        },
+        {
+          "word": "string",
+          "start": 329.32,
+          "end": 329.32,
+          "probability": 0.0018
+        },
+        {
+          "word": "index",
+          "start": 329.32,
+          "end": 329.32,
+          "probability": 0.0012
+        },
+        {
+          "word": "append",
+          "start": 329.32,
+          "end": 329.32,
+          "probability": 0.0
+        },
+        {
+          "word": "range",
+          "start": 329.32,
+          "end": 329.32,
+          "probability": 0.0001
+        },
+        {
+          "word": "class",
+          "start": 329.32,
+          "end": 329.32,
+          "probability": 0.0013
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 329.38,
+      "end": 347.99,
+      "text": "x is equal to mango if i run see orange apple and for mango code is breaking this is how break works so break means but what do we know now like it and let us see next continue",
+      "language": "kn",
+      "avg_logprob": -0.6868,
+      "no_speech_prob": 0.0005,
+      "words": [
+        {
+          "word": "x",
+          "start": 329.38,
+          "end": 329.7,
+          "probability": 0.3896
+        },
+        {
+          "word": "is",
+          "start": 329.7,
+          "end": 329.86,
+          "probability": 0.5771
+        },
+        {
+          "word": "equal",
+          "start": 329.86,
+          "end": 330.1,
+          "probability": 0.9956
+        },
+        {
+          "word": "to",
+          "start": 330.1,
+          "end": 330.28,
+          "probability": 0.999
+        },
+        {
+          "word": "mango",
+          "start": 330.28,
+          "end": 330.72,
+          "probability": 0.9556
+        },
+        {
+          "word": "if",
+          "start": 330.72,
+          "end": 330.98,
+          "probability": 0.0184
+        },
+        {
+          "word": "i",
+          "start": 330.98,
+          "end": 331.88,
+          "probability": 0.8574
+        },
+        {
+          "word": "run",
+          "start": 331.88,
+          "end": 332.16,
+          "probability": 0.9849
+        },
+        {
+          "word": "see",
+          "start": 332.16,
+          "end": 333.26,
+          "probability": 0.4185
+        },
+        {
+          "word": "orange",
+          "start": 333.83,
+          "end": 334.25,
+          "probability": 0.4856
+        },
+        {
+          "word": "apple",
+          "start": 334.25,
+          "end": 335.41,
+          "probability": 0.9609
+        },
+        {
+          "word": "and",
+          "start": 335.41,
+          "end": 335.89,
+          "probability": 0.5806
+        },
+        {
+          "word": "for",
+          "start": 335.89,
+          "end": 336.71,
+          "probability": 0.8413
+        },
+        {
+          "word": "mango",
+          "start": 336.71,
+          "end": 337.21,
+          "probability": 0.9971
+        },
+        {
+          "word": "code",
+          "start": 337.21,
+          "end": 337.67,
+          "probability": 0.9917
+        },
+        {
+          "word": "is",
+          "start": 337.67,
+          "end": 337.91,
+          "probability": 0.9907
+        },
+        {
+          "word": "breaking",
+          "start": 337.91,
+          "end": 338.43,
+          "probability": 0.96
+        },
+        {
+          "word": "this",
+          "start": 338.43,
+          "end": 339.15,
+          "probability": 0.9424
+        },
+        {
+          "word": "is",
+          "start": 339.15,
+          "end": 339.29,
+          "probability": 0.9961
+        },
+        {
+          "word": "how",
+          "start": 339.29,
+          "end": 339.43,
+          "probability": 0.9976
+        },
+        {
+          "word": "break",
+          "start": 339.43,
+          "end": 340.03,
+          "probability": 0.8818
+        },
+        {
+          "word": "works",
+          "start": 340.03,
+          "end": 340.85,
+          "probability": 0.998
+        },
+        {
+          "word": "so",
+          "start": 340.85,
+          "end": 341.53,
+          "probability": 0.8525
+        },
+        {
+          "word": "break",
+          "start": 341.53,
+          "end": 342.09,
+          "probability": 0.6978
+        },
+        {
+          "word": "means",
+          "start": 342.09,
+          "end": 342.39,
+          "probability": 0.5107
+        },
+        {
+          "word": "but",
+          "start": 342.39,
+          "end": 342.91,
+          "probability": 0.4832
+        },
+        {
+          "word": "what",
+          "start": 342.91,
+          "end": 343.25,
+          "probability": 0.2213
+        },
+        {
+          "word": "do",
+          "start": 343.25,
+          "end": 343.49,
+          "probability": 0.0977
+        },
+        {
+          "word": "we",
+          "start": 343.49,
+          "end": 343.49,
+          "probability": 0.2135
+        },
+        {
+          "word": "know",
+          "start": 343.49,
+          "end": 343.71,
+          "probability": 0.7651
+        },
+        {
+          "word": "now",
+          "start": 343.71,
+          "end": 343.85,
+          "probability": 0.1095
+        },
+        {
+          "word": "like",
+          "start": 343.85,
+          "end": 345.11,
+          "probability": 0.1843
+        },
+        {
+          "word": "it",
+          "start": 345.11,
+          "end": 345.77,
+          "probability": 0.191
+        },
+        {
+          "word": "and",
+          "start": 345.77,
+          "end": 346.09,
+          "probability": 0.7197
+        },
+        {
+          "word": "let",
+          "start": 346.09,
+          "end": 346.21,
+          "probability": 0.2461
+        },
+        {
+          "word": "us",
+          "start": 346.21,
+          "end": 346.71,
+          "probability": 0.6543
+        },
+        {
+          "word": "see",
+          "start": 346.71,
+          "end": 347.11,
+          "probability": 0.6724
+        },
+        {
+          "word": "next",
+          "start": 347.11,
+          "end": 347.45,
+          "probability": 0.9536
+        },
+        {
+          "word": "continue",
+          "start": 347.45,
+          "end": 347.99,
+          "probability": 0.981
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 347.99,
+      "end": 354.87,
+      "text": "ನೇಸ್ಟ, continue ಮಾಡತ್ತೆ? continue ಮಿಗೆ, ಇದೆ code blockನಲ್ಲಿ particular value ಅನ್ನಂ skip ಮಾಡ್ತತ್ವು.",
+      "language": "kn",
+      "avg_logprob": -0.5427,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "ನೇಸ್ಟ,",
+          "start": 347.99,
+          "end": 348.45,
+          "probability": 0.7538
+        },
+        {
+          "word": "continue",
+          "start": 348.57,
+          "end": 349.05,
+          "probability": 0.0288
+        },
+        {
+          "word": "ಮಾಡತ್ತೆ?",
+          "start": 349.05,
+          "end": 349.59,
+          "probability": 0.8103
+        },
+        {
+          "word": "continue",
+          "start": 349.63,
+          "end": 350.17,
+          "probability": 0.8154
+        },
+        {
+          "word": "ಮಿಗೆ,",
+          "start": 350.17,
+          "end": 350.67,
+          "probability": 0.7975
+        },
+        {
+          "word": "ಇದೆ",
+          "start": 350.73,
+          "end": 351.03,
+          "probability": 0.8963
+        },
+        {
+          "word": "code",
+          "start": 351.03,
+          "end": 351.27,
+          "probability": 0.9883
+        },
+        {
+          "word": "blockಲ್ಲಿ",
+          "start": 351.27,
+          "end": 351.91,
+          "probability": 0.9332
+        },
+        {
+          "word": "particular",
+          "start": 351.91,
+          "end": 352.31,
+          "probability": 0.9873
+        },
+        {
+          "word": "value",
+          "start": 352.31,
+          "end": 352.97,
+          "probability": 0.9883
+        },
+        {
+          "word": "ಅನ್ನಂ",
+          "start": 352.97,
+          "end": 353.37,
+          "probability": 0.6919
+        },
+        {
+          "word": "skip",
+          "start": 353.37,
+          "end": 353.73,
+          "probability": 0.897
+        },
+        {
+          "word": "ಮಾజ್ಥತ್ವು.",
+          "start": 353.73,
+          "end": 354.87,
+          "probability": 0.6545
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 354.87,
+      "end": 358.19,
+      "text": "for example, 30 ಬೇಳ ಅನ್ರದನ ಸ್ಕಿಪ್ಮಾಟ್ಸುಕೆ help ಮಾಡ್ತೆ.",
+      "language": "kn",
+      "avg_logprob": -0.5427,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "for",
+          "start": 354.87,
+          "end": 355.03,
+          "probability": 0.4888
+        },
+        {
+          "word": "example,",
+          "start": 355.03,
+          "end": 355.23,
+          "probability": 0.9839
+        },
+        {
+          "word": "30",
+          "start": 355.35,
+          "end": 355.93,
+          "probability": 0.6455
+        },
+        {
+          "word": "ಬೇಳ",
+          "start": 355.93,
+          "end": 356.43,
+          "probability": 0.7867
+        },
+        {
+          "word": "ಅನ்ರದನ",
+          "start": 356.43,
+          "end": 356.77,
+          "probability": 0.7153
+        },
+        {
+          "word": "ಸ್ಕಿಪ್ಮಾಟ್ಸುಕೆ",
+          "start": 356.77,
+          "end": 357.73,
+          "probability": 0.8091
+        },
+        {
+          "word": "help",
+          "start": 357.73,
+          "end": 357.95,
+          "probability": 0.9492
+        },
+        {
+          "word": "ಮಾ�",
+          "start": 357.95,
+          "end": 358.19,
+          "probability": 0.7943
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 377.99,
+      "end": 378.17,
+      "text": "pkg install open-vm-tools",
+      "language": "kn",
+      "avg_logprob": -1.3149,
+      "no_speech_prob": 0.0,
+      "words": [
+        {
+          "word": "pkg",
+          "start": 377.99,
+          "end": 378.17,
+          "probability": 0.0042
+        },
+        {
+          "word": "install",
+          "start": 378.17,
+          "end": 378.17,
+          "probability": 0.0374
+        },
+        {
+          "word": "open",
+          "start": 378.17,
+          "end": 378.17,
+          "probability": 0.0094
+        },
+        {
+          "word": "-vm",
+          "start": 378.17,
+          "end": 378.17,
+          "probability": 0.7994
+        },
+        {
+          "word": "-tools",
+          "start": 378.17,
+          "end": 378.17,
+          "probability": 0.9368
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 378.2,
+      "end": 380.24,
+      "text": "rest all works same",
+      "language": "kn",
+      "avg_logprob": -1.1677,
+      "no_speech_prob": 0.0033,
+      "words": [
+        {
+          "word": "rest",
+          "start": 378.2,
+          "end": 378.8,
+          "probability": 0.0031
+        },
+        {
+          "word": "all",
+          "start": 378.8,
+          "end": 379.2,
+          "probability": 0.9629
+        },
+        {
+          "word": "works",
+          "start": 379.2,
+          "end": 379.9,
+          "probability": 0.3611
+        },
+        {
+          "word": "same",
+          "start": 379.9,
+          "end": 380.24,
+          "probability": 0.3269
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 380.24,
+      "end": 389.46,
+      "text": "so only you can use continue in break place and code will be printed 10 20 40",
+      "language": "kn",
+      "avg_logprob": -1.1677,
+      "no_speech_prob": 0.0033,
+      "words": [
+        {
+          "word": "so",
+          "start": 380.24,
+          "end": 380.48,
+          "probability": 0.0223
+        },
+        {
+          "word": "only",
+          "start": 380.48,
+          "end": 383.28,
+          "probability": 0.48
+        },
+        {
+          "word": "you",
+          "start": 383.28,
+          "end": 383.6,
+          "probability": 0.3589
+        },
+        {
+          "word": "can",
+          "start": 383.6,
+          "end": 383.92,
+          "probability": 0.3259
+        },
+        {
+          "word": "use",
+          "start": 383.92,
+          "end": 384.26,
+          "probability": 0.2303
+        },
+        {
+          "word": "continue",
+          "start": 384.26,
+          "end": 385.44,
+          "probability": 0.2759
+        },
+        {
+          "word": "in",
+          "start": 385.44,
+          "end": 385.92,
+          "probability": 0.5425
+        },
+        {
+          "word": "break",
+          "start": 385.92,
+          "end": 385.92,
+          "probability": 0.3689
+        },
+        {
+          "word": "place",
+          "start": 385.92,
+          "end": 385.92,
+          "probability": 0.1919
+        },
+        {
+          "word": "and",
+          "start": 385.92,
+          "end": 386.06,
+          "probability": 0.4419
+        },
+        {
+          "word": "code",
+          "start": 386.06,
+          "end": 388.02,
+          "probability": 0.0376
+        },
+        {
+          "word": "will",
+          "start": 388.02,
+          "end": 388.48,
+          "probability": 0.4834
+        },
+        {
+          "word": "be",
+          "start": 388.48,
+          "end": 388.62,
+          "probability": 0.3337
+        },
+        {
+          "word": "printed",
+          "start": 388.62,
+          "end": 388.7,
+          "probability": 0.4177
+        },
+        {
+          "word": "10",
+          "start": 388.7,
+          "end": 388.72,
+          "probability": 0.3835
+        },
+        {
+          "word": "20",
+          "start": 388.72,
+          "end": 389.06,
+          "probability": 0.252
+        },
+        {
+          "word": "40",
+          "start": 389.06,
+          "end": 389.46,
+          "probability": 0.9688
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 389.46,
+      "end": 394.1,
+      "text": "so apply the same code continuously",
+      "language": "kn",
+      "avg_logprob": -1.1677,
+      "no_speech_prob": 0.0033,
+      "words": [
+        {
+          "word": "so",
+          "start": 389.46,
+          "end": 390.8,
+          "probability": 0.184
+        },
+        {
+          "word": "apply",
+          "start": 390.8,
+          "end": 392.2,
+          "probability": 0.2013
+        },
+        {
+          "word": "the",
+          "start": 392.2,
+          "end": 392.44,
+          "probability": 0.1368
+        },
+        {
+          "word": "same",
+          "start": 392.44,
+          "end": 392.44,
+          "probability": 0.6055
+        },
+        {
+          "word": "code",
+          "start": 392.44,
+          "end": 392.86,
+          "probability": 0.9717
+        },
+        {
+          "word": "continuously",
+          "start": 392.86,
+          "end": 394.1,
+          "probability": 0.2001
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 394.1,
+      "end": 398.18,
+      "text": "i want apple to come in orange and mango",
+      "language": "kn",
+      "avg_logprob": -1.1677,
+      "no_speech_prob": 0.0033,
+      "words": [
+        {
+          "word": "i",
+          "start": 394.1,
+          "end": 394.5,
+          "probability": 0.0886
+        },
+        {
+          "word": "want",
+          "start": 394.5,
+          "end": 395.12,
+          "probability": 0.2439
+        },
+        {
+          "word": "apple",
+          "start": 395.12,
+          "end": 395.9,
+          "probability": 0.6729
+        },
+        {
+          "word": "to",
+          "start": 395.9,
+          "end": 396.32,
+          "probability": 0.4934
+        },
+        {
+          "word": "come",
+          "start": 396.32,
+          "end": 396.7,
+          "probability": 0.0524
+        },
+        {
+          "word": "in",
+          "start": 396.7,
+          "end": 397.14,
+          "probability": 0.2001
+        },
+        {
+          "word": "orange",
+          "start": 397.14,
+          "end": 397.36,
+          "probability": 0.131
+        },
+        {
+          "word": "and",
+          "start": 397.36,
+          "end": 397.6,
+          "probability": 0.8462
+        },
+        {
+          "word": "mango",
+          "start": 397.6,
+          "end": 398.18,
+          "probability": 0.9355
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 404.86,
+      "end": 410.3,
+      "text": "if else elif break continue return list tuple dict set function variable string integer boolean loop condition",
+      "language": "kn",
+      "avg_logprob": -0.6768,
+      "no_speech_prob": 0.0008,
+      "words": [
+        {
+          "word": "if",
+          "start": 404.86,
+          "end": 405.0,
+          "probability": 0.0022
+        },
+        {
+          "word": "else",
+          "start": 405.0,
+          "end": 405.0,
+          "probability": 0.0001
+        },
+        {
+          "word": "elif",
+          "start": 405.0,
+          "end": 405.0,
+          "probability": 0.0015
+        },
+        {
+          "word": "break",
+          "start": 405.0,
+          "end": 405.0,
+          "probability": 0.0003
+        },
+        {
+          "word": "continue",
+          "start": 405.0,
+          "end": 405.76,
+          "probability": 0.0094
+        },
+        {
+          "word": "return",
+          "start": 405.76,
+          "end": 407.86,
+          "probability": 0.0003
+        },
+        {
+          "word": "list",
+          "start": 407.86,
+          "end": 409.98,
+          "probability": 0.0012
+        },
+        {
+          "word": "tuple",
+          "start": 409.98,
+          "end": 409.98,
+          "probability": 0.0148
+        },
+        {
+          "word": "dict",
+          "start": 409.98,
+          "end": 409.98,
+          "probability": 0.0
+        },
+        {
+          "word": "set",
+          "start": 409.98,
+          "end": 409.98,
+          "probability": 0.0001
+        },
+        {
+          "word": "function",
+          "start": 409.98,
+          "end": 410.04,
+          "probability": 0.0
+        },
+        {
+          "word": "variable",
+          "start": 410.04,
+          "end": 410.04,
+          "probability": 0.0006
+        },
+        {
+          "word": "string",
+          "start": 410.04,
+          "end": 410.04,
+          "probability": 0.001
+        },
+        {
+          "word": "integer",
+          "start": 410.04,
+          "end": 410.04,
+          "probability": 0.0001
+        },
+        {
+          "word": "boolean",
+          "start": 410.04,
+          "end": 410.08,
+          "probability": 0.3152
+        },
+        {
+          "word": "loop",
+          "start": 410.08,
+          "end": 410.08,
+          "probability": 0.0002
+        },
+        {
+          "word": "condition",
+          "start": 410.08,
+          "end": 410.3,
+          "probability": 0.0002
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 410.3,
+      "end": 414.9,
+      "text": "see guys orange mango apple",
+      "language": "kn",
+      "avg_logprob": -0.6768,
+      "no_speech_prob": 0.0008,
+      "words": [
+        {
+          "word": "see",
+          "start": 410.3,
+          "end": 410.36,
+          "probability": 0.0004
+        },
+        {
+          "word": "guys",
+          "start": 410.36,
+          "end": 412.48,
+          "probability": 0.2617
+        },
+        {
+          "word": "orange",
+          "start": 412.58,
+          "end": 413.18,
+          "probability": 0.5342
+        },
+        {
+          "word": "mango",
+          "start": 413.18,
+          "end": 413.88,
+          "probability": 0.5371
+        },
+        {
+          "word": "apple",
+          "start": 413.88,
+          "end": 414.9,
+          "probability": 0.7305
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 414.9,
+      "end": 420.36,
+      "text": "ಅಪ್ಲು ಸ್ಕಿಪ್ಪಾಗಿದೆ, ಇವಾಗ ಇದನ್ನೆ list ರೀಮಾಡತಿಂದರೆ fruits ರೈಮೋಹ್ಟುಂದೆ.",
+      "language": "kn",
+      "avg_logprob": -0.691,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "ಅಪ್ಲು",
+          "start": 414.9,
+          "end": 415.86,
+          "probability": 0.5197
+        },
+        {
+          "word": "ಸ್ಕಿಪ್ಪಾಗಿದೆ,",
+          "start": 415.86,
+          "end": 416.7,
+          "probability": 0.8706
+        },
+        {
+          "word": "ಇವಾಗ",
+          "start": 416.74,
+          "end": 417.02,
+          "probability": 0.8061
+        },
+        {
+          "word": "ಇದನ್ನೆ",
+          "start": 417.02,
+          "end": 417.56,
+          "probability": 0.8313
+        },
+        {
+          "word": "list",
+          "start": 417.56,
+          "end": 417.82,
+          "probability": 0.0101
+        },
+        {
+          "word": "ರೀಮಾಡತಿಂದರೆ",
+          "start": 417.82,
+          "end": 418.6,
+          "probability": 0.6151
+        },
+        {
+          "word": "fruits",
+          "start": 418.6,
+          "end": 419.16,
+          "probability": 0.7388
+        },
+        {
+          "word": "ರೈಮೋಹ್ಟುಂದೆ.",
+          "start": 419.16,
+          "end": 420.36,
+          "probability": 0.6049
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 420.44,
+      "end": 427.22,
+      "text": "here I will use a list and when it is not in the list I have to skip 40 or 30.",
+      "language": "kn",
+      "avg_logprob": -0.691,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "here",
+          "start": 420.44,
+          "end": 420.62,
+          "probability": 0.0683
+        },
+        {
+          "word": "I",
+          "start": 420.62,
+          "end": 420.9,
+          "probability": 0.2303
+        },
+        {
+          "word": "will",
+          "start": 420.9,
+          "end": 421.1,
+          "probability": 0.6196
+        },
+        {
+          "word": "use",
+          "start": 421.1,
+          "end": 421.1,
+          "probability": 0.8022
+        },
+        {
+          "word": "a",
+          "start": 421.1,
+          "end": 421.1,
+          "probability": 0.0573
+        },
+        {
+          "word": "list",
+          "start": 421.1,
+          "end": 421.44,
+          "probability": 0.9937
+        },
+        {
+          "word": "and",
+          "start": 421.44,
+          "end": 422.42,
+          "probability": 0.4453
+        },
+        {
+          "word": "when",
+          "start": 422.42,
+          "end": 422.96,
+          "probability": 0.293
+        },
+        {
+          "word": "it",
+          "start": 422.96,
+          "end": 423.14,
+          "probability": 0.1429
+        },
+        {
+          "word": "is",
+          "start": 423.14,
+          "end": 423.14,
+          "probability": 0.4771
+        },
+        {
+          "word": "not",
+          "start": 423.14,
+          "end": 423.52,
+          "probability": 0.7251
+        },
+        {
+          "word": "in",
+          "start": 423.52,
+          "end": 423.56,
+          "probability": 0.2147
+        },
+        {
+          "word": "the",
+          "start": 423.56,
+          "end": 423.82,
+          "probability": 0.7456
+        },
+        {
+          "word": "list",
+          "start": 423.82,
+          "end": 423.84,
+          "probability": 0.9985
+        },
+        {
+          "word": "I",
+          "start": 423.84,
+          "end": 424.54,
+          "probability": 0.1863
+        },
+        {
+          "word": "have",
+          "start": 424.54,
+          "end": 424.64,
+          "probability": 0.1241
+        },
+        {
+          "word": "to",
+          "start": 424.64,
+          "end": 424.82,
+          "probability": 0.9766
+        },
+        {
+          "word": "skip",
+          "start": 424.82,
+          "end": 424.94,
+          "probability": 0.7173
+        },
+        {
+          "word": "40",
+          "start": 424.94,
+          "end": 426.04,
+          "probability": 0.7549
+        },
+        {
+          "word": "or",
+          "start": 426.04,
+          "end": 426.64,
+          "probability": 0.6045
+        },
+        {
+          "word": "30.",
+          "start": 426.64,
+          "end": 427.22,
+          "probability": 0.3521
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 428.02,
+      "end": 433.5,
+      "text": "so from this list 10 20 has to be printed then 40 50 has to be printed",
+      "language": "kn",
+      "avg_logprob": -0.691,
+      "no_speech_prob": 0.0001,
+      "words": [
+        {
+          "word": "so",
+          "start": 428.02,
+          "end": 428.56,
+          "probability": 0.3418
+        },
+        {
+          "word": "from",
+          "start": 428.56,
+          "end": 429.22,
+          "probability": 0.4402
+        },
+        {
+          "word": "this",
+          "start": 429.22,
+          "end": 429.24,
+          "probability": 0.9062
+        },
+        {
+          "word": "list",
+          "start": 429.24,
+          "end": 429.5,
+          "probability": 0.9941
+        },
+        {
+          "word": "10",
+          "start": 429.5,
+          "end": 429.98,
+          "probability": 0.2341
+        },
+        {
+          "word": "20",
+          "start": 429.98,
+          "end": 430.34,
+          "probability": 0.1708
+        },
+        {
+          "word": "has",
+          "start": 430.34,
+          "end": 430.6,
+          "probability": 0.1895
+        },
+        {
+          "word": "to",
+          "start": 430.6,
+          "end": 430.6,
+          "probability": 0.9941
+        },
+        {
+          "word": "be",
+          "start": 430.6,
+          "end": 430.6,
+          "probability": 0.8662
+        },
+        {
+          "word": "printed",
+          "start": 430.6,
+          "end": 430.96,
+          "probability": 0.9463
+        },
+        {
+          "word": "then",
+          "start": 430.96,
+          "end": 431.68,
+          "probability": 0.1652
+        },
+        {
+          "word": "40",
+          "start": 431.68,
+          "end": 432.38,
+          "probability": 0.9702
+        },
+        {
+          "word": "50",
+          "start": 432.38,
+          "end": 432.78,
+          "probability": 0.8491
+        },
+        {
+          "word": "has",
+          "start": 432.78,
+          "end": 433.06,
+          "probability": 0.5957
+        },
+        {
+          "word": "to",
+          "start": 433.06,
+          "end": 433.06,
+          "probability": 0.9956
+        },
+        {
+          "word": "be",
+          "start": 433.06,
+          "end": 433.06,
+          "probability": 0.9854
+        },
+        {
+          "word": "printed",
+          "start": 433.06,
+          "end": 433.5,
+          "probability": 0.9937
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 433.5,
+      "end": 436.46,
+      "text": "to do that x is equal to is equal to 30 ಬರದು continue",
+      "language": "kn",
+      "avg_logprob": -0.5795,
+      "no_speech_prob": 0.0806,
+      "words": [
+        {
+          "word": "to",
+          "start": 433.5,
+          "end": 433.8,
+          "probability": 0.0409
+        },
+        {
+          "word": "do",
+          "start": 433.8,
+          "end": 433.96,
+          "probability": 0.9897
+        },
+        {
+          "word": "that",
+          "start": 433.96,
+          "end": 434.24,
+          "probability": 0.9985
+        },
+        {
+          "word": "x",
+          "start": 434.24,
+          "end": 434.56,
+          "probability": 0.9517
+        },
+        {
+          "word": "is",
+          "start": 434.56,
+          "end": 434.78,
+          "probability": 0.9229
+        },
+        {
+          "word": "equal",
+          "start": 434.78,
+          "end": 435.06,
+          "probability": 0.9961
+        },
+        {
+          "word": "to",
+          "start": 435.06,
+          "end": 435.18,
+          "probability": 0.9985
+        },
+        {
+          "word": "is",
+          "start": 435.18,
+          "end": 435.26,
+          "probability": 0.2505
+        },
+        {
+          "word": "equal",
+          "start": 435.26,
+          "end": 435.36,
+          "probability": 0.9995
+        },
+        {
+          "word": "to",
+          "start": 435.36,
+          "end": 435.54,
+          "probability": 0.9995
+        },
+        {
+          "word": "30",
+          "start": 435.54,
+          "end": 435.8,
+          "probability": 0.9736
+        },
+        {
+          "word": "berdu",
+          "start": 435.8,
+          "end": 436.16,
+          "probability": 0.366
+        },
+        {
+          "word": "continue",
+          "start": 436.16,
+          "end": 436.46,
+          "probability": 0.9058
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 436.98,
+      "end": 460.4,
+      "text": "if i run see guys 10 20 40 50 ಬಂತು ಇಷ್ಟೆ break ಅಂತ ಬದರೆ a value ಬರಲು print ಮಾಡತ್ತೆ a value ಗೆ break ಮಾಡತ್ತೆ continue ಬದರೆ a value ಅನ್ನ bit to remaining ಎಲಾ value ಅನ್ನ print ಮಾಡತ್ತೆ video estadre like made arthatidhiya subscribe made new friends erudhuru kannar dalle codingana kalibu ekundharuge videona sharemade next tutoriali signa allirgugu ba and take care",
+      "language": "kn",
+      "avg_logprob": -0.776,
+      "no_speech_prob": 0.0066,
+      "words": [
+        {
+          "word": "if",
+          "start": 436.98,
+          "end": 437.44,
+          "probability": 0.0885
+        },
+        {
+          "word": "i",
+          "start": 437.44,
+          "end": 437.64,
+          "probability": 0.833
+        },
+        {
+          "word": "run",
+          "start": 437.64,
+          "end": 437.84,
+          "probability": 0.8892
+        },
+        {
+          "word": "see",
+          "start": 437.84,
+          "end": 438.76,
+          "probability": 0.1781
+        },
+        {
+          "word": "guys",
+          "start": 438.76,
+          "end": 438.98,
+          "probability": 0.7837
+        },
+        {
+          "word": "10",
+          "start": 438.98,
+          "end": 439.28,
+          "probability": 0.8657
+        },
+        {
+          "word": "20",
+          "start": 439.28,
+          "end": 439.88,
+          "probability": 0.436
+        },
+        {
+          "word": "40",
+          "start": 439.88,
+          "end": 440.6,
+          "probability": 0.9858
+        },
+        {
+          "word": "50",
+          "start": 440.6,
+          "end": 441.36,
+          "probability": 0.9927
+        },
+        {
+          "word": "bantu",
+          "start": 441.36,
+          "end": 442.04,
+          "probability": 0.4945
+        },
+        {
+          "word": "ishte",
+          "start": 442.04,
+          "end": 442.82,
+          "probability": 0.1824
+        },
+        {
+          "word": "break",
+          "start": 442.82,
+          "end": 443.4,
+          "probability": 0.8608
+        },
+        {
+          "word": "anta",
+          "start": 443.4,
+          "end": 443.74,
+          "probability": 0.5687
+        },
+        {
+          "word": "badare",
+          "start": 443.74,
+          "end": 444.02,
+          "probability": 0.1981
+        },
+        {
+          "word": "a",
+          "start": 444.02,
+          "end": 444.18,
+          "probability": 0.5503
+        },
+        {
+          "word": "value",
+          "start": 444.18,
+          "end": 444.5,
+          "probability": 0.9961
+        },
+        {
+          "word": "barurgu",
+          "start": 444.5,
+          "end": 444.86,
+          "probability": 0.226
+        },
+        {
+          "word": "print",
+          "start": 444.86,
+          "end": 445.06,
+          "probability": 0.9858
+        },
+        {
+          "word": "madathe",
+          "start": 445.06,
+          "end": 445.48,
+          "probability": 0.2801
+        },
+        {
+          "word": "a",
+          "start": 445.48,
+          "end": 445.6,
+          "probability": 0.8779
+        },
+        {
+          "word": "value",
+          "start": 445.6,
+          "end": 445.84,
+          "probability": 0.9961
+        },
+        {
+          "word": "ge",
+          "start": 445.84,
+          "end": 446.02,
+          "probability": 0.8628
+        },
+        {
+          "word": "break",
+          "start": 446.02,
+          "end": 446.56,
+          "probability": 0.8965
+        },
+        {
+          "word": "madate",
+          "start": 446.56,
+          "end": 446.94,
+          "probability": 0.5799
+        },
+        {
+          "word": "continue",
+          "start": 446.94,
+          "end": 447.34,
+          "probability": 0.9453
+        },
+        {
+          "word": "badare",
+          "start": 447.34,
+          "end": 447.92,
+          "probability": 0.9429
+        },
+        {
+          "word": "a",
+          "start": 447.92,
+          "end": 448.06,
+          "probability": 0.9731
+        },
+        {
+          "word": "value",
+          "start": 448.06,
+          "end": 448.36,
+          "probability": 0.9976
+        },
+        {
+          "word": "ana",
+          "start": 448.36,
+          "end": 448.52,
+          "probability": 0.1979
+        },
+        {
+          "word": "bit",
+          "start": 448.52,
+          "end": 448.74,
+          "probability": 0.8066
+        },
+        {
+          "word": "to",
+          "start": 448.74,
+          "end": 448.88,
+          "probability": 0.6074
+        },
+        {
+          "word": "remaining",
+          "start": 448.88,
+          "end": 449.22,
+          "probability": 0.9243
+        },
+        {
+          "word": "ela",
+          "start": 449.22,
+          "end": 449.5,
+          "probability": 0.1663
+        },
+        {
+          "word": "value",
+          "start": 449.5,
+          "end": 449.68,
+          "probability": 0.9922
+        },
+        {
+          "word": "ana",
+          "start": 449.68,
+          "end": 449.88,
+          "probability": 0.7974
+        },
+        {
+          "word": "print",
+          "start": 449.88,
+          "end": 450.32,
+          "probability": 0.9902
+        },
+        {
+          "word": "madate",
+          "start": 450.32,
+          "end": 450.78,
+          "probability": 0.97
+        },
+        {
+          "word": "video",
+          "start": 450.78,
+          "end": 451.24,
+          "probability": 0.8867
+        },
+        {
+          "word": "estadre",
+          "start": 451.24,
+          "end": 451.78,
+          "probability": 0.109
+        },
+        {
+          "word": "like",
+          "start": 451.78,
+          "end": 452.16,
+          "probability": 0.9873
+        },
+        {
+          "word": "made",
+          "start": 452.16,
+          "end": 452.4,
+          "probability": 0.3594
+        },
+        {
+          "word": "arthatidhiya",
+          "start": 452.4,
+          "end": 453.24,
+          "probability": 0.3945
+        },
+        {
+          "word": "subscribe",
+          "start": 453.24,
+          "end": 453.72,
+          "probability": 0.8921
+        },
+        {
+          "word": "made",
+          "start": 453.72,
+          "end": 454.04,
+          "probability": 0.9761
+        },
+        {
+          "word": "new",
+          "start": 454.04,
+          "end": 454.2,
+          "probability": 0.0817
+        },
+        {
+          "word": "friends",
+          "start": 454.2,
+          "end": 454.42,
+          "probability": 0.9561
+        },
+        {
+          "word": "erudhuru",
+          "start": 454.42,
+          "end": 454.78,
+          "probability": 0.3524
+        },
+        {
+          "word": "kannar",
+          "start": 454.78,
+          "end": 455.06,
+          "probability": 0.3693
+        },
+        {
+          "word": "dalle",
+          "start": 455.06,
+          "end": 455.28,
+          "probability": 0.5133
+        },
+        {
+          "word": "codingana",
+          "start": 455.28,
+          "end": 455.64,
+          "probability": 0.6194
+        },
+        {
+          "word": "kalibu",
+          "start": 455.64,
+          "end": 455.96,
+          "probability": 0.4627
+        },
+        {
+          "word": "ekundharuge",
+          "start": 455.96,
+          "end": 456.38,
+          "probability": 0.1869
+        },
+        {
+          "word": "videona",
+          "start": 456.38,
+          "end": 456.82,
+          "probability": 0.3358
+        },
+        {
+          "word": "sharemade",
+          "start": 456.82,
+          "end": 457.6,
+          "probability": 0.4826
+        },
+        {
+          "word": "next",
+          "start": 457.6,
+          "end": 458.06,
+          "probability": 0.9639
+        },
+        {
+          "word": "tutoriali",
+          "start": 458.06,
+          "end": 458.48,
+          "probability": 0.0869
+        },
+        {
+          "word": "signa",
+          "start": 458.48,
+          "end": 458.7,
+          "probability": 0.3622
+        },
+        {
+          "word": "allirgugu",
+          "start": 458.7,
+          "end": 459.2,
+          "probability": 0.4367
+        },
+        {
+          "word": "ba",
+          "start": 459.2,
+          "end": 459.46,
+          "probability": 0.6235
+        },
+        {
+          "word": "and",
+          "start": 459.46,
+          "end": 459.84,
+          "probability": 0.9058
+        },
+        {
+          "word": "take",
+          "start": 459.84,
+          "end": 460.18,
+          "probability": 0.9697
+        },
+        {
+          "word": "care",
+          "start": 460.18,
+          "end": 460.4,
+          "probability": 0.9922
+        }
+      ]
+    }
+  ],
+  "full_text": "ಗಾಯ್ಸು, ವೆಲ್ಕಮ್ ತೋ ಪೈತನ್ ಶಿರಿಸ್. in this loop topic sometimes the requirement will be for example if i use a for-loop 10 20 30 40 now when I print this list in for-loops it comes as 10,20 ,30 and 40 10,20 ,30 and 40 we need to print like this in between 40 should not come 40 must be skipped first requirement is code should only be printed with certain elements it shouldn't be fully printed second requirement even if I don't have any number in-between for these two options if else elif break continue return list tuple dict set function variable string integer boolean loop condition index append range class if else elif break continue if there is no particular value in the loop, then you will use 10 or 20 print and 30 to continue only 40 so if you want to skip a particular value in your loop at that time what do u need? for example i have a list of 10, 20, 30, 40 and 50 now lets check the break at which point should we stop the code ಅನ್ಯುವಾಗಿ 10, 20, 30 ಪ್ರಿಂಟಾಗ್ಬೇಕು. 40 ಪ್ರಿಂಟಾಗಬೇಕು. 50 ಪ್ರಿಂಟಾದೆಗ್ಭರತು. ಅಣ್ಧರೆ ನಾನಿ 40 ಬಂಡಾವಾಗ ಬ್ರೇಕರ್ನ ಯೂಸ್ಮಾಡತ್ತಿನೀ. 4x in list ಬರಿಯೇತಿ. for while if else elif break continue return list tuple dict set function variable string integer boolean loop condition index append range class x is equal to 40 when the value of x reaches 40 i will write a break in my code If this code block is true, then only 40 and 50 will not be printed. If the code is false, 10, 20 or 30 will get printed. if else elif break continue return list tuple dict set function variable string integer boolean loop condition index append range class import module error exception list 10 to 50 for loop x is equal to 40 if true it will break or else print letters run now code has been broken there is no condition that i have only numbers here I can take string ಇಗ್ಯ ಏನು ಅಪ್ಪಳಿ ನಾಂದೆ code, l ಈವರೋ break ಬಿಕ್ಕೊ. ನಾ ನು this place remove a little bit in single or double quote you will get the condition of L now if i run it becomes A then B and so on when L comes then it is equal that's your condition set a, b and c ಇದು ಮ್ರೂಟಿಪಲ್ ಸ್ಟ್ರಿಂಗ್ ನಾಕೋಡೆ. if else elif break continue return list tuple dict set function variable string index append range class x is equal to mango if i run see orange apple and for mango code is breaking this is how break works so break means but what do we know now like it and let us see next continue ನೇಸ್ಟ, continue ಮಾಡತ್ತೆ? continue ಮಿಗೆ, ಇದೆ code blockನಲ್ಲಿ particular value ಅನ್ನಂ skip ಮಾಡ್ತತ್ವು. for example, 30 ಬೇಳ ಅನ್ರದನ ಸ್ಕಿಪ್ಮಾಟ್ಸುಕೆ help ಮಾಡ್ತೆ. pkg install open-vm-tools rest all works same so only you can use continue in break place and code will be printed 10 20 40 so apply the same code continuously i want apple to come in orange and mango if else elif break continue return list tuple dict set function variable string integer boolean loop condition see guys orange mango apple ಅಪ್ಲು ಸ್ಕಿಪ್ಪಾಗಿದೆ, ಇವಾಗ ಇದನ್ನೆ list ರೀಮಾಡತಿಂದರೆ fruits ರೈಮೋಹ್ಟುಂದೆ. here I will use a list and when it is not in the list I have to skip 40 or 30. so from this list 10 20 has to be printed then 40 50 has to be printed to do that x is equal to is equal to 30 ಬರದು continue if i run see guys 10 20 40 50 ಬಂತು ಇಷ್ಟೆ break ಅಂತ ಬದರೆ a value ಬರಲು print ಮಾಡತ್ತೆ a value ಗೆ break ಮಾಡತ್ತೆ continue ಬದರೆ a value ಅನ್ನ bit to remaining ಎಲಾ value ಅನ್ನ print ಮಾಡತ್ತೆ video estadre like made arthatidhiya subscribe made new friends erudhuru kannar dalle codingana kalibu ekundharuge videona sharemade next tutoriali signa allirgugu ba and take care"
+}
