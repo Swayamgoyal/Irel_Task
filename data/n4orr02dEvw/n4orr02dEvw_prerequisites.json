@@ -1,0 +1,142 @@
+{
+  "dependencies": [
+    {
+      "from_concept": "concept_1",
+      "to_concept": "concept_2",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture explicitly introduces the concept of a list before discussing its mutability. Understanding what a list is (concept_1) is necessary to understand how it can be modified (concept_2)."
+    },
+    {
+      "from_concept": "concept_2",
+      "to_concept": "concept_3",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture discusses mutability (concept_2) before introducing indexing (concept_3). Understanding that lists are mutable helps in understanding how elements can be accessed and modified using indexing."
+    },
+    {
+      "from_concept": "concept_3",
+      "to_concept": "concept_4",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture explicitly states that slicing (concept_4) builds upon indexing (concept_3), as slicing requires knowledge of how to access elements using indices."
+    },
+    {
+      "from_concept": "concept_4",
+      "to_concept": "concept_5",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture introduces slicing (concept_4) before discussing the append method (concept_5). Slicing is a fundamental operation that helps in understanding how to manipulate lists, which is necessary before learning specific methods like append."
+    },
+    {
+      "from_concept": "concept_5",
+      "to_concept": "concept_6",
+      "relationship_type": "BUILDS_UPON",
+      "strength": 0.9,
+      "justification": "The extend method (concept_6) builds upon the append method (concept_5) as both involve adding elements to a list, but extend allows adding multiple elements at once."
+    },
+    {
+      "from_concept": "concept_6",
+      "to_concept": "concept_7",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture introduces the extend method (concept_6) before discussing the count method (concept_7). Understanding how to add elements to a list is necessary before counting their occurrences."
+    },
+    {
+      "from_concept": "concept_7",
+      "to_concept": "concept_8",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture introduces the count method (concept_7) before discussing the remove method (concept_8). Counting occurrences of elements is a logical precursor to removing specific elements."
+    },
+    {
+      "from_concept": "concept_8",
+      "to_concept": "concept_9",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture introduces the remove method (concept_8) before discussing the pop method (concept_9). Removing elements by value (remove) is a simpler operation compared to removing elements by index (pop)."
+    },
+    {
+      "from_concept": "concept_9",
+      "to_concept": "concept_10",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture introduces the pop method (concept_9) before discussing the index method (concept_10). Understanding how to remove elements by index is necessary before learning how to find the index of elements."
+    },
+    {
+      "from_concept": "concept_10",
+      "to_concept": "concept_11",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture introduces the index method (concept_10) before discussing the insert method (concept_11). Finding the index of an element is a prerequisite for inserting an element at a specific position."
+    },
+    {
+      "from_concept": "concept_11",
+      "to_concept": "concept_12",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture introduces the insert method (concept_11) before discussing the for loop (concept_12). Understanding how to manipulate lists with methods like insert is necessary before iterating through them with a for loop."
+    },
+    {
+      "from_concept": "concept_12",
+      "to_concept": "concept_13",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture introduces the for loop (concept_12) before discussing CRUD operations (concept_13). Iterating through a list is a fundamental skill required to perform CRUD operations."
+    }
+  ],
+  "learning_path": [
+    "concept_1",
+    "concept_2",
+    "concept_3",
+    "concept_4",
+    "concept_5",
+    "concept_6",
+    "concept_7",
+    "concept_8",
+    "concept_9",
+    "concept_10",
+    "concept_11",
+    "concept_12",
+    "concept_13"
+  ],
+  "concept_clusters": [
+    {
+      "cluster_name": "List Basics",
+      "concept_ids": [
+        "concept_1",
+        "concept_2",
+        "concept_3",
+        "concept_4"
+      ],
+      "description": "These concepts cover the foundational understanding of lists, including their definition, mutability, indexing, and slicing."
+    },
+    {
+      "cluster_name": "List Methods",
+      "concept_ids": [
+        "concept_5",
+        "concept_6",
+        "concept_7",
+        "concept_8",
+        "concept_9",
+        "concept_10",
+        "concept_11"
+      ],
+      "description": "These concepts focus on the various methods available for manipulating lists, such as adding, removing, and accessing elements."
+    },
+    {
+      "cluster_name": "Advanced List Operations",
+      "concept_ids": [
+        "concept_12",
+        "concept_13"
+      ],
+      "description": "These concepts cover advanced operations on lists, including iteration and performing CRUD operations."
+    }
+  ],
+  "root_concepts": [
+    "concept_1"
+  ],
+  "leaf_concepts": [
+    "concept_13"
+  ]
+}

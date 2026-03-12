@@ -1,0 +1,147 @@
+{
+  "original_language": "kn-IN",
+  "normalized_text": "Guys, welcome to the Python series. Today, we will learn about the 'break' and 'continue' statements in Python. Before this, we completed the topic of loops. In the loops topic, sometimes there is a requirement where, for example, you are using a 'for' loop to iterate over a list like [10, 20, 30, 40]. If you use a 'for' loop to print this list, the output will be 10, 20, 30, 40. However, there are scenarios where you might have a requirement such as stopping the code execution at 20, meaning that nothing after 20 should be printed. Alternatively, you might want to skip a specific value, for example, 40, while printing the list. These are common scenarios that we encounter while coding. [TOPIC_SHIFT] The first requirement is that the code should print only up to a certain element and stop there, without printing the rest of the elements. This is the first requirement. The second requirement is that the code should print all the elements except for a specific one, which should be skipped. To handle these two scenarios, we use the 'break' and 'continue' statements in Python. [TOPIC_SHIFT] The 'break' statement is used when you want to stop the execution of a loop at a certain point. For example, if you want to stop the loop when the value 40 is encountered, you can use the 'break' statement. When the loop reaches the value 40, it will stop executing, and no values after 40 will be printed. This is how the 'break' statement works. [TOPIC_SHIFT] On the other hand, the 'continue' statement is used when you want to skip a specific value in the loop and continue with the next iteration. For instance, if you want to skip printing the value 30, you can use the 'continue' statement. The loop will print 10, 20, and then skip 30, directly moving to print 40. So, whenever you want to skip a particular value in a loop, you use the 'continue' statement. [TOPIC_SHIFT] Now, let us see how to write this in code. Suppose I have a list [10, 20, 30, 40, 50]. First, let us check how the 'break' statement works. The 'break' statement tells the loop to stop execution at a specific point. For example, if I want to print 10, 20, and 30, but stop before printing 40, I can use the 'break' statement. To do this, I will write a 'for' loop like this: 'for x in list'. Here, each value in the list will be assigned to 'x' one by one. First, 10 will be assigned to 'x', then 20, 30, 40, and finally 50. Inside the loop, I will check each value of 'x' to see if it is equal to 40. To do this, I will write an 'if' condition: 'if x == 40'. When the value of 'x' becomes 40, I will write 'break' in the code. This will stop the loop, and the remaining values after 40 will not be printed.\n\nThe code will continue to print values sequentially. Remember, after writing the 'if' condition, a colon is used, which introduces an indentation. This indentation is referred to as a code block. If the condition in the code block evaluates to true, only the value 40 will be printed, and the subsequent value 50 will not be printed. However, if the condition evaluates to false, the values 10, 20, and 30 will be printed sequentially. \n\n[TOPIC_SHIFT] \nNow, if you run the code, the first value, 10, is assigned to the variable 'x'. At this point, a comparison is made: 10 == 40. Since this condition is false, the code does not break and proceeds to print the value of 'x', which is 10. Next, the value 20 is assigned to 'x', and the comparison 20 == 40 is made. Again, this condition is false, so the code prints 20. Similarly, the value 30 is assigned to 'x', and the comparison 30 == 40 is false, so 30 is printed. When the value 40 is assigned to 'x', the condition 40 == 40 evaluates to true. \n\n[TOPIC_SHIFT] \nWhen the condition is true, the 'break' statement is executed, and the code exits the loop. After this, the values 40 and 50 are not printed. Let us see this practically. \n\n[TOPIC_SHIFT] \nSo, see here, I have created a list and stored the values 10 to 50 in it. Next, I use a 'for' loop to iterate through the list, and I check if x == 40. If the condition is true, the loop breaks; otherwise, the values are printed sequentially. Let us run the code. See, the values 10, 20, and 30 are printed. When the value 40 is reached, the code breaks. I can modify this code to break based on a condition other than numbers. For example, I can replace the list with strings. Instead of numbers, I can use strings like 'apple'. Now, if I want the code to break when it encounters 'apple', I will replace 40 with 'apple' in the condition and enclose it in single or double quotes. If I run the code now, it will check each value. When it encounters 'apple', the condition will evaluate to true, and the code will break. Let us run this. See, it prints the values until 'apple' and then breaks. This is how the 'break' statement works. I hope you understand the concept of 'break'. If you do, please like this explanation. \n\n[TOPIC_SHIFT] \nNow, let us move to the 'continue' statement. The 'continue' statement allows you to skip a particular value in the loop. For example, if I want to skip the value 30 in the list, I can use the 'continue' statement. In the 'for' loop, I will write a condition: if x == 30. If this condition evaluates to true, instead of using 'break', I will use 'continue'. This will skip the value 30 and proceed with the next iteration of the loop.\n\nThat's it. The rest of the work remains the same. Now, if you write 'print' below, it will print the output here. So, you only need to use 'continue' at the break point, and this particular value will be skipped, while the code will print 10, 20, and 40. Let us see this in action. So, guys, now let's apply 'continue' to this same code. For example, if I want to skip 'apple' and only print 'orange' and 'mango', I will write 'apple' at this point in the code. Then, at the next break point, I will write 'continue'. Now, when I run the code, you can see the output. See, guys, 'orange' is printed, 'mango' is printed, but 'apple' is skipped. Now, if we apply the same logic to a list, I will remove 'fruits' from the list. Here, I will use a list, and in this list, if I want to skip a specific value, for example, 30, I will write x = 30 and then use 'continue'. When I run the code, you can see the output: 10, 20, 40, and 50 are printed. That's it. If you write 'break', it will print values up to the specified value and then stop. If you write 'continue', it will skip the specified value and print all the remaining values. If you liked this video, please give it a like. Did you understand? Subscribe to the channel and share this video with your friends who want to learn coding in Kannada. See you in the next video. Until then, goodbye and take care.",
+  "technical_terms_mapped": {
+    "ಬ್ರೇಕ್": "break",
+    "ಕಂಟಿನ್ಯೂ": "continue",
+    "ಲೂಪ್": "loop",
+    "ಫಾರ್ ಲೂಪ್": "for loop",
+    "ಕೋಡ್": "code",
+    "ಸ್ಟಾಪ್": "stop",
+    "ಪ್ರಿಂಟ್": "print",
+    "ವ್ಯಾಲ್ಯೂ": "value",
+    "ಲಿಸ್ಟ್": "list",
+    "ಎಕ್ಸಿಕ್ಯೂಟ್": "execute",
+    "ಸಿನಾರಿಯೋ": "scenario",
+    "ಎಲಿಮೆಂಟ್ಸ್": "elements",
+    "ಚೆಕ್": "check",
+    "ಇಫ್": "if",
+    "ವ್ಯಾಲ್ಯೂಗಳು": "values",
+    "ಇಂಡೆಂಟೇಶನ್": "indentation",
+    "ಕೋಡ್ ಬ್ಲಾಕ್": "code block",
+    "ಟ್ರೂ": "true",
+    "ಫಾಲ್ಸ್": "false",
+    "ವೇರಿಯೇಬಲ್": "variable",
+    "ಕಂಡೀಶನ್": "condition",
+    "ಔಟ್ಪುಟ್": "output",
+    "ಫ್ರೂಟ್ಸ್": "fruits",
+    "ರನ್": "run",
+    "ಕೋಡಿಂಗ್": "coding"
+  },
+  "topic_shifts": [
+    "Introduction to the topic of 'break' and 'continue' statements in Python",
+    "Explanation of the first requirement: stopping the loop at a certain point using 'break'",
+    "Explanation of the second requirement: skipping a specific value using 'continue'",
+    "Demonstration of how to implement 'break' in a Python loop",
+    "Introduction to code blocks and indentation in Python",
+    "Explanation of how the 'if' condition and 'break' statement work in a loop",
+    "Demonstration of using strings in a list with the 'break' statement",
+    "Introduction to the 'continue' statement and its usage in skipping values in a loop",
+    "Introduction to the concept of 'continue' and 'break' in coding",
+    "Demonstration of skipping specific values using 'continue'",
+    "Application of 'continue' in a list to skip specific values",
+    "Explanation of the difference between 'break' and 'continue'"
+  ],
+  "chunks": [
+    {
+      "normalized_text": "Guys, welcome to the Python series. Today, we will learn about the 'break' and 'continue' statements in Python. Before this, we completed the topic of loops. In the loops topic, sometimes there is a requirement where, for example, you are using a 'for' loop to iterate over a list like [10, 20, 30, 40]. If you use a 'for' loop to print this list, the output will be 10, 20, 30, 40. However, there are scenarios where you might have a requirement such as stopping the code execution at 20, meaning that nothing after 20 should be printed. Alternatively, you might want to skip a specific value, for example, 40, while printing the list. These are common scenarios that we encounter while coding. [TOPIC_SHIFT] The first requirement is that the code should print only up to a certain element and stop there, without printing the rest of the elements. This is the first requirement. The second requirement is that the code should print all the elements except for a specific one, which should be skipped. To handle these two scenarios, we use the 'break' and 'continue' statements in Python. [TOPIC_SHIFT] The 'break' statement is used when you want to stop the execution of a loop at a certain point. For example, if you want to stop the loop when the value 40 is encountered, you can use the 'break' statement. When the loop reaches the value 40, it will stop executing, and no values after 40 will be printed. This is how the 'break' statement works. [TOPIC_SHIFT] On the other hand, the 'continue' statement is used when you want to skip a specific value in the loop and continue with the next iteration. For instance, if you want to skip printing the value 30, you can use the 'continue' statement. The loop will print 10, 20, and then skip 30, directly moving to print 40. So, whenever you want to skip a particular value in a loop, you use the 'continue' statement. [TOPIC_SHIFT] Now, let us see how to write this in code. Suppose I have a list [10, 20, 30, 40, 50]. First, let us check how the 'break' statement works. The 'break' statement tells the loop to stop execution at a specific point. For example, if I want to print 10, 20, and 30, but stop before printing 40, I can use the 'break' statement. To do this, I will write a 'for' loop like this: 'for x in list'. Here, each value in the list will be assigned to 'x' one by one. First, 10 will be assigned to 'x', then 20, 30, 40, and finally 50. Inside the loop, I will check each value of 'x' to see if it is equal to 40. To do this, I will write an 'if' condition: 'if x == 40'. When the value of 'x' becomes 40, I will write 'break' in the code. This will stop the loop, and the remaining values after 40 will not be printed.",
+      "topic_shifts": [
+        "Introduction to the topic of 'break' and 'continue' statements in Python",
+        "Explanation of the first requirement: stopping the loop at a certain point using 'break'",
+        "Explanation of the second requirement: skipping a specific value using 'continue'",
+        "Demonstration of how to implement 'break' in a Python loop"
+      ],
+      "technical_terms_mapped": {
+        "ಬ್ರೇಕ್": "break",
+        "ಕಂಟಿನ್ಯೂ": "continue",
+        "ಲೂಪ್": "loop",
+        "ಫಾರ್ ಲೂಪ್": "for loop",
+        "ಕೋಡ್": "code",
+        "ಸ್ಟಾಪ್": "stop",
+        "ಪ್ರಿಂಟ್": "print",
+        "ವ್ಯಾಲ್ಯೂ": "value",
+        "ಲಿಸ್ಟ್": "list",
+        "ಎಕ್ಸಿಕ್ಯೂಟ್": "execute",
+        "ಸಿನಾರಿಯೋ": "scenario",
+        "ಎಲಿಮೆಂಟ್ಸ್": "elements",
+        "ಚೆಕ್": "check",
+        "ಇಫ್": "if",
+        "ವ್ಯಾಲ್ಯೂಗಳು": "values"
+      },
+      "chunk_index": 0,
+      "time_range": "0.0s - 174.0s",
+      "original_segments": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "normalized_text": "The code will continue to print values sequentially. Remember, after writing the 'if' condition, a colon is used, which introduces an indentation. This indentation is referred to as a code block. If the condition in the code block evaluates to true, only the value 40 will be printed, and the subsequent value 50 will not be printed. However, if the condition evaluates to false, the values 10, 20, and 30 will be printed sequentially. \n\n[TOPIC_SHIFT] \nNow, if you run the code, the first value, 10, is assigned to the variable 'x'. At this point, a comparison is made: 10 == 40. Since this condition is false, the code does not break and proceeds to print the value of 'x', which is 10. Next, the value 20 is assigned to 'x', and the comparison 20 == 40 is made. Again, this condition is false, so the code prints 20. Similarly, the value 30 is assigned to 'x', and the comparison 30 == 40 is false, so 30 is printed. When the value 40 is assigned to 'x', the condition 40 == 40 evaluates to true. \n\n[TOPIC_SHIFT] \nWhen the condition is true, the 'break' statement is executed, and the code exits the loop. After this, the values 40 and 50 are not printed. Let us see this practically. \n\n[TOPIC_SHIFT] \nSo, see here, I have created a list and stored the values 10 to 50 in it. Next, I use a 'for' loop to iterate through the list, and I check if x == 40. If the condition is true, the loop breaks; otherwise, the values are printed sequentially. Let us run the code. See, the values 10, 20, and 30 are printed. When the value 40 is reached, the code breaks. I can modify this code to break based on a condition other than numbers. For example, I can replace the list with strings. Instead of numbers, I can use strings like 'apple'. Now, if I want the code to break when it encounters 'apple', I will replace 40 with 'apple' in the condition and enclose it in single or double quotes. If I run the code now, it will check each value. When it encounters 'apple', the condition will evaluate to true, and the code will break. Let us run this. See, it prints the values until 'apple' and then breaks. This is how the 'break' statement works. I hope you understand the concept of 'break'. If you do, please like this explanation. \n\n[TOPIC_SHIFT] \nNow, let us move to the 'continue' statement. The 'continue' statement allows you to skip a particular value in the loop. For example, if I want to skip the value 30 in the list, I can use the 'continue' statement. In the 'for' loop, I will write a condition: if x == 30. If this condition evaluates to true, instead of using 'break', I will use 'continue'. This will skip the value 30 and proceed with the next iteration of the loop.",
+      "topic_shifts": [
+        "Introduction to code blocks and indentation in Python",
+        "Explanation of how the 'if' condition and 'break' statement work in a loop",
+        "Demonstration of using strings in a list with the 'break' statement",
+        "Introduction to the 'continue' statement and its usage in skipping values in a loop"
+      ],
+      "technical_terms_mapped": {
+        "ಕೋಡ್": "code",
+        "ಪ್ರಿಂಟ್": "print",
+        "ಇಂಡೆಂಟೇಶನ್": "indentation",
+        "ಕೋಡ್ ಬ್ಲಾಕ್": "code block",
+        "ಟ್ರೂ": "true",
+        "ಫಾಲ್ಸ್": "false",
+        "ಬ್ರೇಕ್": "break",
+        "ಎಕ್ಸಿಕ್ಯೂಟ್": "execute",
+        "ಲಿಸ್ಟ್": "list",
+        "ಫಾರ್ ಲೂಪ್": "for loop",
+        "ವೇರಿಯೇಬಲ್": "variable",
+        "ಕಂಡೀಶನ್": "condition",
+        "ಕಂಟಿನ್ಯೂ": "continue"
+      },
+      "chunk_index": 1,
+      "time_range": "174.0s - 377.0s",
+      "original_segments": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "normalized_text": "That's it. The rest of the work remains the same. Now, if you write 'print' below, it will print the output here. So, you only need to use 'continue' at the break point, and this particular value will be skipped, while the code will print 10, 20, and 40. Let us see this in action. So, guys, now let's apply 'continue' to this same code. For example, if I want to skip 'apple' and only print 'orange' and 'mango', I will write 'apple' at this point in the code. Then, at the next break point, I will write 'continue'. Now, when I run the code, you can see the output. See, guys, 'orange' is printed, 'mango' is printed, but 'apple' is skipped. Now, if we apply the same logic to a list, I will remove 'fruits' from the list. Here, I will use a list, and in this list, if I want to skip a specific value, for example, 30, I will write x = 30 and then use 'continue'. When I run the code, you can see the output: 10, 20, 40, and 50 are printed. That's it. If you write 'break', it will print values up to the specified value and then stop. If you write 'continue', it will skip the specified value and print all the remaining values. If you liked this video, please give it a like. Did you understand? Subscribe to the channel and share this video with your friends who want to learn coding in Kannada. See you in the next video. Until then, goodbye and take care.",
+      "topic_shifts": [
+        "Introduction to the concept of 'continue' and 'break' in coding",
+        "Demonstration of skipping specific values using 'continue'",
+        "Application of 'continue' in a list to skip specific values",
+        "Explanation of the difference between 'break' and 'continue'"
+      ],
+      "technical_terms_mapped": {
+        "ಪ್ರಿಂಟ್": "print",
+        "ಬ್ರೇಕ್": "break",
+        "ಕಂಟಿನ್ಯೂ": "continue",
+        "ಲಿಸ್ಟ್": "list",
+        "ಔಟ್ಪುಟ್": "output",
+        "ಫ್ರೂಟ್ಸ್": "fruits",
+        "ರನ್": "run",
+        "ವ್ಯಾಲ್ಯೂ": "value",
+        "ಕೋಡಿಂಗ್": "coding"
+      },
+      "chunk_index": 2,
+      "time_range": "377.0s - 461.4s",
+      "original_segments": [
+        13,
+        14,
+        15
+      ]
+    }
+  ],
+  "total_chunks": 3,
+  "_audio_file": "/home/swayam/Desktop/irel_task/data/HZm1QyEGV-4/HZm1QyEGV-4.wav"
+}

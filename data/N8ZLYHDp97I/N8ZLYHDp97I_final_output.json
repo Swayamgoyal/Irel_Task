@@ -1,0 +1,269 @@
+{
+  "metadata": {
+    "video_source": "https://www.youtube.com/watch?v=N8ZLYHDp97I",
+    "transcription_model": "sarvam/saarika:v2.5",
+    "detected_language": "gu-IN",
+    "language_probability": 1.0,
+    "audio_duration_seconds": 455.62,
+    "languages_detected": [
+      "Gujarati"
+    ],
+    "code_mix_ratio": 0.0
+  },
+  "lecture_info": {
+    "topic": "Depreciation in Business Accounting",
+    "summary": "The lecture covers the concept of depreciation, focusing on the straight-line method. It includes calculating annual depreciation, determining the original cost, and applying these calculations to a specific example involving a ship.",
+    "teaching_flow": [
+      "concept_1 -> concept_2",
+      "concept_2 -> concept_3",
+      "concept_3 -> concept_4",
+      "concept_4 -> concept_5",
+      "concept_5 -> concept_6",
+      "concept_6 -> concept_7"
+    ],
+    "analogies_used": [
+      {
+        "concept": "concept_2",
+        "analogy": "Depreciation is like subtracting ₹12 each year from an asset worth ₹100."
+      }
+    ]
+  },
+  "concepts": [
+    {
+      "id": "concept_1",
+      "name": "Depreciation",
+      "aliases": [
+        "depreciation of assets"
+      ],
+      "description": "Depreciation is the reduction in the value of an asset over time, calculated using methods such as the straight-line method.",
+      "type": "core",
+      "explanation_method": "Formal definition and example",
+      "key_points": [
+        "Depreciation is calculated annually.",
+        "The straight-line method results in equal depreciation each year."
+      ],
+      "complexity_note": "N/A"
+    },
+    {
+      "id": "concept_2",
+      "name": "Straight-Line Method of Depreciation",
+      "aliases": [
+        "straight-line depreciation"
+      ],
+      "description": "A method of calculating depreciation where the asset loses the same amount of value each year.",
+      "type": "core",
+      "explanation_method": "Example and analogy",
+      "key_points": [
+        "Depreciation amount is constant each year.",
+        "Used to simplify depreciation calculations."
+      ],
+      "complexity_note": "N/A"
+    },
+    {
+      "id": "concept_3",
+      "name": "Annual Depreciation Calculation",
+      "aliases": [
+        "annual depreciation"
+      ],
+      "description": "The process of determining the depreciation expense for a single year using the straight-line method.",
+      "type": "supporting",
+      "explanation_method": "Example calculation",
+      "key_points": [
+        "Depreciation rate is applied to the original cost.",
+        "Example: 12% of ₹1,00,000 results in ₹12,000 depreciation."
+      ],
+      "complexity_note": "N/A"
+    },
+    {
+      "id": "concept_4",
+      "name": "Original Cost",
+      "aliases": [
+        "initial cost",
+        "purchase price"
+      ],
+      "description": "The initial value of an asset before any depreciation is applied.",
+      "type": "supporting",
+      "explanation_method": "Calculation example",
+      "key_points": [
+        "Original cost is necessary for calculating depreciation.",
+        "Example: Calculated as ₹15,00,000 from given depreciated value."
+      ],
+      "complexity_note": "N/A"
+    },
+    {
+      "id": "concept_5",
+      "name": "Depreciated Value",
+      "aliases": [
+        "book value",
+        "net book value"
+      ],
+      "description": "The value of an asset after accounting for depreciation.",
+      "type": "supporting",
+      "explanation_method": "Example calculation",
+      "key_points": [
+        "Depreciated value is the original cost minus accumulated depreciation.",
+        "Example: ₹7,80,000 as of January 1, 2023."
+      ],
+      "complexity_note": "N/A"
+    },
+    {
+      "id": "concept_6",
+      "name": "Depreciation Rate",
+      "aliases": [
+        "depreciation percentage"
+      ],
+      "description": "The percentage of the asset's value that is depreciated each year.",
+      "type": "supporting",
+      "explanation_method": "Example",
+      "key_points": [
+        "12% per annum in the given example.",
+        "Used to calculate annual depreciation."
+      ],
+      "complexity_note": "N/A"
+    },
+    {
+      "id": "concept_7",
+      "name": "Time Period for Depreciation",
+      "aliases": [
+        "depreciation period",
+        "useful life"
+      ],
+      "description": "The duration over which depreciation is calculated.",
+      "type": "supporting",
+      "explanation_method": "Example",
+      "key_points": [
+        "Depreciation calculated for specific periods, e.g., 146 days.",
+        "Pro-rated based on the number of days in a year."
+      ],
+      "complexity_note": "N/A"
+    }
+  ],
+  "prerequisites": {
+    "dependencies": [
+      {
+        "from_concept": "concept_1",
+        "to_concept": "concept_2",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "The lecture begins by explaining depreciation and then introduces the straight-line method as a specific way to calculate it, indicating that understanding depreciation is necessary before learning the straight-line method."
+      },
+      {
+        "from_concept": "concept_2",
+        "to_concept": "concept_3",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "The lecture explains the straight-line method before detailing how to calculate annual depreciation using this method, showing that understanding the method is required before performing the calculation."
+      },
+      {
+        "from_concept": "concept_3",
+        "to_concept": "concept_4",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "The lecture indicates that the original cost is needed to calculate annual depreciation, implying that understanding the original cost is necessary before performing the calculation."
+      },
+      {
+        "from_concept": "concept_4",
+        "to_concept": "concept_5",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "The lecture explains that the depreciated value is determined after accounting for depreciation from the original cost, indicating that understanding the original cost is necessary before determining the depreciated value."
+      },
+      {
+        "from_concept": "concept_5",
+        "to_concept": "concept_6",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "The lecture discusses calculating the depreciation rate after determining the depreciated value, suggesting that understanding the depreciated value is necessary before calculating the depreciation rate."
+      },
+      {
+        "from_concept": "concept_6",
+        "to_concept": "concept_7",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "The lecture explains the time period for depreciation after discussing the depreciation rate, indicating that understanding the depreciation rate is necessary before considering the time period for depreciation."
+      }
+    ],
+    "learning_path": [
+      "concept_1",
+      "concept_2",
+      "concept_3",
+      "concept_4",
+      "concept_5",
+      "concept_6",
+      "concept_7"
+    ],
+    "concept_clusters": [
+      {
+        "cluster_name": "Depreciation Calculation Process",
+        "concept_ids": [
+          "concept_1",
+          "concept_2",
+          "concept_3",
+          "concept_4",
+          "concept_5",
+          "concept_6",
+          "concept_7"
+        ],
+        "description": "These concepts are grouped together as they form a sequential process for understanding and calculating depreciation using the straight-line method."
+      }
+    ],
+    "root_concepts": [
+      "concept_1"
+    ],
+    "leaf_concepts": [
+      "concept_7"
+    ]
+  },
+  "linguistic_analysis": {
+    "original_language_distribution": {
+      "Gujarati": 1.0
+    },
+    "technical_terms_mapped": {
+      "ઘસારો": "depreciation",
+      "સીધી લીટીની પદ્ધતિ": "straight-line method",
+      "મૂળ કિંમત": "original cost",
+      "મિલકતની કિંમત": "asset's value",
+      "ઘસારા બાદની કિંમત": "depreciation value",
+      "સફર ખાતે ફાઈલ": "travel account",
+      "ઘસારો ગણવાનો": "calculate depreciation",
+      "ઘસારો કરીએ": "calculate depreciation",
+      "ઘસારો ફાળવવાનો": "carried forward depreciation"
+    },
+    "topic_shifts": [
+      "Introduction to the topic of depreciation in business accounting.",
+      "Explanation of the straight-line method of depreciation.",
+      "Calculation of annual depreciation using the straight-line method.",
+      "Application of the straight-line method to a specific example involving a ship.",
+      "Calculating Original Cost",
+      "Recording the Original Cost",
+      "Explanation and Detailing",
+      "Practice and Understanding"
+    ]
+  },
+  "graph_metrics": {
+    "total_concepts": 7,
+    "total_dependencies": 6,
+    "is_dag": true,
+    "graph_density": 0.1429,
+    "longest_path_length": 6,
+    "longest_path": [
+      "concept_1",
+      "concept_2",
+      "concept_3",
+      "concept_4",
+      "concept_5",
+      "concept_6",
+      "concept_7"
+    ],
+    "topological_order": [
+      "concept_1",
+      "concept_2",
+      "concept_3",
+      "concept_4",
+      "concept_5",
+      "concept_6",
+      "concept_7"
+    ]
+  },
+  "normalized_transcript": "Hello students, I am Iron Rajguru, and today we will be looking at Business Accounting Unit 5, which deals with the concept of depreciation. Specifically, we will examine a problem from the 2024 exam. This problem involves a simple calculation of depreciation. What is done is that depreciation is calculated using the straight-line method at a rate of 12% per annum on the original cost of the ship. The ship was purchased on January 1, 2019, and as of January 1, 2023, the ship's depreciated value was ₹7,80,000. The period of use is 146 days, so we need to calculate the depreciation for the voyage.\n\nLet's consider the given data and understand that we need to calculate depreciation. First, we observe that depreciation is calculated using the straight-line method. What does the straight-line method mean? It means that the depreciation amount is the same each year.\n\nIs that correct? Let's assume that the asset's value is ₹100. What is the original cost? ₹100. We don't have the original cost given, so we need to determine it first before calculating depreciation. This is because we can only calculate depreciation using the straight-line method on the original cost.\n\nIs that correct? Let's proceed. So, initially, the asset's value is ₹100, and we calculate 12% depreciation on it each year. 12% per annum means the same depreciation amount each year. For example, if we have an asset worth ₹1,00,000, then each year we need to account for ₹12,000 as depreciation. We continue this until all the money is depleted.\n\nThis method involves adding ₹12,000 each year using the straight-line method. Is that correct? Now, let's consider how long we have been calculating depreciation for the ship. We initially purchased it on January 1, 2019, so the first depreciation will be calculated by December 31, 2019. Is that correct? Then we calculate for 2020, is that correct? Then we calculate by December 31, 2021. Then we calculate for 2022. Is that correct, and on January 1, 2023, we are given the remaining value. Then we calculate for 2023, we need to calculate, is that correct. We have not calculated this yet. Is that correct? So, if we consider the years, 19, 20, 21, and 22, then four years of depreciation have passed. Is that correct?\n\nSo, if we start with ₹100, then 12% annual depreciation is ₹12. Is that correct? So, we calculate ₹12 each year as depreciation. Is that correct? So, ₹12 how many times? Since we have calculated depreciation for four years, each time we subtract ₹12 from the asset's value. We subtract from the asset's value.\n\nSo, 12 * 1 = 12, 12 * 2 = 24, 12 * 3 = 36, and 12 * 4 = 48. Therefore, the total amount we will have subtracted is ₹48. We subtract this from the original cost. So, from the original cost of ₹100, subtracting ₹48 means that the current depreciated value is ₹52.\n\nLet's continue from where we left off. The remaining balance after depreciation is ₹52. Now, if the balance as of 1/1/2023 is ₹7,80,000, then we have ₹52 as the remaining balance. Therefore, ₹52 is the remaining balance out of ₹7,80,000.\n\n[TOPIC_SHIFT: Calculating Original Cost]\n\nNow, we need to find the original cost. What was the original cost? It was ₹100. Is that correct? So, the original cost was ₹100. How much would ₹100 amount to? It would be 7,80,000 multiplied by 100 divided by 52. Let's calculate this: 7,80,000 multiplied by 100 divided by 52. This results in ₹15,00,000. So, ₹15,00,000 is the original cost.\n\n[TOPIC_SHIFT: Recording the Original Cost]\n\nHere, we will record the original cost as ₹15,00,000. The previous task is complete. Now, let's move on to the next task: calculating the percentage depreciation on the original cost. The depreciation rate is 12%, and we have been given the time period. Here, we will record the depreciation in the travel account.\n\n[TOPIC_SHIFT: Explanation and Detailing]\n\nWe need to explain and detail the calculation. For example, if the depreciation is for four years, it is correct. One year's depreciation is ₹12. So, for four years, we add 12 + 12 + 12 + 12, which equals ₹48. Is that correct? This method is better. Let's calculate the depreciation in the travel account. The original cost was ₹15,00,000. Is that correct? Here, you should write that the original cost is multiplied by 12% for the given time period. The time period is 146 days, which we divide by 365 because it is not a leap year. Therefore, the depreciation rate is 12% for 146 out of 365 days. This results in 15,00,000 multiplied by 12% and then by 146/365, which equals ₹72,000. So, the depreciation to be carried forward in the travel account is ₹72,000. Is that correct?\n\n[TOPIC_SHIFT: Practice and Understanding]\n\nThe question is straightforward, and it's important to practice even small sums. This way, if a small sum comes up, you won't be stuck. If you practice larger sums, smaller sums will automatically come up. Even though this is a small point, it might be asked as a question. If you have practiced, you won't be stuck. However, if there is any doubt, please ask in the comment box. If you liked the video, please like it, share it with your friends, and subscribe to the channel so that future videos reach you easily. Thank you all for the best wishes for the exams.\n\n"
+}

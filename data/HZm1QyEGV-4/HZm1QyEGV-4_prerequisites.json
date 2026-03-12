@@ -1,0 +1,119 @@
+{
+  "dependencies": [
+    {
+      "from_concept": "concept_3",
+      "to_concept": "concept_1",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The 'break' statement is explained in the context of a 'for' loop, and the lecture explicitly demonstrates its usage within a 'for' loop. Understanding 'for loops' is necessary to understand how 'break' operates."
+    },
+    {
+      "from_concept": "concept_3",
+      "to_concept": "concept_2",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The 'continue' statement is explained in the context of a 'for' loop, and the lecture explicitly demonstrates its usage within a 'for' loop. Understanding 'for loops' is necessary to understand how 'continue' operates."
+    },
+    {
+      "from_concept": "concept_5",
+      "to_concept": "concept_1",
+      "relationship_type": "USES",
+      "strength": 0.9,
+      "justification": "The 'break' statement is demonstrated using a list as the iterable in a 'for' loop. The lecture explicitly uses lists to explain how 'break' works."
+    },
+    {
+      "from_concept": "concept_5",
+      "to_concept": "concept_2",
+      "relationship_type": "USES",
+      "strength": 0.9,
+      "justification": "The 'continue' statement is demonstrated using a list as the iterable in a 'for' loop. The lecture explicitly uses lists to explain how 'continue' works."
+    },
+    {
+      "from_concept": "concept_4",
+      "to_concept": "concept_1",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The 'break' statement is used in conjunction with an 'if' condition to determine when to terminate the loop. The lecture explicitly explains that an 'if' condition is required to use 'break'."
+    },
+    {
+      "from_concept": "concept_4",
+      "to_concept": "concept_2",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The 'continue' statement is used in conjunction with an 'if' condition to determine when to skip an iteration. The lecture explicitly explains that an 'if' condition is required to use 'continue'."
+    },
+    {
+      "from_concept": "concept_6",
+      "to_concept": "concept_4",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture explains that an 'if' condition requires a code block to execute specific actions when the condition is true. Understanding code blocks is necessary to correctly implement 'if' conditions."
+    },
+    {
+      "from_concept": "concept_7",
+      "to_concept": "concept_1",
+      "relationship_type": "USES",
+      "strength": 0.8,
+      "justification": "The lecture demonstrates the use of the 'break' statement with strings as an example, showing how the loop can break when encountering a specific string value."
+    },
+    {
+      "from_concept": "concept_7",
+      "to_concept": "concept_2",
+      "relationship_type": "USES",
+      "strength": 0.8,
+      "justification": "The lecture demonstrates the use of the 'continue' statement with strings as an example, showing how the loop can skip a specific string value."
+    }
+  ],
+  "learning_path": [
+    "concept_3",
+    "concept_5",
+    "concept_6",
+    "concept_4",
+    "concept_7",
+    "concept_1",
+    "concept_2"
+  ],
+  "concept_clusters": [
+    {
+      "cluster_name": "Loop Control Statements",
+      "concept_ids": [
+        "concept_1",
+        "concept_2"
+      ],
+      "description": "These concepts are control statements used to manage the flow of loops in Python."
+    },
+    {
+      "cluster_name": "Loop and Iteration Basics",
+      "concept_ids": [
+        "concept_3",
+        "concept_5"
+      ],
+      "description": "These concepts cover the foundational elements of loops and iterables, which are necessary to understand loop control statements."
+    },
+    {
+      "cluster_name": "Conditional Logic and Code Structure",
+      "concept_ids": [
+        "concept_4",
+        "concept_6"
+      ],
+      "description": "These concepts focus on conditional logic and the structure of Python code, which are prerequisites for implementing control statements like 'break' and 'continue'."
+    },
+    {
+      "cluster_name": "Data Types for Iteration",
+      "concept_ids": [
+        "concept_7"
+      ],
+      "description": "This concept introduces strings, which are used as examples in the lecture to demonstrate the functionality of 'break' and 'continue'."
+    }
+  ],
+  "root_concepts": [
+    "concept_3",
+    "concept_5",
+    "concept_6",
+    "concept_7"
+  ],
+  "leaf_concepts": [
+    "concept_1",
+    "concept_2"
+  ]
+}

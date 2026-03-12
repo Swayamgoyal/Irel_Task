@@ -1,0 +1,76 @@
+{
+  "dependencies": [
+    {
+      "from_concept": "concept_1",
+      "to_concept": "concept_2",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture begins by explaining depreciation and then introduces the straight-line method as a specific way to calculate it, indicating that understanding depreciation is necessary before learning the straight-line method."
+    },
+    {
+      "from_concept": "concept_2",
+      "to_concept": "concept_3",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture explains the straight-line method before detailing how to calculate annual depreciation using this method, showing that understanding the method is required before performing the calculation."
+    },
+    {
+      "from_concept": "concept_3",
+      "to_concept": "concept_4",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture indicates that the original cost is needed to calculate annual depreciation, implying that understanding the original cost is necessary before performing the calculation."
+    },
+    {
+      "from_concept": "concept_4",
+      "to_concept": "concept_5",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture explains that the depreciated value is determined after accounting for depreciation from the original cost, indicating that understanding the original cost is necessary before determining the depreciated value."
+    },
+    {
+      "from_concept": "concept_5",
+      "to_concept": "concept_6",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture discusses calculating the depreciation rate after determining the depreciated value, suggesting that understanding the depreciated value is necessary before calculating the depreciation rate."
+    },
+    {
+      "from_concept": "concept_6",
+      "to_concept": "concept_7",
+      "relationship_type": "HARD_PREREQUISITE",
+      "strength": 0.9,
+      "justification": "The lecture explains the time period for depreciation after discussing the depreciation rate, indicating that understanding the depreciation rate is necessary before considering the time period for depreciation."
+    }
+  ],
+  "learning_path": [
+    "concept_1",
+    "concept_2",
+    "concept_3",
+    "concept_4",
+    "concept_5",
+    "concept_6",
+    "concept_7"
+  ],
+  "concept_clusters": [
+    {
+      "cluster_name": "Depreciation Calculation Process",
+      "concept_ids": [
+        "concept_1",
+        "concept_2",
+        "concept_3",
+        "concept_4",
+        "concept_5",
+        "concept_6",
+        "concept_7"
+      ],
+      "description": "These concepts are grouped together as they form a sequential process for understanding and calculating depreciation using the straight-line method."
+    }
+  ],
+  "root_concepts": [
+    "concept_1"
+  ],
+  "leaf_concepts": [
+    "concept_7"
+  ]
+}

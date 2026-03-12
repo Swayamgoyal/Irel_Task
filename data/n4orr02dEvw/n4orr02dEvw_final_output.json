@@ -1,0 +1,506 @@
+{
+  "metadata": {
+    "video_source": "https://www.youtube.com/watch?v=n4orr02dEvw",
+    "transcription_model": "sarvam/saarika:v2.5",
+    "detected_language": "te-IN",
+    "language_probability": 1.0,
+    "audio_duration_seconds": 810.42,
+    "languages_detected": [
+      "Telugu",
+      "English"
+    ],
+    "code_mix_ratio": 0.007
+  },
+  "lecture_info": {
+    "topic": "Lists in Python",
+    "summary": "The lecture provides a comprehensive overview of Python lists, including their definition, properties, indexing, slicing, and various methods for CRUD operations. Both theoretical and practical aspects are covered, with examples and explanations for each concept.",
+    "teaching_flow": [
+      "concept_1 -> concept_2",
+      "concept_2 -> concept_3",
+      "concept_3 -> concept_4",
+      "concept_4 -> concept_5",
+      "concept_5 -> concept_6",
+      "concept_6 -> concept_7",
+      "concept_7 -> concept_8",
+      "concept_8 -> concept_9",
+      "concept_9 -> concept_10",
+      "concept_10 -> concept_11",
+      "concept_11 -> concept_12",
+      "concept_12 -> concept_13"
+    ],
+    "analogies_used": [
+      {
+        "concept": "concept_3",
+        "analogy": "Indexing is compared to the index in a book, where you use the index to find specific pages, similar to how you use indices to find specific elements in a list."
+      }
+    ]
+  },
+  "concepts": [
+    {
+      "id": "concept_1",
+      "name": "List",
+      "aliases": [
+        "Python list",
+        "list data type"
+      ],
+      "description": "A list is a data type in Python that can store multiple elements, including integers, strings, floats, booleans, and other lists.",
+      "type": "core",
+      "explanation_method": "Formal definition and examples",
+      "key_points": [
+        "Defined using square brackets",
+        "Can store different types of elements",
+        "Allows duplicates"
+      ],
+      "complexity_note": null
+    },
+    {
+      "id": "concept_2",
+      "name": "Mutability",
+      "aliases": [
+        "mutable data type"
+      ],
+      "description": "Mutability refers to the ability to modify a list after it has been created, including adding, deleting, or changing elements.",
+      "type": "supporting",
+      "explanation_method": "Formal definition and examples",
+      "key_points": [
+        "Lists are mutable",
+        "Can perform CRUD operations"
+      ],
+      "complexity_note": null
+    },
+    {
+      "id": "concept_3",
+      "name": "Indexing",
+      "aliases": [
+        "list indexing",
+        "forward indexing",
+        "negative indexing"
+      ],
+      "description": "Indexing is a way to access elements in a list using their position. Forward indexing starts from 0, while negative indexing starts from -1.",
+      "type": "core",
+      "explanation_method": "Analogy (index in a book) and examples",
+      "key_points": [
+        "Forward indexing starts at 0",
+        "Negative indexing starts at -1",
+        "Used to access specific elements"
+      ],
+      "complexity_note": null
+    },
+    {
+      "id": "concept_4",
+      "name": "Slicing",
+      "aliases": [
+        "list slicing"
+      ],
+      "description": "Slicing is the process of dividing a list into parts using start, stop, and step values.",
+      "type": "core",
+      "explanation_method": "Examples and practical demonstration",
+      "key_points": [
+        "Requires start, stop, and step values",
+        "Can skip elements using step",
+        "Works with both forward and negative indexing"
+      ],
+      "complexity_note": null
+    },
+    {
+      "id": "concept_5",
+      "name": "Append Method",
+      "aliases": [
+        "append"
+      ],
+      "description": "The append method adds an element to the end of a list.",
+      "type": "core",
+      "explanation_method": "Example with code demonstration",
+      "key_points": [
+        "Adds a single element to the end of the list"
+      ],
+      "complexity_note": "Time complexity: O(1)"
+    },
+    {
+      "id": "concept_6",
+      "name": "Extend Method",
+      "aliases": [
+        "extend"
+      ],
+      "description": "The extend method adds multiple elements (bulk data) to the end of a list.",
+      "type": "core",
+      "explanation_method": "Example with code demonstration",
+      "key_points": [
+        "Adds bulk data to the end of the list"
+      ],
+      "complexity_note": "Time complexity: O(k), where k is the number of elements added"
+    },
+    {
+      "id": "concept_7",
+      "name": "Count Method",
+      "aliases": [
+        "count"
+      ],
+      "description": "The count method counts the number of occurrences of a specific element in a list.",
+      "type": "core",
+      "explanation_method": "Example with code demonstration",
+      "key_points": [
+        "Counts occurrences of a specific element"
+      ],
+      "complexity_note": "Time complexity: O(n), where n is the size of the list"
+    },
+    {
+      "id": "concept_8",
+      "name": "Remove Method",
+      "aliases": [
+        "remove"
+      ],
+      "description": "The remove method removes the first occurrence of a specified element from the list.",
+      "type": "core",
+      "explanation_method": "Example with code demonstration",
+      "key_points": [
+        "Removes a specific element by value"
+      ],
+      "complexity_note": "Time complexity: O(n), where n is the size of the list"
+    },
+    {
+      "id": "concept_9",
+      "name": "Pop Method",
+      "aliases": [
+        "pop"
+      ],
+      "description": "The pop method removes an element from the list based on its index.",
+      "type": "core",
+      "explanation_method": "Example with code demonstration",
+      "key_points": [
+        "Removes an element by index",
+        "Returns the removed element"
+      ],
+      "complexity_note": "Time complexity: O(n) for worst-case (shifting elements)"
+    },
+    {
+      "id": "concept_10",
+      "name": "Index Method",
+      "aliases": [
+        "index"
+      ],
+      "description": "The index method finds the position of a specified element in the list.",
+      "type": "core",
+      "explanation_method": "Example with code demonstration",
+      "key_points": [
+        "Returns the index of the first occurrence of an element"
+      ],
+      "complexity_note": "Time complexity: O(n), where n is the size of the list"
+    },
+    {
+      "id": "concept_11",
+      "name": "Insert Method",
+      "aliases": [
+        "insert"
+      ],
+      "description": "The insert method adds an element at a specific position in the list.",
+      "type": "core",
+      "explanation_method": "Example with code demonstration",
+      "key_points": [
+        "Adds an element at a specified index"
+      ],
+      "complexity_note": "Time complexity: O(n) for worst-case (shifting elements)"
+    },
+    {
+      "id": "concept_12",
+      "name": "For Loop",
+      "aliases": [
+        "looping through a list"
+      ],
+      "description": "A for loop is used to iterate through each element in a list.",
+      "type": "supporting",
+      "explanation_method": "Example with code demonstration",
+      "key_points": [
+        "Iterates through all elements in a list"
+      ],
+      "complexity_note": "Time complexity: O(n), where n is the size of the list"
+    },
+    {
+      "id": "concept_13",
+      "name": "CRUD Operations",
+      "aliases": [
+        "Create, Read, Update, Delete"
+      ],
+      "description": "CRUD operations refer to the basic operations that can be performed on a list using various methods.",
+      "type": "supporting",
+      "explanation_method": "Mentioned as a summary of list methods",
+      "key_points": [
+        "Includes append, extend, count, insert, pop, remove, and index methods"
+      ],
+      "complexity_note": null
+    }
+  ],
+  "prerequisites": {
+    "dependencies": [
+      {
+        "from_concept": "concept_1",
+        "to_concept": "concept_2",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "The lecture explicitly introduces the concept of a list before discussing its mutability. Understanding what a list is (concept_1) is necessary to understand how it can be modified (concept_2)."
+      },
+      {
+        "from_concept": "concept_2",
+        "to_concept": "concept_3",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "The lecture discusses mutability (concept_2) before introducing indexing (concept_3). Understanding that lists are mutable helps in understanding how elements can be accessed and modified using indexing."
+      },
+      {
+        "from_concept": "concept_3",
+        "to_concept": "concept_4",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "The lecture explicitly states that slicing (concept_4) builds upon indexing (concept_3), as slicing requires knowledge of how to access elements using indices."
+      },
+      {
+        "from_concept": "concept_4",
+        "to_concept": "concept_5",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "The lecture introduces slicing (concept_4) before discussing the append method (concept_5). Slicing is a fundamental operation that helps in understanding how to manipulate lists, which is necessary before learning specific methods like append."
+      },
+      {
+        "from_concept": "concept_5",
+        "to_concept": "concept_6",
+        "relationship_type": "BUILDS_UPON",
+        "strength": 0.9,
+        "justification": "The extend method (concept_6) builds upon the append method (concept_5) as both involve adding elements to a list, but extend allows adding multiple elements at once."
+      },
+      {
+        "from_concept": "concept_6",
+        "to_concept": "concept_7",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "The lecture introduces the extend method (concept_6) before discussing the count method (concept_7). Understanding how to add elements to a list is necessary before counting their occurrences."
+      },
+      {
+        "from_concept": "concept_7",
+        "to_concept": "concept_8",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "The lecture introduces the count method (concept_7) before discussing the remove method (concept_8). Counting occurrences of elements is a logical precursor to removing specific elements."
+      },
+      {
+        "from_concept": "concept_8",
+        "to_concept": "concept_9",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "The lecture introduces the remove method (concept_8) before discussing the pop method (concept_9). Removing elements by value (remove) is a simpler operation compared to removing elements by index (pop)."
+      },
+      {
+        "from_concept": "concept_9",
+        "to_concept": "concept_10",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "The lecture introduces the pop method (concept_9) before discussing the index method (concept_10). Understanding how to remove elements by index is necessary before learning how to find the index of elements."
+      },
+      {
+        "from_concept": "concept_10",
+        "to_concept": "concept_11",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "The lecture introduces the index method (concept_10) before discussing the insert method (concept_11). Finding the index of an element is a prerequisite for inserting an element at a specific position."
+      },
+      {
+        "from_concept": "concept_11",
+        "to_concept": "concept_12",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "The lecture introduces the insert method (concept_11) before discussing the for loop (concept_12). Understanding how to manipulate lists with methods like insert is necessary before iterating through them with a for loop."
+      },
+      {
+        "from_concept": "concept_12",
+        "to_concept": "concept_13",
+        "relationship_type": "HARD_PREREQUISITE",
+        "strength": 0.9,
+        "justification": "The lecture introduces the for loop (concept_12) before discussing CRUD operations (concept_13). Iterating through a list is a fundamental skill required to perform CRUD operations."
+      }
+    ],
+    "learning_path": [
+      "concept_1",
+      "concept_2",
+      "concept_3",
+      "concept_4",
+      "concept_5",
+      "concept_6",
+      "concept_7",
+      "concept_8",
+      "concept_9",
+      "concept_10",
+      "concept_11",
+      "concept_12",
+      "concept_13"
+    ],
+    "concept_clusters": [
+      {
+        "cluster_name": "List Basics",
+        "concept_ids": [
+          "concept_1",
+          "concept_2",
+          "concept_3",
+          "concept_4"
+        ],
+        "description": "These concepts cover the foundational understanding of lists, including their definition, mutability, indexing, and slicing."
+      },
+      {
+        "cluster_name": "List Methods",
+        "concept_ids": [
+          "concept_5",
+          "concept_6",
+          "concept_7",
+          "concept_8",
+          "concept_9",
+          "concept_10",
+          "concept_11"
+        ],
+        "description": "These concepts focus on the various methods available for manipulating lists, such as adding, removing, and accessing elements."
+      },
+      {
+        "cluster_name": "Advanced List Operations",
+        "concept_ids": [
+          "concept_12",
+          "concept_13"
+        ],
+        "description": "These concepts cover advanced operations on lists, including iteration and performing CRUD operations."
+      }
+    ],
+    "root_concepts": [
+      "concept_1"
+    ],
+    "leaf_concepts": [
+      "concept_13"
+    ]
+  },
+  "linguistic_analysis": {
+    "original_language_distribution": {
+      "Telugu": 0.993,
+      "English": 0.007
+    },
+    "technical_terms_mapped": {
+      "లిస్ట్": "list",
+      "డేటా టైపు": "data type",
+      "స్క్వేర్ బ్రాకెట్స్": "square brackets",
+      "మ్యూటబుల్": "mutable",
+      "డూప్లికేట్స్": "duplicates",
+      "ఇండెక్సింగ్": "indexing",
+      "ఫార్వర్డ్ ఇండెక్సింగ్": "forward indexing",
+      "నెగటివ్ ఇండెక్సింగ్": "negative indexing",
+      "బ్యాక్ వర్డ్ ఇండెక్సింగ్": "backward indexing",
+      "ఇంటెజర్": "integer",
+      "ఫ్లోట్": "float",
+      "స్ట్రింగ్": "string",
+      "బూలియన్": "boolean",
+      "కాంప్లెక్స్": "complex",
+      "ఎండ్": "end",
+      "నెగిటివ్ ఇండెక్సింగ్": "negative indexing",
+      "లాస్ట్ యొక్క ఇండెక్స్": "last index",
+      "స్లైసింగ్": "slicing",
+      "స్టార్ట్": "start",
+      "స్టాప్": "stop",
+      "స్కిప్": "step",
+      "మెథడ్స్": "methods",
+      "అప్ ఎండ్": "append",
+      "ఎక్స్టెండ్": "extend",
+      "రిమూవ్": "remove",
+      "పాప్": "pop",
+      "కౌంట్": "count",
+      "ఇండెక్స్": "index",
+      "క్రెడా ఆపరేషన్స్": "CRUD operations",
+      "క్రియేట్": "create",
+      "రీడ్": "read",
+      "అప్డేట్": "update",
+      "డిలీట్": "delete",
+      "పాజిటివ్ ఇండెక్స్": "positive index",
+      "నెగటివ్ ఇండెక్స్": "negative index",
+      "నెగిటివ్ ఇండెక్స్": "negative index",
+      "అప్పెండ్": "append",
+      "ఇన్సర్ట్": "insert",
+      "బల్క్ డేటా": "bulk data",
+      "ఎలిమెంట్స్": "elements",
+      "ప్రింట్": "print",
+      "రన్": "run",
+      "అపెండ్": "append",
+      "లూప్": "loop",
+      "యాడ్ చేయాలి": "add",
+      "యాడ్ చేస్తాం": "append",
+      "బర్గ్ లో యాడ్ చేయాలి": "insert",
+      "ఎక్స్టెండ్ యూస్ చేస్తాం": "extend",
+      "కౌంట్ చేయడానికి": "count",
+      "కౌంట్ యూస్ చేస్తాం": "count",
+      "పర్టికులర్ ఎలిమెంట్": "specific element",
+      "డిజిటల్ కి సంబంధించిన టోటల్ ఇన్ఫర్మేషన్": "complete information related to digital operations"
+    },
+    "topic_shifts": [
+      "Introduction to the topic of lists in Python",
+      "Defining a list in Python using square brackets",
+      "Explanation of mutability in lists",
+      "Lists storing different types of elements",
+      "Allowing duplicates in lists",
+      "Indexing in lists, including forward and negative indexing",
+      "Introduction to indexing and its types (forward and negative indexing)",
+      "Explanation of slicing and its components (start, stop, step)",
+      "Introduction to Python list methods for CRUD operations",
+      "Conclusion of the theoretical discussion on lists",
+      "Introduction and overview of the video",
+      "Introduction to the list data structure and its definition",
+      "Checking the type of a list and defining an empty list",
+      "Adding elements to a list and printing it",
+      "Explaining indexing in lists, including positive and negative indexing",
+      "Explaining slicing in lists with start, stop, and step values",
+      "Introduction to slicing and indexing in lists",
+      "Discussion of list methods: append, extend, count, insert, pop, remove",
+      "Explanation of the append method with an example",
+      "Explanation of the extend method with an example",
+      "Explanation of the count method with an example",
+      "Introduction to the `remove` and `pop` methods",
+      "Explanation of the `pop` method and its functionality",
+      "Discussion of the `index` method to find the position of an element",
+      "Using a `for` loop to iterate through a list",
+      "Revision of list methods and introduction to the `insert` method",
+      "Explanation of adding elements to a list using 'append' and 'insert' methods",
+      "Explanation of counting elements using the 'count' method",
+      "Explanation of removing elements using 'pop' and 'remove' methods",
+      "Explanation of finding the index of an element using the 'index' method",
+      "Conclusion and request for engagement (like, share, subscribe)"
+    ]
+  },
+  "graph_metrics": {
+    "total_concepts": 13,
+    "total_dependencies": 12,
+    "is_dag": true,
+    "graph_density": 0.0769,
+    "longest_path_length": 12,
+    "longest_path": [
+      "concept_1",
+      "concept_2",
+      "concept_3",
+      "concept_4",
+      "concept_5",
+      "concept_6",
+      "concept_7",
+      "concept_8",
+      "concept_9",
+      "concept_10",
+      "concept_11",
+      "concept_12",
+      "concept_13"
+    ],
+    "topological_order": [
+      "concept_1",
+      "concept_2",
+      "concept_3",
+      "concept_4",
+      "concept_5",
+      "concept_6",
+      "concept_7",
+      "concept_8",
+      "concept_9",
+      "concept_10",
+      "concept_11",
+      "concept_12",
+      "concept_13"
+    ]
+  },
+  "normalized_transcript": "Hello everyone, welcome to the Python Life YouTube channel. Today, our topic is 'Lists in Python.' A list is a data type, and we will discuss it in detail today. By the end of this video, you will understand what a list is, what list slicing is, and the various methods associated with lists. First, I will explain the theory, and then I will demonstrate it practically. \n\n[TOPIC_SHIFT] \n\nLet us begin with the basics of a list. As I mentioned earlier, a list is a data type. How do we define a list in Python? In Python, we use square brackets to define a list. By using square brackets, we can easily create a list. \n\n[TOPIC_SHIFT] \n\nNext, let us discuss the mutability of lists. A list is a mutable data type. What does mutable mean? It means that once we have created a list with certain elements, we can modify it. By modifying, I mean we can add elements, delete elements, or process the data in the list. This is why we call it mutable. Mutable simply means changeable. Please remember this. \n\n[TOPIC_SHIFT] \n\nAdditionally, a list can store different types of elements. For example, a list can contain integers, floats, other lists, strings, booleans, or even complex numbers. It can store any type of data in an organized manner. \n\n[TOPIC_SHIFT] \n\nNow, let us look at duplicates in a list. A list allows duplicates. For example, if you have multiple occurrences of the number 1 in a list, all of them will be stored and printed. Duplicates are allowed in a list. \n\n[TOPIC_SHIFT] \n\nNext, let us discuss indexing in a list. Indexing is a way to access elements in a list. Think of the index in a book. If you want to find the first page, you look at the first index or the zero index. Similarly, in Python, indexing works in the same way. There are two types of indexing: forward indexing and negative indexing. Forward indexing starts from 0 and goes up to n-1, where n is the total number of elements in the list. For example, if you have 10 elements in a list, forward indexing will start from 0 and end at 9. Negative indexing, also known as backward indexing, allows you to access elements starting from the end of the list, with the last element being indexed as -1, the second last as -2, and so on.\n\nIn a list with 10 elements, the last index in forward indexing is always n - 1. For example, if n = 10, then n - 1 = 9, which means the last index is 9. Is that clear? Now, in negative indexing, it starts from -1 and goes up to -n. Please remember this. Indexing is simply a way to access an element in a specific location. Think of it as a location or a path to access an element. Is that clear? For example, the element '1' is at index 0, the element '2.2' is at index 1, and the element 'True' is at index 2. Is that clear? If we want to access the element 'True', we can do so by using its index, which is 2. By printing the element at index 2, we can neatly access it. Is that clear? So, we use the index to access the element. This is how indexing works. [TOPIC_SHIFT] Next, using indexing, we can also implement slicing. Slicing means dividing a list into parts. When we divide a list into parts, we call it slicing. For slicing, you need to remember three things: start, stop, and step. For example, let’s say we want to start at index 0 and go up to index 5, skipping every second element. You can set these conditions and perform slicing on any data type where indexing is possible. This allows you to divide the data into parts. Always remember the three components of slicing: start, stop, and step. I will demonstrate this practically, showing you how to define a list and perform slicing using these components. [TOPIC_SHIFT] Additionally, there are several methods available in Python for lists, such as append, extend, remove, pop, count, and index. These methods allow you to perform CRUD operations on a list. CRUD stands for Create, Read, Update, and Delete. Using these methods, you can perform various operations on a list. [TOPIC_SHIFT] So, this concludes the theoretical part related to lists. I will also demonstrate these concepts practically.\n\nLet us explore and understand all the outputs and their functionalities. If you like this video, please give it a like. Similarly, if you are interested in learning Python with me, I have provided the course link in the comments section. You can watch the free demo and join only if you like it. Thank you.\n\n[TOPIC_SHIFT]\n\nHello and welcome to the Python Live Video Channel. Today’s topic is related to lists. You have already gone through the theory part of lists, so now we will discuss the practical aspects of the list topic. A list is defined using square brackets, as we have seen earlier. For example, a list is defined using square brackets like this.\n\n[TOPIC_SHIFT]\n\nNow, if we check the type of this object using the `print(type())` function, it will show that it is a list. This is an empty list. Okay? So, this is how you can check and define a list.\n\n[TOPIC_SHIFT]\n\nNext, I will show you how to pass elements into a list. For example, `l = [1, 'something']`. Here, all these are elements of the list. You can include different types of elements in a list. For example, you can add integers, strings, or even other lists as elements. When you print this list, it will display the list as it is. Let me run this code and show you. See, when I run it, the list is displayed. Okay? This is how it works.\n\n[TOPIC_SHIFT]\n\nAdditionally, I mentioned that indexing is also possible with lists. For example, if I print the element at index 3, it will return the fourth element because indexing starts from 0. So, index 0 corresponds to the first element, index 1 to the second, and so on. If I print the element at index 3, the output will be the fourth element. This is called positive indexing. Now, if I use negative indexing, such as `-1`, it will return the last element of the list. For example, if the last element is 'Kiran', the output will be 'Kiran'. Let me run this and show you. See, the output is 'Kiran' using negative indexing.\n\n[TOPIC_SHIFT]\n\nI also mentioned that slicing is possible with lists. If indexing is possible, slicing is also possible. For example, if you want to print elements from index 0 to 4, you can use slicing. To skip every second element, you can specify a step value. For instance, if you want to start from index 0, go up to index 4, and skip every second element, you can write it like this: `list[0:4:2]`. This will include elements at index 0, 2, and so on, skipping every alternate element. Let me run this and show you. As you can see, the output includes the elements at the specified indices, skipping the ones in between. This is how slicing works in Python lists.\n\nSo, what do we get here? We get 1, 1. Okay? This is how we perform slicing and cut the list. Alright? You can also use negative indexing here. If you move forward, you can make forward jumps, and if you move backward, you can make backward jumps. Alright? Every single point I am explaining is important, so please pay attention. This is how slicing is done. Now, we have also discussed some methods related to lists, right? Let us discuss those methods as well. Some of the methods we discussed include append, extend, count, insert, pop, and remove. Okay? We have already discussed these. Let us discuss them again because they are essential for Create, Read, Update, and Delete (CRUD) operations. So, we will discuss append, extend, count, insert, pop, and remove. Alright? Let us also discuss the index method. The index method is used to find the position of an element in the list. Okay? This is the information about these methods. For example, let us take a list. Alright? I will take a list and first apply the append method. Okay? When we apply the append method, for example, `v.append`. Append means adding an element to the end of the list. For instance, if I have a list and I append the element 'Python' to it, then 'Python' will be added to the end of the list. This is what we call the append method. Okay? Now, if I print the list, for example, `print(v)`, and then run it, you will see that 'Python' has been added to the end of the list. The append method adds an element to the end of the list. Okay? Yes. Now, what about the extend method? Extend allows you to add bulk data to the list. For example, you can provide a list of data to be added. Extend is used to add bulk data to the list. Alright? When you use the extend method, you will see that the bulk data is added to the end of the list. Okay? Do you understand? That is how it works. Next, let us move on to the count method. Pay attention here. After this, for example, I will use the count method. The count method is used to count how many times a specific element appears in the list. For instance, if I want to count how many times the element '1' appears in the list, I can use the count method. So, I will use `print(v.count(1))` to directly print the count of the element '1'. Okay? Print it, and you will see the result.\n\nRun the code and observe the output. I see that the value '1' is repeated twice, but it is counted only once. This is because the value '1' appears in two places, so it is counted accordingly. Is that clear? Now, let us discuss the `remove` and `pop` methods. \n\n[TOPIC_SHIFT]\n\nThe `remove` method is used to remove a specific element from the list. For example, if I want to remove the element '1' or '24', I can use `v.remove(24)`. When I execute this, the element '24' will be removed from the list. Run the code and observe that the element '24' is removed. Is that clear? The `remove` method removes the specified element from the list.\n\n[TOPIC_SHIFT]\n\nNow, let us discuss the `pop` method. The `pop` method removes an element based on its index. Remember this: the `pop` method takes an index as an argument and removes the element at that index. For example, if I write `v.pop(1)`, it will remove the element at index 1. Let us run this code. When I run it, you can see that the element at index 1, which is '24', is removed. So, the `pop` method works by taking an index and removing the element at that index. Is that clear? This is how the `pop` method works.\n\n[TOPIC_SHIFT]\n\nNext, let us discuss the `index` method. The `index` method is used to find the index of a specific element in the list. For example, if you want to find the index of the element '24', you can use `v.index(24)`. When you run this, it will return the index of '24'. For instance, if '24' is at index 1, it will return '1'. Is that clear? This is how you can use the `index` method to find the position of an element in the list.\n\n[TOPIC_SHIFT]\n\nAdditionally, you can loop through the elements of a list using a `for` loop. For example, you can write `for i in v:` to iterate through each element in the list. When you run this code, it will print each element in the list one by one. This is how you can loop through a list. Is that clear? This concludes our discussion about lists and their methods. Please practice these concepts, as practicing will help you understand them better.\n\n[TOPIC_SHIFT]\n\nLet us quickly revise what we have learned. The `append` method adds an element to the end of the list. The `extend` method is used to add multiple elements (bulk data) to the list. The `count` method counts the number of occurrences of a specific element in the list. Now, let us discuss the `insert` method. The `insert` method allows you to add an element at a specific location in the list. For example, if I want to add the element 'XYZ' at index 0, I can write `v.insert(0, 'XYZ')`. When I run this code, you can see that 'XYZ' is added at index 0. Is that clear? So, if you want to add an element at a specific location in the list, you can use the `insert` method.\n\nWhen we want to add an element to the back of a list, we use the 'append' method. If we want to add an element at a specific position, we use the 'insert' method. To count the occurrences of an element in a list, we use the 'count' method. The 'pop' method removes an element from the list based on its index, while the 'remove' method removes a specific element from the list by its value. The 'index' method is used to find the position of a specific element in the list. Alright? So, this is the complete information related to these digital operations. Alright? If you liked this video, please like, share, and subscribe. Thanks for watching."
+}

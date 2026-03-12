@@ -1,0 +1,128 @@
+{
+  "lecture_topic": "Depreciation in Business Accounting",
+  "lecture_summary": "The lecture covers the concept of depreciation, focusing on the straight-line method. It includes calculating annual depreciation, determining the original cost, and applying these calculations to a specific example involving a ship.",
+  "concepts": [
+    {
+      "id": "concept_1",
+      "name": "Depreciation",
+      "aliases": [
+        "depreciation of assets"
+      ],
+      "description": "Depreciation is the reduction in the value of an asset over time, calculated using methods such as the straight-line method.",
+      "type": "core",
+      "explanation_method": "Formal definition and example",
+      "key_points": [
+        "Depreciation is calculated annually.",
+        "The straight-line method results in equal depreciation each year."
+      ],
+      "complexity_note": "N/A"
+    },
+    {
+      "id": "concept_2",
+      "name": "Straight-Line Method of Depreciation",
+      "aliases": [
+        "straight-line depreciation"
+      ],
+      "description": "A method of calculating depreciation where the asset loses the same amount of value each year.",
+      "type": "core",
+      "explanation_method": "Example and analogy",
+      "key_points": [
+        "Depreciation amount is constant each year.",
+        "Used to simplify depreciation calculations."
+      ],
+      "complexity_note": "N/A"
+    },
+    {
+      "id": "concept_3",
+      "name": "Annual Depreciation Calculation",
+      "aliases": [
+        "annual depreciation"
+      ],
+      "description": "The process of determining the depreciation expense for a single year using the straight-line method.",
+      "type": "supporting",
+      "explanation_method": "Example calculation",
+      "key_points": [
+        "Depreciation rate is applied to the original cost.",
+        "Example: 12% of ₹1,00,000 results in ₹12,000 depreciation."
+      ],
+      "complexity_note": "N/A"
+    },
+    {
+      "id": "concept_4",
+      "name": "Original Cost",
+      "aliases": [
+        "initial cost",
+        "purchase price"
+      ],
+      "description": "The initial value of an asset before any depreciation is applied.",
+      "type": "supporting",
+      "explanation_method": "Calculation example",
+      "key_points": [
+        "Original cost is necessary for calculating depreciation.",
+        "Example: Calculated as ₹15,00,000 from given depreciated value."
+      ],
+      "complexity_note": "N/A"
+    },
+    {
+      "id": "concept_5",
+      "name": "Depreciated Value",
+      "aliases": [
+        "book value",
+        "net book value"
+      ],
+      "description": "The value of an asset after accounting for depreciation.",
+      "type": "supporting",
+      "explanation_method": "Example calculation",
+      "key_points": [
+        "Depreciated value is the original cost minus accumulated depreciation.",
+        "Example: ₹7,80,000 as of January 1, 2023."
+      ],
+      "complexity_note": "N/A"
+    },
+    {
+      "id": "concept_6",
+      "name": "Depreciation Rate",
+      "aliases": [
+        "depreciation percentage"
+      ],
+      "description": "The percentage of the asset's value that is depreciated each year.",
+      "type": "supporting",
+      "explanation_method": "Example",
+      "key_points": [
+        "12% per annum in the given example.",
+        "Used to calculate annual depreciation."
+      ],
+      "complexity_note": "N/A"
+    },
+    {
+      "id": "concept_7",
+      "name": "Time Period for Depreciation",
+      "aliases": [
+        "depreciation period",
+        "useful life"
+      ],
+      "description": "The duration over which depreciation is calculated.",
+      "type": "supporting",
+      "explanation_method": "Example",
+      "key_points": [
+        "Depreciation calculated for specific periods, e.g., 146 days.",
+        "Pro-rated based on the number of days in a year."
+      ],
+      "complexity_note": "N/A"
+    }
+  ],
+  "teaching_flow": [
+    "concept_1 -> concept_2",
+    "concept_2 -> concept_3",
+    "concept_3 -> concept_4",
+    "concept_4 -> concept_5",
+    "concept_5 -> concept_6",
+    "concept_6 -> concept_7"
+  ],
+  "analogies_used": [
+    {
+      "concept": "concept_2",
+      "analogy": "Depreciation is like subtracting ₹12 each year from an asset worth ₹100."
+    }
+  ]
+}
