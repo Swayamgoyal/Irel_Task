@@ -73,8 +73,17 @@ def build_graph(concepts_data: dict, prerequisites_data: dict) -> nx.DiGraph:
     # Add dependency edges
     skipped = 0
     for dep in prerequisites_data.get("dependencies", []):
-        from_id = _resolve(dep["from_concept"])
-        to_id = _resolve(dep["to_concept"])
+        # Be defensive against malformed LLM JSON (e.g., typo: "to_conconcept").
+        raw_from = dep.get("from_concept")
+        raw_to = dep.get("to_concept") or dep.get("to_conconcept")
+
+        if not raw_from or not raw_to:
+            skipped += 1
+            print(f"[Step 7] WARNING: malformed dependency entry (missing from/to concept): {dep}")
+            continue
+
+        from_id = _resolve(raw_from)
+        to_id = _resolve(raw_to)
         if from_id and to_id:
             G.add_edge(
                 from_id,
@@ -86,7 +95,7 @@ def build_graph(concepts_data: dict, prerequisites_data: dict) -> nx.DiGraph:
         else:
             skipped += 1
             print(f"[Step 7] WARNING: could not resolve edge "
-                  f"'{dep['from_concept']}' → '{dep['to_concept']}' — skipped")
+                  f"'{raw_from}' → '{raw_to}' — skipped")
 
     print(f"[Step 7] Graph built: {G.number_of_nodes()} nodes, {G.number_of_edges()} edges"
           + (f" ({skipped} skipped)" if skipped else ""))
